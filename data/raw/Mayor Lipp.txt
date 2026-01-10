@@ -1,0 +1,235 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Mayor Lipp</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Mayor_Lipp.png/revision/latest?cb=20231028171123" class="image image-thumbnail" title="Mayor Lipp">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Mayor_Lipp.png/revision/latest/scale-to-width-down/267?cb=20231028171123" srcset="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Mayor_Lipp.png/revision/latest/scale-to-width-down/267?cb=20231028171123 1x, https://static.wikia.nocookie.net/thehungergames/images/c/c3/Mayor_Lipp.png/revision/latest?cb=20231028171123 2x" class="pi-image-thumbnail" data-relevant="1" alt="Mayor Lipp" width="270" height="273" data-image-key="Mayor_Lipp.png" data-image-name="Mayor Lipp.png">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Mayor of <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Mayfair_Lipp" title="Mayfair Lipp">Mayfair Lipp</a> <small>(daughter)</small></li><li><a href="/wiki/Mrs._Lipp" title="Mrs. Lipp">Mrs. Lipp</a> <small>(wife)</small></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Marc_Aden_Gray" title="Marc Aden Gray">Marc Aden Gray</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Mayor Lipp, a squat, freckled man in a hopelessly outdated suit, stood between two burlap sacks. He dug his hand deeply in the bag on the left, pulled out a slip of paper, and barely glanced at it.</i>"</span></dd>
+<dd>—Mayor Lipp during the reaping of the 10th Hunger Games<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Mayor Lipp</b> was the mayor of <a href="/wiki/District_12" title="District 12">District 12</a> at the time of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>.<sup id="cite_ref-Ballad_2_1-0" class="reference"><a href="#cite_note-Ballad_2-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Family"><span class="tocnumber">3</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="67198" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Mayor Lipp play in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Mayor Lipp of District 12 officiated the district's reaping, drawing Lucy Gray Baird as the tribute. He was taken aback when Lucy Gray Baird put a snake down his daughter Mayfair Lipp's dress. His lenient approach towards Mayfair was later scrutinized by the Peacekeepers following Mayfair's demise.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67199" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Mayor Lipp react to Lucy Gray Baird's actions during the reaping?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the 10th Hunger Games, Mayor Lipp was taken aback when Lucy Gray Baird, whom he had reaped, placed a snake in his daughter Mayfair Lipp's dress. His shock swiftly transformed into rage, resulting in him striking Lucy Gray and leaving a bruise. Subsequently, he became convinced that Lucy Gray was responsible for the deaths of Mayfair and Billy Taupe, prompting him to seek her arrest.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67200" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the relationship between Mayor Lipp and Mayfair Lipp?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mayor Lipp, the mayor of District 12 during the 10th Hunger Games, is the father of Mayfair Lipp. His permissive parenting style allowed Mayfair to run wild, which drew criticism from the Peacekeepers following her demise. Mayfair was in a relationship with Billy Taupe Clade.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67201" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What happened to Mayor Lipp after he struck Lucy Gray?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Following his assault on Lucy Gray, Mayor Lipp became convinced that she was responsible for the deaths of his daughter and Billy Taupe. He waited outside the Covey's house in the Seam for hours, intending to have her arrested. However, when Lucy Gray vanished into the woods of District 12, suspicion fell on Mayor Lipp for her possible murder, although no evidence was found.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67202" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Is there any information about Mayor Lipp's death?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						No explicit details about Mayor Lipp's death are given. He was suspected of involvement in Lucy Gray's disappearance, who he believed was responsible for his daughter Mayfair Lipp's death and Billy Taupe's. Lucy Gray vanished in the woods of District 12, leading to suspicions that Mayor Lipp may have killed her, but no evidence was found to confirm this.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Mayor Lipp","mainEntity":[{"@type":"Question","name":"What role did Mayor Lipp play in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Mayor Lipp of District 12 officiated the district's reaping, drawing Lucy Gray Baird as the tribute. He was taken aback when Lucy Gray Baird put a snake down his daughter Mayfair Lipp's dress. His lenient approach towards Mayfair was later scrutinized by the Peacekeepers following Mayfair's demise."}},{"@type":"Question","name":"How did Mayor Lipp react to Lucy Gray Baird's actions during the reaping?","acceptedAnswer":{"@type":"Answer","text":"During the 10th Hunger Games, Mayor Lipp was taken aback when Lucy Gray Baird, whom he had reaped, placed a snake in his daughter Mayfair Lipp's dress. His shock swiftly transformed into rage, resulting in him striking Lucy Gray and leaving a bruise. Subsequently, he became convinced that Lucy Gray was responsible for the deaths of Mayfair and Billy Taupe, prompting him to seek her arrest."}},{"@type":"Question","name":"What is the relationship between Mayor Lipp and Mayfair Lipp?","acceptedAnswer":{"@type":"Answer","text":"Mayor Lipp, the mayor of District 12 during the 10th Hunger Games, is the father of Mayfair Lipp. His permissive parenting style allowed Mayfair to run wild, which drew criticism from the Peacekeepers following her demise. Mayfair was in a relationship with Billy Taupe Clade."}},{"@type":"Question","name":"What happened to Mayor Lipp after he struck Lucy Gray?","acceptedAnswer":{"@type":"Answer","text":"Following his assault on Lucy Gray, Mayor Lipp became convinced that she was responsible for the deaths of his daughter and Billy Taupe. He waited outside the Covey's house in the Seam for hours, intending to have her arrested. However, when Lucy Gray vanished into the woods of District 12, suspicion fell on Mayor Lipp for her possible murder, although no evidence was found."}},{"@type":"Question","name":"Is there any information about Mayor Lipp's death?","acceptedAnswer":{"@type":"Answer","text":"No explicit details about Mayor Lipp's death are given. He was suspected of involvement in Lucy Gray's disappearance, who he believed was responsible for his daughter Mayfair Lipp's death and Billy Taupe's. Lucy Gray vanished in the woods of District 12, leading to suspicions that Mayor Lipp may have killed her, but no evidence was found to confirm this."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMayor_Lipp%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mayor Lipp was the <a href="/wiki/Mayor" title="Mayor">mayor</a> of <a href="/wiki/District_12" title="District 12">District 12</a> and conducted the <a href="/wiki/District" class="mw-redirect" title="District">district</a>'s <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaping</a> for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. After reaping <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> at his daughter <a href="/wiki/Mayfair_Lipp" title="Mayfair Lipp">Mayfair Lipp</a>'s request, he watched in shock as the girl slipped a snake down Mayfair's dress. He ran down the steps to his daughter, helping Mayfair to her feet and handing her to a <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeeper</a> to lead away. Back at the stage, he struck Lucy Gray in the face and was taken away by the Peacekeepers himself to calm down before being brought back to pull out the name of the district's male tribute, <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a>.<sup id="cite_ref-Ballad_2_1-1" class="reference"><a href="#cite_note-Ballad_2-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Mayor Lipp was present during <a href="/wiki/Arlo_Chance" title="Arlo Chance">Arlo Chance</a>'s hanging, along with <a href="/wiki/Mrs._Lipp" title="Mrs. Lipp">his wife</a> and daughter. They arrived at the <a href="/wiki/Hanging_tree" title="Hanging tree">hanging tree</a> in an old car that would have been considered a luxury before the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, and formed a tight knot at the side of the platform.<sup id="cite_ref-Ballad_22_2-0" class="reference"><a href="#cite_note-Ballad_22-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>After Mayfair was killed, Mayor Lipp went to the Peacekeeper base and pitched a fit to <a href="/wiki/Commander_Hoff" title="Commander Hoff">Commander Hoff</a> about his daughter's murder, but he was not taken seriously.<sup id="cite_ref-Ballad_28_3-0" class="reference"><a href="#cite_note-Ballad_28-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> The mayor was also sure that Lucy Gray had killed both his daughter and <a href="/wiki/Billy_Taupe" class="mw-redirect" title="Billy Taupe">Billy Taupe</a>, whose body had been found beside hers. He drove his car down to the Covey's house in the <a href="/wiki/Seam" class="mw-redirect" title="Seam">Seam</a>, waiting outside for hours, and was determined to get Lucy Gray arrested.<sup id="cite_ref-Ballad_29_4-0" class="reference"><a href="#cite_note-Ballad_29-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> When she disappeared into the woods outside District 12, many people suspected that the mayor himself had killed her, though they couldn't prove it.<sup id="cite_ref-Ballad_Epilogue_5-0" class="reference"><a href="#cite_note-Ballad_Epilogue-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMayor_Lipp%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mayor Lipp was a squat, freckled man. During the reaping for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, he wore a hopelessly outdated suit.<sup id="cite_ref-Ballad_2_1-2" class="reference"><a href="#cite_note-Ballad_2-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMayor_Lipp%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>... since he’d spoiled Mayfair rotten and let her run loose like a wildcat, the feeling was he had no one to blame but himself if she had been keeping time with a rebel.</i>"</span></dd>
+<dd>—The Peacekeeper response to Mayfair's death<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>Mayor Lipp had a permissive attitude towards Mayfair. After her murder, the opinion among Peacekeepers seemed to be that he had spoiled his daughter, so it was his fault as a parent that she had gotten in with a dangerous crowd.<sup id="cite_ref-Ballad_28_3-1" class="reference"><a href="#cite_note-Ballad_28-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Nothing is known of his relationship with his wife, save that he had one.<sup id="cite_ref-Ballad_22_2-1" class="reference"><a href="#cite_note-Ballad_22-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMayor_Lipp%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_2-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_2_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_2_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_2_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_22-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_22_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_22_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-Ballad_28-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_28_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_28_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 28</span>
+</li>
+<li id="cite_note-Ballad_29-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_29_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 29</span>
+</li>
+<li id="cite_note-Ballad_Epilogue-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Epilogue_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Epilogue</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260105033727
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.055 seconds
+Real time usage: 0.079 seconds
+Preprocessor visited node count: 395/1000000
+Post‐expand include size: 1609/2097152 bytes
+Template argument size: 751/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2888/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   51.312      1 -total
+ 52.42%   26.896      1 Template:Character
+ 23.28%   11.945      1 Template:Reflist
+  6.25%    3.207      4 Template:BSS
+  4.05%    2.078      2 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539434-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105033727 and revision id 958845. Rendering was triggered because: page-view
+ -->
+</div>

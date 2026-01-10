@@ -1,0 +1,246 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Lou Lou</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/2c/LouLouSOTR.jpeg/revision/latest?cb=20251120142701" class="image image-thumbnail" title="LouLouSOTR">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/2/2c/LouLouSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120142701" srcset="https://static.wikia.nocookie.net/thehungergames/images/2/2c/LouLouSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120142701 1x, https://static.wikia.nocookie.net/thehungergames/images/2/2c/LouLouSOTR.jpeg/revision/latest/scale-to-width-down/536?cb=20251120142701 2x" class="pi-image-thumbnail" data-relevant="1" alt="LouLouSOTR" width="270" height="295" data-image-key="LouLouSOTR.jpeg" data-image-name="LouLouSOTR.jpeg" />
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Tribute" title="Tribute">Tribute</a> <small>(<a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>)</small></li><li>Body double for <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_11" title="District 11">District 11</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font">Gray<sup id="cite_ref-SR10_1-0" class="reference"><a href="#cite_note-SR10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-SR10_1-1" class="reference"><a href="#cite_note-SR10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i> <small>(upcoming)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Iona_Bell" title="Iona Bell">Iona Bell</a> <sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Sunrise on the Reaping">"<i>You'll murder us.</i>"</span></dd>
+<dd>&#8212;Lou Lou after <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> asked her what the <a href="/wiki/Newcomers" class="mw-redirect" title="Newcomers">Newcomers</a> would do after they killed all of the <a href="/wiki/Careers" class="mw-redirect" title="Careers">Careers</a> in the arena.<sup class="noprint"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">[src]</a></sup></dd></dl></div>
+<p><b>"Lou Lou"</b> was a <a href="https://en.wikipedia.org/wiki/body_double" class="extiw" title="wikipedia:body double">body double</a> for <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a>, one of the female <a href="/wiki/Tribute" title="Tribute">tributes</a> from <a href="/wiki/District_12" title="District 12">District 12</a>, following her death during the <a href="/wiki/Chariot_rides" title="Chariot rides">chariot rides</a>. She ultimately participated and died in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>.<sup id="cite_ref-SR10_1-2" class="reference"><a href="#cite_note-SR10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#50th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">50th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Death"><span class="tocnumber">1.1.1</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLou_Lou%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lou Lou was implied to be the daughter of traitors from <a href="/wiki/District_11" title="District 11">District 11</a>. She was taken to the Capitol as punishment, where she was tortured and trained to mimick Louella McCoy after she died in the chariot rides. She was starved, which resulted in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> artificially plumping her face to avoid it showing.<sup id="cite_ref-SR10_1-3" class="reference"><a href="#cite_note-SR10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> introduced her to <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> after warning him to play by his rules and told him to treat her as though she was the real Louella. <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> was gobsmacked when he walked in and saw her. Lou Lou was unable to say anything of substance, solely repeating that she was Louella McCoy from District 12. After being taken to an apartment where the other District 12 tributes were, along with their mentors <a href="/wiki/Wiress" title="Wiress">Wiress</a> and <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>, they were equally as astounded by her presence. After being given a bowl of soup, she very quickly ate it with desperation. Wiress realized that she had probably been starved. This made Haymitch, who initially hated her passionately, start pitying her instead. The District 12 tributes did not want to refer to Lou Lou as "Louella," so <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> came up with the idea of nicknaming her "Lou Lou," after a pet <a href="/wiki/Canary" title="Canary">canary</a> <a href="/wiki/Lou_Lou_(canary)" title="Lou Lou (canary)">of the same name</a> that she'd owned.<sup id="cite_ref-SR10_1-4" class="reference"><a href="#cite_note-SR10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Over time, the others discovered that the Capitol had implanted two devices in her body; a device in her ear to tell her the right thing to do and say, and a pump in her chest to put drugs in her body if they needed to subdue her. They also realized that they had to be careful of what they said around her as the Capitol could hear them. Her interest in seeded bread also revealed she was from District 11. Because Maysilee was scared to sleep alone in the girls' bedroom with the strange girl, <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt</a> and Haymitch brought their bedclothes and some cushions into the girls' room to sleep in shifts, watching Lou Lou. Haymitch comforted the terrified girl when she grasped onto his hand while trying to sleep. Haymitch starting singing her "<a href="https://en.wikipedia.org/wiki/The_Raven" class="extiw" title="wikipedia:The Raven">The Raven</a> as a lullaby."<sup id="cite_ref-SR10_1-5" class="reference"><a href="#cite_note-SR10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Lou Lou's ear often hurt and bled, causing her to tug on it a lot.<sup id="cite_ref-SR11_3-0" class="reference"><a href="#cite_note-SR11-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>To prevent the other tributes from figuring out Lou Lou was a different person, the other District 12 tributes made out that Louella had been patched up but was no longer right in the head. Lou Lou did not say much other than to introduce herself as Louella. During her first training session, they persuaded the others that she had brain damage and to be careful what they said around her. Wyatt kept an eye on her. She received a score of 3 after her private session with the Gamemakers.<sup id="cite_ref-SR11_3-1" class="reference"><a href="#cite_note-SR11-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In preparation for her interview with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>, she practiced in front of her mentors and fellow tributes. As she could only introduce herself by name and district, <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> thought she was dreadful, questioned what was wrong with her, and told her to snap out of it. Drusilla started shaking her which triggered Lou Lou who began screaming that "You're murdering us!" until Wiress took her out the room.<sup id="cite_ref-SR12_4-0" class="reference"><a href="#cite_note-SR12-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Before her interview, stylist <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> gave Lou Lou a snake to wear around her shoulders which she happily accepted and developed a bond with, wrapping its head around her arm. She brandished the snake towards the other tributes and toward the audience during her interview with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>. At first, she was a sensation but when asked what <a href="/wiki/The_Newcomers" title="The Newcomers">the Newcomers</a> will do after they'd killed the <a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a>, she growled that "<i>You'll murder us</i>". While causing a scene on stage, the Capitol subdued her by releasing drugs into her system via the pump in her chest. Wyatt carried her off the stage.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Afterwards, the tributes from 12 had a photoshoot in <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>'s mansion. Lou Lou took pictures with her snake and was given the catchphrase <i>"All bark and no bite"</i>. Lou Lou lost her snake in the mansion before returning to the apartment.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="50th_Hunger_Games">50th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLou_Lou%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the hovercraft on the way to the arena, Lou Lou sung a District 11 harvest song. As they were sharing the craft with the District 11 tributes, they questioned how Louella knew the song. <a href="/wiki/Chicory" title="Chicory">Chicory</a> sung another song to find out if Lou Lou recognized it too, and when she did, asked for an explanation. Maysilee admitted that Lou Lou was from their district. Chicory tried to ask Lou Lou what her real name was so if there was a District 11 victor, they could tell her family back home. However, the device in her ear started hurting and her only response was shrieking. The four tributes embraced before they were separated.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>During the initial bloodbath, Wyatt tried to shield Lou Lou from <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> and was killed by his sword. Lou Lou managed to get away and joined the rest of the Newcomers in the mountains.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> By the second day, she ran off to find Haymitch after the Gamemakers told her to through her ear device. She made her way through the meadow and found Haymitch in the forest. Lou Lou reached for an apple on a tree but Haymitch warned her they were poisonous and offered her a safe one with a boiled egg from his pack instead.<sup id="cite_ref-SR16_9-0" class="reference"><a href="#cite_note-SR16-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>To get Lou Lou to go north with him, he told her they were going to find her snake. She kept trying to eat from poisonous bushes and trees on the way causing Haymitch to keep intervening. To create fire, Haymitch collected stones and had her hold them to keep her occupied. They worked their way through the stones until one ignited a fire and cooked baked potatoes for dinner.<sup id="cite_ref-SR16_9-1" class="reference"><a href="#cite_note-SR16-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLou_Lou%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Lou Lou died on the second day of the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. While walking north with Haymitch, she discovered a plant of bee balm and excitedly buried her face in them to smell as they reminded her of home. However, like most things in the arena, they were poisoned. Lou Lou began choking while Haymitch tried to console her, until blood poured out of her eyes, nose and mouth. She then started convulsing and recognizing she was in tremendous pain, Haymitch begged the Gamemakers to pump a lethal dose of drugs into her using the pump they implanted to put her out of her misery. They did not oblige so Haymitch pulled the device and ended her life himself.<sup id="cite_ref-SR16_9-2" class="reference"><a href="#cite_note-SR16-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> He then whispered to the Gamemakers into the device in her ear that they did this to her and called them murderers.<sup id="cite_ref-SR17_10-0" class="reference"><a href="#cite_note-SR17-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>When the hovercraft arrived to collect Lou Lou's body, Haymitch refused to hand her over without a fight. To force him, the Gamemakers sent deadly butterfly muttations after him. When they stung him, he dropped Lou Lou in a jolt of pain and her body was retrieved by the Capitol. It is unknown what the Capitol did with her body,<sup id="cite_ref-SR17_10-1" class="reference"><a href="#cite_note-SR17-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> if it was sent to District 12 under Louella's name or if the real Louella was sent.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> During the <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>, Haymitch looked around District 11 for Lou Lou's family, but couldn't find any.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLou_Lou%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lou Lou looks exactly like Louella, same size, height, heart shaped face, big gray eyes and long dark hair in braids. The Capitol likely altered parts of her appearance so she'd be a passable body double for Louella. However, her body was bony and her face had been noticeably plumped to make it look fuller.<sup id="cite_ref-SR10_1-6" class="reference"><a href="#cite_note-SR10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLou_Lou%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>She was actually from <a href="/wiki/District_11" title="District 11">District 11</a>, but she was forced to represent District 12 in the Hunger Games.</li>
+<li>Lou Lou is the first and only known body double to have participated in <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">The Hunger Games</a>.</li>
+<li>Lou Lou bears similarity with another tribute, the <a href="/wiki/Victor" title="Victor">victor</a> <a href="/wiki/Woof" title="Woof">Woof</a>, as both attempted to put poisonous organisms in their mouth at the <a href="/wiki/Training_stations" title="Training stations">training stations</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLou_Lou%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="a96cf18a4a50633d5a7f717d2b45a515" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:181px;"><div class="gallery-image-wrapper accent" id="SOTR_Trailer_18-jpeg" style="position: relative; height:95px; width:185px; top:42px;"><a class="image lightbox" href="/wiki/File:SOTR_Trailer_18.jpeg" title="SOTR Trailer 18.jpeg (293 KB)" style="height:95px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/4/49/SOTR_Trailer_18.jpeg/revision/latest/scale-to-width-down/185?cb=20251120170149" title="SOTR Trailer 18.jpeg (293 KB)" class="thumbimage" alt="" height="179" width="185" data-image-name="SOTR Trailer 18.jpeg" data-image-key="SOTR_Trailer_18.jpeg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="SOTR Trailer 18.jpeg (293 KB)" class="thumbimage lazyload" alt="" height="179" width="185" data-image-name="SOTR Trailer 18.jpeg" data-image-key="SOTR_Trailer_18.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/49/SOTR_Trailer_18.jpeg/revision/latest/scale-to-width-down/185?cb=20251120170149" /></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:181px;"><div class="gallery-image-wrapper accent" id="Lou_Lou_Bloodbath-jpg" style="position: relative; height:179px; width:185px;"><a class="image lightbox" href="/wiki/File:Lou_Lou_Bloodbath.jpg" title="Lou Lou Bloodbath.jpg (258 KB)" style="height:179px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/2/26/Lou_Lou_Bloodbath.jpg/revision/latest/scale-to-width-down/185?cb=20251201072013" title="Lou Lou Bloodbath.jpg (258 KB)" class="thumbimage" alt="" height="179" width="185" data-image-name="Lou Lou Bloodbath.jpg" data-image-key="Lou_Lou_Bloodbath.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Lou Lou Bloodbath.jpg (258 KB)" class="thumbimage lazyload" alt="" height="179" width="185" data-image-name="Lou Lou Bloodbath.jpg" data-image-key="Lou_Lou_Bloodbath.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/26/Lou_Lou_Bloodbath.jpg/revision/latest/scale-to-width-down/185?cb=20251201072013" /></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:181px;"><div class="gallery-image-wrapper accent" id="Lou_Lou_and_Haymitch_-png" style="position: relative; height:128px; width:185px; top:25.5px;"><a class="image lightbox" href="/wiki/File:Lou_Lou_and_Haymitch_.png" title="Lou Lou and Haymitch .png (5.94 MB)" style="height:128px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/3/34/Lou_Lou_and_Haymitch_.png/revision/latest/scale-to-width-down/185?cb=20251201074902" title="Lou Lou and Haymitch .png (5.94 MB)" class="thumbimage" alt="" height="179" width="185" data-image-name="Lou Lou and Haymitch .png" data-image-key="Lou_Lou_and_Haymitch_.png" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Lou Lou and Haymitch .png (5.94 MB)" class="thumbimage lazyload" alt="" height="179" width="185" data-image-name="Lou Lou and Haymitch .png" data-image-key="Lou_Lou_and_Haymitch_.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/34/Lou_Lou_and_Haymitch_.png/revision/latest/scale-to-width-down/185?cb=20251201074902" /></a></div></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLou_Lou%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-SR10-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR10_1-0">1.0</a></sup> <sup><a href="#cite_ref-SR10_1-1">1.1</a></sup> <sup><a href="#cite_ref-SR10_1-2">1.2</a></sup> <sup><a href="#cite_ref-SR10_1-3">1.3</a></sup> <sup><a href="#cite_ref-SR10_1-4">1.4</a></sup> <sup><a href="#cite_ref-SR10_1-5">1.5</a></sup> <sup><a href="#cite_ref-SR10_1-6">1.6</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://x.com/thehungergames/status/1924828018796908844?s=46">Post by The Hunger Games account</a></span>
+</li>
+<li id="cite_note-SR11-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR11_3-0">3.0</a></sup> <sup><a href="#cite_ref-SR11_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-SR12-4"><span class="mw-cite-backlink"><a href="#cite_ref-SR12_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-SR16-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR16_9-0">9.0</a></sup> <sup><a href="#cite_ref-SR16_9-1">9.1</a></sup> <sup><a href="#cite_ref-SR16_9-2">9.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-SR17-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR17_10-0">10.0</a></sup> <sup><a href="#cite_ref-SR17_10-1">10.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 16</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <strong class="mw-selflink selflink">Lou Lou</strong>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251230152259
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.105 seconds
+Real time usage: 0.219 seconds
+Preprocessor visited node count: 880/1000000
+Post‐expand include size: 4463/2097152 bytes
+Template argument size: 337/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11050/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  128.207      1 -total
+ 45.57%   58.425      1 Template:Reflist
+ 30.47%   39.070     12 Template:SOTR
+ 28.25%   36.213      1 Template:Character
+  4.63%    5.938      1 Template:Quote
+  1.75%    2.239      1 Template:SOTRNav
+  1.35%    1.727      1 Template:CF
+  1.29%    1.655      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:544229-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230152259 and revision id 967638. Rendering was triggered because: page-view
+ -->
+</div>

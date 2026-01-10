@@ -1,0 +1,460 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Clove</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b7/Tribute_D2_female.jpg/revision/latest?cb=20120208002011" class="image image-thumbnail" title="Tribute D2 female">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/b/b7/Tribute_D2_female.jpg/revision/latest?cb=20120208002011" srcset="https://static.wikia.nocookie.net/thehungergames/images/b/b7/Tribute_D2_female.jpg/revision/latest?cb=20120208002011 1x, https://static.wikia.nocookie.net/thehungergames/images/b/b7/Tribute_D2_female.jpg/revision/latest?cb=20120208002011 2x" class="pi-image-thumbnail" data-relevant="1" alt="Tribute D2 female" width="214" height="360" data-image-key="Tribute_D2_female.jpg" data-image-name="Tribute D2 female.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">15 <small>(film)</small><sup id="cite_ref-stats_1-0" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_2" title="District 2">District 2</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Weapons#Throwing_knives" title="Weapons">Throwing knives</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">5'4" <small>(film)</small><sup id="cite_ref-stats_1-1" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Brown <small>(film)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Dark <small>(book)</small></li><li>Brown <small>(film)</small></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></li><li><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="moviemention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Isabelle_Fuhrman" title="Isabelle Fuhrman">Isabelle Fuhrman</a> (film)<p>Liana Cottrill (<a href="/wiki/The_Hunger_Games_On_Stage" title="The Hunger Games On Stage">stage</a>)</p></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>Where's Lover Boy? Oh, I see. You were gonna help him, right? Well, that's sweet. You know, it's too bad you couldn't help your little friend. That little girl. What was her name again? Rue? Yeah, well, we killed her. And now we're gonna kill you.</i>"</span></dd>
+<dd>—Clove taunts <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a><sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<p><b>Clove</b> is the secondary antagonist of <i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>. She was the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_2" title="District 2">District 2</a> in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>. A ruthless, sadistic, and highly skilled <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a>, Clove became one of <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>'s main adversaries in the <a href="/wiki/Arena" title="Arena">arena</a>. She was incredibly skilled with knives and could throw them with deadly accuracy.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#74th_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">74th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Reapings"><span class="tocnumber">1.2.1</span> <span class="toctext">Reapings</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Training"><span class="tocnumber">1.2.2</span> <span class="toctext">Training</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Interview"><span class="tocnumber">1.2.3</span> <span class="toctext">Interview</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Cornucopia_bloodbath"><span class="tocnumber">1.2.4</span> <span class="toctext">Cornucopia bloodbath</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#The_Games"><span class="tocnumber">1.2.5</span> <span class="toctext">The Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Feast"><span class="tocnumber">1.3</span> <span class="toctext">Feast</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Death"><span class="tocnumber">1.4</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Victims"><span class="tocnumber">2</span> <span class="toctext">Victims</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Possessions"><span class="tocnumber">3</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Weapons"><span class="tocnumber">4</span> <span class="toctext">Weapons</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Personality_and_traits"><span class="tocnumber">5</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Physical_description"><span class="tocnumber">6</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Relationships"><span class="tocnumber">7</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Cato"><span class="tocnumber">7.1</span> <span class="toctext">Cato</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Katniss_Everdeen"><span class="tocnumber">7.2</span> <span class="toctext">Katniss Everdeen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Etymology"><span class="tocnumber">8</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Trivia"><span class="tocnumber">9</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37409" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What district did Clove represent in the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, Clove was the representative from District 2. Known for her ruthless demeanor and exceptional knife-throwing skills, she emerged as a significant adversary for Katniss Everdeen.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37410" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Clove's special skill in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Clove was recognized for her remarkable ability to throw knives with lethal precision. This skill was likely showcased during her private session with the Gamemakers, resulting in a high training score. Her proficiency with knives made her a significant threat in the arena, especially to Katniss Everdeen.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37411" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Clove's main adversary in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Clove, the female tribute from District 2 in the 74th Hunger Games, was a formidable adversary to Katniss Everdeen. Known for her ruthless nature and exceptional knife-throwing skills, Clove harbored a deep resentment towards Katniss, particularly due to Katniss's superior score from the Gamemakers. Her sadistic tendencies were highlighted when she reveled in the death of Rue and threatened a painful demise for Katniss.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37412" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Clove train for the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Clove, a tribute in the 74th Hunger Games, honed her skills in District 2 with her peers. She became proficient in knife-throwing, showcasing this skill to the Gamemakers and earning a score of 10. Her ruthless nature and sadistic approach to the Games made her a formidable adversary.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37413" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who portrayed Clove in the Hunger Games film adaptation?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Isabelle Fuhrman played the role of Clove in the film adaptation of the Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Clove","mainEntity":[{"@type":"Question","name":"What district did Clove represent in the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, Clove was the representative from District 2. Known for her ruthless demeanor and exceptional knife-throwing skills, she emerged as a significant adversary for Katniss Everdeen."}},{"@type":"Question","name":"What was Clove's special skill in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Clove was recognized for her remarkable ability to throw knives with lethal precision. This skill was likely showcased during her private session with the Gamemakers, resulting in a high training score. Her proficiency with knives made her a significant threat in the arena, especially to Katniss Everdeen."}},{"@type":"Question","name":"Who was Clove's main adversary in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Clove, the female tribute from District 2 in the 74th Hunger Games, was a formidable adversary to Katniss Everdeen. Known for her ruthless nature and exceptional knife-throwing skills, Clove harbored a deep resentment towards Katniss, particularly due to Katniss's superior score from the Gamemakers. Her sadistic tendencies were highlighted when she reveled in the death of Rue and threatened a painful demise for Katniss."}},{"@type":"Question","name":"How did Clove train for the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Clove, a tribute in the 74th Hunger Games, honed her skills in District 2 with her peers. She became proficient in knife-throwing, showcasing this skill to the Gamemakers and earning a score of 10. Her ruthless nature and sadistic approach to the Games made her a formidable adversary."}},{"@type":"Question","name":"Who portrayed Clove in the Hunger Games film adaptation?","acceptedAnswer":{"@type":"Answer","text":"Isabelle Fuhrman played the role of Clove in the film adaptation of the Hunger Games."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Clove lived in <a href="/wiki/District_2" title="District 2">District 2</a> prior to the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>. She had a terrible relationship with her parents, and was pressured by her parents to train and volunteer for the Hunger Games.<sup id="cite_ref-Collider_Interview_2-0" class="reference"><a href="#cite_note-Collider_Interview-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/59/District_2_Tribute_parade.png/revision/latest?cb=20120405222012" class="mw-file-description image"><img alt="Clove and Cato in their chariot costumes" src="https://static.wikia.nocookie.net/thehungergames/images/5/59/District_2_Tribute_parade.png/revision/latest/scale-to-width-down/180?cb=20120405222012" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-image-name="District 2 Tribute parade.png" data-image-key="District_2_Tribute_parade.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_2_Tribute_parade.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Clove and Cato in their chariot costumes</p> 		 	</figcaption> </figure>
+<p>Clove was a highly feared tribute, both because of her knife-throwing techniques and her ruthlessness; she pursued the Hunger Games with a sadistic personality, never upset at the prospect of another death on her hands. In the <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">film</a>, Clove and her district partner, <a href="/wiki/Cato" title="Cato">Cato</a>, were suited up in golden Roman-themed armor for the <a href="/wiki/Chariot_rides" title="Chariot rides">tribute parade</a><sup id="cite_ref-THG_3-0" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h4><span class="mw-headline" id="Reapings">Reapings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Clove voluntereed for the 74th Hunger Games alongside Cato.<sup id="cite_ref-Interview_Deleted_Scene_4-0" class="reference"><a href="#cite_note-Interview_Deleted_Scene-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> She volunteered to prove to her parents that she could win on her own without their help. <sup id="cite_ref-Collider_Interview_2-1" class="reference"><a href="#cite_note-Collider_Interview-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Training">Training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b4/Clove_throwing_knives.gif/revision/latest?cb=20170528022828" class="mw-file-description image"><img alt="Clove throwing knives at targets in the Training Center." src="https://static.wikia.nocookie.net/thehungergames/images/b/b4/Clove_throwing_knives.gif/revision/latest/scale-to-width-down/180?cb=20170528022828" decoding="async" loading="lazy" width="180" height="89" class="thumbimage" data-image-name="Clove throwing knives.gif" data-image-key="Clove_throwing_knives.gif" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Clove_throwing_knives.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Clove throwing knives at targets in the Training Center.</p> 		 	</figcaption> </figure>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/ba/The-Hunger-Games-Isabelle-Fuhrman-as-Clove.jpg/revision/latest?cb=20120707191444" class="mw-file-description image"><img alt="Clove in the Training Center." src="https://static.wikia.nocookie.net/thehungergames/images/b/ba/The-Hunger-Games-Isabelle-Fuhrman-as-Clove.jpg/revision/latest/scale-to-width-down/200?cb=20120707191444" decoding="async" loading="lazy" width="200" height="272" class="thumbimage" data-image-name="The-Hunger-Games-Isabelle-Fuhrman-as-Clove.jpg" data-image-key="The-Hunger-Games-Isabelle-Fuhrman-as-Clove.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:The-Hunger-Games-Isabelle-Fuhrman-as-Clove.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Clove in the Training Center.</p> 		 	</figcaption> </figure>
+<p>The Career pack stuck together during the training sessions and Clove was usually one of the first to flaunt her skills, along with her fellow Careers, Cato, <a href="/wiki/Marvel" title="Marvel">Marvel</a>, and <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a><sup id="cite_ref-THG_7_5-0" class="reference"><a href="#cite_note-THG_7-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>. During her private session with the <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>, Clove most likely showed them her knife-throwing skills, and received a <a href="/wiki/Training_score" title="Training score">training score</a> of 10<sup id="cite_ref-THG_3-1" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>. At this point, Clove and her fellow Careers develop a particular hatred for Katniss, who outscored them with an 11<sup id="cite_ref-THG_12_6-0" class="reference"><a href="#cite_note-THG_12-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>. This hatred evolves into attempts at vengeance later throughout the Games, with varying success.<sup id="cite_ref-THG_3-2" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Interview">Interview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/79/Clove_interview.jpg/revision/latest?cb=20120418211652" class="mw-file-description image"><img alt="Clove in her interview with ." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="138" class="thumbimage lazyload" data-image-name="Clove interview.jpg" data-image-key="Clove_interview.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/79/Clove_interview.jpg/revision/latest/scale-to-width-down/180?cb=20120418211652"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/7/79/Clove_interview.jpg/revision/latest?cb=20120418211652" class="mw-file-description image"><img alt="Clove in her interview with ." src="https://static.wikia.nocookie.net/thehungergames/images/7/79/Clove_interview.jpg/revision/latest/scale-to-width-down/180?cb=20120418211652" decoding="async" loading="lazy" width="180" height="138" class="thumbimage" data-image-name="Clove interview.jpg" data-image-key="Clove_interview.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/79/Clove_interview.jpg/revision/latest/scale-to-width-down/180?cb=20120418211652"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Clove_interview.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Clove in her interview with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>.</p> 		 	</figcaption> </figure>
+<p>During her <a href="/wiki/Interviews" title="Interviews">interview</a>, Clove was described as sweet, but also arrogant and sarcastic. In the film, she was shown wearing an orange dress and claiming that she could kill someone from halfway across a vast chamber<sup id="cite_ref-THG_3-3" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h4><span class="mw-headline" id="Cornucopia_bloodbath">Cornucopia bloodbath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Clove earned the first kill in the Games during the bloodbath when she threw a knife at the <a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">boy from District 9</a> and struck him in the back. Next, she targeted Katniss's head but was thwarted when Katniss shielded herself with her backpack. After Katniss fled into the woods, Clove returned to the massacre at the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a>.<sup id="cite_ref-THG_11_7-0" class="reference"><a href="#cite_note-THG_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> In the film, she rammed the <a href="/wiki/District_7_female_(74th_HG)" title="District 7 female (74th HG)">girl from District 7</a> to the ground<sup id="cite_ref-THG_3-4" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>. Although the Careers usually team up, at the beginning of the 74th Hunger Games, they were also joined by <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>, the male tribute from <a href="/wiki/District_12" title="District 12">District 12</a><sup id="cite_ref-THG_11_7-1" class="reference"><a href="#cite_note-THG_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>, as well as the <a href="/wiki/District_3_male_(74th_HG)" class="mw-redirect" title="District 3 male (74th HG)">District 3 male</a> later in the Games. He helped them reactivate the mines which guarded the tall pyramid containing the Careers' supplies.<sup id="cite_ref-THG_16_8-0" class="reference"><a href="#cite_note-THG_16-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The night of the bloodbath, the Careers ventured out to hunt for tributes and came across the female from <a href="/wiki/District_8_Female_(74th_HG)" class="mw-redirect" title="District 8 Female (74th HG)">District 8</a>. It is implied that they killed her, however her cannon does not sound<sup id="cite_ref-THG_11_7-2" class="reference"><a href="#cite_note-THG_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>, so Peeta left the group to finish her off. In his absence, Clove and the other Careers made the decision to keep Peeta alive in the hopes that he would eventually lead them to Katniss.<sup id="cite_ref-THG_12_6-1" class="reference"><a href="#cite_note-THG_12-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/13/Careers_mocking.jpg/revision/latest?cb=20120419064637" class="mw-file-description image"><img alt="The Careers pursue Katniss." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="194" class="thumbimage lazyload" data-image-name="Careers mocking.jpg" data-image-key="Careers_mocking.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/13/Careers_mocking.jpg/revision/latest/scale-to-width-down/180?cb=20120419064637"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/1/13/Careers_mocking.jpg/revision/latest?cb=20120419064637" class="mw-file-description image"><img alt="The Careers pursue Katniss." src="https://static.wikia.nocookie.net/thehungergames/images/1/13/Careers_mocking.jpg/revision/latest/scale-to-width-down/180?cb=20120419064637" decoding="async" loading="lazy" width="180" height="194" class="thumbimage" data-image-name="Careers mocking.jpg" data-image-key="Careers_mocking.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/13/Careers_mocking.jpg/revision/latest/scale-to-width-down/180?cb=20120419064637"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Careers_mocking.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Careers pursue Katniss.</p> 		 	</figcaption> </figure>
+<p>When the Careers found Katniss, they chased her, and she climbed up a tree to safety. Although the Careers tried, they were unable to climb the tree due to the branches breaking under their weight, and instead set up camp below. However, while they were distracted by the anthem, Katniss sawed through a branch that held a <a href="/wiki/Tracker_jacker" title="Tracker jacker">tracker jacker</a> nest. The nest dropped down from the tree and Clove, along with the others, was stung multiple times.<sup id="cite_ref-THG_14_9-0" class="reference"><a href="#cite_note-THG_14-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> In the movie, Clove was first to flee the Career's campsite, making her one of the fastest Careers<sup id="cite_ref-THG_3-5" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>. Glimmer, the female tribute from District 1, received enough stings from the tracker jackers that she died, along with the <a href="/wiki/District_4_female_(74th_HG)" class="mw-redirect" title="District 4 female (74th HG)">girl from District 4</a> in the book. Katniss then jumped down from the tree after all the other tributes had run away and took Glimmer's <a href="/wiki/Bow_and_arrow" title="Bow and arrow">bow and arrows</a>.<sup id="cite_ref-THG_14_9-1" class="reference"><a href="#cite_note-THG_14-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>Katniss and Rue formed an alliance<sup id="cite_ref-THG_15_10-0" class="reference"><a href="#cite_note-THG_15-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> and planned to destroy the supplies that the Careers had back at the Cornucopia. Rue had to light fires to make the Careers leave the Cornucopia and when the Careers saw the smoke, Clove, Cato, <a href="/wiki/Marvel" title="Marvel">Marvel</a>, and the <a href="/wiki/District_3_male_(74th_HG)" class="mw-redirect" title="District 3 male (74th HG)">male from District 3</a> started hunting down Rue while Katniss successfully destroyed all of the remaining Careers' supplies<sup id="cite_ref-THG_16_8-1" class="reference"><a href="#cite_note-THG_16-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>, after which Cato snapped the District 3 male's neck out of anger, because he did his job with placing the explosives too well. Clove and Marvel calmed Cato down long enough to explain to him that the tribute that destroyed their supplies must have died, so they waited for nightfall. Only then did they realize that the "bomber" was still alive, so Clove, Marvel, and Cato went hunting for Katniss.<sup id="cite_ref-THG_17_11-0" class="reference"><a href="#cite_note-THG_17-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Feast">Feast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Cloveinarena.jpg/revision/latest?cb=20240625124121" class="mw-file-description image"><img alt="Clove running in the arena." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="180" class="thumbimage lazyload" data-image-name="Cloveinarena.jpg" data-image-key="Cloveinarena.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Cloveinarena.jpg/revision/latest/scale-to-width-down/180?cb=20240625124121"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Cloveinarena.jpg/revision/latest?cb=20240625124121" class="mw-file-description image"><img alt="Clove running in the arena." src="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Cloveinarena.jpg/revision/latest/scale-to-width-down/180?cb=20240625124121" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-image-name="Cloveinarena.jpg" data-image-key="Cloveinarena.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Cloveinarena.jpg/revision/latest/scale-to-width-down/180?cb=20240625124121"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Cloveinarena.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Clove running in the arena.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>I promised Cato if he let me have you, I'd give the audience a good show.</i>"</span></dd>
+<dd>—Clove to Katniss<sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<p>At the beginning of the <a href="/wiki/Feast" title="Feast">feast</a>, Clove went in for the District 2 backpack while Cato scouted the area for hiding tributes. When Katniss came to get the medicine for Peeta, Clove threw a knife at Katniss, slicing her above the eye before tackling her to the ground. Katniss attempted to bite Clove's hand, but she held Katniss' head down by her hair. Clove asked her what was in her bag and expressed her hate towards Katniss.
+</p><p>At that point, Clove could have easily killed Katniss, but she made two fatal errors that cost her life: first, she taunted Katniss about Rue's death; second, instead of killing Katniss quickly, she wanted to savor the moment, saying that she would give Katniss a slow, painful death.
+</p><p>She reached into her jacket to select a knife to cut up Katniss' face; after much debate, she decided to start with her lips as she would no longer need them to kiss "Lover Boy". Katniss spat blood into Clove's face, making her flush with rage.<sup id="cite_ref-THG_21_12-0" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 300px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/06/Thresh_about_to_kill_Clove.jpg/revision/latest?cb=20150120161957" class="mw-file-description image"><img alt="Thresh about to kill Clove" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="300" height="125" class="thumbimage lazyload" data-image-name="Thresh about to kill Clove.jpg" data-image-key="Thresh_about_to_kill_Clove.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/06/Thresh_about_to_kill_Clove.jpg/revision/latest/scale-to-width-down/300?cb=20150120161957"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/0/06/Thresh_about_to_kill_Clove.jpg/revision/latest?cb=20150120161957" class="mw-file-description image"><img alt="Thresh about to kill Clove" src="https://static.wikia.nocookie.net/thehungergames/images/0/06/Thresh_about_to_kill_Clove.jpg/revision/latest/scale-to-width-down/300?cb=20150120161957" decoding="async" loading="lazy" width="300" height="125" class="thumbimage" data-image-name="Thresh about to kill Clove.jpg" data-image-key="Thresh_about_to_kill_Clove.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/06/Thresh_about_to_kill_Clove.jpg/revision/latest/scale-to-width-down/300?cb=20150120161957"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Thresh_about_to_kill_Clove.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Thresh about to kill Clove</p> 		 	</figcaption> </figure>
+<p><a href="/wiki/Thresh" title="Thresh">Thresh</a> heard Clove mention Rue's death, quickly yanked her off of Katniss, and held her a foot above the ground. He then accused her of killing Rue, which Clove truthfully denied. When Clove saw Thresh holding a large rock, she screamed for Cato. Thresh smashed the rock into her temple, denting her skull. Cato ran to her after hearing her cries, but Clove died in Cato's arms as he begged her to stay with him.<sup id="cite_ref-THG_21_12-1" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p><p>In the film, Thresh pinned Clove against the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> before slamming her headfirst against it, cracking her skull. She dropped to the ground with her eyes wide and her mouth slightly open, dying soon after the impact. Her fingers could be seen slightly closing after she collapsed.<sup id="cite_ref-THG_3-6" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>During their <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>, Katniss and Peeta saw Clove's grieving family in District 2 and tried to avoid eye contact. Katniss stated that the appearance in District 2 was awful, and that both Cato and Clove could have made it home if it hadn't been for her and Peeta.<sup id="cite_ref-CF_5_13-0" class="reference"><a href="#cite_note-CF_5-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 248px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/4f/Clove%27s_corpse_%28full_body%29.jpg/revision/latest?cb=20140111223623" class="mw-file-description image"><img alt="Clove's corpse" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="248" height="98" class="thumbimage lazyload" data-image-name="Clove's corpse (full body).jpg" data-image-key="Clove%27s_corpse_%28full_body%29.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/4f/Clove%27s_corpse_%28full_body%29.jpg/revision/latest/scale-to-width-down/248?cb=20140111223623"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/4/4f/Clove%27s_corpse_%28full_body%29.jpg/revision/latest?cb=20140111223623" class="mw-file-description image"><img alt="Clove's corpse" src="https://static.wikia.nocookie.net/thehungergames/images/4/4f/Clove%27s_corpse_%28full_body%29.jpg/revision/latest/scale-to-width-down/248?cb=20140111223623" decoding="async" loading="lazy" width="248" height="98" class="thumbimage" data-image-name="Clove's corpse (full body).jpg" data-image-key="Clove%27s_corpse_%28full_body%29.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/4f/Clove%27s_corpse_%28full_body%29.jpg/revision/latest/scale-to-width-down/248?cb=20140111223623"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Clove%27s_corpse_(full_body).jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Clove's corpse</p> 		 	</figcaption> </figure>
+<p>Clove appeared in one of Katniss' nightmares before the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. She stabbed Katniss in the cheek and then turned into a mutt and began to lick Katniss' wound, causing Katniss great pain.<sup id="cite_ref-CF_9_14-0" class="reference"><a href="#cite_note-CF_9-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> Clove reminded her that she couldn't run away from her fears and the Hunger Games themselves, thereafter turning into a mutt and chasing Katniss.
+</p>
+<h2><span class="mw-headline" id="Victims">Victims</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the 74th Hunger Games, Clove stabbed the male tribute from District 9 while he was grappling over an orange backpack with Katniss during the bloodbath. She targeted Katniss next, aiming a knife at her head, but Katniss blocked it with her pack and escaped.<sup id="cite_ref-THG_11_7-3" class="reference"><a href="#cite_note-THG_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Later, she killed a lizard for target practice in the film<sup id="cite_ref-THG_3-7" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>. This lone confirmable kill makes Clove the Career with the lowest amount of confirmed kills.
+</p><p>In the 74th Hunger Games, Clove was the only Career tribute who came close to killing Katniss twice — at the Bloodbath<sup id="cite_ref-THG_11_7-4" class="reference"><a href="#cite_note-THG_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> and at the Feast<sup id="cite_ref-THG_21_12-2" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>, and certainly seemed to have a deep hatred for her, perhaps because Katniss received a higher score than her<sup id="cite_ref-THG_8_15-0" class="reference"><a href="#cite_note-THG_8-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_3-8" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the Games, Clove, being a <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a>, had medicine, food, water, weapons and other supplies from the Cornucopia<sup id="cite_ref-THG_18_16-0" class="reference"><a href="#cite_note-THG_18-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>. The supplies were destroyed from the mines set by the District 3 male. When Katniss blew up the supplies<sup id="cite_ref-THG_16_8-2" class="reference"><a href="#cite_note-THG_16-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>, she was left with her knives and whatever she had left in her pack. In the movie, after killing all the vulnerable tributes in the bloodbath, they claimed all the supplies, and Clove retrieved a small array of knives on a black vest, which she wore until she died. She also had a large pocket full of big knives that held to her belt. The smallest knife pointing to her neck was the one she pulled out to try and kill Katniss while retrieving her pack at the feast.<sup id="cite_ref-THG_3-9" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Weapons">Weapons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Clove had a large selection of <a href="/wiki/Throwing_knives" class="mw-redirect" title="Throwing knives">knives</a>, which were attached to the inside of her jacket<sup id="cite_ref-THG_21_12-3" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>. The weapons gave Clove a big advantage because of her skill with knives. In both the Training Center and during the Games, she proved herself to be able to both throw them accurately and use them in close combat, as shown when she forced Katniss into submission in front of the Cornucopia<sup id="cite_ref-THG_21_12-4" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>.
+</p><p>She, along with the other Careers, had her choice of weapons to use, until Katniss blew the supplies up<sup id="cite_ref-THG_16_8-3" class="reference"><a href="#cite_note-THG_16-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Clove was strong, sadistic, arrogant, violent, dangerous, and powerful, characteristics of a typical Career. Clove was also slightly unhinged, which made her a feared opponent. She had a strong hatred for Katniss, particularly due to her score of 11 from the Gamemakers, which was higher than her own score of 10. When she captured Katniss at the feast, she boasted about how her team killed Rue and joyfully stated she was going to make her death a slow and painful one, exemplifying her psychotic and sadistic nature<sup id="cite_ref-THG_21_12-5" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>.
+</p><p>Clove was also intelligent, supporting Marvel in his idea to keep Peeta alive to get to Katniss<sup id="cite_ref-THG_12_6-2" class="reference"><a href="#cite_note-THG_12-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>, and was smart enough to go to the lake to heal her tracker jacker wounds<sup id="cite_ref-THG_14_9-2" class="reference"><a href="#cite_note-THG_14-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>, and was also instinctive enough to go back to the Cornucopia instead of chasing Katniss<sup id="cite_ref-THG_11_7-5" class="reference"><a href="#cite_note-THG_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>. While Clove was confident in her abilities to hold her own and take on other tributes, particularly Katniss, this facade collapsed when faced with overwhelming force, which came in the form of Thresh. Completely terrified of him, Clove was too cowardly to own up to her mockery of Rue when at his mercy and ultimately was only able to scream for Cato's help in her final moments.<sup id="cite_ref-THG_21_12-6" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Clove, like most Careers, was strong, healthy, brawny and fit. In the book, she was about 150-200 pounds, as she was described as being at least 50-100 pounds heavier than 100-pound Katniss. It was heavily implied that Clove was at least 15 and overall larger than Katniss.<sup id="cite_ref-THG_7_5-1" class="reference"><a href="#cite_note-THG_7-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>In the nightmare Katniss had before the 75th Hunger Games, Clove turned into a wolf mutt with dark fur sprouting from her skin. With the wolf mutts fur resembling the tributes hair it is likely that Clove herself had dark hair.<sup id="cite_ref-CF_9_14-1" class="reference"><a href="#cite_note-CF_9-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p><p>In the movie, Clove was smaller and younger than Katniss, being only 14-15 and weighing just at 100 pounds. She was described as being 5'4" and had dark hair, usually in a ponytail or braid (while her mutt had dark fur), dark eyes, and some freckles.<sup id="cite_ref-THG_3-10" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Cato">Cato</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cato and Clove were district partners and allies<sup id="cite_ref-THG_11_7-6" class="reference"><a href="#cite_note-THG_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>. During the feast, Cato showed concern for Clove and distress at her death. As Cato ran toward a mortally wounded Clove, calling her name, Katniss noted that his voice sounded pained, and despite its futility, he begged Clove to stay with him as she died. Though both were cruel toward the other tributes, they had formed an emotional connection with each other.<sup id="cite_ref-THG_21_12-7" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> 
+</p><p>However, in the film, Cato and Clove seemed to have no relationship with each other beyond that of allies. Cato did not come to Clove's aid during the feast, although she screamed his name twice.<sup id="cite_ref-THG_3-11" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Katniss_Everdeen">Katniss Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Due to being a Career, Clove naturally had an extremely negative relationship with Katniss, as both considered each other enemies. Clove envied Katniss's training score (an 11 vs. her 10) and hated her for it, more so than her fellow Careers did<sup id="cite_ref-THG_11_7-7" class="reference"><a href="#cite_note-THG_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>. In fact, Clove had purposely targeted and almost killed Katniss twice<sup id="cite_ref-THG_11_7-8" class="reference"><a href="#cite_note-THG_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_21_12-8" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>, while the other tributes, including the other Careers, couldn't at all<sup id="cite_ref-THG_13_17-0" class="reference"><a href="#cite_note-THG_13-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_18_16-1" class="reference"><a href="#cite_note-THG_18-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>. At the feast, Clove seemed very joyful after finally subduing Katniss, and reveled sadistically at the prospect of torturing her to death<sup id="cite_ref-THG_21_12-9" class="reference"><a href="#cite_note-THG_21-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Clove's name might be derived from "cleaving", which means to split with a sharp instrument (which makes sense since Clove is very skilled with knives). <a href="https://en.wikipedia.org/wiki/Cleavage_(crystal)" class="extiw" title="wikipedia:Cleavage (crystal)">Cleaving</a> also refers to the splitting of minerals and stone.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the film, it is shown that she weighs 100 pounds.<sup id="cite_ref-stats_1-2" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li>
+<li>It is stated that Clove was made unhinged and slightly "psychotic" to supplement her high combat skills in the film. This is due to the fact that Isabelle Fuhrman, the actress who portrayed Clove, was smaller than the other actors who played the Career Tributes. As the Career Tributes were supposed to be bigger than most of the other tributes to make them more feared, Clove expertise with knives and mental instability was played up to make her just as intimidating.</li>
+<li>In the film, her <a href="/wiki/Betting" title="Betting">betting</a> odds of winning were 5–1, the same as Marvel, the District 7 boy, and the District 8 girl<sup id="cite_ref-stats_1-3" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>.</li>
+<li>According to Linda Flowers, the film's hair stylist, Clove's arena hairstyle was inspired by the "bad girls" in Japanese action movies, who had high ponytails with knives in them. To make it look more original, they made it like little balls coming down her head.</li>
+<li>In deleted scenes, Caesar reveals that Clove was a <a href="/wiki/Volunteer" title="Volunteer">volunteer</a>.</li>
+<li>In an interview, <a href="/wiki/Isabelle_Fuhrman" title="Isabelle Fuhrman">Isabelle Fuhrman</a> revealed that she made up a backstory for Clove. The backstory is as follows: Clove had a terrible relationship with her parents, who pressured her into volunteering for the Hunger Games. Clove's goal was to win the Games in order to prove to her parents that she could win on her own.<sup id="cite_ref-Collider_Interview_2-2" class="reference"><a href="#cite_note-Collider_Interview-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-stats-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-stats_1-0">1.0</a></sup> <sup><a href="#cite_ref-stats_1-1">1.1</a></sup> <sup><a href="#cite_ref-stats_1-2">1.2</a></sup> <sup><a href="#cite_ref-stats_1-3">1.3</a></sup></span> <span class="reference-text"><a href="/wiki/File:Statsreference.png" title="File:Statsreference.png">File:Statsreference.png</a></span>
+</li>
+<li id="cite_note-Collider_Interview-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Collider_Interview_2-0">2.0</a></sup> <sup><a href="#cite_ref-Collider_Interview_2-1">2.1</a></sup> <sup><a href="#cite_ref-Collider_Interview_2-2">2.2</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://collider.com/alexander-ludwig-isabelle-fuhrman-amandla-stenberg-hunger-games-interview/">Alexander Ludwig, Isabelle Fuhrman &amp; Amandla Stenberg THE HUNGER GAMES Interview</a>. Collider (March 12, 2012).</span>
+</li>
+<li id="cite_note-THG-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_3-0">3.00</a></sup> <sup><a href="#cite_ref-THG_3-1">3.01</a></sup> <sup><a href="#cite_ref-THG_3-2">3.02</a></sup> <sup><a href="#cite_ref-THG_3-3">3.03</a></sup> <sup><a href="#cite_ref-THG_3-4">3.04</a></sup> <sup><a href="#cite_ref-THG_3-5">3.05</a></sup> <sup><a href="#cite_ref-THG_3-6">3.06</a></sup> <sup><a href="#cite_ref-THG_3-7">3.07</a></sup> <sup><a href="#cite_ref-THG_3-8">3.08</a></sup> <sup><a href="#cite_ref-THG_3-9">3.09</a></sup> <sup><a href="#cite_ref-THG_3-10">3.10</a></sup> <sup><a href="#cite_ref-THG_3-11">3.11</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></span>
+</li>
+<li id="cite_note-Interview_Deleted_Scene-4"><span class="mw-cite-backlink"><a href="#cite_ref-Interview_Deleted_Scene_4-0">↑</a></span> <span class="reference-text">Tribute Interviews Deleted Scene: <a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.youtube.com/watch?v=Cinpd3zlqjU&amp;t=208s">https://www.youtube.com/watch?v=Cinpd3zlqjU&amp;t=208s</a></span>
+</li>
+<li id="cite_note-THG_7-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_7_5-0">5.0</a></sup> <sup><a href="#cite_ref-THG_7_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-THG_12-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_12_6-0">6.0</a></sup> <sup><a href="#cite_ref-THG_12_6-1">6.1</a></sup> <sup><a href="#cite_ref-THG_12_6-2">6.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-THG_11-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_11_7-0">7.0</a></sup> <sup><a href="#cite_ref-THG_11_7-1">7.1</a></sup> <sup><a href="#cite_ref-THG_11_7-2">7.2</a></sup> <sup><a href="#cite_ref-THG_11_7-3">7.3</a></sup> <sup><a href="#cite_ref-THG_11_7-4">7.4</a></sup> <sup><a href="#cite_ref-THG_11_7-5">7.5</a></sup> <sup><a href="#cite_ref-THG_11_7-6">7.6</a></sup> <sup><a href="#cite_ref-THG_11_7-7">7.7</a></sup> <sup><a href="#cite_ref-THG_11_7-8">7.8</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-THG_16-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_16_8-0">8.0</a></sup> <sup><a href="#cite_ref-THG_16_8-1">8.1</a></sup> <sup><a href="#cite_ref-THG_16_8-2">8.2</a></sup> <sup><a href="#cite_ref-THG_16_8-3">8.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-THG_14-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_14_9-0">9.0</a></sup> <sup><a href="#cite_ref-THG_14_9-1">9.1</a></sup> <sup><a href="#cite_ref-THG_14_9-2">9.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-THG_15-10"><span class="mw-cite-backlink"><a href="#cite_ref-THG_15_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-THG_17-11"><span class="mw-cite-backlink"><a href="#cite_ref-THG_17_11-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-THG_21-12"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_21_12-0">12.00</a></sup> <sup><a href="#cite_ref-THG_21_12-1">12.01</a></sup> <sup><a href="#cite_ref-THG_21_12-2">12.02</a></sup> <sup><a href="#cite_ref-THG_21_12-3">12.03</a></sup> <sup><a href="#cite_ref-THG_21_12-4">12.04</a></sup> <sup><a href="#cite_ref-THG_21_12-5">12.05</a></sup> <sup><a href="#cite_ref-THG_21_12-6">12.06</a></sup> <sup><a href="#cite_ref-THG_21_12-7">12.07</a></sup> <sup><a href="#cite_ref-THG_21_12-8">12.08</a></sup> <sup><a href="#cite_ref-THG_21_12-9">12.09</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-CF_5-13"><span class="mw-cite-backlink"><a href="#cite_ref-CF_5_13-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-CF_9-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_9_14-0">14.0</a></sup> <sup><a href="#cite_ref-CF_9_14-1">14.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-THG_8-15"><span class="mw-cite-backlink"><a href="#cite_ref-THG_8_15-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-THG_18-16"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_18_16-0">16.0</a></sup> <sup><a href="#cite_ref-THG_18_16-1">16.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-THG_13-17"><span class="mw-cite-backlink"><a href="#cite_ref-THG_13_17-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 13</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <strong class="mw-selflink selflink">Clove</strong> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251228222642
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.154 seconds
+Real time usage: 0.240 seconds
+Preprocessor visited node count: 1363/1000000
+Post‐expand include size: 5415/2097152 bytes
+Template argument size: 1206/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 16245/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  139.748      1 -total
+ 31.62%   44.184      1 Template:Reflist
+ 26.98%   37.709      1 Template:Character
+  3.52%    4.922      1 Template:SeriesTP
+  2.24%    3.136     12 Template:THG
+  2.04%    2.849      1 Template:Cite_web
+  1.58%    2.206      2 Template:CF
+  1.18%    1.648      2 Template:Quote
+  0.89%    1.243      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2106-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228222642 and revision id 962758. Rendering was triggered because: page-view
+ -->
+</div>

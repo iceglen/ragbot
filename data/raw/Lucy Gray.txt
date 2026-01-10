@@ -1,0 +1,36 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><b>This article is a disambiguation page for Lucy Gray</b>
+<p>The following is a list of links to pages that might share the same title.<br />
+</p>
+Please follow one of the disambiguation links below or <a href="/wiki/Special:Search" title="Special:Search">search</a> to find the page you were looking for if it is not listed. If an <a href="/wiki/Special:WhatLinksHere/Lucy_Gray" title="Special:WhatLinksHere/Lucy Gray">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</center></div>
+<p><br />
+<b>Lucy Gray</b> may refer to:
+</p>
+<ul><li><a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> - a major character in <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a>.</i></li>
+<li><a href="/wiki/Songs#&quot;Lucy_Gray&quot;" title="Songs">"Lucy Gray"</a> - the <a href="https://en.wikipedia.org/wiki/William_Wordsworth" class="extiw" title="wikipedia:William Wordsworth">William Wordsworth</a> poem that Lucy Gray Baird was named after, set to music by the <a href="/wiki/Covey" title="Covey">Covey</a>.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20251229173933
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.007 seconds
+Real time usage: 0.046 seconds
+Preprocessor visited node count: 12/1000000
+Post‐expand include size: 596/2097152 bytes
+Template argument size: 36/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    3.086      1 -total
+ 50.10%    1.546      1 Template:Disambig
+ 48.25%    1.489      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539422-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251229173933 and revision id 940956. Rendering was triggered because: edit-page
+ -->
+</div>

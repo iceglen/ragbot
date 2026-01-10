@@ -1,0 +1,247 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Romulus Thread</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/4a/Romulus_Thread.png/revision/latest?cb=20140319182605" class="image image-thumbnail" title="Romulus Thread">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/4/4a/Romulus_Thread.png/revision/latest/scale-to-width-down/267?cb=20140319182605" srcset="https://static.wikia.nocookie.net/thehungergames/images/4/4a/Romulus_Thread.png/revision/latest/scale-to-width-down/267?cb=20140319182605 1x, https://static.wikia.nocookie.net/thehungergames/images/4/4a/Romulus_Thread.png/revision/latest/scale-to-width-down/536?cb=20140319182605 2x" class="pi-image-thumbnail" data-relevant="1" alt="Romulus Thread" width="270" height="236" data-image-key="Romulus_Thread.png" data-image-name="Romulus Thread.png">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">Middle aged</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Head <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeeper</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Weapons#Whip" title="Weapons">Whip</a><br><a href="/wiki/Gun" class="mw-redirect" title="Gun">Gun</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Unknown (presumed deceased)</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Patrick_St._Esprit" title="Patrick St. Esprit">Patrick St. Esprit</a></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Romulus Thread</b> became the new <a href="/wiki/Head_Peacekeeper" class="mw-redirect" title="Head Peacekeeper">Head Peacekeeper</a> of <a href="/wiki/District_12" title="District 12">District 12</a>, replacing <a href="/wiki/Cray" title="Cray">Cray</a>. He was also the last Head Peacekeeper of District 12 prior to the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Catching_Fire"><span class="tocnumber">5.1</span> <span class="toctext"><i>Catching Fire</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="51553" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What actions did Romulus Thread take to enforce the law in District 12?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Romulus Thread assumed control as District 12's peacekeeper commander, ending the prior leniency. He enforced strict laws, including hunting and black market trade prohibitions, previously overlooked. Thread regularly conducted public executions and whippings, and imposed a curfew with a shoot-on-sight policy for violators.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51554" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who did Romulus Thread replace as the Head Peacekeeper of District 12?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Romulus Thread succeeded Cray as the Head Peacekeeper of District 12. His tenure was marked by a harsh, brutal regime, with regular public executions and whippings, and a strict crackdown on hunting and black market trade.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51555" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the cause of Romulus Thread's death?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Romulus Thread's death isn't explicitly detailed. However, indications suggest a possible execution by the Capitol, attributed to his brutal regime involving public executions, whippings, and stringent restrictions on hunting and black market trade in District 12.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51556" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Romulus Thread's victim of brutal beating upon his arrival in District 12?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Romulus Thread, a merciless Peacekeeper commander, initiated a severe regime in District 12. He regularly executed and whipped citizens, and strictly controlled hunting and black market activities. Gale was severely flogged by Thread as a penalty for poaching.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51557" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Was Romulus Thread born and raised in District 2 like most Peacekeepers?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Romulus Thread's birthplace and upbringing are not detailed. He gained notoriety as the Head Peacekeeper of District 12, succeeding Cray. His tenure, marked by a brutal regime, ended with the Second Rebellion. His rule was characterized by public executions, whippings, and a crackdown on hunting and black market trade.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Romulus Thread","mainEntity":[{"@type":"Question","name":"What actions did Romulus Thread take to enforce the law in District 12?","acceptedAnswer":{"@type":"Answer","text":"Romulus Thread assumed control as District 12's peacekeeper commander, ending the prior leniency. He enforced strict laws, including hunting and black market trade prohibitions, previously overlooked. Thread regularly conducted public executions and whippings, and imposed a curfew with a shoot-on-sight policy for violators."}},{"@type":"Question","name":"Who did Romulus Thread replace as the Head Peacekeeper of District 12?","acceptedAnswer":{"@type":"Answer","text":"Romulus Thread succeeded Cray as the Head Peacekeeper of District 12. His tenure was marked by a harsh, brutal regime, with regular public executions and whippings, and a strict crackdown on hunting and black market trade."}},{"@type":"Question","name":"What was the cause of Romulus Thread's death?","acceptedAnswer":{"@type":"Answer","text":"Romulus Thread's death isn't explicitly detailed. However, indications suggest a possible execution by the Capitol, attributed to his brutal regime involving public executions, whippings, and stringent restrictions on hunting and black market trade in District 12."}},{"@type":"Question","name":"Who was Romulus Thread's victim of brutal beating upon his arrival in District 12?","acceptedAnswer":{"@type":"Answer","text":"Romulus Thread, a merciless Peacekeeper commander, initiated a severe regime in District 12. He regularly executed and whipped citizens, and strictly controlled hunting and black market activities. Gale was severely flogged by Thread as a penalty for poaching."}},{"@type":"Question","name":"Was Romulus Thread born and raised in District 2 like most Peacekeepers?","acceptedAnswer":{"@type":"Answer","text":"Romulus Thread's birthplace and upbringing are not detailed. He gained notoriety as the Head Peacekeeper of District 12, succeeding Cray. His tenure, marked by a brutal regime, ended with the Second Rebellion. His rule was characterized by public executions, whippings, and a crackdown on hunting and black market trade."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRomulus_Thread%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thread's early life is unknown, but he had most likely been born and raised in <a href="/wiki/District_2" title="District 2">District 2</a>, like most Peacekeepers.<sup id="cite_ref-MJ_6_1-0" class="reference"><a href="#cite_note-MJ_6-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Harsh and unforgiving, Thread replaced <a href="/wiki/Cray" title="Cray">Cray</a> and was ready to enforce the law, no matter what. 
+</p><p>Upon arrival, Thread brutally beat <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a>, who had been caught poaching a wild turkey (or for tackling Thread and stopping him from attacking an <a href="/wiki/Greasy_Sae" title="Greasy Sae">elderly woman</a> in <a href="/wiki/Catching_Fire_(film)" class="mw-redirect" title="Catching Fire (film)">the film</a>). Although Gale had been selling meat to the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> of District 12 for years, they turned a blind eye to this illegal poaching, since they were his best customers. Gale went to sell the turkey to Cray when he unexpectedly found Thread at Cray's house. Thread saw Gale's poaching as a flogging offense and put him under immediate arrest, bringing him to the square and beginning a public whipping after forcing Gale to plead guilty. <a href="/wiki/Darius" title="Darius">Darius</a> tried to intervene after about twenty lashes by grabbing Thread's arm but was struck in the head, knocking him unconscious. Upon first seeing Gale, Katniss yelled for Thread to stop, but was instead whipped across the cheek. <a href="/wiki/Purnia" title="Purnia">Purnia</a> later intervened in a more official manner, and Thread finally stopped. After that display of cruelty, people fled home before nightfall rather than risk incurring the wrath of the new band of Peacekeepers, including Katniss.<sup id="cite_ref-CF_8_2-0" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>During the blizzard, Thread hung a flag of <a href="/wiki/Panem" title="Panem">Panem</a> off the roof of the <a href="/wiki/Justice_Building" title="Justice Building">Justice Building</a> and lined up Peacekeepers to march around the square and be ready with machine guns on the rooftops. He also set up new devices to punish citizens in the center of the square.<sup id="cite_ref-CF_9_3-0" class="reference"><a href="#cite_note-CF_9-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>A few days after the blizzard, Katniss crept out of her house and headed to the woods, where she met <a href="/wiki/Bonnie" title="Bonnie">Bonnie</a> and <a href="/wiki/Twill" title="Twill">Twill</a>. Upon her return, she found Peacekeepers sent by Thread to deliver a message that the fences would now be electrified 24/7.<sup id="cite_ref-CF_11_4-0" class="reference"><a href="#cite_note-CF_11-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> After <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a> for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>, Thread ushered <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> and Katniss out the back door of the Justice Building without giving them a chance to say goodbye to their loved ones.<sup id="cite_ref-CF_13_5-0" class="reference"><a href="#cite_note-CF_13-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>When the Capitol <a href="/wiki/Bombings#District_12" title="Bombings">firebombed</a> District 12, he was transported out along with the other Peacekeepers in the district. Thread's current status is unknown, as he is not mentioned afterward. He was most likely either killed during the Second Rebellion, or was captured, tried, and executed by the rebel forces afterwards.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRomulus_Thread%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thread was a tall, muscular man with sharp creases in his pants.<sup id="cite_ref-CF_7_6-0" class="reference"><a href="#cite_note-CF_7-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> His face was hard, with deep lines and a cruel mouth. His gray hair was completely shaved, and his eyes were black. Thread had a long, straight nose and a commanding voice with an accent that Katniss found odd.<sup id="cite_ref-CF_8_2-1" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRomulus_Thread%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>She interrupted the punishment of a confessed criminal.</i>"</span></dd>
+<dd>—Thread after Katniss Everdeen stepped in to save Gale Hawthorne from further whipping<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p>Romulus Thread was a ruthless, pitiless, violent, unstable, and sadistic peacekeeper commander. He was also cruel and vicious and carried out his orders without mercy and without compassion, making him somewhat of a sociopath. He had no qualms about harming or killing anyone who stood in his way. Thread was an idealistic, angry, and powerful man who seemed to terrify everyone with his mere presence no matter where it takes place. He was also very aggressive and declared that anyone caught breaking the curfew he organized in District 12 "will be shot on sight".
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRomulus_Thread%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Roman mythology, <a href="https://en.wikipedia.org/wiki/Romulus" class="extiw" title="wikipedia:Romulus">Romulus</a> was the founder and first king of Rome. His surname, <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://en.wiktionary.org/wiki/thread">Thread</a>, could be meant as in a story thread: a continued idea or theme, because he brings the harsh subjugation seen in other districts back to District 12.
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRomulus_Thread%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Catching_Fire"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRomulus_Thread%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div id="gallery-0" hash="b89ee8bad7c4692e5b0e12b5b065f0fb" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Thread_Detaining_District_12_Citizens_-_Catching_Fire_-_The_Hunger_Games-png" style="position: relative; height:104px; width:185px; top:12px;"><a class="image lightbox" href="/wiki/File:Thread_Detaining_District_12_Citizens_-_Catching_Fire_-_The_Hunger_Games.png" title="Thread Detaining District 12 Citizens - Catching Fire - The Hunger Games.png (358 KB)" style="height:104px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/9/97/Thread_Detaining_District_12_Citizens_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221909" title="Thread Detaining District 12 Citizens - Catching Fire - The Hunger Games.png (358 KB)" class="thumbimage" alt="Thread and other Peacekeepers detaining District 12 citizens." height="128" width="185" data-image-name="Thread Detaining District 12 Citizens - Catching Fire - The Hunger Games.png" data-image-key="Thread_Detaining_District_12_Citizens_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread and other Peacekeepers detaining  citizens."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Thread Detaining District 12 Citizens - Catching Fire - The Hunger Games.png (358 KB)" class="thumbimage lazyload" alt="Thread and other Peacekeepers detaining District 12 citizens." height="128" width="185" data-image-name="Thread Detaining District 12 Citizens - Catching Fire - The Hunger Games.png" data-image-key="Thread_Detaining_District_12_Citizens_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread and other Peacekeepers detaining  citizens." data-src="https://static.wikia.nocookie.net/thehungergames/images/9/97/Thread_Detaining_District_12_Citizens_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221909"></a></div></div><div class="lightbox-caption" style="width:185px;">Thread and other Peacekeepers detaining <a href="/wiki/District_12" title="District 12">District 12</a> citizens.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Thread_Whipping_Gale_-_Catching_Fire_-_The_Hunger_Games-png" style="position: relative; height:106px; width:185px; top:11px;"><a class="image lightbox" href="/wiki/File:Thread_Whipping_Gale_-_Catching_Fire_-_The_Hunger_Games.png" title="Thread Whipping Gale - Catching Fire - The Hunger Games.png (338 KB)" style="height:106px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/3/37/Thread_Whipping_Gale_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221909" title="Thread Whipping Gale - Catching Fire - The Hunger Games.png (338 KB)" class="thumbimage" alt="Gale's whipping." height="128" width="185" data-image-name="Thread Whipping Gale - Catching Fire - The Hunger Games.png" data-image-key="Thread_Whipping_Gale_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="'s whipping."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Thread Whipping Gale - Catching Fire - The Hunger Games.png (338 KB)" class="thumbimage lazyload" alt="Gale's whipping." height="128" width="185" data-image-name="Thread Whipping Gale - Catching Fire - The Hunger Games.png" data-image-key="Thread_Whipping_Gale_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="'s whipping." data-src="https://static.wikia.nocookie.net/thehungergames/images/3/37/Thread_Whipping_Gale_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221909"></a></div></div><div class="lightbox-caption" style="width:185px;"><a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale</a>'s whipping.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Thread_Punching_Katniss_-_Catching_Fire_-_The_Hunger_Games-png" style="position: relative; height:102px; width:185px; top:13px;"><a class="image lightbox" href="/wiki/File:Thread_Punching_Katniss_-_Catching_Fire_-_The_Hunger_Games.png" title="Thread Punching Katniss - Catching Fire - The Hunger Games.png (332 KB)" style="height:102px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/3/31/Thread_Punching_Katniss_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221909" title="Thread Punching Katniss - Catching Fire - The Hunger Games.png (332 KB)" class="thumbimage" alt="Thread punching Katniss when she interferes during the whipping." height="128" width="185" data-image-name="Thread Punching Katniss - Catching Fire - The Hunger Games.png" data-image-key="Thread_Punching_Katniss_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread punching  when she interferes during the whipping."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Thread Punching Katniss - Catching Fire - The Hunger Games.png (332 KB)" class="thumbimage lazyload" alt="Thread punching Katniss when she interferes during the whipping." height="128" width="185" data-image-name="Thread Punching Katniss - Catching Fire - The Hunger Games.png" data-image-key="Thread_Punching_Katniss_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread punching  when she interferes during the whipping." data-src="https://static.wikia.nocookie.net/thehungergames/images/3/31/Thread_Punching_Katniss_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221909"></a></div></div><div class="lightbox-caption" style="width:185px;">Thread punching <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> when she interferes during the whipping.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Thread_-_Catching_Fire_-_The_Hunger_Games-png" style="position: relative; height:128px; width:185px;"><a class="image lightbox" href="/wiki/File:Thread_-_Catching_Fire_-_The_Hunger_Games.png" title="Thread - Catching Fire - The Hunger Games.png (370 KB)" style="height:128px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/1/18/Thread_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908" title="Thread - Catching Fire - The Hunger Games.png (370 KB)" class="thumbimage" alt="" height="128" width="185" data-image-name="Thread - Catching Fire - The Hunger Games.png" data-image-key="Thread_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Thread - Catching Fire - The Hunger Games.png (370 KB)" class="thumbimage lazyload" alt="" height="128" width="185" data-image-name="Thread - Catching Fire - The Hunger Games.png" data-image-key="Thread_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/18/Thread_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Thread_Threatens_Katniss_-_Catching_Fire_-_The_Hunger_Games-png" style="position: relative; height:116px; width:185px; top:6px;"><a class="image lightbox" href="/wiki/File:Thread_Threatens_Katniss_-_Catching_Fire_-_The_Hunger_Games.png" title="Thread Threatens Katniss - Catching Fire - The Hunger Games.png (398 KB)" style="height:116px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/3/34/Thread_Threatens_Katniss_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908" title="Thread Threatens Katniss - Catching Fire - The Hunger Games.png (398 KB)" class="thumbimage" alt="" height="128" width="185" data-image-name="Thread Threatens Katniss - Catching Fire - The Hunger Games.png" data-image-key="Thread_Threatens_Katniss_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Thread Threatens Katniss - Catching Fire - The Hunger Games.png (398 KB)" class="thumbimage lazyload" alt="" height="128" width="185" data-image-name="Thread Threatens Katniss - Catching Fire - The Hunger Games.png" data-image-key="Thread_Threatens_Katniss_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/34/Thread_Threatens_Katniss_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Thread_With_Gun_-_Catching_Fire_-_The_Hunger_Games-png" style="position: relative; height:111px; width:185px; top:8.5px;"><a class="image lightbox" href="/wiki/File:Thread_With_Gun_-_Catching_Fire_-_The_Hunger_Games.png" title="Thread With Gun - Catching Fire - The Hunger Games.png (374 KB)" style="height:111px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/1/1c/Thread_With_Gun_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908" title="Thread With Gun - Catching Fire - The Hunger Games.png (374 KB)" class="thumbimage" alt="Thread with his gun." height="128" width="185" data-image-name="Thread With Gun - Catching Fire - The Hunger Games.png" data-image-key="Thread_With_Gun_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread with his gun."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Thread With Gun - Catching Fire - The Hunger Games.png (374 KB)" class="thumbimage lazyload" alt="Thread with his gun." height="128" width="185" data-image-name="Thread With Gun - Catching Fire - The Hunger Games.png" data-image-key="Thread_With_Gun_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread with his gun." data-src="https://static.wikia.nocookie.net/thehungergames/images/1/1c/Thread_With_Gun_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908"></a></div></div><div class="lightbox-caption" style="width:185px;">Thread with his gun.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Thread_Threatening_Haymitch_-_Catching_Fire_-_The_Hunger_Games-png" style="position: relative; height:120px; width:185px; top:4px;"><a class="image lightbox" href="/wiki/File:Thread_Threatening_Haymitch_-_Catching_Fire_-_The_Hunger_Games.png" title="Thread Threatening Haymitch - Catching Fire - The Hunger Games.png (338 KB)" style="height:120px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Thread_Threatening_Haymitch_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908" title="Thread Threatening Haymitch - Catching Fire - The Hunger Games.png (338 KB)" class="thumbimage" alt="Thread threatens both Katniss and Haymitch." height="128" width="185" data-image-name="Thread Threatening Haymitch - Catching Fire - The Hunger Games.png" data-image-key="Thread_Threatening_Haymitch_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread threatens both Katniss and Haymitch."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Thread Threatening Haymitch - Catching Fire - The Hunger Games.png (338 KB)" class="thumbimage lazyload" alt="Thread threatens both Katniss and Haymitch." height="128" width="185" data-image-name="Thread Threatening Haymitch - Catching Fire - The Hunger Games.png" data-image-key="Thread_Threatening_Haymitch_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread threatens both Katniss and Haymitch." data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Thread_Threatening_Haymitch_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908"></a></div></div><div class="lightbox-caption" style="width:185px;">Thread threatens both Katniss and Haymitch.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Thread_Is_Losing_His_Patience_-_Catching_Fire_-_The_Hunger_Games-png" style="position: relative; height:107px; width:185px; top:10.5px;"><a class="image lightbox" href="/wiki/File:Thread_Is_Losing_His_Patience_-_Catching_Fire_-_The_Hunger_Games.png" title="Thread Is Losing His Patience - Catching Fire - The Hunger Games.png (347 KB)" style="height:107px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/5/5e/Thread_Is_Losing_His_Patience_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908" title="Thread Is Losing His Patience - Catching Fire - The Hunger Games.png (347 KB)" class="thumbimage" alt="" height="128" width="185" data-image-name="Thread Is Losing His Patience - Catching Fire - The Hunger Games.png" data-image-key="Thread_Is_Losing_His_Patience_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Thread Is Losing His Patience - Catching Fire - The Hunger Games.png (347 KB)" class="thumbimage lazyload" alt="" height="128" width="185" data-image-name="Thread Is Losing His Patience - Catching Fire - The Hunger Games.png" data-image-key="Thread_Is_Losing_His_Patience_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5e/Thread_Is_Losing_His_Patience_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221908"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Thread-jpg" style="position: relative; height:117px; width:185px; top:5.5px;"><a class="image lightbox" href="/wiki/File:Thread.jpg" title="Thread.jpg (51 KB)" style="height:117px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Thread.jpg/revision/latest/scale-to-width-down/185?cb=20130502231307" title="Thread.jpg (51 KB)" class="thumbimage" alt="" height="128" width="185" data-image-name="Thread.jpg" data-image-key="Thread.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Thread.jpg (51 KB)" class="thumbimage lazyload" alt="" height="128" width="185" data-image-name="Thread.jpg" data-image-key="Thread.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Thread.jpg/revision/latest/scale-to-width-down/185?cb=20130502231307"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:130px;"><div class="gallery-image-wrapper accent" id="Curfew_-_Catching_Fire_-_The_Hunger_Games-png" style="position: relative; height:109px; width:185px; top:9.5px;"><a class="image lightbox" href="/wiki/File:Curfew_-_Catching_Fire_-_The_Hunger_Games.png" title="Curfew - Catching Fire - The Hunger Games.png (317 KB)" style="height:109px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/5/59/Curfew_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221907" title="Curfew - Catching Fire - The Hunger Games.png (317 KB)" class="thumbimage" alt="Thread ordering the curfew." height="128" width="185" data-image-name="Curfew - Catching Fire - The Hunger Games.png" data-image-key="Curfew_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread ordering the curfew."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Curfew - Catching Fire - The Hunger Games.png (317 KB)" class="thumbimage lazyload" alt="Thread ordering the curfew." height="128" width="185" data-image-name="Curfew - Catching Fire - The Hunger Games.png" data-image-key="Curfew_-_Catching_Fire_-_The_Hunger_Games.png" data-relevant="1" data-caption="Thread ordering the curfew." data-src="https://static.wikia.nocookie.net/thehungergames/images/5/59/Curfew_-_Catching_Fire_-_The_Hunger_Games.png/revision/latest/scale-to-width-down/185?cb=20230622221907"></a></div></div><div class="lightbox-caption" style="width:185px;">Thread ordering the curfew.</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRomulus_Thread%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MJ_6-1"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_6_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-CF_8-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_8_2-0">2.0</a></sup> <sup><a href="#cite_ref-CF_8_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-CF_9-3"><span class="mw-cite-backlink"><a href="#cite_ref-CF_9_3-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 9</span>
+</li>
+<li id="cite_note-CF_11-4"><span class="mw-cite-backlink"><a href="#cite_ref-CF_11_4-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 11</span>
+</li>
+<li id="cite_note-CF_13-5"><span class="mw-cite-backlink"><a href="#cite_ref-CF_13_5-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 13</span>
+</li>
+<li id="cite_note-CF_7-6"><span class="mw-cite-backlink"><a href="#cite_ref-CF_7_6-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 7</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260102153323
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.055 seconds
+Real time usage: 0.082 seconds
+Preprocessor visited node count: 249/1000000
+Post‐expand include size: 501/2097152 bytes
+Template argument size: 233/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 20238/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   56.424      1 -total
+ 43.54%   24.565      1 Template:Character
+ 11.19%    6.314      1 Template:Reflist
+  2.55%    1.437      1 Template:Quote
+  2.12%    1.197      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2229-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102153323 and revision id 954467. Rendering was triggered because: page-view
+ -->
+</div>

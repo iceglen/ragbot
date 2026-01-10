@@ -1,0 +1,369 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Lenore Dove Baird</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a3/LDBSOTR.jpeg/revision/latest?cb=20251120160906" class="image image-thumbnail" title="LDBSOTR">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/a/a3/LDBSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120160906" srcset="https://static.wikia.nocookie.net/thehungergames/images/a/a3/LDBSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120160906 1x, https://static.wikia.nocookie.net/thehungergames/images/a/a3/LDBSOTR.jpeg/revision/latest?cb=20251120160906 2x" class="pi-image-thumbnail" data-relevant="1" alt="LDBSOTR" width="270" height="472" data-image-key="LDBSOTR.jpeg" data-image-name="LDBSOTR.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">16<sup id="cite_ref-SR14_1-0" class="reference"><a href="#cite_note-SR14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Rebel" class="mw-redirect" title="Rebel">Rebel</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Seam" title="The Seam">The Seam</a> in <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Unnamed mother</li><li>Unknown father</li><li><a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> <small>(adoptive uncle)</small></li><li><a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> <small>(adoptive uncle)</small></li><li><a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> † <small>(distant cousin)</small></li><li><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> <small>(distant cousin)</small></li><li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> † <small>(distant cousin)</small></li></ul><p><i>Unknown relations</i></p><ul><li><a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a></li><li><a href="/wiki/Barb_Azure_Baird" title="Barb Azure Baird">Barb Azure Baird</a></li><li><a href="/wiki/Maude_Ivory_Baird" title="Maude Ivory Baird">Maude Ivory Baird</a> †</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Dappled green<sup id="cite_ref-SR1_2-0" class="reference"><a href="#cite_note-SR1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> <small>(book)</small></li><li>Dark brown <small>(film)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Auburn <small>(film)</small></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Whitney_Peak" title="Whitney Peak">Whitney Peak</a></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Lenore Dove Baird</b> was a Covey girl from <a href="/wiki/District_12" title="District 12">District 12</a> who was dating <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>.<sup id="cite_ref-MJ_12_3-0" class="reference"><a href="#cite_note-MJ_12-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#50th_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">50th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Death"><span class="tocnumber">1.3</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Legacy"><span class="tocnumber">1.4</span> <span class="toctext">Legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Haymitch_Abernathy"><span class="tocnumber">4.1</span> <span class="toctext">Haymitch Abernathy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="59328" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Haymitch Abernathy's girlfriend from District 12?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						A woman from District 12 was Haymitch Abernathy's girlfriend. Their relationship occurred during the 50th Hunger Games when Haymitch was sixteen. Following Haymitch's victory in the Hunger Games, his girlfriend was killed, along with his mother and younger brother. This loss had a profound impact on Haymitch, who did not marry or engage in another romantic relationship.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="59329" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the significance of Haymitch Abernathy's relationship with his girlfriend?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The relationship between Haymitch Abernathy and his girlfriend was significant due to its tragic end. She was killed as a form of retribution by the Capitol after Haymitch's victory in the 50th Hunger Games, which had made the Capitol appear foolish. This event marked a turning point in Haymitch's life, leading him to a solitary existence and alcoholism.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="59330" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Did Haymitch Abernathy's girlfriend have any impact on his performance in the 50th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Haymitch Abernathy was in a relationship with his girlfriend during the 50th Hunger Games. Despite this, there's no explicit indication that she influenced his performance in the games. Tragically, following Haymitch's victory, the Capitol executed his girlfriend, mother, and younger brother as retribution for his actions during the games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="59331" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Haymitch Abernathy's girlfriend react to his victory in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Haymitch Abernathy's girlfriend was unable to react to his victory in the 50th Hunger Games. She was killed by the Capitol two weeks after Haymitch's win, in retaliation for his game-winning strategy that embarrassed the Capitol.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Lenore Dove Baird","mainEntity":[{"@type":"Question","name":"Who was Haymitch Abernathy's girlfriend from District 12?","acceptedAnswer":{"@type":"Answer","text":"A woman from District 12 was Haymitch Abernathy's girlfriend. Their relationship occurred during the 50th Hunger Games when Haymitch was sixteen. Following Haymitch's victory in the Hunger Games, his girlfriend was killed, along with his mother and younger brother. This loss had a profound impact on Haymitch, who did not marry or engage in another romantic relationship."}},{"@type":"Question","name":"What was the significance of Haymitch Abernathy's relationship with his girlfriend?","acceptedAnswer":{"@type":"Answer","text":"The relationship between Haymitch Abernathy and his girlfriend was significant due to its tragic end. She was killed as a form of retribution by the Capitol after Haymitch's victory in the 50th Hunger Games, which had made the Capitol appear foolish. This event marked a turning point in Haymitch's life, leading him to a solitary existence and alcoholism."}},{"@type":"Question","name":"Did Haymitch Abernathy's girlfriend have any impact on his performance in the 50th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Haymitch Abernathy was in a relationship with his girlfriend during the 50th Hunger Games. Despite this, there's no explicit indication that she influenced his performance in the games. Tragically, following Haymitch's victory, the Capitol executed his girlfriend, mother, and younger brother as retribution for his actions during the games."}},{"@type":"Question","name":"How did Haymitch Abernathy's girlfriend react to his victory in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Haymitch Abernathy's girlfriend was unable to react to his victory in the 50th Hunger Games. She was killed by the Capitol two weeks after Haymitch's win, in retaliation for his game-winning strategy that embarrassed the Capitol."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lenore Dove was born in December.<sup id="cite_ref-SR4_4-0" class="reference"><a href="#cite_note-SR4-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> Her mother died in childbirth, so she was raised by her adoptive uncles, <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> and <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a>, in <a href="/wiki/The_Covey%27s_house" title="The Covey's house">the Covey's house</a>. She did not know who her father was, but the Chances were particularly fond of her, which suggested they had a connection. Clerk Carmine did not like her hanging around with them due to their reckless nature.<sup id="cite_ref-SR2_5-0" class="reference"><a href="#cite_note-SR2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>Lenore Dove met <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> in the fall when they were ten years old. It was the first time Haymitch had ever snuck out of the <a href="/wiki/Fence" title="Fence">fence</a> and into the <a href="/wiki/Woods" title="Woods">woods</a> with <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a>, who was a distant relative of Lenore Dove. She was reading in an apple tree above them when she complained about Burdock's singing to the <a href="/wiki/Mockingjay_(bird)" title="Mockingjay (bird)">mockingjays</a>. Lenore Dove dropped apples down onto the boys, and she and Haymitch discussed the origins of her name. At age twelve, she was arrested twice for rebellious acts.<sup id="cite_ref-SR1_2-1" class="reference"><a href="#cite_note-SR1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Since she was a Baird,<sup id="cite_ref-SR1_2-2" class="reference"><a href="#cite_note-SR1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> she likely had knowledge of <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray</a>, but did not want to discuss her whenever Haymitch wondered who the first District 12 <a href="/wiki/Victor" title="Victor">victor</a> was.<sup id="cite_ref-SR4_4-1" class="reference"><a href="#cite_note-SR4-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> This was possibly because the story was too secret or too painful. Lenore Dove would add scraps of Lucy Gray's dress to her wardrobe as a way to honor her memory.<sup id="cite_ref-SR25_6-0" class="reference"><a href="#cite_note-SR25-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="50th_Hunger_Games">50th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lenore Dove was dating Haymitch by the time of the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>.<sup id="cite_ref-CF_14_7-0" class="reference"><a href="#cite_note-CF_14-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> She taught his younger brother, <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> about the stars, which she had learned herself from Tam Amber.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> Haymitch went to see her shortly before the <a href="/wiki/Reaping" title="Reaping">reaping</a> on his birthday.<sup id="cite_ref-sneak_peek_9-0" class="reference"><a href="#cite_note-sneak_peek-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> She gifted him a striker with a snake and a long-necked bird merged together with two small rings that she had designed.<sup id="cite_ref-SR1_2-3" class="reference"><a href="#cite_note-SR1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> During the reaping, she and Haymitch were presumed safe after the four tributes were picked. However, when the last tribute, <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> ran away and was killed, a riot broke out. Lenore Dove tried to help his mother prevent <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> from taking his body away. Haymitch tried to protect her and was thus reaped after being chosen by <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> to take Woodbine's place in the Hunger Games.<sup id="cite_ref-SR2_5-1" class="reference"><a href="#cite_note-SR2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>Drusilla demanded that the area was cleaned up before the reaping returned to broadcasting, and ordered a Peacekeeper to kill Lenore Dove for her resistance. <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> intervened as he wanted to record her tears over Haymitch's reaping as it would put on a good show for the audience. However when they reenacted the reaping, Lenore Dove refused to cry for <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>'s entertainment. At the conclusion of the reaping, a Peacekeeper was about to put her in handcuffs when her uncles bribed him to let her go. Although she wanted to go over to Haymitch, they led her away down a sideroad.<sup id="cite_ref-SR2_5-2" class="reference"><a href="#cite_note-SR2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>Shortly before the train left District 12 for The Capitol with Haymitch, she went to the hill nearby holding gumdrops that he had sent his brother Sid to give her. She wailed at the wind and let out her pain as the train left. Haymitch watched out the window and was glad she saved their goodbye for when they weren't being recorded.<sup id="cite_ref-SR2_5-3" class="reference"><a href="#cite_note-SR2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>When <a href="/wiki/Training_score" title="Training score">training scores</a> were released and Haymitch only received a 1, Lenore Dove performed forbidden songs on the reaping stage, which still stood outside the <a href="/wiki/Justice_Building" title="Justice Building">Justice Building</a>. Her performance drew a crowd of other discontented kids, so she was arrested and held on the <a href="/wiki/Peacekeepers%27_base" title="Peacekeepers' base">Peacekeepers' base</a> in District 12. After the tributes' <a href="/wiki/Interviews" title="Interviews">interviews</a>, Plutarch arranged a phone call between her and Haymitch. She told him about her arrest and claimed she would be released the next morning;<sup id="cite_ref-SR14_1-1" class="reference"><a href="#cite_note-SR14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> however, she was still incarcerated when Haymitch returned home two weeks later. Her uncles arranged for her to be released on house arrest, and she went to graze her geese in the Meadow, where she reunited with Haymitch.
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Upon reuniting with Haymitch after his victory, <a href="/wiki/Haymitch_Abernathy%27s_mother" class="mw-redirect" title="Haymitch Abernathy's mother">his mother</a>, <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">younger brother Sid</a>, and Lenore Dove, were killed as punishment for his rebellious actions during the Games.<sup id="cite_ref-MJ_12_3-1" class="reference"><a href="#cite_note-MJ_12-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> In Lenore Dove's case, she was given a bag of red gumdrops, shortly after her release, believing it to be a bag he had left for Sid to give her earlier. However, Haymitch realized too late that the new bag had been planted there by Snow, filled with <a href="/wiki/Poison" title="Poison">poison</a>. Despite Haymitch and Lenore Dove's best efforts to stop it and call for help, the poison killed her. With her last words, Lenore Dove urged Haymitch not to let the sun rise on the reaping.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> Lenore Dove was buried in the Covey's secret graveyard beside Lucy Gray and <a href="/wiki/Maude_Ivory_Baird" title="Maude Ivory Baird">Maude Ivory Baird</a>.<sup id="cite_ref-SOTR27_11-0" class="reference"><a href="#cite_note-SOTR27-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As a result of her death, Haymitch drove away anyone who could've been considered close to him so that they wouldn't suffer the same horrible fate and became an alcoholic. Haymitch would've welcomed his death if it wasn't for his promise to Lenore Dove that he would somehow keep the sun from rising on the reaping. Haymitch spent weeks looking for Lenore Dove's grave, eventually finding it with the help of <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> and spent two days at her graveside. The story that people were told was that she died suddenly of appendicitis.<sup id="cite_ref-SOTR27_11-1" class="reference"><a href="#cite_note-SOTR27-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p><p>Haymitch told <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> twenty-five years later about his girlfriend and his family being killed.<sup id="cite_ref-MJ_12_3-2" class="reference"><a href="#cite_note-MJ_12-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>Following the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, Haymitch no longer found himself haunted by Lenore Dove. Instead, he saw her as having grown old beside him and he felt like she forgave him as Haymitch had at last kept his promise, or at least leant a hand. However, Lenore Dove would tell Haymitch that he couldn't join her yet as he still had to look after the tributes he had come to love as his new family. Haymitch later told Katniss and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> his story, about everyone he had ever lost, including Lenore Dove. Haymitch was content in knowing that the Capitol could never take Lenore Dove from him again, and they never really did in the first place.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 250px"> 	 <a href="https://thehungergames.fandom.com/wiki/File:SNEAK_PEEK-_Suzanne_Collins_Reads_from_Sunrise_on_the_Reaping_-_Coming_March_18th" class="video video-thumbnail small "> 	<img src="https://static.wikia.nocookie.net/thehungergames/images/2/2c/SNEAK_PEEK-_Suzanne_Collins_Reads_from_Sunrise_on_the_Reaping_-_Coming_March_18th/revision/latest/scale-to-width-down/250?cb=20250314003027" alt="SNEAK_PEEK-_Suzanne_Collins_Reads_from_Sunrise_on_the_Reaping_-_Coming_March_18th" height="188" width="250" data-video-key="SNEAK_PEEK-_Suzanne_Collins_Reads_from_Sunrise_on_the_Reaping_-_Coming_March_18th" data-video-name="SNEAK PEEK- Suzanne Collins Reads from Sunrise on the Reaping - Coming March 18th" class=""> 	<span class="thumbnail-play-icon-container"> 		<svg class="thumbnail-play-icon wds-icon"><use xlink:href="#wds-player-icon-play"></use></svg>	</span> </a>  	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:SNEAK_PEEK-_Suzanne_Collins_Reads_from_Sunrise_on_the_Reaping_-_Coming_March_18th" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 			<p class="title">SNEAK PEEK- Suzanne Collins Reads from Sunrise on the Reaping - Coming March 18th</p> 		 		 	</figcaption> </figure>
+<p>Lenore Dove was good with animals and raised a gaggle of geese from their hatching. She believed that anything was possible and that you shouldn't necessarily assume that something would continue to happen just because it had in the past. She was quiet in public, and thus surprised Haymitch with how much she could talk in private. She didn't like singing in public. Even though she was patient when explaining things, Haymitch felt that she might be too smart for him.<sup id="cite_ref-sneak_peek_9-1" class="reference"><a href="#cite_note-sneak_peek-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>Haymitch described Lenore Dove as having "a dark view on things."<sup id="cite_ref-SR1_2-4" class="reference"><a href="#cite_note-SR1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lenore Dove had dappled green eyes and her hair had a hint of red in the sunlight. She wore faded overalls and shirts that concealed snips of color salvaged from Lucy Gray Baird's dress, and held a blue handkerchief in her pocket and a raspberry ribbon in her cuff. While performing in <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a>'s house, she wore a faded green dress with an ivory hair ribbon and orange lipstick. Her voice was "as soft and haunting as moonlight."<sup id="cite_ref-SR1_2-5" class="reference"><a href="#cite_note-SR1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Haymitch_Abernathy">Haymitch Abernathy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>I think of Haymitch, unmarried, no family, blotting out the world with drink. He could have had his choice of any woman in the district. And he chose solitude. Not solitude— that sounds too peaceful. More like solitary confinement.</i>"</span></dd>
+<dd>—Katniss Everdeen<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p>Lenore Dove and Haymitch first met each other when they were ten years old and introduced through Lenore Dove's cousin, <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a>. They developed a friendship and fell in love with each other as they grew up together. Haymitch was very protective of Lenore Dove, warning about her safety due to her history of getting into trouble with the local Peacekeepers. When Haymitch was reaped to replace <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> as a tribute, Lenore Dove was devastated and shared an emotional phone call with him on the night before the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. When Snow orchestrated Lenore Dove's death, following his win in the Games, Haymitch was profoundly affected by her loss, causing him to relapse into alcoholism to cope with his grief over her death, along with his family's. Though Haymitch was deeply affected by Lenore Dove's death, he committed himself to somehow fulfill her dying wish to somehow end the Hunger Games. He is not known to have ever married, or even been romantic with another woman after her.<sup id="cite_ref-CF4_13-0" class="reference"><a href="#cite_note-CF4-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e4/Haydove.jpeg/revision/latest?cb=20251120160702" class="mw-file-description image"><img alt="Gifting Haymitch the ." src="https://static.wikia.nocookie.net/thehungergames/images/e/e4/Haydove.jpeg/revision/latest/scale-to-width-down/180?cb=20251120160702" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Haydove.jpeg" data-image-key="Haydove.jpeg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Haydove.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gifting Haymitch the <a href="/wiki/Flint_striker" title="Flint striker">Flint striker</a>.</p> 		 	</figcaption> </figure>
+<p>Following the victory of the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, Haymitch finally moved on from Lenore Dove's death, having fulfilled his promise to help contribute in ending the Hunger Games, believing Lenore Dove was proud of him for his efforts. After recounting how he won his Games and lost he everyone he loved, including Lenore Dove, to Katniss and Peeta, Haymitch found peace and started raising geese in honor of Lenore Dove, believing his girlfriend's spirit had grown old with him and never left his side since her death.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In line with the <a href="/wiki/Covey" title="Covey">Covey</a> tradition of naming their children after a ballad and a color, Lenore Dove was named after the tormented man's beloved in Edgar Allan Poe's "<a href="https://en.wikipedia.org/wiki/The_Raven" class="extiw" title="wikipedia:The Raven">The Raven</a>", and the color of a dove, which the District 12 school's dictionary described as "[w]arm gray with a slight purplish or pinkish tint."<sup id="cite_ref-SR1_2-6" class="reference"><a href="#cite_note-SR1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> 
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In an exclusive excerpt from Chapter 1 of <i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i> from People Magazine, her name was revealed as Lenore Dove.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+<ul><li>This prompted fan speculation that she is Covey, since her name fits their unique naming convention: a two-part name with the first part being taken from a ballad and the second being a color. This was confirmed upon the title's release.</li></ul></li>
+<li>Lenore Dove is a Baird, and while it is unknown who her mother is because she died in childbirth, it could be <a href="/wiki/Maude_Ivory_Baird" title="Maude Ivory Baird">Maude Ivory</a>, whose headstone appears in the Covey's graveyard alongside Lucy Gray and Lenore Dove's.</li>
+<li>Her father's identity is a mystery.</li>
+<li>She can play the piano and accordion, the latter of which she calls her "tune box".</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Lenore_Dove_Baird/Gallery" title="Lenore Dove Baird/Gallery">Lenore Dove Baird/Gallery</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLenore_Dove_Baird%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-SR14-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR14_1-0">1.0</a></sup> <sup><a href="#cite_ref-SR14_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-SR1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR1_2-0">2.0</a></sup> <sup><a href="#cite_ref-SR1_2-1">2.1</a></sup> <sup><a href="#cite_ref-SR1_2-2">2.2</a></sup> <sup><a href="#cite_ref-SR1_2-3">2.3</a></sup> <sup><a href="#cite_ref-SR1_2-4">2.4</a></sup> <sup><a href="#cite_ref-SR1_2-5">2.5</a></sup> <sup><a href="#cite_ref-SR1_2-6">2.6</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-MJ_12-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_12_3-0">3.0</a></sup> <sup><a href="#cite_ref-MJ_12_3-1">3.1</a></sup> <sup><a href="#cite_ref-MJ_12_3-2">3.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-SR4-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR4_4-0">4.0</a></sup> <sup><a href="#cite_ref-SR4_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-SR2-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR2_5-0">5.0</a></sup> <sup><a href="#cite_ref-SR2_5-1">5.1</a></sup> <sup><a href="#cite_ref-SR2_5-2">5.2</a></sup> <sup><a href="#cite_ref-SR2_5-3">5.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-SR25-6"><span class="mw-cite-backlink"><a href="#cite_ref-SR25_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-CF_14-7"><span class="mw-cite-backlink"><a href="#cite_ref-CF_14_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-sneak_peek-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-sneak_peek_9-0">9.0</a></sup> <sup><a href="#cite_ref-sneak_peek_9-1">9.1</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.youtube.com/watch?v=Uslug4vAy3c">SNEAK PEEK: Suzanne Collins Reads from Sunrise on the Reaping - Coming March 18th</a> on youtube.com</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-SOTR27-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR27_11-0">11.0</a></sup> <sup><a href="#cite_ref-SOTR27_11-1">11.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-CF4-13"><span class="mw-cite-backlink"><a href="#cite_ref-CF4_13-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://people.com/new-hunger-games-book-excerpt-sunshine-on-the-reaping-exclusive-8774209">A New <i>Hunger Games</i> Book Heads Back to Panem: Read an Exclusive Early Excerpt From <i>Sunrise on the Reaping</i> (Exclusive)</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><strong class="mw-selflink selflink">Lenore Dove Baird</strong> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251224233946
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.068 seconds
+Real time usage: 0.102 seconds
+Preprocessor visited node count: 959/1000000
+Post‐expand include size: 4433/2097152 bytes
+Template argument size: 363/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8939/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   50.552      1 -total
+ 47.49%   24.007      1 Template:Character
+ 24.17%   12.217      1 Template:Reflist
+  5.52%    2.790     10 Template:SOTR
+  3.42%    1.729      1 Template:Quote
+  2.98%    1.504      1 Template:SOTRNav
+  2.96%    1.495      1 Template:MJ
+  2.88%    1.457      2 Template:CF
+  2.73%    1.378      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542130-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251224233946 and revision id 967774. Rendering was triggered because: edit-page
+ -->
+</div>

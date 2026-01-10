@@ -1,0 +1,293 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Bravura</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/60/D4_Male.jpeg/revision/latest?cb=20200823185947" class="image image-thumbnail" title="D4 Male">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/6/60/D4_Male.jpeg/revision/latest/scale-to-width-down/268?cb=20200823185947" srcset="https://static.wikia.nocookie.net/thehungergames/images/6/60/D4_Male.jpeg/revision/latest/scale-to-width-down/268?cb=20200823185947 1x, https://static.wikia.nocookie.net/thehungergames/images/6/60/D4_Male.jpeg/revision/latest/scale-to-width-down/536?cb=20200823185947 2x" class="pi-image-thumbnail" data-relevant="1" alt="D4 Male" width="270" height="411" data-image-key="D4_Male.jpeg" data-image-name="D4 Male.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">16-18 (book)<sup id="cite_ref-THG_11_1-0" class="reference"><a href="#cite_note-THG_11-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><br>12 (film)<sup id="cite_ref-stats_2-0" class="reference"><a href="#cite_note-stats-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a> (book)<sup id="cite_ref-THG_11_1-1" class="reference"><a href="#cite_note-THG_11-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><p><a href="/wiki/Tribute" title="Tribute">Tribute</a> (film)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_4" title="District 4">District 4</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Short sword (film)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">4'8"<sup id="cite_ref-stats_2-1" class="reference"><a href="#cite_note-stats-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ethan_Jamieson" title="Ethan Jamieson">Ethan Jamieson</a></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Bravura</b><sup id="cite_ref-script_3-0" class="reference"><a href="#cite_note-script-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> was the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_4" title="District 4">District 4</a> who participated in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#74th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">74th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Tribute_Parade"><span class="tocnumber">1.1.1</span> <span class="toctext">Tribute Parade</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Training"><span class="tocnumber">1.1.2</span> <span class="toctext">Training</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Interviews"><span class="tocnumber">1.1.3</span> <span class="toctext">Interviews</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Cornucopia_bloodbath"><span class="tocnumber">1.1.4</span> <span class="toctext">Cornucopia bloodbath</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Name"><span class="tocnumber">3.1</span> <span class="toctext">Name</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="51567" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was the mentor of the District 4 male in the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mags served as the mentor for the District 4 male tribute during the 74th Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51568" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the theme of the District 4 tributes' outfits in the Tribute Parade?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The District 4 tributes, in the Tribute Parade, showcased their district's fishing industry by donning aqua-colored outfits adorned with starfish pins.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51569" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was the District 4 male's partner in the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, the partner of the District 4 male was the female tribute from District 4.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51570" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How were the District 4 tributes' outfits adorned in the Tribute Parade?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Tribute Parade, the District 4 tributes, also known as the d4 tributes, were adorned in aqua-colored gowns with starfish pins, a representation of their district's fishing industry.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51571" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What district did the 74th Hunger Games' District 4 male tribute come from?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The male tribute from the 74th Hunger Games, often referred to as the District 4 male, originated from District 4.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Bravura","mainEntity":[{"@type":"Question","name":"Who was the mentor of the District 4 male in the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Mags served as the mentor for the District 4 male tribute during the 74th Hunger Games."}},{"@type":"Question","name":"What was the theme of the District 4 tributes' outfits in the Tribute Parade?","acceptedAnswer":{"@type":"Answer","text":"The District 4 tributes, in the Tribute Parade, showcased their district's fishing industry by donning aqua-colored outfits adorned with starfish pins."}},{"@type":"Question","name":"Who was the District 4 male's partner in the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, the partner of the District 4 male was the female tribute from District 4."}},{"@type":"Question","name":"How were the District 4 tributes' outfits adorned in the Tribute Parade?","acceptedAnswer":{"@type":"Answer","text":"In the Tribute Parade, the District 4 tributes, also known as the d4 tributes, were adorned in aqua-colored gowns with starfish pins, a representation of their district's fishing industry."}},{"@type":"Question","name":"What district did the 74th Hunger Games' District 4 male tribute come from?","acceptedAnswer":{"@type":"Answer","text":"The male tribute from the 74th Hunger Games, often referred to as the District 4 male, originated from District 4."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> was a <a href="/wiki/Mentor" title="Mentor">mentor</a> that year,<sup id="cite_ref-MJ_19_4-0" class="reference"><a href="#cite_note-MJ_19-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> so he either mentored this boy or his <a href="/wiki/Tippet" title="Tippet">district partner</a>.
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a9/District-4-Tribute-Outfits-Hunger-Games.png/revision/latest?cb=20121227235045" class="mw-file-description image"><img alt="The District 4 tributes in their parade costumes." src="https://static.wikia.nocookie.net/thehungergames/images/a/a9/District-4-Tribute-Outfits-Hunger-Games.png/revision/latest/scale-to-width-down/180?cb=20121227235045" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-image-name="District-4-Tribute-Outfits-Hunger-Games.png" data-image-key="District-4-Tribute-Outfits-Hunger-Games.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District-4-Tribute-Outfits-Hunger-Games.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The District 4 tributes in their parade costumes.</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Tribute_Parade">Tribute Parade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>, the District 4 tributes were first seen in the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>. They both wore light blue outfits with blue crowns that looked like splashing water, adorned with pearls and bubbles. The shoulders of their outfits were pinned together with starfish.<sup id="cite_ref-THG_film_5-0" class="reference"><a href="#cite_note-THG_film-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Training">Training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the novel, the <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tributes</a> looked at <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> with contempt during training, and they showed off their skills in order to intimidate other tributes. The Careers all received <a href="/wiki/Training_score" title="Training score">training scores</a> between 8 and 10, and he received a 8.<sup id="cite_ref-THG_7_6-0" class="reference"><a href="#cite_note-THG_7-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>In the film, he stood between <a href="/wiki/Rue" title="Rue">Rue</a> and Katniss as <a href="/wiki/Atala" title="Atala">Atala</a> explained the rules. He also stood behind <a href="/wiki/Thresh" title="Thresh">Thresh</a> and looked up at Rue on the rope course. Later, he appeared during a montage as <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> read out training scores, but his score was not stated or shown.<sup id="cite_ref-THG_film_5-1" class="reference"><a href="#cite_note-THG_film-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Interviews">Interviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the film, Bravura waited in line with the other tributes to go on stage for <a href="/wiki/Interviews" title="Interviews">interviews</a>. He wore a black suit with white shoes and a white tie.<sup id="cite_ref-THG_film_5-2" class="reference"><a href="#cite_note-THG_film-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Cornucopia_bloodbath">Cornucopia bloodbath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e9/District_4_Male_Portrait.jpg/revision/latest?cb=20160313002226" class="mw-file-description image"><img alt="Bravura's portrait in the night sky." src="https://static.wikia.nocookie.net/thehungergames/images/e/e9/District_4_Male_Portrait.jpg/revision/latest/scale-to-width-down/180?cb=20160313002226" decoding="async" loading="lazy" width="180" height="112" class="thumbimage" data-image-name="District 4 Male Portrait.jpg" data-image-key="District_4_Male_Portrait.jpg" data-relevant="0"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_4_Male_Portrait.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Bravura's portrait in the night sky.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>Night has just come when I hear the anthem that precedes the death recap. ... The first to appear is the girl from <a href="/wiki/District_3" title="District 3">District 3</a>. ... Then the boy from 4. I didn’t expect that one, usually all the Careers make it through the first day.</i>"</span></dd>
+<dd>—Katniss expressing surprise at his death<sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<p>Bravura was killed in the initial <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>. It is unknown how he died in the book, but Katniss was surprised to see his face in the sky on the first day because he was a Career, and they typically lasted longer.<sup id="cite_ref-THG_11_1-2" class="reference"><a href="#cite_note-THG_11-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 240px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c7/640px-Worst_sleepover_ever.png/revision/latest?cb=20121227234506" class="mw-file-description image"><img alt="Bravura watching the bloodbath." src="https://static.wikia.nocookie.net/thehungergames/images/c/c7/640px-Worst_sleepover_ever.png/revision/latest/scale-to-width-down/240?cb=20121227234506" decoding="async" loading="lazy" width="240" height="100" class="thumbimage" data-image-name="640px-Worst sleepover ever.png" data-image-key="640px-Worst_sleepover_ever.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:640px-Worst_sleepover_ever.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Bravura watching the bloodbath.</p> 		 	</figcaption> </figure>
+<p>In the movie, he ran to the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> for supplies when the gong sounded. After a few glimpses of him hiding behind crates, he tried to escape with the supplies he'd grabbed only to meet <a href="/wiki/Cato" title="Cato">Cato</a>, who attacked and killed him with a <a href="/wiki/Sword" class="mw-redirect" title="Sword">sword</a>.<sup id="cite_ref-THG_film_5-3" class="reference"><a href="#cite_note-THG_film-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>In an early version of the film script, District 4 was still considered a Career district and the male tribute stepped off of his pedestal too early at the start of the Games. This set off <a href="/wiki/Land_mine" class="mw-redirect" title="Land mine">land mines</a> that killed him instantly.<sup id="cite_ref-script_3-1" class="reference"><a href="#cite_note-script-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the films, he is tied with <a href="/wiki/Rue" title="Rue">Rue</a> as the smallest and youngest tribute. He has blue eyes and a blonde afro hairstyle.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/45/D4Boy_DIP.jpg/revision/latest?cb=20121227234845" class="mw-file-description image"><img alt="Tribute Identification Card" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="120" class="thumbimage lazyload" data-image-name="D4Boy DIP.jpg" data-image-key="D4Boy_DIP.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/45/D4Boy_DIP.jpg/revision/latest/scale-to-width-down/180?cb=20121227234845"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/4/45/D4Boy_DIP.jpg/revision/latest?cb=20121227234845" class="mw-file-description image"><img alt="Tribute Identification Card" src="https://static.wikia.nocookie.net/thehungergames/images/4/45/D4Boy_DIP.jpg/revision/latest/scale-to-width-down/180?cb=20121227234845" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="D4Boy DIP.jpg" data-image-key="D4Boy_DIP.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/45/D4Boy_DIP.jpg/revision/latest/scale-to-width-down/180?cb=20121227234845"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:D4Boy_DIP.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tribute Identification Card</p> 		 	</figcaption> </figure>
+<ul><li>In the film, his odds of winning were 15–1, he weighed 65 pounds, and was 12 years old.<sup id="cite_ref-stats_2-2" class="reference"><a href="#cite_note-stats-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li>
+<li>In the film, he was the last tribute to die at the Cornucopia bloodbath. <a href="/wiki/Heddle" title="Heddle">Heddle</a> was the first death since the bloodbath, and when she died, the scoreboard behind Caesar indicated that this boy had placed 12th.<sup id="cite_ref-THG_film_5-4" class="reference"><a href="#cite_note-THG_film-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></li>
+<li>Unlike the rest of the tributes (except for the <a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">District 9 male</a>), his casting is probably a deliberate choice to contrast with the other Career tributes.</li>
+<li>Bravura was a Career in the book, but not the film.</li></ul>
+<h3><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>His name was not revealed in the books or films, but it appeared in the previous version of the script as Bravura.<sup id="cite_ref-script_3-2" class="reference"><a href="#cite_note-script-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> This name refers to the intensity and strength of both the sea and people.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBravura%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-THG_11-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_11_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_11_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_11_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-stats-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-stats_2-0">2.0</a></sup> <sup><a href="#cite_ref-stats_2-1">2.1</a></sup> <sup><a href="#cite_ref-stats_2-2">2.2</a></sup></span> <span class="reference-text"><a href="/wiki/File:Statsreference.png" title="File:Statsreference.png">File:Statsreference.png</a></span>
+</li>
+<li id="cite_note-script-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-script_3-0">3.0</a></sup> <sup><a href="#cite_ref-script_3-1">3.1</a></sup> <sup><a href="#cite_ref-script_3-2">3.2</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf">https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf</a></span>
+</li>
+<li id="cite_note-MJ_19-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_19_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-THG_film-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_film_5-0">5.0</a></sup> <sup><a href="#cite_ref-THG_film_5-1">5.1</a></sup> <sup><a href="#cite_ref-THG_film_5-2">5.2</a></sup> <sup><a href="#cite_ref-THG_film_5-3">5.3</a></sup> <sup><a href="#cite_ref-THG_film_5-4">5.4</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></span>
+</li>
+<li id="cite_note-THG_7-6"><span class="mw-cite-backlink"><a href="#cite_ref-THG_7_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260102011005
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.096 seconds
+Real time usage: 0.206 seconds
+Preprocessor visited node count: 430/1000000
+Post‐expand include size: 937/2097152 bytes
+Template argument size: 361/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4726/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  115.319      1 -total
+ 43.58%   50.251      1 Template:Character
+ 31.88%   36.761      1 Template:Reflist
+  3.67%    4.234      1 Template:MJ
+  2.48%    2.863      3 Template:THG
+  1.68%    1.940      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:59512-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102011005 and revision id 967559. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,441 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Wiress</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/33/Hunger-games-catching-fire-meet-652404-17-wiress.jpeg/revision/latest?cb=20140218191241" class="image image-thumbnail" title="Hunger-games-catching-fire-meet-652404-17-wiress">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/3/33/Hunger-games-catching-fire-meet-652404-17-wiress.jpeg/revision/latest/scale-to-width-down/267?cb=20140218191241" srcset="https://static.wikia.nocookie.net/thehungergames/images/3/33/Hunger-games-catching-fire-meet-652404-17-wiress.jpeg/revision/latest/scale-to-width-down/267?cb=20140218191241 1x, https://static.wikia.nocookie.net/thehungergames/images/3/33/Hunger-games-catching-fire-meet-652404-17-wiress.jpeg/revision/latest/scale-to-width-down/535?cb=20140218191241 2x" class="pi-image-thumbnail" data-relevant="1" alt="Hunger-games-catching-fire-meet-652404-17-wiress" width="270" height="415" data-image-key="Hunger-games-catching-fire-meet-652404-17-wiress.jpeg" data-image-name="Hunger-games-catching-fire-meet-652404-17-wiress.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">15-18 <small>(<a href="/wiki/49th_Hunger_Games" title="49th Hunger Games">49th Hunger Games</a>)</small><br>16-19 <small>(<a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>)</small><sup id="cite_ref-SOTR_6_1-0" class="reference"><a href="#cite_note-SOTR_6-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><br>41-44 <small>(<a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>)</small><sup id="cite_ref-CF_16_2-0" class="reference"><a href="#cite_note-CF_16-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Nuts <small>(by <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor" title="Victor">Victor</a> <small>(49th Hunger Games)</small><br><a href="/wiki/Mentor" title="Mentor">Mentor</a> <small>(50th Hunger Games)</small><br><a href="/wiki/Tribute" title="Tribute">Tribute</a> <small>(75th Hunger Games)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> in <a href="/wiki/District_3" title="District 3">District 3</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Intelligence</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Hazel <small>(film)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Black <small>(books)</small></li><li>Dark brown <small>(film)</small></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a><br><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i><br><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i> <small>(upcoming)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Amanda_Plummer" title="Amanda Plummer">Amanda Plummer</a> <small>(Catching Fire)</small></li><li><a href="/wiki/Maya_Hawke" title="Maya Hawke">Maya Hawke</a> <small>(SOTR)</small><sup id="cite_ref-Maya_Hawke_3-0" class="reference"><a href="#cite_note-Maya_Hawke-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>Tick, tock.</i>"</span></dd>
+<dd>—Wiress<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p><b>Wiress</b> of <a href="/wiki/District_3" title="District 3">District 3</a> was the victor of the <a href="/wiki/49th_Hunger_Games" title="49th Hunger Games">49th Hunger Games</a>. Known for her odd demeanor and eccentricities, similar in nature to her fellow victor and district colleague <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>, she was relatively well known for her nickname "Nuts". A woman of impressive intellect, Wiress mentored many tributes over the years following her victory including the <a href="/wiki/District_12" title="District 12">District 12</a> tributes in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">2nd Quarter Quell</a>. Despite the trauma she had suffered as a result of her games, and the aftermath of her indirect involvement in Beetee's rebel machinations, Wiress continued to serve the rebellion, joining the victor alliance following her reaping into the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. 
+<sup id="cite_ref-CF_16_2-1" class="reference"><a href="#cite_note-CF_16-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#49th_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">49th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Second_Quarter_Quell"><span class="tocnumber">1.3</span> <span class="toctext">Second Quarter Quell</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Third_Quarter_Quell"><span class="tocnumber">1.4</span> <span class="toctext">Third Quarter Quell</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality"><span class="tocnumber">2</span> <span class="toctext">Personality</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Relationships"><span class="tocnumber">3</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Beetee"><span class="tocnumber">3.1</span> <span class="toctext">Beetee</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Haymitch_Abernathy"><span class="tocnumber">3.2</span> <span class="toctext">Haymitch Abernathy</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Katniss_Everdeen"><span class="tocnumber">3.3</span> <span class="toctext">Katniss Everdeen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Physical_description"><span class="tocnumber">4</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37535" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who portrayed Wiress in the Hunger Games movie series?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Actress Amanda Plummer portrayed the character Wiress in 'The Hunger Games: Catching Fire'. Wiress, also known as 'Nuts', was a tribute from District 3 and a victor in an unspecified edition of the Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37536" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Wiress' significant contribution to her allies in the 75th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Wiress, a victor from District 3, played a crucial role in the 75th Hunger Games or Third Quarter Quell. Despite her deteriorated mental state, she used her technical prowess to aid her allies. Her most significant contribution was deciphering the arena's structure, which she relayed using the phrase 'Tick, tock.'
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37537" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Wiress figure out the operation of the arena in the 75th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 75th Hunger Games, Wiress, a victor renowned for her technical skills from District 3, deciphered the arena's operation. Her repeated utterance of 'Tick, tock' was a clue that led Katniss Everdeen to understand the arena's clock-like design, confirming Wiress's discovery.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37538" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What district did Wiress represent in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Wiress was a tribute from District 3. She had previously won an unspecified Hunger Games and later participated in the 75th Hunger Games, or the 3rd Quarter Quell. Known for her intelligence, Wiress was likely proficient with technology, a trait often associated with District 3 residents.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37539" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the cause of Wiress' death in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 75th Hunger Games, Wiress' life was ended by Gloss, who slit her throat. Her absence was first noticed by Katniss when Wiress ceased singing a song, signaling danger. In retaliation, Katniss eliminated Gloss soon after Wiress' death.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Wiress","mainEntity":[{"@type":"Question","name":"Who portrayed Wiress in the Hunger Games movie series?","acceptedAnswer":{"@type":"Answer","text":"Actress Amanda Plummer portrayed the character Wiress in 'The Hunger Games: Catching Fire'. Wiress, also known as 'Nuts', was a tribute from District 3 and a victor in an unspecified edition of the Hunger Games."}},{"@type":"Question","name":"What was Wiress' significant contribution to her allies in the 75th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Wiress, a victor from District 3, played a crucial role in the 75th Hunger Games or Third Quarter Quell. Despite her deteriorated mental state, she used her technical prowess to aid her allies. Her most significant contribution was deciphering the arena's structure, which she relayed using the phrase 'Tick, tock.'"}},{"@type":"Question","name":"How did Wiress figure out the operation of the arena in the 75th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 75th Hunger Games, Wiress, a victor renowned for her technical skills from District 3, deciphered the arena's operation. Her repeated utterance of 'Tick, tock' was a clue that led Katniss Everdeen to understand the arena's clock-like design, confirming Wiress's discovery."}},{"@type":"Question","name":"What district did Wiress represent in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Wiress was a tribute from District 3. She had previously won an unspecified Hunger Games and later participated in the 75th Hunger Games, or the 3rd Quarter Quell. Known for her intelligence, Wiress was likely proficient with technology, a trait often associated with District 3 residents."}},{"@type":"Question","name":"What was the cause of Wiress' death in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 75th Hunger Games, Wiress' life was ended by Gloss, who slit her throat. Her absence was first noticed by Katniss when Wiress ceased singing a song, signaling danger. In retaliation, Katniss eliminated Gloss soon after Wiress' death."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wiress was born approximately 31 to 37 years after the <a href="/wiki/Treaty_of_Treason" title="Treaty of Treason">Treaty of Treason</a> and the institution of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> in <a href="/wiki/District_3" title="District 3">District 3</a>. Thanks to her district's primary export of technology, Wiress would have been well-versed in the crafting and engineering of cutting edge tech for <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>'s benefit. 
+</p>
+<h3><span class="mw-headline" id="49th_Hunger_Games">49th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sometime during her adolescence, Wiress was reaped into the <a href="/wiki/49th_Hunger_Games" title="49th Hunger Games">49th Hunger Games</a>. After being transported to the Capitol, Wiress and her fellow tributes were kept locked up in the barracks. During training, the <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> laid out an assortment of clues as to the nature of the arena: foil blankets, metal bowls, and a small round mirror at the fire station.<sup id="cite_ref-Sunrise_6_4-0" class="reference"><a href="#cite_note-Sunrise_6-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>The arena would prove incredibly disorientating to the tributes, who were forced to wear shimmering tunics, with reflective surfaces placed everywhere. While the others were driven insane by the mind-bending environment, Wiress was able to outwit her competition by navigating the light beams projected by the shiny reflective surfaces. She quickly discovered a rock over a lake that was a blindspot, where she was able to hide for a majority of the games. At the final two tributes, Wiress did not have to fight as her final remaining <a href="/wiki/District_6_male_(49th_HG)" title="District 6 male (49th HG)">competitor</a> caused his own death by cracking his skull on the surface she was hiding near and drowning in the lake. Wiress was declared the victor, having outsmarted the Gamemakers.<sup id="cite_ref-Sunrise_6_4-1" class="reference"><a href="#cite_note-Sunrise_6-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> During these Games, <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> was her mentor.<sup id="cite_ref-Sunrise_8_5-0" class="reference"><a href="#cite_note-Sunrise_8-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Quarter_Quell">Second Quarter Quell</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One year after her victory, Wiress was assigned as a mentor for the <a href="/wiki/District_12" title="District 12">District 12</a> tributes reaped into the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">2nd Quarter Quell</a> along with <a href="/wiki/District_4" title="District 4">District 4</a> victor <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a>, as there was no living victor available for mentorship. Wiress took her new role seriously, and told the four tributes <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>, <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>, and Capitol replicant <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a> (a hijacked young girl brought in to replace deceased tribute <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a>) of her experiences during her own games, hoping to aid them in their strategy. <sup id="cite_ref-Sunrise_6_4-2" class="reference"><a href="#cite_note-Sunrise_6-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>Although Wiress and Mags were not directly involved in Beetee and his son <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a>'s plans to sabotage the arena, they were tortured all the same due to their perceived roles. Following this torture, Wiress suffered a severe mental break that she would never fully recover from.<sup id="cite_ref-Sunrise_25_6-0" class="reference"><a href="#cite_note-Sunrise_25-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> In the years following, Wiress and Beetee would grow close. 
+</p>
+<h3><span class="mw-headline" id="Third_Quarter_Quell">Third Quarter Quell</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 250px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Beetee_wiress_reaping.png/revision/latest?cb=20140323224847" class="mw-file-description image"><img alt="Beetee and Wiress are reaped for the 75th Hunger Games." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="250" height="154" class="thumbimage lazyload" data-image-name="Beetee wiress reaping.png" data-image-key="Beetee_wiress_reaping.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Beetee_wiress_reaping.png/revision/latest/scale-to-width-down/250?cb=20140323224847"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Beetee_wiress_reaping.png/revision/latest?cb=20140323224847" class="mw-file-description image"><img alt="Beetee and Wiress are reaped for the 75th Hunger Games." src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Beetee_wiress_reaping.png/revision/latest/scale-to-width-down/250?cb=20140323224847" decoding="async" loading="lazy" width="250" height="154" class="thumbimage" data-image-name="Beetee wiress reaping.png" data-image-key="Beetee_wiress_reaping.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Beetee_wiress_reaping.png/revision/latest/scale-to-width-down/250?cb=20140323224847"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Beetee_wiress_reaping.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Beetee and Wiress are reaped for the 75th Hunger Games.</p> 		 	</figcaption> </figure>
+<p>As one of the few living District 3 victors , Wiress was once again reaped for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">3rd Quarter Quell</a> along with Beetee. During the <a href="/wiki/Chariot_rides" title="Chariot rides">chariot rides</a>, Wiress and Beetee were dressed with studded electrical lights, signifying District 3's export, as was customary.<sup id="cite_ref-CF_15_7-0" class="reference"><a href="#cite_note-CF_15-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>During this year's training sessions, Wiress and Beetee were approached at the fire-making station by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, who had been prompted by her Haymitch to seek out allies for the games. After Wiress identified a "chink" in the "armor" if the invisible force field surrounding the Gamemaker's balcony, an impressed Katniss expressed her desire to enlist both District 3 victors into her alliance. Although most of the other victors took Wiress and Beetee less than seriously, Haymitch would honor Everdeen's request and begin collaborating with the eccentric pair.<sup id="cite_ref-CF_16_2-2" class="reference"><a href="#cite_note-CF_16-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0c/Wiresspt.jpg/revision/latest?cb=20130909094805" class="mw-file-description image"><img alt="Wiress listens to Beetee in the Training Center." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="213" class="thumbimage lazyload" data-image-name="Wiresspt.jpg" data-image-key="Wiresspt.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0c/Wiresspt.jpg/revision/latest/scale-to-width-down/180?cb=20130909094805"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/0/0c/Wiresspt.jpg/revision/latest?cb=20130909094805" class="mw-file-description image"><img alt="Wiress listens to Beetee in the Training Center." src="https://static.wikia.nocookie.net/thehungergames/images/0/0c/Wiresspt.jpg/revision/latest/scale-to-width-down/180?cb=20130909094805" decoding="async" loading="lazy" width="180" height="213" class="thumbimage" data-image-name="Wiresspt.jpg" data-image-key="Wiresspt.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0c/Wiresspt.jpg/revision/latest/scale-to-width-down/180?cb=20130909094805"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Wiresspt.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Wiress listens to Beetee in the Training Center.</p> 		 	</figcaption> </figure>
+<p>Wiress survived the initial <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>, and she and Beetee managed to escape with the help of <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> and <a href="/wiki/Blight" title="Blight">Blight</a>, where they headed into the one to two o' clock section of the arena. During the first night of the games, Wiress was able to surmise rather quickly the clock-like design of the arena, due to the twelve bell tolls, and attempted to communicate this with her allies. However, Johanna dismissed her theory as her acting crazy. As the disasters began, they were caught in a blood rain torrent, and Blight was killed after he ran headfirst into the force field.
+</p><p>They eventually made it back to the beach, and stumbled upon Katniss, <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>, and <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a>. Katniss treated and cared for her and Beetee, washing the blood off their worn and damaged bodies. Wiress continued to try to communicate, uttering "Tick, tock" over and over again. Eventually, Katniss was able to figure out her meaning, concluding the arena's design, and causing Wiress relief.<sup id="cite_ref-CF_22_8-0" class="reference"><a href="#cite_note-CF_22-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b0/Wiress_Proyecci%C3%B3n_en_el_cielo.png/revision/latest?cb=20140203021932" class="mw-file-description image"><img alt="Wiress's portrait in the sky." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="111" class="thumbimage lazyload" data-image-name="Wiress Proyección en el cielo.png" data-image-key="Wiress_Proyecci%C3%B3n_en_el_cielo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/b0/Wiress_Proyecci%C3%B3n_en_el_cielo.png/revision/latest/scale-to-width-down/180?cb=20140203021932"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/b/b0/Wiress_Proyecci%C3%B3n_en_el_cielo.png/revision/latest?cb=20140203021932" class="mw-file-description image"><img alt="Wiress's portrait in the sky." src="https://static.wikia.nocookie.net/thehungergames/images/b/b0/Wiress_Proyecci%C3%B3n_en_el_cielo.png/revision/latest/scale-to-width-down/180?cb=20140203021932" decoding="async" loading="lazy" width="180" height="111" class="thumbimage" data-image-name="Wiress Proyección en el cielo.png" data-image-key="Wiress_Proyecci%C3%B3n_en_el_cielo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/b0/Wiress_Proyecci%C3%B3n_en_el_cielo.png/revision/latest/scale-to-width-down/180?cb=20140203021932"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Wiress_Proyecci%C3%B3n_en_el_cielo.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Wiress's portrait in the sky.</p> 		 	</figcaption> </figure><p>On Day 2 of the 75th Hunger Games, a large spool of wire was specifically placed in the arena by <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>, so Beetee could destroy the force field surrounding the arena, and consequentially Katniss' alliance could leave the arena.<sup id="cite_ref-CF_23_9-0" class="reference"><a href="#cite_note-CF_23-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> After Katniss figured out the arena was a clock,<sup id="cite_ref-CF_22_8-1" class="reference"><a href="#cite_note-CF_22-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> Wiress went to clean the wire for Beetee, in the water surrounding the Cornucopia. While she cleaned the wire she sang the song 'Hickory Dickory Dock', a children's song that seemed to please her. When the song stopped, it alerted Wiress' allies of impending danger. Katniss was the first who noticed that Wiress has stopped singing. As Katniss turned to look for Wiress, she saw that Wiress' throat had been slit open by <a href="/wiki/Gloss" title="Gloss">Gloss</a>. Katniss avenged Wiress' death by killing Gloss shortly after he killed Wiress. After Wiress died, Katniss had just enough time to say goodbye to Wiress by closing Wiress' eyes and retrieving the wire from her dead body. Wiress placed 12th out of 24.<sup id="cite_ref-CF_23_9-1" class="reference"><a href="#cite_note-CF_23-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><h2><span class="mw-headline" id="Personality">Personality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wiress was described to be shy by Katniss, who mentions that in the training room, she seldom completed her sentences and Beetee had to finish them for her<sup id="cite_ref-CF_16_2-3" class="reference"><a href="#cite_note-CF_16-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. When she, along with Johanna and Beetee, team up with Finnick, Katniss, and Peeta, she could only recite comments and songs about clocks - referring to the clock shaped arena<sup id="cite_ref-CF_22_8-2" class="reference"><a href="#cite_note-CF_22-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. Beetee said that Wiress was not only smart, but intuitive<sup id="cite_ref-CF_23_9-2" class="reference"><a href="#cite_note-CF_23-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. She was an intellectual genius, inventive, and clever. As shown where for both the <a href="/wiki/49th_Hunger_Games" title="49th Hunger Games">49th Hunger Games</a> and the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>, she was the first to successfully figure out the mechanisms and tricks of the <a href="/wiki/Nest_of_Mirrors" title="Nest of Mirrors">two</a> <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">arenas</a> in order to use them to her advantage.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Beetee">Beetee</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Vlcsnap-2014-01-23-18h49m55s218.png/revision/latest?cb=20140123105120" class="mw-file-description image"><img alt="Beetee, Wiress and Katniss in the Training Center." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="101" class="thumbimage lazyload" data-image-name="Vlcsnap-2014-01-23-18h49m55s218.png" data-image-key="Vlcsnap-2014-01-23-18h49m55s218.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Vlcsnap-2014-01-23-18h49m55s218.png/revision/latest/scale-to-width-down/180?cb=20140123105120"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Vlcsnap-2014-01-23-18h49m55s218.png/revision/latest?cb=20140123105120" class="mw-file-description image"><img alt="Beetee, Wiress and Katniss in the Training Center." src="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Vlcsnap-2014-01-23-18h49m55s218.png/revision/latest/scale-to-width-down/180?cb=20140123105120" decoding="async" loading="lazy" width="180" height="101" class="thumbimage" data-image-name="Vlcsnap-2014-01-23-18h49m55s218.png" data-image-key="Vlcsnap-2014-01-23-18h49m55s218.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Vlcsnap-2014-01-23-18h49m55s218.png/revision/latest/scale-to-width-down/180?cb=20140123105120"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Vlcsnap-2014-01-23-18h49m55s218.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Beetee, Wiress and Katniss in the Training Center.</p> 		 	</figcaption> </figure>
+<p>Beetee and Wiress were shown to be close friends. They were allies in the 75th Hunger Games and both part of the <a href="/wiki/Rebellion" title="Rebellion">rebellion</a>. He was also her mentor during her first Hunger Games.<sup id="cite_ref-Sunrise_8_5-1" class="reference"><a href="#cite_note-Sunrise_8-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Beetee often finished Wiress' sentences, suggesting then he was used to working with her.
+</p><p>After Wiress dies, Katniss says that Beetee was with her in his thoughts. Also, in the movie, Beetee seems to be saddened by her death.
+</p>
+<h3><span class="mw-headline" id="Haymitch_Abernathy">Haymitch Abernathy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<blockquote><p><i>First avoid the slaughter,</i>
+</p><p><i>Get weapons, look for water.</i>
+</p><p><i>Find food and where to sleep,</i>
+</p>
+<p><i>Fire and friends can keep.</i></p></blockquote>
+<p>She was assigned as his mentor for the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a> next to <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a>. Abernathy at first didn’t trust her, as she hadn’t fought for her win in the previous games and hadn’t yet mentored anyone. Eventually, he grew to be fond of her, giving him the idea to break the arena like a machine and giving him a little song that he used to figure out his next steps during the games.
+</p><p>Years later, Wiress and Abernathy remained close and were a part of a rebel plot to break <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> out of the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. It is unknown of Haymitch reacted to Wiress's death.
+</p>
+<h3><span class="mw-headline" id="Katniss_Everdeen">Katniss Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Katniss_wiress.jpg/revision/latest?cb=20131207210054" class="mw-file-description image"><img alt="Katniss helps wash the blood off of Wiress." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="243" class="thumbimage lazyload" data-image-name="Katniss wiress.jpg" data-image-key="Katniss_wiress.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Katniss_wiress.jpg/revision/latest/scale-to-width-down/180?cb=20131207210054"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Katniss_wiress.jpg/revision/latest?cb=20131207210054" class="mw-file-description image"><img alt="Katniss helps wash the blood off of Wiress." src="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Katniss_wiress.jpg/revision/latest/scale-to-width-down/180?cb=20131207210054" decoding="async" loading="lazy" width="180" height="243" class="thumbimage" data-image-name="Katniss wiress.jpg" data-image-key="Katniss_wiress.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Katniss_wiress.jpg/revision/latest/scale-to-width-down/180?cb=20131207210054"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Katniss_wiress.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss helps wash the blood off of Wiress.</p> 		 	</figcaption> </figure>
+<p>During training, Katniss, Wiress and Beetee were talking together at the fire-making station where Wiress points out a force field, which helps them later in the Games<sup id="cite_ref-CF_16_2-4" class="reference"><a href="#cite_note-CF_16-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>.
+</p><p>Katniss later realizes that Wiress' "tick tock," actually hints that the arena is a clock with 12 sections that each hold a new disaster that repeats<sup id="cite_ref-CF_22_8-3" class="reference"><a href="#cite_note-CF_22-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. She begins to understand Wiress, which no one but Beetee has accomplished. When Wiress' throat is slit open by Gloss, Katniss closes her eyes and says goodbye<sup id="cite_ref-CF_23_9-3" class="reference"><a href="#cite_note-CF_23-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. 
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Wiress, like Beetee, is described as having ashen skin and black hair.<sup id="cite_ref-CF_16_2-5" class="reference"><a href="#cite_note-CF_16-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Her name includes the word "wire", which is appropriate as she is from the technology district. The suffix "ess" can represent her being a woman.</li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Wiress was one of a few characters to be parodied in the Sesame Street sketch "<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://youtube.com/watch?v=eT7nD02Im5E">the Hungry Games: Catching Fur</a>". In the sketch she is referred to as the "Tick Tock Lady". She, along with her allies Cookieness, Pita, and Finnicky win the Hungry Games.</li>
+<li>Johanna calls her and Beetee "Nuts &amp; Volts"<sup id="cite_ref-CF_16_2-6" class="reference"><a href="#cite_note-CF_16-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. </li>
+<li>Wiress is the only one applauding Katniss after she shoots arrows during training, while the other tributes were surprised<sup id="cite_ref-CF_10-0" class="reference"><a href="#cite_note-CF-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>. </li>
+<li>In the novels, <a href="/wiki/Beetee" class="mw-redirect" title="Beetee">Beetee</a>, Wiress and the <a href="/wiki/District_3_male_(74th_HG)" class="mw-redirect" title="District 3 male (74th HG)">District 3 male</a> were all described by Katniss to have ashen skin. This was probably a characteristic of the district's people.</li>
+<li><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i> implies that Wiress' state in <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> is a result of the torture that she suffered after the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>.</li>
+<li>In the European Portuguese translation of <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, she's nicknamed "Ampere" instead of "Nuts."</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="465b50698e7e84d21bb1e5bb1b2e8bd3" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Wiress_reaping_costume-JPG" style="position: relative; height:184px; width:97px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Wiress_reaping_costume.JPG" title="Wiress reaping costume.JPG (32 KB)" style="height:184px; width:97px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/b/be/Wiress_reaping_costume.JPG/revision/latest/scale-to-width-down/98?cb=20230826001009" title="Wiress reaping costume.JPG (32 KB)" class="thumbimage" alt="Wiress's reaping clothes" height="185" width="185" data-image-name="Wiress reaping costume.JPG" data-image-key="Wiress_reaping_costume.JPG" data-relevant="1" data-caption="Wiress's reaping clothes"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Wiress reaping costume.JPG (32 KB)" class="thumbimage lazyload" alt="Wiress's reaping clothes" height="185" width="185" data-image-name="Wiress reaping costume.JPG" data-image-key="Wiress_reaping_costume.JPG" data-relevant="1" data-caption="Wiress's reaping clothes" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/be/Wiress_reaping_costume.JPG/revision/latest/scale-to-width-down/98?cb=20230826001009"></a></div></div><div class="lightbox-caption" style="width:185px;">Wiress's reaping clothes</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Wiress_parade_costume-JPG" style="position: relative; height:185px; width:82px;"><a class="image lightbox" href="/wiki/File:Wiress_parade_costume.JPG" title="Wiress parade costume.JPG (43 KB)" style="height:185px; width:82px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/c/c9/Wiress_parade_costume.JPG/revision/latest/scale-to-width-down/82?cb=20230825234405" title="Wiress parade costume.JPG (43 KB)" class="thumbimage" alt="Chariot costume" height="185" width="185" data-image-name="Wiress parade costume.JPG" data-image-key="Wiress_parade_costume.JPG" data-relevant="1" data-caption="Chariot costume"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Wiress parade costume.JPG (43 KB)" class="thumbimage lazyload" alt="Chariot costume" height="185" width="185" data-image-name="Wiress parade costume.JPG" data-image-key="Wiress_parade_costume.JPG" data-relevant="1" data-caption="Chariot costume" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c9/Wiress_parade_costume.JPG/revision/latest/scale-to-width-down/82?cb=20230825234405"></a></div></div><div class="lightbox-caption" style="width:185px;">Chariot costume</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Wiress_interview_costume-JPG" style="position: relative; height:184px; width:96px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Wiress_interview_costume.JPG" title="Wiress interview costume.JPG (53 KB)" style="height:184px; width:96px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Wiress_interview_costume.JPG/revision/latest/scale-to-width-down/96?cb=20230826002109" title="Wiress interview costume.JPG (53 KB)" class="thumbimage" alt="Interview outfit" height="185" width="185" data-image-name="Wiress interview costume.JPG" data-image-key="Wiress_interview_costume.JPG" data-relevant="1" data-caption="Interview outfit"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Wiress interview costume.JPG (53 KB)" class="thumbimage lazyload" alt="Interview outfit" height="185" width="185" data-image-name="Wiress interview costume.JPG" data-image-key="Wiress_interview_costume.JPG" data-relevant="1" data-caption="Interview outfit" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Wiress_interview_costume.JPG/revision/latest/scale-to-width-down/96?cb=20230826002109"></a></div></div><div class="lightbox-caption" style="width:185px;">Interview outfit</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWiress%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-SOTR_6-1"><span class="mw-cite-backlink"><a href="#cite_ref-SOTR_6_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-CF_16-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_16_2-0">2.0</a></sup> <sup><a href="#cite_ref-CF_16_2-1">2.1</a></sup> <sup><a href="#cite_ref-CF_16_2-2">2.2</a></sup> <sup><a href="#cite_ref-CF_16_2-3">2.3</a></sup> <sup><a href="#cite_ref-CF_16_2-4">2.4</a></sup> <sup><a href="#cite_ref-CF_16_2-5">2.5</a></sup> <sup><a href="#cite_ref-CF_16_2-6">2.6</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-Maya_Hawke-3"><span class="mw-cite-backlink"><a href="#cite_ref-Maya_Hawke_3-0">↑</a></span> <span class="reference-text">Grober, Matt (May 14, 2025). <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://deadline.com/2025/05/hunger-games-sunrise-on-the-reaping-maya-hawke-wiress-1236397412/">Maya Hawke Joins ‘The Hunger Games: Sunrise On The Reaping’ As Wiress</a>. <i>Deadline</i>. Retrieved on May 14, 2025.</span>
+</li>
+<li id="cite_note-Sunrise_6-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Sunrise_6_4-0">4.0</a></sup> <sup><a href="#cite_ref-Sunrise_6_4-1">4.1</a></sup> <sup><a href="#cite_ref-Sunrise_6_4-2">4.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-Sunrise_8-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Sunrise_8_5-0">5.0</a></sup> <sup><a href="#cite_ref-Sunrise_8_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-Sunrise_25-6"><span class="mw-cite-backlink"><a href="#cite_ref-Sunrise_25_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-CF_15-7"><span class="mw-cite-backlink"><a href="#cite_ref-CF_15_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-CF_22-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_22_8-0">8.0</a></sup> <sup><a href="#cite_ref-CF_22_8-1">8.1</a></sup> <sup><a href="#cite_ref-CF_22_8-2">8.2</a></sup> <sup><a href="#cite_ref-CF_22_8-3">8.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-CF_23-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_23_9-0">9.0</a></sup> <sup><a href="#cite_ref-CF_23_9-1">9.1</a></sup> <sup><a href="#cite_ref-CF_23_9-2">9.2</a></sup> <sup><a href="#cite_ref-CF_23_9-3">9.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-CF-10"><span class="mw-cite-backlink"><a href="#cite_ref-CF_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <strong class="mw-selflink selflink">Wiress</strong> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <strong class="mw-selflink selflink">Wiress</strong>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251226160035
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.130 seconds
+Real time usage: 0.254 seconds
+Preprocessor visited node count: 767/1000000
+Post‐expand include size: 7077/2097152 bytes
+Template argument size: 747/2097152 bytes
+Highest expansion depth: 9/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11931/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   90.346      1 -total
+ 44.22%   39.954      1 Template:Character
+ 25.60%   23.125      1 Template:Reflist
+  2.97%    2.685      1 Template:Cite_web
+  2.01%    1.815      3 Template:SOTR
+  1.87%    1.686      3 Template:CF
+  1.74%    1.569      1 Template:Quote
+  1.70%    1.535      1 Template:SOTRNav
+  1.68%    1.514      1 Template:SeriesTP
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2311-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251226160035 and revision id 966778. Rendering was triggered because: page-view
+ -->
+</div>

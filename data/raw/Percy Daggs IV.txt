@@ -1,0 +1,69 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><i><b>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>.</b><br /> You can help The Hunger Games Wiki by <a target="_blank" rel="noreferrer noopener" class="text" href="https://thehungergames.fandom.com/wiki/Percy_Daggs_IV?action=edit">expanding it</a>. </i></center></div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Percy Daggs IV</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Percy_Daggs.jpg/revision/latest?cb=20250620191134" class="image image-thumbnail" title="Percy Daggs">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Percy_Daggs.jpg/revision/latest/scale-to-width-down/268?cb=20250620191134" srcset="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Percy_Daggs.jpg/revision/latest/scale-to-width-down/268?cb=20250620191134 1x, https://static.wikia.nocookie.net/thehungergames/images/a/ae/Percy_Daggs.jpg/revision/latest/scale-to-width-down/536?cb=20250620191134 2x" class="pi-image-thumbnail" data-relevant="1" alt="Percy Daggs" width="270" height="360" data-image-key="Percy_Daggs.jpg" data-image-name="Percy Daggs.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ampert_Latier" title="Ampert Latier">Ampert Latier</a><sup id="cite_ref-Tributes_1-0" class="reference"><a href="#cite_note-Tributes-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i></div>
+</div>
+</aside>
+
+</p><p><b>Percy Daggs IV</b> is an American actor set to play <a href="/wiki/Ampert_Latier" title="Ampert Latier">Ampert Latier</a> in <i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i>. He is the son of Percy Daggs III, who is known for his acting role as Wallace Fennel on  <i>Veronica Mars</i>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPercy_Daggs_IV%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/nm8123971" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/nm8123971">Percy Daggs IV</a> at the Internet Movie Database</span></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPercy_Daggs_IV%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Tributes-1"><span class="mw-cite-backlink"><a href="#cite_ref-Tributes_1-0">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://x.com/thehungergames/status/1936137169560904021?s=51">Post by the official Hunger Games account</a>&#32;(June 20, 2025).</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20251223034327
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.023 seconds
+Real time usage: 0.036 seconds
+Preprocessor visited node count: 169/1000000
+Post‐expand include size: 1229/2097152 bytes
+Template argument size: 386/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 628/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   27.345      1 -total
+ 60.93%   16.661      1 Template:Actor
+ 23.93%    6.543      1 Template:Reflist
+ 12.33%    3.372      1 Template:Cite_web
+  7.87%    2.152      1 Template:Imdb
+  6.57%    1.796      1 Template:Stub
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:544610-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251223034327 and revision id 966346. Rendering was triggered because: page-view
+ -->
+</div>

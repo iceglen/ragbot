@@ -1,0 +1,101 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Thom</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">Late teens (presumed)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Coal_miner" title="Coal miner">Coal miner</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_12" title="District 12">District 12</a><br /><a href="/wiki/District_13" title="District 13">District 13</a> (briefly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i><p><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></p></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Thom</b> is <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a>'s old mining friend, having become a <a href="/wiki/Coal_miner" title="Coal miner">coal miner</a> around the same time as Gale did. Thom was native to <a href="/wiki/The_Seam" title="The Seam">the Seam</a> in <a href="/wiki/District_12" title="District 12">District 12</a>.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThom%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thom is Gale's friend and crewmate, and has often been seen with <a href="/wiki/Bristel" title="Bristel">Bristel</a>, a fellow miner. He and Gale shared similar interests; both came from <a href="/wiki/The_Seam" title="The Seam">the Seam</a> and went into the occupation of coal mining together during <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>'s time in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. When she came back, Gale's time with Thom was minimized to just working in the mines. 
+</p><p>Thom's loyalty to Gale was shown after his friend was whipped for breaking the law, as he helped Katniss carry Gale to <a href="/wiki/Mrs_Everdeen" class="mw-redirect" title="Mrs Everdeen">Mrs Everdeen</a> while piecing together what had happened. For his actions, he was given money by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> before going home.<sup id="cite_ref-CF_8_1-0" class="reference"><a href="#cite_note-CF_8-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>When <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> burned down District 12, Thom was one of just under 800 survivors that managed to escape the district safely. They were brought from the bordering forests to <a href="/wiki/District_13" title="District 13">District 13</a> a few days after the disaster, and Thom, like Gale, became a soldier in the <a href="/wiki/Second_Rebellion" title="Second Rebellion">rebellion</a> against the Capitol.
+</p><p>Thom made his way through the war and was seen again by Katniss when she was confined to District 12 after assassinating <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a>. He was sifting through the dirt for remains in front of where the <a href="/wiki/Mayor_Undersee" title="Mayor Undersee">mayor</a>'s family had lived, and talked to Katniss, whom he was on good terms with. It was Thom who informed Katniss that <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> and her family, along with two of the family's workers, did not survive the destruction of District 12. It is presumed that Thom now lives a normal life in the rebuilt District 12.<sup id="cite_ref-MJ_27_2-0" class="reference"><a href="#cite_note-MJ_27-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThom%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-CF_8-1"><span class="mw-cite-backlink"><a href="#cite_ref-CF_8_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-MJ_27-2"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_27_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 27</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260105153541
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.024 seconds
+Real time usage: 0.037 seconds
+Preprocessor visited node count: 127/1000000
+Post‐expand include size: 118/2097152 bytes
+Template argument size: 5/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 784/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   22.389      1 -total
+ 75.07%   16.807      1 Template:Character
+ 13.70%    3.068      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3372-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105153541 and revision id 963979. Rendering was triggered because: page-view
+ -->
+</div>

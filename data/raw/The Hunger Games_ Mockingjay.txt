@@ -1,0 +1,38 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><b>This article is a disambiguation page for The Hunger Games: Mockingjay</b>
+<p>The following is a list of links to pages that might share the same title.<br />
+</p>
+Please follow one of the disambiguation links below or <a href="/wiki/Special:Search" title="Special:Search">search</a> to find the page you were looking for if it is not listed. If an <a href="/wiki/Special:WhatLinksHere/The_Hunger_Games:_Mockingjay" title="Special:WhatLinksHere/The Hunger Games: Mockingjay">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</center></div>
+<p><i><b>The Hunger Games: Mockingjay</b></i> may refer to:
+</p>
+<ul><li><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i> — The third book of <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><i>The Hunger Games</i> trilogy</a>.</li>
+<li><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i> — Part 1 of the <i>Mockingjay</i> film adaptation, released in 2014.</li>
+<li><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i> — Part 2 of the <i>Mockingjay</i> film adaptation, released in 2015.</li>
+<li><a href="/wiki/The_Hunger_Games:_Mockingjay_book_to_film_differences" title="The Hunger Games: Mockingjay book to film differences"><i>The Hunger Games: Mockingjay</i> book to film differences</a> — Details about the differences between the novel and two flim adaptations.</li>
+<li><i><a href="/wiki/The_Hunger_Games:_Mockingjay,_Part_1_-_Original_Motion_Picture_Soundtrack" title="The Hunger Games: Mockingjay, Part 1 - Original Motion Picture Soundtrack">The Hunger Games: Mockingjay, Part 1 - Original Motion Picture Soundtrack</a></i> — Part 1's original motion picture soundtrack, composed by James Newton Howard, released in 2014.</li>
+<li><i><a href="/wiki/The_Hunger_Games:_Mockingjay,_Part_2_-_Original_Motion_Picture_Soundtrack" class="mw-redirect" title="The Hunger Games: Mockingjay, Part 2 - Original Motion Picture Soundtrack">The Hunger Games: Mockingjay, Part 2 - Original Motion Picture Soundtrack</a></i> — Part 2's original motion picture soundtrack, composed by James Newton Howard, released in 2015.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20251227075155
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.021 seconds
+Real time usage: 0.044 seconds
+Preprocessor visited node count: 9/1000000
+Post‐expand include size: 677/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    2.256      1 Template:Disambig
+100.00%    2.256      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:460869-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227075155 and revision id 953403. Rendering was triggered because: page-view
+ -->
+</div>

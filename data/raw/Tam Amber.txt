@@ -1,0 +1,368 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Tam Amber</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/52/Tam_Amber.jpg/revision/latest?cb=20231215140842" class="image image-thumbnail" title="Tam Amber">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/5/52/Tam_Amber.jpg/revision/latest/scale-to-width-down/268?cb=20231215140842" srcset="https://static.wikia.nocookie.net/thehungergames/images/5/52/Tam_Amber.jpg/revision/latest/scale-to-width-down/268?cb=20231215140842 1x, https://static.wikia.nocookie.net/thehungergames/images/5/52/Tam_Amber.jpg/revision/latest?cb=20231215140842 2x" class="pi-image-thumbnail" data-relevant="1" alt="Tam Amber" width="270" height="492" data-image-key="Tam_Amber.jpg" data-image-name="Tam Amber.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Around 16 (<a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>)<sup id="cite_ref-SR_3_1-0" class="reference"><a href="#cite_note-SR_3-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li><li>Around 26 (<i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>)</li><li>Around 66 (<i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Mandolin player</li><li>Blacksmith<sup id="cite_ref-SR_1_2-0" class="reference"><a href="#cite_note-SR_1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Seam" title="The Seam">The Seam</a> in <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Covey" title="Covey">The Covey</a> <small>(adoptive family)</small></li><li><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> † <small>(adoptive niece)</small></li><li><a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> † <small>(distant relative)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Presumed deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Eike_Onyambu" title="Eike Onyambu">Eike Onyambu</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>A tall, rawboned young man in a feathered hat came from behind the curtain, strumming an instrument similar to a guitar but with a body more like a teardrop. He walked straight to Maude Ivory's side, not acknowledging the audience in any way, his fingers moving easily over the strings.</i>"</span></dd>
+<dd>—Description of Tam Amber<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Tam Amber</b> was a resident of <a href="/wiki/District_12" title="District 12">District 12</a> and a member of the <a href="/wiki/Covey" title="Covey">Covey</a>. Tam Amber was a standout player on his mandolin, performing with lightning-fast fingering while keeping his facial features expressionless and distant.<sup id="cite_ref-Ballad_23_3-0" class="reference"><a href="#cite_note-Ballad_23-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Covey_Genocide"><span class="tocnumber">1.2</span> <span class="toctext">Covey Genocide</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#10th_Hunger_Games"><span class="tocnumber">1.3</span> <span class="toctext">10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Aftermath"><span class="tocnumber">1.4</span> <span class="toctext">Aftermath</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#50th_Hunger_Games"><span class="tocnumber">1.5</span> <span class="toctext">50th Hunger Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Family"><span class="tocnumber">3</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="67187" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What instrument is Tam Amber known for playing?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Tam Amber, from District 12 and part of the Covey, is recognized for his standout mandolin playing, characterized by rapid fingering and a distant facial expression.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67188" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Tam Amber become a member of the Covey?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Found as a baby in a cardboard box by the roadside, Tam Amber was adopted by the Covey, a nomadic group. He learned the mandolin and performed with the Covey to earn money. It's speculated that he was part of the Covey's plan to breed goats and sell milk for extra income.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67189" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Tam Amber learn to play the mandolin?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Tam Amber, hailing from District 12 and part of the Covey, was renowned for his exceptional mandolin skills. His performances were marked by rapid fingering and an unchanging, distant facial expression. The details of his mandolin learning journey, however, are not specified.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Tam Amber","mainEntity":[{"@type":"Question","name":"What instrument is Tam Amber known for playing?","acceptedAnswer":{"@type":"Answer","text":"Tam Amber, from District 12 and part of the Covey, is recognized for his standout mandolin playing, characterized by rapid fingering and a distant facial expression."}},{"@type":"Question","name":"How did Tam Amber become a member of the Covey?","acceptedAnswer":{"@type":"Answer","text":"Found as a baby in a cardboard box by the roadside, Tam Amber was adopted by the Covey, a nomadic group. He learned the mandolin and performed with the Covey to earn money. It's speculated that he was part of the Covey's plan to breed goats and sell milk for extra income."}},{"@type":"Question","name":"How did Tam Amber learn to play the mandolin?","acceptedAnswer":{"@type":"Answer","text":"Tam Amber, hailing from District 12 and part of the Covey, was renowned for his exceptional mandolin skills. His performances were marked by rapid fingering and an unchanging, distant facial expression. The details of his mandolin learning journey, however, are not specified."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tam Amber was found in a cardboard box left on the side of the road and taken in by the traveling Covey when he was just a baby. Because of this, they referred to him as a "lost soul".<sup id="cite_ref-Ballad_24_4-0" class="reference"><a href="#cite_note-Ballad_24-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> He learned to play the mandolin and performed along with the rest of the Covey for profit.<sup id="cite_ref-Ballad_23_3-1" class="reference"><a href="#cite_note-Ballad_23-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Covey_Genocide">Covey Genocide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A few years prior to the events of <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> rounded up the Covey and killed many of them. The few remaining Covey were trapped in District 12, where they made their living doing musical performances.<sup id="cite_ref-Ballad_4_5-0" class="reference"><a href="#cite_note-Ballad_4-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another member of the Covey, <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, had her name drawn in the <a href="/wiki/Reaping" title="Reaping">reaping</a> for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>.<sup id="cite_ref-Ballad_2_6-0" class="reference"><a href="#cite_note-Ballad_2-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> While Lucy Gray was gone, the Covey didn't perform at all, and they only saw <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> once during the televised night of <a href="/wiki/Tribute" title="Tribute">tribute</a> <a href="/wiki/Interviews" title="Interviews">interviews</a>; it had been a clear night in District 12, and Tam Amber had used a lot of tin foil to improve the reception.<sup id="cite_ref-Ballad_24_4-1" class="reference"><a href="#cite_note-Ballad_24-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> Based on their rejection of <a href="/wiki/Billy_Taupe_Clade" title="Billy Taupe Clade">Billy Taupe Clade</a>, they listened to Lucy Gray sing <a href="/wiki/Songs#%22The_Ballad_of_Lucy_Gray_Baird%22" title="Songs">"The Ballad of Lucy Gray Baird"</a> that night. She had written the song to inform them that Billy Taupe played a role in her being reaped.<sup id="cite_ref-Ballad_12_7-0" class="reference"><a href="#cite_note-Ballad_12-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the Covey's first performance at <a href="/wiki/The_Hob" title="The Hob">the Hob</a> since Lucy Gray returned as a <a href="/wiki/Victor" title="Victor">victor</a>, Tam Amber was the first to be introduced by <a href="/wiki/Maude_Ivory_Baird" title="Maude Ivory Baird">Maude Ivory Baird</a>. He walked to her side while playing his mandolin. Later, he proved to be something of a standout on his mandolin during a solo, playing a lightning-fast piece while remaining expressionless.<sup id="cite_ref-Ballad_23_3-2" class="reference"><a href="#cite_note-Ballad_23-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>Tam Amber had fashioned a butter churn for Maude Ivory's birthday, as she was crazy for butter.<sup id="cite_ref-Ballad_25_8-0" class="reference"><a href="#cite_note-Ballad_25-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>The first time the Covey traveled to the lake outside <a href="/wiki/District_12" title="District 12">District 12</a> with Coriolanus Snow and <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>, Tam Amber led them across <a href="/wiki/The_Meadow" title="The Meadow">the Meadow</a>, into the woods and to the lake. After they swam, Tam Amber fashioned his own fishing poles and hooks. He caught, cleaned, gutted and cut up several fish, which were cooked for lunch. As the traveled back home, Tam Amber took a different route where they could pick berries. He then traveled on with Sejanus and Maude Ivory, taking Maude Ivory to the Hob for new shoes.<sup id="cite_ref-Ballad_27_9-0" class="reference"><a href="#cite_note-Ballad_27-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> 
+</p><p>He believed there were still people living up north from District 12, outside the influence of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, although Lucy Gray wasn't convinced. When she left home for the last time, Tam Amber had been the only person awake. She told him she was going to find out about a goat, as they had been talking about building a herd and selling milk on the side.<sup id="cite_ref-Ballad_30_10-0" class="reference"><a href="#cite_note-Ballad_30-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="50th_Hunger_Games">50th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By the time of the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, he had an adopted niece, <a href="/wiki/Lenore_Dove" class="mw-redirect" title="Lenore Dove">Lenore Dove</a>, who he raised with <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> after her mother died giving birth to her. He was also a very skilled and sought after blacksmith, and many in District 12 owned his creations; including <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> who used arrow tips made by him<sup id="cite_ref-SR_1_2-1" class="reference"><a href="#cite_note-SR_1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. Lenore Dove traded eggs for metal with Tam Amber to make her boyfriend, <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, a present for his birthday which she helped design.<sup id="cite_ref-SR_1_2-2" class="reference"><a href="#cite_note-SR_1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> He taught Lenore Dove about the stars.<sup id="cite_ref-SR_3_1-1" class="reference"><a href="#cite_note-SR_3-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> One of his creations was the <a href="/wiki/Mockingjay_pin" title="Mockingjay pin">mockingjay pin</a> that was owned by <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> and later <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>.<sup id="cite_ref-SR_12_11-0" class="reference"><a href="#cite_note-SR_12-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> During the reaping, Lenore Dove got into trouble during the disarray after <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> was killed. Upon its conclusion, Lenore Dove was put in handcuffs by a Peacekeeper until Tam Amber and Clerk Carmine bribed him with money to let her go. They led her down a sideroad when she tried to get to Haymitch, who had been reaped in Woodbine's place.<sup id="cite_ref-SR2_12-0" class="reference"><a href="#cite_note-SR2-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p><p>Lenore Dove was arrested again not long later for playing forbidden <a href="/wiki/Songs" title="Songs">songs</a> in front of the <a href="/wiki/Justice_Building" title="Justice Building">Justice Building</a>, causing her uncles great stress, as she was being held in the <a href="/wiki/Peacekeepers%27_base" title="Peacekeepers' base">Peacekeepers' base</a>.<sup id="cite_ref-SR14_13-0" class="reference"><a href="#cite_note-SR14-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup> When she was given permission to return home on house arrest, Tam Amber was concerned about her, but allowed her to go to the Meadow. However, Haymitch met Lenore Dove there and unintentionally fed her poisoned gumdrops planted by <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>. She died almost immediately after.<sup id="cite_ref-SR26_14-0" class="reference"><a href="#cite_note-SR26-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> Tam Amber watched as Clerk Carmine tried to restart her heart, mumbling, "not again."<sup id="cite_ref-SR27_15-0" class="reference"><a href="#cite_note-SR27-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tam Amber was a tall, rawboned young man. He wore a feathered hat during his performances.<sup id="cite_ref-Ballad_23_3-3" class="reference"><a href="#cite_note-Ballad_23-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since Tam Amber was abandoned on the side of the road as a baby, nothing is known of his biological family, and any adoptive family he had are presumed deceased due to the Covey genocide. After that, the six remaining Covey children were taken in by an old man for a fee. The man didn't raise them, but he didn't "much mess with [them]" either. He died of <a href="/wiki/Health_conditions#Black_lung" title="Health conditions">black lung</a> the year prior to Lucy Gray's reaping, but some of the Covey were old enough to manage things by then.<sup id="cite_ref-Ballad_6_16-0" class="reference"><a href="#cite_note-Ballad_6-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> Tam Amber was around 16 at the end of the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>,<sup id="cite_ref-SR_3_1-2" class="reference"><a href="#cite_note-SR_3-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> which would place him in his mid-to-late twenties at this time.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="https://en.wikipedia.org/wiki/Tam_(name)" class="extiw" title="wikipedia:Tam (name)">Tam</a> is a short Scots version of the name <a href="https://en.wikipedia.org/wiki/Thomas_(name)" class="extiw" title="wikipedia:Thomas (name)">Thomas</a>, meaning "twin". Since Covey names are drawn from ballads,<sup id="cite_ref-Ballad_27_9-1" class="reference"><a href="#cite_note-Ballad_27-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> his is taken from <a href="https://en.wikipedia.org/wiki/Tam_Lin" class="extiw" title="wikipedia:Tam Lin">Tam Lin</a>.<sup id="cite_ref-Ballad_Interview_17-0" class="reference"><a href="#cite_note-Ballad_Interview-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>  The second part, <a href="https://en.wikipedia.org/wiki/amber" class="extiw" title="wikipedia:amber">amber</a>, is a valuable gemstone that sometimes occurs in coal seams, and is a golden yellow.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The Covey had been talking about building a herd of goats and selling the milk as a second source of income,<sup id="cite_ref-Ballad_29_18-0" class="reference"><a href="#cite_note-Ballad_29-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup> so some theorize that the <a href="/wiki/Goat_Man" title="Goat Man">Goat Man</a> from the <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy">trilogy</a> may have been one of the Covey— most probably Tam Amber.</li>
+<li>He is the only member of the Covey whose surname is unknown.</li>
+<li>As revealed in <i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, he is the creator of the <a href="/wiki/Mockingjay_pin" title="Mockingjay pin">mockingjay pin</a> that was a symbol of the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.<sup id="cite_ref-SR_12_11-1" class="reference"><a href="#cite_note-SR_12-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTam_Amber%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-SR_3-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR_3_1-0">1.0</a></sup> <sup><a href="#cite_ref-SR_3_1-1">1.1</a></sup> <sup><a href="#cite_ref-SR_3_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-SR_1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR_1_2-0">2.0</a></sup> <sup><a href="#cite_ref-SR_1_2-1">2.1</a></sup> <sup><a href="#cite_ref-SR_1_2-2">2.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_23-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_23_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_23_3-1">3.1</a></sup> <sup><a href="#cite_ref-Ballad_23_3-2">3.2</a></sup> <sup><a href="#cite_ref-Ballad_23_3-3">3.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-Ballad_24-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_24_4-0">4.0</a></sup> <sup><a href="#cite_ref-Ballad_24_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-Ballad_4-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_4_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-Ballad_2-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_2_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_12-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_12_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_25-8"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_25_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-Ballad_27-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_27_9-0">9.0</a></sup> <sup><a href="#cite_ref-Ballad_27_9-1">9.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-Ballad_30-10"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_30_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 30</span>
+</li>
+<li id="cite_note-SR_12-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR_12_11-0">11.0</a></sup> <sup><a href="#cite_ref-SR_12_11-1">11.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-SR2-12"><span class="mw-cite-backlink"><a href="#cite_ref-SR2_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-SR14-13"><span class="mw-cite-backlink"><a href="#cite_ref-SR14_13-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-SR26-14"><span class="mw-cite-backlink"><a href="#cite_ref-SR26_14-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-SR27-15"><span class="mw-cite-backlink"><a href="#cite_ref-SR27_15-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-Ballad_6-16"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_6_16-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_Interview-17"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Interview_17-0">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.suzannecollinsbooks.com/the_ballad_of_songbirds_and_snakes_scholastic_interview.htm">THE BALLAD OF SONGBIRDS AND SNAKES SCHOLASTIC INTERVIEW</a></span>
+</li>
+<li id="cite_note-Ballad_29-18"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_29_18-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 29</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <strong class="mw-selflink selflink">Tam Amber</strong> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20260103072026
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.109 seconds
+Real time usage: 0.122 seconds
+Preprocessor visited node count: 1128/1000000
+Post‐expand include size: 7550/2097152 bytes
+Template argument size: 575/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9069/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   63.748      1 -total
+ 40.81%   26.017      1 Template:Character
+ 29.18%   18.599      1 Template:Reflist
+  7.10%    4.528     10 Template:BSS
+  4.96%    3.160      7 Template:SOTR
+  2.88%    1.833      4 Template:W
+  2.45%    1.562      1 Template:Quote
+  2.38%    1.518      1 Template:PrequelSeries
+  2.31%    1.475      1 Template:SOTRNav
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539648-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103072026 and revision id 968089. Rendering was triggered because: edit-page
+ -->
+</div>

@@ -1,0 +1,291 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Dill</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a5/Dill.jpg/revision/latest?cb=20231102205902" class="image image-thumbnail" title="Dill">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/a/a5/Dill.jpg/revision/latest/scale-to-width-down/268?cb=20231102205902" srcset="https://static.wikia.nocookie.net/thehungergames/images/a/a5/Dill.jpg/revision/latest/scale-to-width-down/268?cb=20231102205902 1x, https://static.wikia.nocookie.net/thehungergames/images/a/a5/Dill.jpg/revision/latest/scale-to-width-down/536?cb=20231102205902 2x" class="pi-image-thumbnail" data-relevant="1" alt="Dill" width="270" height="397" data-image-key="Dill.jpg" data-image-name="Dill.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">12-18</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_11" title="District 11">District 11</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Luna_Steeples" title="Luna Steeples">Luna Steeples</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span>"<i>"She's <a href="/wiki/Reaper_Ash" title="Reaper Ash">his</a> district partner," said Lysistrata. "And she's almost dead now. Tuberculosis, probably." That quieted people down, as a bad strain of the stuff still cropped up around the Capitol, where it was barely managed as a chronic condition, let alone cured. In the districts, of course, it was a death sentence.</i>"</span></dd>
+<dd>—<a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> discussing Dill's condition.</dd></dl></div>
+<p><b>Dill</b> was the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_11" title="District 11">District 11</a> in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. Her <a href="/wiki/Mentor" title="Mentor">mentor</a> was <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Death"><span class="tocnumber">1.1</span> <span class="toctext">Death</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Film_adaptation"><span class="tocnumber">1.1.1</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="47275" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Dill's mentor in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Dill, the female tribute from District 11, was mentored by Felix Ravinstill, a high-achieving senior from the Capitol's Academy. Dill's ill health posed challenges for Felix in promoting her during the Games' interviews.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47276" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What district did Dill represent in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Dill served as the female tribute for District 11. She was selected during the Reaping and subsequently taken to the Capitol. Felix Ravinstill was her mentor during this period.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47277" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How was Dill transported to the Capitol for the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Dill, the female tribute from District 11, was moved to the Capitol using a cargo train. She was initially placed in a grimy cattle car, then shifted to a cage at the Capitol Zoo. The Capitol operates a rapid train system, capable of traversing the distance from District 12 to the Capitol within a day.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47278" data-revision-id="3">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is known about Dill's life in District 11 before the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Dill, a female tribute from District 11 in the 10th Hunger Games, grew up in an impoverished and repressed environment. Her district was heavily policed, with strict local governance and harsh Peacekeepers. Despite agriculture being the district's industry, most produce was sent to the Capitol.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Community
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Dill","mainEntity":[{"@type":"Question","name":"Who was Dill's mentor in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Dill, the female tribute from District 11, was mentored by Felix Ravinstill, a high-achieving senior from the Capitol's Academy. Dill's ill health posed challenges for Felix in promoting her during the Games' interviews."}},{"@type":"Question","name":"What district did Dill represent in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Dill served as the female tribute for District 11. She was selected during the Reaping and subsequently taken to the Capitol. Felix Ravinstill was her mentor during this period."}},{"@type":"Question","name":"How was Dill transported to the Capitol for the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Dill, the female tribute from District 11, was moved to the Capitol using a cargo train. She was initially placed in a grimy cattle car, then shifted to a cage at the Capitol Zoo. The Capitol operates a rapid train system, capable of traversing the distance from District 12 to the Capitol within a day."}},{"@type":"Question","name":"What is known about Dill's life in District 11 before the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Dill, a female tribute from District 11 in the 10th Hunger Games, grew up in an impoverished and repressed environment. Her district was heavily policed, with strict local governance and harsh Peacekeepers. Despite agriculture being the district's industry, most produce was sent to the Capitol."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 128px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/38/Dill_reaping.jpg/revision/latest?cb=20240215034221" class="mw-file-description image"><img alt="Dill coughing at the reaping." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="128" height="180" class="thumbimage lazyload" data-image-name="Dill reaping.jpg" data-image-key="Dill_reaping.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/38/Dill_reaping.jpg/revision/latest/scale-to-width-down/128?cb=20240215034221"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/3/38/Dill_reaping.jpg/revision/latest?cb=20240215034221" class="mw-file-description image"><img alt="Dill coughing at the reaping." src="https://static.wikia.nocookie.net/thehungergames/images/3/38/Dill_reaping.jpg/revision/latest/scale-to-width-down/128?cb=20240215034221" decoding="async" loading="lazy" width="128" height="180" class="thumbimage" data-image-name="Dill reaping.jpg" data-image-key="Dill_reaping.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/38/Dill_reaping.jpg/revision/latest/scale-to-width-down/128?cb=20240215034221"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Dill_reaping.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Dill coughing at the reaping.</p> 		 	</figcaption> </figure>
+<p>Dill grew up in District 11 and became her district's female tribute in <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a> for the 10th Hunger Games.<sup id="cite_ref-Ballad_7_1-0" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Along with the other tributes, Dill was taken to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in a dirty cattle car, then transferred into a truck.<sup id="cite_ref-Ballad_3_2-0" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>There, she told <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, the mentor of <a href="/wiki/District_12" title="District 12">District 12</a> tribute <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, that Reaper, her district partner, had once killed a <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a>. In response, Reaper told her to shut it, but she asked who cared now. When Lucy Gray stopped the other tributes from attacking Snow, saying that he was her mentor, Dill asked "<i>How come you get a mender?</i>" When Snow said that they each got one, Dill asked where they were and why they hadn't come. Lucy Gray replied that they just weren't as inspired. The tributes were then dumped into the monkey house at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>.<sup id="cite_ref-Ballad_3_2-1" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>That evening, Snow discovered fellow mentor <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> at the zoo, apparently trying to coax Dill to take a sandwich. He wondered why Plinth would do this when she wasn't even his tribute.<sup id="cite_ref-Ballad_5_3-0" class="reference"><a href="#cite_note-Ballad_5-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>During the <a href="/wiki/Interviews" title="Interviews">interviews</a> for the Games, <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>, her assigned mentor, tried to make an impression with her, but she was so sickly that her coughs were barely audible.<sup id="cite_ref-Ballad_11_4-0" class="reference"><a href="#cite_note-Ballad_11-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On the first day of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, Reaper could seen be carrying Dill, who was on the verge of death, out of a tunnel and onto a sunny spot of a piece of charred wood. She was also shivering despite the heat. Her mentor was surprised she even made it that long, as she was likely suffering from <a href="https://en.wikipedia.org/wiki/tuberculosis" class="extiw" title="wikipedia:tuberculosis">tuberculosis</a>. She received two bottles of water by <a href="/wiki/Sponsorship" title="Sponsorship">sponsors</a>, but did not even acknowledge them. <a href="/wiki/Treech" title="Treech">Treech</a> came later and quickly stole them. As the day ended, Dill's body convulsed and violently coughed up blood. Blood soaked the filthy dress that she wore.<sup id="cite_ref-Ballad_14_5-0" class="reference"><a href="#cite_note-Ballad_14-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p>When the gong rang, she began to move around until Reaper appeared and protected her from an attack by Circ. Until the center of the arena was vacated, she and Reaper remained there, watching everything unfold. Then they decided to hide in the tunnels until the next day, when Dill emerged and unknowingly drank from a bottle of water that Lucy Gray had poisoned. Lucy Gray watched from behind a vent as Dill collapsed, horrified because her intended target had been <a href="/wiki/Coral" title="Coral">Coral</a>. Dill placed 7th overall.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> Dill's fate replaced that of <a href="/wiki/Wovey" title="Wovey">Wovey</a>'s in the book.<sup id="cite_ref-Ballad_24_7-0" class="reference"><a href="#cite_note-Ballad_24-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> first saw Dill on the train platform, he described <a href="/wiki/Reaper" class="mw-redirect" title="Reaper">Reaper</a>, her district partner, first, to be "a tall boy with dark brown skin". He then described Dill as "a girl with similar coloring but a skeletal frame and a hacking cough."<sup id="cite_ref-Ballad_3_2-2" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>In the arena, Dill seemed to have shrunk due to illness. Her body was curled in the fetal position and she wore a filthy dress that became soaked with blood upon her death.<sup id="cite_ref-Ballad_14_5-1" class="reference"><a href="#cite_note-Ballad_14-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dill may be named after the <a href="https://en.wikipedia.org/wiki/dill" class="extiw" title="wikipedia:dill">dill</a> herb.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Dill had some sort of mutual bond with her fellow District 11 tribute, <a href="/wiki/Reaper" class="mw-redirect" title="Reaper">Reaper</a>. On the first day of the Games, before Dill died, Reaper carried Dill out of the tunnel and made a lackluster attempt to comfort her. This is a vaguely similar relationship as that of <a href="/wiki/Thresh" title="Thresh">Thresh</a> and <a href="/wiki/Rue" title="Rue">Rue</a> from the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="d536d694f1a3b3a31eccc80dc7721871" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:157px;"><div class="gallery-image-wrapper accent" id="D11FDill-jpg" style="position: relative; height:155px; width:185px;"><a class="image lightbox" href="/wiki/File:D11FDill.jpg" title="D11FDill.jpg (45 KB)" style="height:155px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/1/12/D11FDill.jpg/revision/latest/scale-to-width-down/185?cb=20250427070227" title="D11FDill.jpg (45 KB)" class="thumbimage" alt="Dill's face on the monitors." height="155" width="185" data-image-name="D11FDill.jpg" data-image-key="D11FDill.jpg" data-relevant="1" data-caption="Dill's face on the monitors."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D11FDill.jpg (45 KB)" class="thumbimage lazyload" alt="Dill's face on the monitors." height="155" width="185" data-image-name="D11FDill.jpg" data-image-key="D11FDill.jpg" data-relevant="1" data-caption="Dill's face on the monitors." data-src="https://static.wikia.nocookie.net/thehungergames/images/1/12/D11FDill.jpg/revision/latest/scale-to-width-down/185?cb=20250427070227"></a></div></div><div class="lightbox-caption" style="width:185px;">Dill's face on the monitors.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:157px;"><div class="gallery-image-wrapper accent" id="ReaperDillConceptArt-png" style="position: relative; height:129px; width:185px; top:13px;"><a class="image lightbox" href="/wiki/File:ReaperDillConceptArt.png" title="ReaperDillConceptArt.png (156 KB)" style="height:129px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/5/53/ReaperDillConceptArt.png/revision/latest/scale-to-width-down/185?cb=20250427070149" title="ReaperDillConceptArt.png (156 KB)" class="thumbimage" alt="Concept art of Reaper and Dill's costumes." height="155" width="185" data-image-name="ReaperDillConceptArt.png" data-image-key="ReaperDillConceptArt.png" data-relevant="1" data-caption="Concept art of Reaper and Dill's costumes."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="ReaperDillConceptArt.png (156 KB)" class="thumbimage lazyload" alt="Concept art of Reaper and Dill's costumes." height="155" width="185" data-image-name="ReaperDillConceptArt.png" data-image-key="ReaperDillConceptArt.png" data-relevant="1" data-caption="Concept art of Reaper and Dill's costumes." data-src="https://static.wikia.nocookie.net/thehungergames/images/5/53/ReaperDillConceptArt.png/revision/latest/scale-to-width-down/185?cb=20250427070149"></a></div></div><div class="lightbox-caption" style="width:185px;">Concept art of Reaper and Dill's costumes.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:157px;"><div class="gallery-image-wrapper accent" id="Vlcsnap-2025-04-16-17h15m50s137-png" style="position: relative; height:77px; width:185px; top:39px;"><a class="image lightbox" href="/wiki/File:Vlcsnap-2025-04-16-17h15m50s137.png" title="Vlcsnap-2025-04-16-17h15m50s137.png (7.08 MB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/5/52/Vlcsnap-2025-04-16-17h15m50s137.png/revision/latest/scale-to-width-down/185?cb=20250427064221" title="Vlcsnap-2025-04-16-17h15m50s137.png (7.08 MB)" class="thumbimage" alt="" height="155" width="185" data-image-name="Vlcsnap-2025-04-16-17h15m50s137.png" data-image-key="Vlcsnap-2025-04-16-17h15m50s137.png" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Vlcsnap-2025-04-16-17h15m50s137.png (7.08 MB)" class="thumbimage lazyload" alt="" height="155" width="185" data-image-name="Vlcsnap-2025-04-16-17h15m50s137.png" data-image-key="Vlcsnap-2025-04-16-17h15m50s137.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/52/Vlcsnap-2025-04-16-17h15m50s137.png/revision/latest/scale-to-width-down/185?cb=20250427064221"></a></div></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_7-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_3_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_3_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_3_2-2">2.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_5-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_5_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 5</span>
+</li>
+<li id="cite_note-Ballad_11-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_11_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_14-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_14_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ballad_14_5-1">5.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-Ballad_24-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_24_7-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 24</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <strong class="mw-selflink selflink">Dill</strong> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251225015729
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.064 seconds
+Real time usage: 0.112 seconds
+Preprocessor visited node count: 289/1000000
+Post‐expand include size: 2871/2097152 bytes
+Template argument size: 420/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7960/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   49.193      1 -total
+ 46.54%   22.894      1 Template:Character
+ 16.16%    7.950      1 Template:Reflist
+  4.48%    2.206      1 Template:Quote
+  2.97%    1.460      1 Template:PrequelSeries
+  2.82%    1.388      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539443-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225015729 and revision id 964128. Rendering was triggered because: page-view
+ -->
+</div>

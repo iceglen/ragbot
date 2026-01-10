@@ -1,0 +1,290 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Brandy</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/06/Brandy.jpg/revision/latest?cb=20231122163028" class="image image-thumbnail" title="Brandy">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/0/06/Brandy.jpg/revision/latest/scale-to-width-down/267?cb=20231122163028" srcset="https://static.wikia.nocookie.net/thehungergames/images/0/06/Brandy.jpg/revision/latest/scale-to-width-down/267?cb=20231122163028 1x, https://static.wikia.nocookie.net/thehungergames/images/0/06/Brandy.jpg/revision/latest/scale-to-width-down/536?cb=20231122163028 2x" class="pi-image-thumbnail" data-relevant="1" alt="Brandy" width="270" height="180" data-image-key="Brandy.jpg" data-image-name="Brandy.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">12–18</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_10" title="District 10">District 10</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased (shot by <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>)</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Luna_Kuse" title="Luna Kuse">Luna Kuse</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Coriolanus glanced over in time to see the District 10 girl retrieve the cheese sandwich and take a furious bite before the bullets pierced her body, slamming her into the bars.</i>"</span></dd>
+<dd>—<a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> describing Brandy's death.<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Brandy</b> was the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_10" title="District 10">District 10</a> who was reaped to participate in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. She had spent her life butchering hogs. Her mentor was <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Death"><span class="tocnumber">1.1</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37490" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Did Brandy survive the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Brandy, a tribute from District 10 in the 10th Hunger Games, was killed by Peacekeepers after she slit the throat of her mentor, Arachne Crane, prior to the start of the games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37491" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Brandy's profession before she was reaped for the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Prior to her selection for the 10th Hunger Games, Brandy's occupation was hog butchering in District 10, an area recognized for its livestock production. She was the female tribute chosen for her district during the reaping.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37492" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Brandy's mentor in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Brandy was mentored by Arachne Crane, an elite senior from the Academy. Crane hailed from an affluent Capitol family with a background in the travel sector.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37493" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the main industry of District 10 where Brandy grew up?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						District 10, where Brandy was raised, primarily operates slaughterhouses, processing hogs and cattle. This district also preserves its cattle herds' genetic diversity through the implantation of long-frozen cow embryos.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37494" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How was Brandy transported to the Capitol for the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						For the Hunger Games, Brandy was moved to the Capitol in a grimy cattle car. On reaching, she was placed in the monkey house at the Capitol Zoo. Additionally, she and the remaining tributes were restrained using a crane attached to a truck.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Brandy","mainEntity":[{"@type":"Question","name":"Did Brandy survive the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Brandy, a tribute from District 10 in the 10th Hunger Games, was killed by Peacekeepers after she slit the throat of her mentor, Arachne Crane, prior to the start of the games."}},{"@type":"Question","name":"What was Brandy's profession before she was reaped for the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Prior to her selection for the 10th Hunger Games, Brandy's occupation was hog butchering in District 10, an area recognized for its livestock production. She was the female tribute chosen for her district during the reaping."}},{"@type":"Question","name":"Who was Brandy's mentor in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Brandy was mentored by Arachne Crane, an elite senior from the Academy. Crane hailed from an affluent Capitol family with a background in the travel sector."}},{"@type":"Question","name":"What is the main industry of District 10 where Brandy grew up?","acceptedAnswer":{"@type":"Answer","text":"District 10, where Brandy was raised, primarily operates slaughterhouses, processing hogs and cattle. This district also preserves its cattle herds' genetic diversity through the implantation of long-frozen cow embryos."}},{"@type":"Question","name":"How was Brandy transported to the Capitol for the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"For the Hunger Games, Brandy was moved to the Capitol in a grimy cattle car. On reaching, she was placed in the monkey house at the Capitol Zoo. Additionally, she and the remaining tributes were restrained using a crane attached to a truck."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 159px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/7b/Brandy_reaping.jpg/revision/latest?cb=20240215033924" class="mw-file-description image"><img alt="Brandy at the reaping." src="https://static.wikia.nocookie.net/thehungergames/images/7/7b/Brandy_reaping.jpg/revision/latest/scale-to-width-down/159?cb=20240215033924" decoding="async" loading="lazy" width="159" height="200" class="thumbimage" data-image-name="Brandy reaping.jpg" data-image-key="Brandy_reaping.jpg" data-relevant="0"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Brandy_reaping.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Brandy at the reaping.</p> 		 	</figcaption> </figure>
+<p>Brandy grew up in District 10, spending most of her time butchering hogs, as the district's main industry is livestock. She became her district's female tribute in the <a href="/wiki/Reaping" title="Reaping">reaping</a> for the 10th Hunger Games.<sup id="cite_ref-Ballad_7_1-0" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Along with the other tributes, Brandy was taken to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in a dirty cattle car. From there, they were dumped into the monkey house at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>.<sup id="cite_ref-Ballad_3_2-0" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> During the first mentor-tribute meeting, Brandy told her mentor, <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a>, of her life in District 10. Arachne was disgusted at first, though she later realized she could come up with something using her knowledge of the district from previous visits there.<sup id="cite_ref-Ballad_3_2-1" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Brandy died two days after the reaping, on July 6th. Arachne brought the starved Brandy a sandwich in the zoo, but instead of handing it over, she lectured her and taunted the tribute for the spectating Capitol citizens. However, Brandy grabbed the handle of Arachne's own knife and leaned forward to slit Arachne's throat.<sup id="cite_ref-Ballad_6_3-0" class="reference"><a href="#cite_note-Ballad_6-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> 
+</p><p>After the mentor dropped the sandwich and <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> arrived in a futile attempt to help Arachne, Brandy retrieved the sandwich and took a furious bite before being gunned down by <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>. Brandy was the first of the tributes to die, before the Hunger Games had even begun. <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> was seen sprinkling breadcrumbs over her body, as was tradition in <a href="/wiki/District_2" title="District 2">District 2</a>, before being pulled away by a Peacekeeper.<sup id="cite_ref-Ballad_7_1-1" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>During Arachne's funeral, Brandy's bullet-ridden body was hoisted high in the air by a crane affixed to a truck, where the remaining tributes were shackled.<sup id="cite_ref-Ballad_9_4-0" class="reference"><a href="#cite_note-Ballad_9-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Brandy's name comes from the term <a href="https://en.wikipedia.org/wiki/Livestock_branding" class="extiw" title="wikipedia:Livestock branding">branding</a>, the method of marking livestock with a seal to identify their ownership.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Brandy is the first tribute to die on-screen, though not due to the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>.
+<ul><li>Because of this, in the film, her face on the screen is never seen without the death logo over it, even in behind-the-scenes photos, where the faces of other tributes killed before the start of the games can be seen.</li></ul></li>
+<li>Brandy could have been one of the “stronger” tributes during the 10th Hunger Games like her district partner, <a href="/wiki/Tanner" title="Tanner">Tanner</a>. Given her background in District 10, Brandy would have also had some knowledge and experience using tools as weapons.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="b6edeef8374c19b3596fe8b836c9ba3f" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="D10FBrandy-jpg" style="position: relative; height:185px; width:171px;"><a class="image lightbox" href="/wiki/File:D10FBrandy.jpg" title="D10FBrandy.jpg (34 KB)" style="height:185px; width:171px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/b/b9/D10FBrandy.jpg/revision/latest/scale-to-width-down/172?cb=20250427065848" title="D10FBrandy.jpg (34 KB)" class="thumbimage" alt="Brandy's face on the monitors." height="185" width="185" data-image-name="D10FBrandy.jpg" data-image-key="D10FBrandy.jpg" data-relevant="1" data-caption="Brandy's face on the monitors."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D10FBrandy.jpg (34 KB)" class="thumbimage lazyload" alt="Brandy's face on the monitors." height="185" width="185" data-image-name="D10FBrandy.jpg" data-image-key="D10FBrandy.jpg" data-relevant="1" data-caption="Brandy's face on the monitors." data-src="https://static.wikia.nocookie.net/thehungergames/images/b/b9/D10FBrandy.jpg/revision/latest/scale-to-width-down/172?cb=20250427065848"></a></div></div><div class="lightbox-caption" style="width:185px;">Brandy's face on the monitors.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BrandyTannerConceptArt-png" style="position: relative; height:85px; width:185px; top:50px;"><a class="image lightbox" href="/wiki/File:BrandyTannerConceptArt.png" title="BrandyTannerConceptArt.png (225 KB)" style="height:85px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/9/94/BrandyTannerConceptArt.png/revision/latest/scale-to-width-down/185?cb=20250427065804" title="BrandyTannerConceptArt.png (225 KB)" class="thumbimage" alt="Concept art of Tanner and Brandy's costumes." height="185" width="185" data-image-name="BrandyTannerConceptArt.png" data-image-key="BrandyTannerConceptArt.png" data-relevant="1" data-caption="Concept art of Tanner and Brandy's costumes."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="BrandyTannerConceptArt.png (225 KB)" class="thumbimage lazyload" alt="Concept art of Tanner and Brandy's costumes." height="185" width="185" data-image-name="BrandyTannerConceptArt.png" data-image-key="BrandyTannerConceptArt.png" data-relevant="1" data-caption="Concept art of Tanner and Brandy's costumes." data-src="https://static.wikia.nocookie.net/thehungergames/images/9/94/BrandyTannerConceptArt.png/revision/latest/scale-to-width-down/185?cb=20250427065804"></a></div></div><div class="lightbox-caption" style="width:185px;">Concept art of Tanner and Brandy's costumes.</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_7-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_7_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_7_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_3_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_3_2-1">2.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_6-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_6_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_9-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_9_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 9</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <strong class="mw-selflink selflink">Brandy</strong> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251231183527
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.051 seconds
+Real time usage: 0.098 seconds
+Preprocessor visited node count: 225/1000000
+Post‐expand include size: 2935/2097152 bytes
+Template argument size: 420/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5354/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   42.748      1 -total
+ 56.09%   23.978      1 Template:Character
+ 11.27%    4.819      1 Template:Reflist
+  8.17%    3.492      1 Template:PrequelSeries
+  3.45%    1.476      1 Template:Quote
+  2.88%    1.230      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539485-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231183527 and revision id 959294. Rendering was triggered because: page-view
+ -->
+</div>

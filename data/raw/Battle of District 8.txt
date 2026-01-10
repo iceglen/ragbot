@@ -1,0 +1,191 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Battle of District 8</h2>
+
+<figure class="pi-item pi-image" data-source="image1">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/43/MfilmDistrict8.jpg/revision/latest?cb=20140915160343" class="image image-thumbnail" title="MfilmDistrict8">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/4/43/MfilmDistrict8.jpg/revision/latest/scale-to-width-down/268?cb=20140915160343" srcset="https://static.wikia.nocookie.net/thehungergames/images/4/43/MfilmDistrict8.jpg/revision/latest/scale-to-width-down/268?cb=20140915160343 1x, https://static.wikia.nocookie.net/thehungergames/images/4/43/MfilmDistrict8.jpg/revision/latest/scale-to-width-down/536?cb=20140915160343 2x" class="pi-image-thumbnail" data-relevant="1" alt="MfilmDistrict8" width="270" height="117" data-image-key="MfilmDistrict8.jpg" data-image-name="MfilmDistrict8.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="conflict">
+	
+		<h3 class="pi-data-label pi-secondary-font">Conflict</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+	
+		<h3 class="pi-data-label pi-secondary-font">Date</h3>
+	
+	<div class="pi-data-value pi-font">July-August, 75 ADD</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="place">
+	
+		<h3 class="pi-data-label pi-secondary-font">Place</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_8" title="District 8">District 8</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="outcome">
+	
+		<h3 class="pi-data-label pi-secondary-font">Outcome</h3>
+	
+	<div class="pi-data-value pi-font"><b><a href="/wiki/Rebel" class="mw-redirect" title="Rebel">Rebel</a> victory</b><ul><li>District 8 freed from <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a> control</li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Combatants</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row6">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li><a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row7">
+	
+	<div class="pi-data-value pi-font"><b>Rebels</b><ul><li>District 8 rebels</li><li><a href="/wiki/District_13" title="District 13">District 13</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Commanders</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row8">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li>Unknown</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row9">
+	
+	<div class="pi-data-value pi-font"><b>Rebels</b><ul><li><a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Civilian casualties</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row14">
+	
+	<div class="pi-data-value pi-font"><ul><li>Rebel medics</li><li>Wounded civilians<ul><li><a href="/wiki/Eddy" title="Eddy">Eddy</a></li><li><a href="/wiki/Eddy%27s_sister" title="Eddy&#39;s sister">Eddy's sister</a></li></ul></li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>Battle of District 8</b> is an unofficial term referring to the fight to seize control of <a href="/wiki/District_8" title="District 8">District 8</a> from <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in and around the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Pre-Second_Rebellion_civil_unrest"><span class="tocnumber">1.1</span> <span class="toctext">Pre-Second Rebellion civil unrest</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Uprising_of_District_8"><span class="tocnumber">1.1.1</span> <span class="toctext">Uprising of District 8</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-4"><a href="#Second_Rebellion"><span class="tocnumber">1.2</span> <span class="toctext">Second Rebellion</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Propos"><span class="tocnumber">1.2.1</span> <span class="toctext">Propos</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Film_adaptation"><span class="tocnumber">1.2.2</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_persons_involved"><span class="tocnumber">2</span> <span class="toctext">Notable persons involved</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Other_combatants"><span class="tocnumber">2.1</span> <span class="toctext">Other combatants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pre-Second_Rebellion_civil_unrest">Pre-Second Rebellion civil unrest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Pre-Second_Rebellion_civil_unrest" title="Pre-Second Rebellion civil unrest">Pre-Second Rebellion civil unrest</a></i></center></div>
+<p>When <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> visited the <a href="/wiki/District" class="mw-redirect" title="District">district</a> on their <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>, she mentioned that the people there, as well as in <a href="/wiki/District_3" title="District 3">Districts 3</a> and <a href="/wiki/District_4" title="District 4">4</a>, expressed "genuine elation... at the sight of [them], and under the elation, fury." She also characterized their cheers as cries for vengeance.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> She would later learn from <a href="/wiki/Bonnie" title="Bonnie">Bonnie</a> and <a href="/wiki/Twill" title="Twill">Twill</a> that their visit was used as a dress rehearsal for a planned uprising.<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Uprising_of_District_8">Uprising of District 8</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Uprising_of_District_8" title="Uprising of District 8">Uprising of District 8</a></i></center></div>
+<p>During Katniss and Peeta's televised engagement in the Capitol, District 8 rebels donned masks and targeted centers of power and resources in the district. <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> were caught off guard and overwhelmed, their weapons appropriated by rebels, but reinforcements arrived by the thousands. The heightened Peacekeeper response and suppressive <a href="/wiki/Bombings" title="Bombings">bombing</a> brought an end to the uprising within forty-eight hours.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>A week-long period of martial law followed, during which time rebel leaders received televised executions. When martial law was lifted and citizens returned to work, the Capitol bombed the factory where the uprising was planned, killing everyone inside.<sup id="cite_ref-:0_2-2" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion">Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></i></center></div>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f3/Commander-paylor-district-8.jpg/revision/latest?cb=20150110113111" class="mw-file-description image"><img alt="Paylor in District 8 in Mockingjay - Part 1." src="https://static.wikia.nocookie.net/thehungergames/images/f/f3/Commander-paylor-district-8.jpg/revision/latest/scale-to-width-down/180?cb=20150110113111" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Commander-paylor-district-8.jpg" data-image-key="Commander-paylor-district-8.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Commander-paylor-district-8.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Paylor in District 8 in <i>Mockingjay - Part 1</i>.</p> 		 	</figcaption> </figure>
+<p>In the immediate aftermath of the unexpected end of the 75th Hunger Games, uprisings broke out in various districts, including District 8. Strategic and tactical details are largely unavailable, although it is known that within weeks, rebel forces were able to seize control of District 8, liberating it from Capitol rule. 
+</p><p>About a month after the end of the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>, the Capitol heavily bombed District 8 one morning, and Katniss Everdeen and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> were sent to film <a href="/wiki/Propo" title="Propo">propos</a> there in the afternoon. <a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a> had the wounded all gathered in a <a href="/wiki/District_8_hospital" title="District 8 hospital">field hospital</a>, and the dead were kept in an adjacent room; rebels had started a mass grave several blocks west of the hospital, but they couldn't spare the manpower to move the bodies at that time. Katniss briefly visited with the wounded.<sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Shortly after Katniss left the hospital, the Capitol sent another fleet of <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a> for a second wave of bombing, specifically targeting the hospital. The patients and medics inside were all killed. Katniss and Gale took down the hovercraft with explosive <a href="/wiki/Bow_and_arrow" title="Bow and arrow">arrows</a>, using the same technique they used to hunt geese. Then Katniss filmed a stirring propo in front of the burning wreckage.<sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Propos">Propos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>When Katniss's first propaganda spot was broadcast, it was rerun at least seventeen times and played in every district. However, <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> wasn't yet able to get through to the Capitol.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> This and subsequent propos boosted morale in the districts, allowing rebels to take Districts 3 and <a href="/wiki/District_11" title="District 11">11</a>, as well as "[make] inroads in several other districts".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/db/District8VictorsPurge.png/revision/latest?cb=20200720002750" class="mw-file-description image"><img alt="Hooded citizens of District 8 facing execution." src="https://static.wikia.nocookie.net/thehungergames/images/d/db/District8VictorsPurge.png/revision/latest/scale-to-width-down/180?cb=20200720002750" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="District8VictorsPurge.png" data-image-key="District8VictorsPurge.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District8VictorsPurge.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Hooded citizens of District 8 facing <a href="/wiki/Execution" title="Execution">execution</a>.</p> 		 	</figcaption> </figure>
+<p>In <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i>, <a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">President Snow</a> gave a televised speech announcing that possessing images of the <a href="/wiki/Mockingjay_(bird)" title="Mockingjay (bird)">mockingjay</a> would be considered treason, <a href="/wiki/Execution" title="Execution">punishable by death</a>. While this happened, two people from <a href="/wiki/District_8" title="District 8">District 8</a> were hauled out in front of their <a href="/wiki/Justice_Building" title="Justice Building">Justice Building</a> and a crowd of their peers. With sacks over their faces, each victim was shot once in the back of the head.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> They are often presumed to be <a href="/wiki/Victor" title="Victor">victors</a> due to the <a href="/wiki/Victors%27_Purge" title="Victors&#39; Purge">purge</a>.
+</p>
+<h2><span class="mw-headline" id="Notable_persons_involved">Notable persons involved</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2><p>
+During the uprising of District 8, schoolteacher Twill and her husband planned to disguise themselves in Peacekeeper uniforms stolen by Twill's student <a href="/wiki/Bonnie" title="Bonnie">Bonnie</a>, then travel to other districts and spread news of the uprising. Her husband was killed in the factory bombing along with Bonnie's entire family, so the women left together instead. They set out for <a href="/wiki/District_13" title="District 13">District 13</a>, eventually making it to the <a href="/wiki/Woods" title="Woods">woods</a> outside <a href="/wiki/District_12" title="District 12">District 12</a>, where they encountered Katniss.<sup id="cite_ref-:0_2-3" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> However, District 13 had no record of them when she asked, so the pair likely perished in the wilderness before reaching their destination.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Commander_Paylor.png/revision/latest?cb=20151222092633" class="mw-file-description image"><img alt="Commander Paylor in Mockingjay - Part 2." src="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Commander_Paylor.png/revision/latest/scale-to-width-down/180?cb=20151222092633" decoding="async" loading="lazy" width="180" height="229" class="thumbimage" data-image-name="Commander Paylor.png" data-image-key="Commander_Paylor.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Commander_Paylor.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Commander Paylor in <i>Mockingjay - Part 2</i>.</p> 		 	</figcaption> </figure><p>Commander Paylor led rebels in District 8 throughout the Capitol's suppressive bombings,<sup id="cite_ref-:1_3-2" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> and in <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i>, she also served in the <a href="/wiki/Battle_of_District_2" title="Battle of District 2">Battle of District 2</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> After the end of the war, an emergency election was held after the assassination of District 13's <a href="/wiki/President" title="President">President</a> <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a>, and Paylor was voted into office as the new President of <a href="/wiki/Panem" title="Panem">Panem</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><h3><span class="mw-headline" id="Other_combatants">Other combatants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Boggs" title="Boggs">Boggs</a> - District 13</li>
+<li>Katniss Everdeen - District 12</li>
+<li>Gale Hawthorne - District 12</li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>For <i>Mockingjay - Part 1</i>, hospital scenes were filmed at Martha Mills factory in <a href="https://en.wikipedia.org/wiki/Thomaston,_Georgia" class="extiw" title="wikipedia:Thomaston, Georgia">Thomaston, Georgia</a>; the execution scene was filmed at Caldwell Tanks in <a href="https://en.wikipedia.org/wiki/Newnan,_Georgia" class="extiw" title="wikipedia:Newnan, Georgia">Newnan, Georgia</a>; and battle scenes were filmed at Chemiewerk <a href="https://en.wikipedia.org/wiki/R%C3%BCdersdorf" class="extiw" title="wikipedia:Rüdersdorf">Rüdersdorf</a> in <a href="https://en.wikipedia.org/wiki/Germany" class="extiw" title="wikipedia:Germany">Germany</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_8%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_2-0">2.0</a></sup> <sup><a href="#cite_ref-:0_2-1">2.1</a></sup> <sup><a href="#cite_ref-:0_2-2">2.2</a></sup> <sup><a href="#cite_ref-:0_2-3">2.3</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 10</span>
+</li>
+<li id="cite_note-:1-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_3-0">3.0</a></sup> <sup><a href="#cite_ref-:1_3-1">3.1</a></sup> <sup><a href="#cite_ref-:1_3-2">3.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 8</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 9</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 2</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 27</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.motionpictures.org/2015/11/real-locations-used-bring-hunger-games-mockingjay-part-2-life/">https://www.motionpictures.org/2015/11/real-locations-used-bring-hunger-games-mockingjay-part-2-life/</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251228085230
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.072 seconds
+Real time usage: 0.166 seconds
+Preprocessor visited node count: 366/1000000
+Post‐expand include size: 683/2097152 bytes
+Template argument size: 173/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4573/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   82.227      1 -total
+ 36.94%   30.375      1 Template:Battle
+ 31.73%   26.093      1 Template:Reflist
+  2.39%    1.966      3 Template:Main
+  2.36%    1.937      4 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542378-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228085230 and revision id 962793. Rendering was triggered because: page-view
+ -->
+</div>

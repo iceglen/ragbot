@@ -1,0 +1,366 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Seneca Crane</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/d0/Seneca_Crane.jpg/revision/latest?cb=20120208233058" class="image image-thumbnail" title="Seneca Crane">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/d/d0/Seneca_Crane.jpg/revision/latest/scale-to-width-down/268?cb=20120208233058" srcset="https://static.wikia.nocookie.net/thehungergames/images/d/d0/Seneca_Crane.jpg/revision/latest/scale-to-width-down/268?cb=20120208233058 1x, https://static.wikia.nocookie.net/thehungergames/images/d/d0/Seneca_Crane.jpg/revision/latest?cb=20120208233058 2x" class="pi-image-thumbnail" data-relevant="1" alt="Seneca Crane" width="270" height="366" data-image-key="Seneca_Crane.jpg" data-image-name="Seneca Crane.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Head_Gamemaker" class="mw-redirect" title="Head Gamemaker">Head Gamemaker</a> (72-74)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><i>Unknown relations</i><ul><li><a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> and her <a href="/wiki/Arachne_Crane%27s_brother" title="Arachne Crane's brother">unnamed brother</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Control_Room" title="Control Room">Control Room</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font">Black (film)</div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="moviemention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wes_Bentley" title="Wes Bentley">Wes Bentley</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>An unfortunate sentimental streak.</i>"</span></dd>
+<dd>—<a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> on Seneca Crane<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p><b>Seneca Crane</b> was the <a href="/wiki/Head_Gamemaker" class="mw-redirect" title="Head Gamemaker">Head Gamemaker</a> of the <a href="/wiki/List_of_Hunger_Games" title="List of Hunger Games">72nd</a>, <a href="/wiki/73rd_Hunger_Games" title="73rd Hunger Games">73rd</a>, and <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th</a> <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, in charge of coordinating game play and ordering the creation of obstacles into the <a href="/wiki/Arena" title="Arena">arena</a>. At the end of the 74th Games, he allowed both <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> to emerge as <a href="/wiki/Victors" class="mw-redirect" title="Victors">victors</a>, rather than allow them to commit suicide and thus have no victor at all.<sup id="cite_ref-THG_1-0" class="reference"><a href="#cite_note-THG-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Unfortunately, this decision did not sit well with <a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">President Snow</a>, and Crane was dead by the time of Katniss and Peeta's <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a> six months later.
+</p><p>He was possibly related to <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a>, who served as a <a href="/wiki/Mentor" title="Mentor">mentor</a> during the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_Hunger_Games_(film)"><span class="tocnumber">1.1</span> <span class="toctext"><i>The Hunger Games</i> (film)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Death"><span class="tocnumber">1.1.1</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Legacy"><span class="tocnumber">1.1.2</span> <span class="toctext">Legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Catching_Fire"><span class="tocnumber">1.2</span> <span class="toctext"><i>Catching Fire</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Gallery"><span class="tocnumber">6</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Navigation"><span class="tocnumber">8</span> <span class="toctext">Navigation</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37578" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Seneca Crane play in the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, Seneca Crane was the Head Gamemaker, responsible for coordinating gameplay and introducing obstacles into the arena. His controversial decision to allow Katniss Everdeen and Peeta Mellark to both win led to his demise before Katniss and Peeta's Victory Tour.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37579" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why did Seneca Crane allow both Katniss Everdeen and Peeta Mellark to emerge as victors?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						As the Head Gamemaker in the Hunger Games, Seneca Crane permitted Katniss Everdeen and Peeta Mellark to become joint victors. This decision was a reaction to their threat of mutual suicide, which would have left the games without a winner. However, this act was perceived as a weakness by the Capitol, unintentionally igniting a rebellion. Seneca's inaction to eliminate Katniss and Peeta when possible resulted in his death.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37580" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What were the consequences of Seneca Crane's decision to have two victors in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						As the Hunger Games Gamemaker, Seneca Crane allowed both Katniss Everdeen and Peeta Mellark to emerge as victors of the 74th Hunger Games, marking a historical first. However, this decision led to his execution. Although the novels do not detail his death, the film shows him locked in a room with a bowl of nightlock.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37581" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What happened to Seneca Crane after the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Seneca Crane, the Head Gamemaker of the 74th Hunger Games, was executed on President Snow's orders for permitting a dual victory by Katniss and Peeta. The novels do not detail his death, but the film suggests he was forced into suicide using nightlock berries.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37582" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Is Seneca Crane related to any other characters in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Seneca Crane, known as the Hunger Games Gamemaker, is potentially related to Arachne Crane, a mentor in the 10th Hunger Games. Their exact relationship is not clearly defined.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Seneca Crane","mainEntity":[{"@type":"Question","name":"What role did Seneca Crane play in the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, Seneca Crane was the Head Gamemaker, responsible for coordinating gameplay and introducing obstacles into the arena. His controversial decision to allow Katniss Everdeen and Peeta Mellark to both win led to his demise before Katniss and Peeta's Victory Tour."}},{"@type":"Question","name":"Why did Seneca Crane allow both Katniss Everdeen and Peeta Mellark to emerge as victors?","acceptedAnswer":{"@type":"Answer","text":"As the Head Gamemaker in the Hunger Games, Seneca Crane permitted Katniss Everdeen and Peeta Mellark to become joint victors. This decision was a reaction to their threat of mutual suicide, which would have left the games without a winner. However, this act was perceived as a weakness by the Capitol, unintentionally igniting a rebellion. Seneca's inaction to eliminate Katniss and Peeta when possible resulted in his death."}},{"@type":"Question","name":"What were the consequences of Seneca Crane's decision to have two victors in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"As the Hunger Games Gamemaker, Seneca Crane allowed both Katniss Everdeen and Peeta Mellark to emerge as victors of the 74th Hunger Games, marking a historical first. However, this decision led to his execution. Although the novels do not detail his death, the film shows him locked in a room with a bowl of nightlock."}},{"@type":"Question","name":"What happened to Seneca Crane after the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Seneca Crane, the Head Gamemaker of the 74th Hunger Games, was executed on President Snow's orders for permitting a dual victory by Katniss and Peeta. The novels do not detail his death, but the film suggests he was forced into suicide using nightlock berries."}},{"@type":"Question","name":"Is Seneca Crane related to any other characters in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Seneca Crane, known as the Hunger Games Gamemaker, is potentially related to Arachne Crane, a mentor in the 10th Hunger Games. Their exact relationship is not clearly defined."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="The_Hunger_Games_.28film.29"></span><span class="mw-headline" id="The_Hunger_Games_(film)"><i>The Hunger Games</i> (film)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-right show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/ab/Seneca_impressed.jpg/revision/latest?cb=20120419072659" class="mw-file-description image"><img alt="Seneca is impressed after Katniss shoots an arrow through the apple in the pig's mouth." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="120" class="thumbimage lazyload" data-image-name="Seneca impressed.jpg" data-image-key="Seneca_impressed.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/ab/Seneca_impressed.jpg/revision/latest/scale-to-width-down/180?cb=20120419072659"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/a/ab/Seneca_impressed.jpg/revision/latest?cb=20120419072659" class="mw-file-description image"><img alt="Seneca is impressed after Katniss shoots an arrow through the apple in the pig's mouth." src="https://static.wikia.nocookie.net/thehungergames/images/a/ab/Seneca_impressed.jpg/revision/latest/scale-to-width-down/180?cb=20120419072659" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Seneca impressed.jpg" data-image-key="Seneca_impressed.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/ab/Seneca_impressed.jpg/revision/latest/scale-to-width-down/180?cb=20120419072659"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Seneca_impressed.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Seneca is impressed after Katniss shoots an arrow through the apple in the pig's mouth.</p> 		 	</figcaption> </figure>
+<p>Prior to the <a href="/wiki/Reaping" title="Reaping">Reaping</a>, Crane was interviewed by <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> about his previous experiences as Head Gamemaker, and what defined his individual style of gameplay. He was also interviewed prior to the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a> for his opinion of the "<a href="/wiki/Tribute" title="Tribute">recruits</a>" (as Caesar called them): While lacking a fully formed opinion at that stage, Crane acknowledged that Katniss Everdeen's unexpected volunteering created an interesting turn of events, which could affect gameplay later on.<sup id="cite_ref-THG_1-1" class="reference"><a href="#cite_note-THG-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Following the tributes' individual training sessions, Crane met with President Snow to discuss Katniss Everdeen's actions and the potential problems she could cause if such actions continued: Snow questioned the basis for her receiving a training score of 11- shooting an arrow at the Gamemakers (even though Katniss was actually aiming at the apple in the mouth of a roast pig); what Crane saw as a display of courage Snow interpreted as defiance, and he cautioned Crane that such actions could inspire hope - the only thing stronger than fear - and must be contained.<sup id="cite_ref-THG_1-2" class="reference"><a href="#cite_note-THG-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/41/Seneca_meeting_with_Snow.png/revision/latest?cb=20120324003619" class="mw-file-description image"><img alt="Seneca meeting with Snow in the latter's ." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="76" class="thumbimage lazyload" data-image-name="Seneca meeting with Snow.png" data-image-key="Seneca_meeting_with_Snow.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/41/Seneca_meeting_with_Snow.png/revision/latest/scale-to-width-down/180?cb=20120324003619"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/4/41/Seneca_meeting_with_Snow.png/revision/latest?cb=20120324003619" class="mw-file-description image"><img alt="Seneca meeting with Snow in the latter's ." src="https://static.wikia.nocookie.net/thehungergames/images/4/41/Seneca_meeting_with_Snow.png/revision/latest/scale-to-width-down/180?cb=20120324003619" decoding="async" loading="lazy" width="180" height="76" class="thumbimage" data-image-name="Seneca meeting with Snow.png" data-image-key="Seneca_meeting_with_Snow.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/41/Seneca_meeting_with_Snow.png/revision/latest/scale-to-width-down/180?cb=20120324003619"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Seneca_meeting_with_Snow.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Seneca meeting with Snow in the latter's <a href="/wiki/Rose_garden" title="Rose garden">rose garden</a>.</p> 		 	</figcaption> </figure>
+<p>As Katniss' popularity continued to rise over the course of the games, so did her influence; an on-camera salute to the people of District 11 caused them to break out in rioting. Crane met with <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> for advice, and to convey President Snow's need to keep Katniss (and the <a href="/wiki/Districts" class="mw-redirect" title="Districts">districts</a>) in line: This led to the initial rule change that allowed two <a href="/wiki/Victors" class="mw-redirect" title="Victors">victors</a>, though Snow expressed his opposition to such indulgence.<sup id="cite_ref-THG_1-3" class="reference"><a href="#cite_note-THG-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Seneca_Crane_berries_behind_the_scenes.JPG/revision/latest?cb=20231227191838" class="mw-file-description image"><img alt="Seneca locked in the room with a bowl of nightlock berries." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="120" class="thumbimage lazyload" data-image-name="Seneca Crane berries behind the scenes.JPG" data-image-key="Seneca_Crane_berries_behind_the_scenes.JPG" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Seneca_Crane_berries_behind_the_scenes.JPG/revision/latest/scale-to-width-down/180?cb=20231227191838"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Seneca_Crane_berries_behind_the_scenes.JPG/revision/latest?cb=20231227191838" class="mw-file-description image"><img alt="Seneca locked in the room with a bowl of nightlock berries." src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Seneca_Crane_berries_behind_the_scenes.JPG/revision/latest/scale-to-width-down/180?cb=20231227191838" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Seneca Crane berries behind the scenes.JPG" data-image-key="Seneca_Crane_berries_behind_the_scenes.JPG" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/Seneca_Crane_berries_behind_the_scenes.JPG/revision/latest/scale-to-width-down/180?cb=20231227191838"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Seneca_Crane_berries_behind_the_scenes.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Seneca locked in the room with a bowl of nightlock berries.</p> 		 	</figcaption> </figure>
+<p>After Katniss and Peeta threatened to consume poisonous <a href="/wiki/Nightlock" title="Nightlock">nightlock</a> berries and leave the Games with no victor at all, Crane spared their lives and allowed both to emerge as victors, despite President Snow's opposition<sup id="cite_ref-THG_1-4" class="reference"><a href="#cite_note-THG-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>. In Snow's eyes, this act was the final straw and essentially marked the Head Gamemaker for death. In the book, it is never revealed exactly how Crane died, only that his death was ordered by Snow<sup id="cite_ref-CF_2_2-0" class="reference"><a href="#cite_note-CF_2-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-CF_17_3-0" class="reference"><a href="#cite_note-CF_17-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>. In the <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">film</a>, Snow has <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> escort Crane to a room containing only a bowl of nightlock berries and lock him inside.<sup id="cite_ref-THG_1-5" class="reference"><a href="#cite_note-THG-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> It is likely that he committed suicide by eating some of the nightlock; In the film <i><a href="/wiki/Catching_Fire_(film)" class="mw-redirect" title="Catching Fire (film)">Catching Fire</a></i>, Plutarch mentioned to Katniss that Crane decided to "quit breathing... that or it was poison berries" implying that he ate the berries and died as a result<sup id="cite_ref-CF_4-0" class="reference"><a href="#cite_note-CF-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h4><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>As a result of his actions, Seneca inadvertently paved the way for the <a href="/wiki/Second_Rebellion" title="Second Rebellion">rebellion</a> that began in <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>. Had he killed both Katniss and Peeta, the idea of rebellion would have died along with the two tributes. While his granting mercy was likely an effort to save face more than anything, it revealed an unexpected chink in the Capitol's armor; the districts now realized that despite its power, the Capitol could be made to look foolish, and its agenda undermined. Katniss being an "underdog" only lent further weight to her successful defiance. More to the point, Crane's actions ruined one of the primary purposes of the Hunger Games - they were supposed to be a reminder to the districts that the Capitol controlled their very existence and could just as easily have had 24 people rounded up and executed at random, without giving them a chance to fight for their lives. Crane's actions would later be repeated by <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>, who effectively collapsed the tradition of the Hunger Games when he secretly devised a plan to rescue Katniss from the Arena<sup id="cite_ref-CF_27_5-0" class="reference"><a href="#cite_note-CF_27-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h3><span class="mw-headline" id="Catching_Fire"><i>Catching Fire</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Seneca is first mentioned by name when President Snow revealed to Katniss that Crane was executed for not killing Katniss and Peeta when he had the chance.<sup id="cite_ref-CF_2_2-1" class="reference"><a href="#cite_note-CF_2-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3c/Seneca_Crane_hung.jpg/revision/latest?cb=20241006085647" class="mw-file-description image"><img alt="The dummy hung in the  by  during her individual session with the Gamemakers." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="73" class="thumbimage lazyload" data-image-name="Seneca Crane hung.jpg" data-image-key="Seneca_Crane_hung.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/3c/Seneca_Crane_hung.jpg/revision/latest/scale-to-width-down/180?cb=20241006085647"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/3/3c/Seneca_Crane_hung.jpg/revision/latest?cb=20241006085647" class="mw-file-description image"><img alt="The dummy hung in the  by  during her individual session with the Gamemakers." src="https://static.wikia.nocookie.net/thehungergames/images/3/3c/Seneca_Crane_hung.jpg/revision/latest/scale-to-width-down/180?cb=20241006085647" decoding="async" loading="lazy" width="180" height="73" class="thumbimage" data-image-name="Seneca Crane hung.jpg" data-image-key="Seneca_Crane_hung.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/3c/Seneca_Crane_hung.jpg/revision/latest/scale-to-width-down/180?cb=20241006085647"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Seneca_Crane_hung.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The dummy hung in the <a href="/wiki/Training_Center" title="Training Center">Training Center</a> by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> during her individual session with the Gamemakers.</p> 		 	</figcaption> </figure>
+<p>During her individual session with the Gamemakers, Katniss is trying to find some way to display her defiance. She ends up grabbing a dummy, hanging it from a noose, and writing the name <i>SENECA CRANE</i> across it with some dark red berry mixture from the camouflage station.<sup id="cite_ref-CF_16_6-0" class="reference"><a href="#cite_note-CF_16-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> The Gamemakers are shocked and horrified with her performance, and quickly dismiss her.
+</p><p>After Katniss tells <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie</a>, Haymitch, and Peeta about her performance, Effie says, "Oh Katniss, how do you even know about that?", and she replies "Is it a secret? President Snow didn't act like it was. In fact, he seemed eager for me to know."<sup id="cite_ref-CF_17_3-1" class="reference"><a href="#cite_note-CF_17-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> This could mean several things; that the news of Crane's death was not widely circulated, that people didn't know President Snow was behind it, or simply that they believed whatever story had been publicized about his disappearance (the novels give no specific indication).
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As the Head Gamemaker of the Hunger Games, Seneca Crane was a bloodthirsty, cruel individual. He openly showed pleasure in creating various dangers in the arena for the tributes, such as mutts, as well as watching the tributes kill one another. He seemed to like his job more for the fun and drama of it, not for the murder; this was consistent with the behavior of many in the Capitol population, who tended to view the Hunger Games as more of a reality show than an actual death game. However, unlike President Snow and many of his associates, Crane was not completely corrupted and showed a degree of mercy by allowing both Katniss Everdeen and Peeta Mellark to survive the Hunger Games. 
+</p><p>In the film, he seemed uncomfortable when interacting with President Snow, and he did not fully agree with the Capitol's harsh regime. However, it was not until the double suicide threat made by Everdeen and Mellark that he finally decided to not go along with everything Snow said. This ultimately led to his execution.<sup id="cite_ref-THG_1-6" class="reference"><a href="#cite_note-THG-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> 
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>, Crane is portrayed with pale skin, light blueish-gray eyes, and dark hair. He sports a uniquely styled beard, shaved in an intricate design, and his hair appears to be heavily styled with product. The film also mentioned that the 74th Hunger Games marks Crane's third year as Head Gamemaker.<sup id="cite_ref-THG_1-7" class="reference"><a href="#cite_note-THG-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Roman history, Seneca the Younger, also known as Lucius Annaeus Seneca, or often just Seneca; a philosopher and playwright. He was well known in Roman society. He held a seat in the Senate, but later he was exiled. Like Seneca Crane, he was also forced to commit suicide.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In a rough draft of the screenplay for the 2012 film adaptation, Seneca had a much larger role than in the finished film. His dialogue was greatly expanded, giving a glimpse of his personality outside of his role as Head Gamemaker.
+<ul><li>In the screenplay's final scene, President Snow and Seneca were aboard a hovercraft idling over the arena. Snow rebuked Seneca for allowing Katniss and Peeta to live, then opened a box revealing a bowl of nightlock berries. Seneca shook his head, silently declining, and Snow replied, "Good luck, Seneca. And may the odds be ever in your favor!" Seneca was then thrown out of the hovercraft, falling to his death.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup></li></ul></li>
+<li>He was most likely a relative of <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> because they share the same last name.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="f59d631ddd01fe2fbc9a462f6733fd03" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:79px;"><div class="gallery-image-wrapper accent" id="Caesar_and_Seneca_1-jpg" style="position: relative; height:77px; width:185px;"><a class="image lightbox" href="/wiki/File:Caesar_and_Seneca_1.jpg" title="Caesar and Seneca 1.jpg (271 KB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/6/68/Caesar_and_Seneca_1.jpg/revision/latest/scale-to-width-down/185?cb=20210519005719" title="Caesar and Seneca 1.jpg (271 KB)" class="thumbimage" alt="Seneca Crane's first appearance." height="77" width="185" data-image-name="Caesar and Seneca 1.jpg" data-image-key="Caesar_and_Seneca_1.jpg" data-relevant="1" data-caption="Seneca Crane's first appearance."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Caesar and Seneca 1.jpg (271 KB)" class="thumbimage lazyload" alt="Seneca Crane's first appearance." height="77" width="185" data-image-name="Caesar and Seneca 1.jpg" data-image-key="Caesar_and_Seneca_1.jpg" data-relevant="1" data-caption="Seneca Crane's first appearance." data-src="https://static.wikia.nocookie.net/thehungergames/images/6/68/Caesar_and_Seneca_1.jpg/revision/latest/scale-to-width-down/185?cb=20210519005719"></a></div></div><div class="lightbox-caption" style="width:185px;">Seneca Crane's first appearance.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:79px;"><div class="gallery-image-wrapper accent" id="Caesar_and_Seneca_2-jpg" style="position: relative; height:77px; width:185px;"><a class="image lightbox" href="/wiki/File:Caesar_and_Seneca_2.jpg" title="Caesar and Seneca 2.jpg (209 KB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/6/68/Caesar_and_Seneca_2.jpg/revision/latest/scale-to-width-down/185?cb=20210519005752" title="Caesar and Seneca 2.jpg (209 KB)" class="thumbimage" alt="" height="77" width="185" data-image-name="Caesar and Seneca 2.jpg" data-image-key="Caesar_and_Seneca_2.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Caesar and Seneca 2.jpg (209 KB)" class="thumbimage lazyload" alt="" height="77" width="185" data-image-name="Caesar and Seneca 2.jpg" data-image-key="Caesar_and_Seneca_2.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/68/Caesar_and_Seneca_2.jpg/revision/latest/scale-to-width-down/185?cb=20210519005752"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:79px;"><div class="gallery-image-wrapper accent" id="Caesar_and_Seneca_3-jpg" style="position: relative; height:77px; width:185px;"><a class="image lightbox" href="/wiki/File:Caesar_and_Seneca_3.jpg" title="Caesar and Seneca 3.jpg (206 KB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/6/69/Caesar_and_Seneca_3.jpg/revision/latest/scale-to-width-down/185?cb=20210519005806" title="Caesar and Seneca 3.jpg (206 KB)" class="thumbimage" alt="" height="77" width="185" data-image-name="Caesar and Seneca 3.jpg" data-image-key="Caesar_and_Seneca_3.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Caesar and Seneca 3.jpg (206 KB)" class="thumbimage lazyload" alt="" height="77" width="185" data-image-name="Caesar and Seneca 3.jpg" data-image-key="Caesar_and_Seneca_3.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/69/Caesar_and_Seneca_3.jpg/revision/latest/scale-to-width-down/185?cb=20210519005806"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:79px;"><div class="gallery-image-wrapper accent" id="Hunger-games-movie-screencaps-com-5465-jpg" style="position: relative; height:77px; width:185px;"><a class="image lightbox" href="/wiki/File:Hunger-games-movie-screencaps.com-5465.jpg" title="Hunger-games-movie-screencaps.com-5465.jpg (644 KB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/a/a5/Hunger-games-movie-screencaps.com-5465.jpg/revision/latest/scale-to-width-down/185?cb=20250317195615" title="Hunger-games-movie-screencaps.com-5465.jpg (644 KB)" class="thumbimage" alt="" height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-5465.jpg" data-image-key="Hunger-games-movie-screencaps.com-5465.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hunger-games-movie-screencaps.com-5465.jpg (644 KB)" class="thumbimage lazyload" alt="" height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-5465.jpg" data-image-key="Hunger-games-movie-screencaps.com-5465.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a5/Hunger-games-movie-screencaps.com-5465.jpg/revision/latest/scale-to-width-down/185?cb=20250317195615"></a></div></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-THG-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_1-2">1.2</a></sup> <sup><a href="#cite_ref-THG_1-3">1.3</a></sup> <sup><a href="#cite_ref-THG_1-4">1.4</a></sup> <sup><a href="#cite_ref-THG_1-5">1.5</a></sup> <sup><a href="#cite_ref-THG_1-6">1.6</a></sup> <sup><a href="#cite_ref-THG_1-7">1.7</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a></i></span>
+</li>
+<li id="cite_note-CF_2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_2_2-0">2.0</a></sup> <sup><a href="#cite_ref-CF_2_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-CF_17-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_17_3-0">3.0</a></sup> <sup><a href="#cite_ref-CF_17_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-CF-4"><span class="mw-cite-backlink"><a href="#cite_ref-CF_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">Catching Fire</a></i></span>
+</li>
+<li id="cite_note-CF_27-5"><span class="mw-cite-backlink"><a href="#cite_ref-CF_27_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-CF_16-6"><span class="mw-cite-backlink"><a href="#cite_ref-CF_16_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf">https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Navigation">Navigation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSeneca_Crane%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <strong class="mw-selflink selflink">Seneca Crane</strong>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20260105173151
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.076 seconds
+Real time usage: 0.144 seconds
+Preprocessor visited node count: 360/1000000
+Post‐expand include size: 2963/2097152 bytes
+Template argument size: 129/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10304/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   62.889      1 -total
+ 46.12%   29.002      1 Template:Character
+ 18.20%   11.448      1 Template:Reflist
+  2.45%    1.541      1 Template:SeriesTP
+  2.38%    1.498      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2170-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105173151 and revision id 960452. Rendering was triggered because: api-parse
+ -->
+</div>

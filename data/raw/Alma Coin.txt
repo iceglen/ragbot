@@ -1,0 +1,435 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Alma Coin</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/49/PresidentCoinD13Portrait.jpg/revision/latest?cb=20190306042858" class="image image-thumbnail" title="PresidentCoinD13Portrait">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/4/49/PresidentCoinD13Portrait.jpg/revision/latest/scale-to-width-down/267?cb=20190306042858" srcset="https://static.wikia.nocookie.net/thehungergames/images/4/49/PresidentCoinD13Portrait.jpg/revision/latest/scale-to-width-down/267?cb=20190306042858 1x, https://static.wikia.nocookie.net/thehungergames/images/4/49/PresidentCoinD13Portrait.jpg/revision/latest/scale-to-width-down/535?cb=20190306042858 2x" class="pi-image-thumbnail" data-relevant="1" alt="PresidentCoinD13Portrait" width="270" height="479" data-image-key="PresidentCoinD13Portrait.jpg" data-image-name="PresidentCoinD13Portrait.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">Mid-late 50s <small> (<i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>) </small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/President" title="President">President</a> of <a href="/wiki/District_13" title="District 13">District 13</a><br>Rebel leader<br>Interim President of <a href="/wiki/Panem" title="Panem">Panem</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_13" title="District 13">District 13</a><p><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> <small>(briefly)</small></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Alma_Coin%27s_husband" title="Alma Coin's husband">Unnamed husband</a> <small>(film)</small></li><li><a href="/wiki/Alma_Coin%27s_daughter" title="Alma Coin's daughter">Unnamed daughter</a> <small>(film)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Propos" class="mw-redirect" title="Propos">Propaganda</a><br><p>Bombs</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Grey <small>(books)</small><sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li><li>Hazel <small>(films)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Grey <small>(books<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> and films)</small></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a><br><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Julianne_Moore" title="Julianne Moore">Julianne Moore</a></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Alma Coin</b> was the <a href="/wiki/President" title="President">President</a> of <a href="/wiki/District_13" title="District 13">District 13</a> and a leader in the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> She orchestrated the <a href="/wiki/City_Circle_bombing" class="mw-redirect" title="City Circle bombing">City Circle bombing</a>, clearing the way for her to become the interim President of <a href="/wiki/Panem" title="Panem">Panem</a>,<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> before she was assassinated by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>.<sup id="cite_ref-:2_3-0" class="reference"><a href="#cite_note-:2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Coin is the hidden secondary antagonist in the book Mockingjay.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Second_Rebellion"><span class="tocnumber">1.2</span> <span class="toctext">Second Rebellion</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Bombing_of_District_13"><span class="tocnumber">1.2.1</span> <span class="toctext">Bombing of District 13</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Battle_of_District_2"><span class="tocnumber">1.2.2</span> <span class="toctext">Battle of District 2</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Districts_unified"><span class="tocnumber">1.2.3</span> <span class="toctext">Districts unified</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Battle_of_the_Capitol"><span class="tocnumber">1.2.4</span> <span class="toctext">Battle of the Capitol</span></a>
+<ul>
+<li class="toclevel-4 tocsection-8"><a href="#City_Circle_bombing"><span class="tocnumber">1.2.4.1</span> <span class="toctext">City Circle bombing</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Death"><span class="tocnumber">1.3</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Family"><span class="tocnumber">4.1</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Plutarch_Heavensbee"><span class="tocnumber">4.2</span> <span class="toctext">Plutarch Heavensbee</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37379" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who assassinated Alma Coin in the Hunger Games series?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Katniss Everdeen assassinated Alma Coin, the President of District 13 and a key figure in the Second Rebellion. This happened when Coin refused to relinquish her presidential role and suggested a final Hunger Games involving the offspring of the Capitol's most influential individuals.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37380" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Alma Coin play in the Second Rebellion?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Alma Coin, as President of District 13, led the Second Rebellion against the Capitol. She masterminded the City Circle bombing and became the interim President of Panem post-rebellion. Despite her leadership role in the rebellion, Coin displayed autocratic tendencies, postponing elections. Her rule was short-lived as she was assassinated by Katniss Everdeen.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37381" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Alma Coin's position in District 13?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Alma Coin served as the President of District 13 and played a significant leadership role in the Second Rebellion. She was responsible for orchestrating the City Circle bombing. Upon District 13's reintegration into Panem, Coin assumed the role of Interim President of Panem. The details of her term and selection process as president remain unspecified.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37382" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What major event did Alma Coin orchestrate in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Alma Coin, the District 13 President, led two pivotal events in the Hunger Games. She proposed a final Hunger Games with the Capitol's most powerful individuals' children, approved by most surviving victors. She also masterminded the City Circle bombing, setting the stage for her interim Presidency of Panem.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37383" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How old was Alma Coin during the events of Mockingjay?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the events of Mockingjay, Alma Coin, who served as the President of District 13 and led the Second Rebellion, was approximately 50 years old. She is characterized by her gray hair and eyes, and her strategic role in the City Circle bombing.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Alma Coin","mainEntity":[{"@type":"Question","name":"Who assassinated Alma Coin in the Hunger Games series?","acceptedAnswer":{"@type":"Answer","text":"Katniss Everdeen assassinated Alma Coin, the President of District 13 and a key figure in the Second Rebellion. This happened when Coin refused to relinquish her presidential role and suggested a final Hunger Games involving the offspring of the Capitol's most influential individuals."}},{"@type":"Question","name":"What role did Alma Coin play in the Second Rebellion?","acceptedAnswer":{"@type":"Answer","text":"Alma Coin, as President of District 13, led the Second Rebellion against the Capitol. She masterminded the City Circle bombing and became the interim President of Panem post-rebellion. Despite her leadership role in the rebellion, Coin displayed autocratic tendencies, postponing elections. Her rule was short-lived as she was assassinated by Katniss Everdeen."}},{"@type":"Question","name":"What was Alma Coin's position in District 13?","acceptedAnswer":{"@type":"Answer","text":"Alma Coin served as the President of District 13 and played a significant leadership role in the Second Rebellion. She was responsible for orchestrating the City Circle bombing. Upon District 13's reintegration into Panem, Coin assumed the role of Interim President of Panem. The details of her term and selection process as president remain unspecified."}},{"@type":"Question","name":"What major event did Alma Coin orchestrate in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Alma Coin, the District 13 President, led two pivotal events in the Hunger Games. She proposed a final Hunger Games with the Capitol's most powerful individuals' children, approved by most surviving victors. She also masterminded the City Circle bombing, setting the stage for her interim Presidency of Panem."}},{"@type":"Question","name":"How old was Alma Coin during the events of Mockingjay?","acceptedAnswer":{"@type":"Answer","text":"During the events of Mockingjay, Alma Coin, who served as the President of District 13 and led the Second Rebellion, was approximately 50 years old. She is characterized by her gray hair and eyes, and her strategic role in the City Circle bombing."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Virtually nothing is known about Coin's early life. As a woman in her fifties in <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, she was presumably born in District 13 sometime around the <a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th Hunger Games</a>, and had likely lived in District 13's underground complex her whole life. Along with most of her fellow countrymen, she also presumably served in the armed forces of her nation for some period of time. 
+</p><p>At some point, she became the district's president, likely through a democratic election as her district fought for freedom and republicanism during both the First and Second Rebellion.
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion">Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>I told you we should have rescued the boy first.</i>"</span></dd>
+<dd>—President Coin<sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div><p>Coin and other <a href="/wiki/The_Rebels" class="mw-redirect" title="The Rebels">rebel leaders</a> like <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> arranged for Katniss Everdeen, <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a>, and <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> to be extracted from the <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">75th Hunger Games arena</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> She had evidently lobbied for <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> to be rescued first, but priority was given to Katniss as a <a href="/wiki/Mockingjay_(bird)#Symbolism" title="Mockingjay (bird)">symbol</a> for the rebellion, so Peeta was captured and used as a <a href="/wiki/Propo" title="Propo">propaganda</a> asset by <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>.<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+Several weeks after the rescue, just after Peeta's first interview aired, Katniss tried to leave Command and Coin called out that she had not been dismissed. <a href="/wiki/Boggs" title="Boggs">Boggs</a>, Coin's "right-hand lackey", reached out to stop Katniss, but <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> blocked the doorway. Coin then took back Gale's <a href="/wiki/Communicuff" title="Communicuff">communicuff</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e3/Mockingjay-coin-katniss.jpg/revision/latest?cb=20141015230659" class="mw-file-description image"><img alt="Coin and Katniss in District 13." src="https://static.wikia.nocookie.net/thehungergames/images/e/e3/Mockingjay-coin-katniss.jpg/revision/latest/scale-to-width-down/180?cb=20141015230659" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Mockingjay-coin-katniss.jpg" data-image-key="Mockingjay-coin-katniss.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mockingjay-coin-katniss.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coin and Katniss in District 13.</p> 		 	</figcaption> </figure><p>The next day, Coin, Plutarch, and other officials listened as Katniss listed her conditions for the <a href="/wiki/Mockingjay_Deal" title="Mockingjay Deal">Mockingjay Deal</a>. Coin asked questions about how they should present Gale in relation to Katniss in the propos, and she called national security assembly for that evening to publicly announce the terms to the district.<sup id="cite_ref-:6_6-0" class="reference"><a href="#cite_note-:6-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> However, when Coin made her speech, she added her own condition: that if Katniss deviated from the rebels' mission for her as the Mockingjay, the deal would be considered broken. Then, District 13 law would decide the fates of both Katniss and the <a href="/wiki/Victor" title="Victor">victors</a> for whom she'd demanded immunity.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>After the first failed attempt to film a propo of Katniss, Coin and her people attended a large meeting, called by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, to decide on a new approach. When Haymitch put forward the idea of sending Katniss into combat, Coin asked Katniss what help she would be to the rebels if she were killed, and Katniss replied that they could use footage of her death. Coin then agreed to send her into the "least dangerous situation that can evoke some spontaneity in [her]": a visit to <a href="/wiki/District_8" title="District 8">District 8</a>, which had been <a href="/wiki/Bombings#Bombing_of_District_8_(Second_Rebellion)" title="Bombings">bombed</a> heavily that morning.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>The morning after the District 8 bombing, a meeting was held in Command. When Katniss arrived, Coin and Gale were "in the midst of some exchange that [seemed] positively chummy". Soon after, Coin called the meeting to order to report on the first propaganda broadcast. They reviewed the footage, and after a round of applause and demands to watch it again, Coin indulged those assembled with a replay. After another bout of self-congratulation, Coin insisted they turn the topic to the subject of sending Katniss into actual combat, in light of the propo's promising results. Coin also asked about further plans for other propos, and greenlit the immediate production of a set honoring deceased <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> <a href="/wiki/Tribute" title="Tribute">tributes</a>. Coin then sent everyone off to work.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Bombing_of_District_13"><a href="/wiki/Bombings#Second_Bombing_of_District_13" title="Bombings">Bombing of District 13</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Coin was present in Command for the airing of Peeta's third interview, this one aired live, where he warned District 13 about an impending aerial strike.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> She explained to Haymitch why they had reason to doubt the veracity of Peeta's claims, but ultimately reasoned that it was possible, so she authorized a Level Five security drill and lockdown right away via computer. Coin's voice was projected to everyone inside the bunker, informing them that the first hit was a powerful, non-nuclear missile, with more to come. She ordered everyone to stay at their assigned bunks.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p><p>Coin continued to give brief reports throughout the several-day assault, and once twenty-four hours had passed since the last hit, she announced that they could leave the bunker and be assigned new compartments. In a room virtually identical to Command in Special Defense, Coin and other officials appeared exhausted as they drank cups of coffee, but she gave Katniss, Gale, Finnick, and Boggs two hours to film a propo aboveground to show the damage, assert military dominance, and prove Katniss had survived. However, Katniss and Finnick broke down because they knew their actions might harm their captured loved ones. Plutarch— and presumably Coin, as District 13's chief military commander— then sent a team to carry out the <a href="/wiki/Infiltration_of_the_Capitol" title="Infiltration of the Capitol">infiltration of the Capitol</a>, extracting the captured victors.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Battle_of_District_2"><a href="/wiki/Battle_of_District_2" title="Battle of District 2">Battle of District 2</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During talks about bombing <a href="/wiki/The_Nut" title="The Nut">the Nut</a> in <a href="/wiki/District_2" title="District 2">District 2</a>, Beetee suggested that they call District 13 to let Coin weigh in on the proposed plan. Katniss was not present to hear this call, but a decision was made, presumably with Coin's input, and carried out.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup> After this, all thirteen <a href="/wiki/District" class="mw-redirect" title="District">districts</a> of Panem were unified against the Capitol.<sup id="cite_ref-:4_14-0" class="reference"><a href="#cite_note-:4-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Districts_unified">Districts unified</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Coin and Plutarch went back and forth arguing over the details of <a href="/wiki/Finnick_and_Annie%27s_wedding" title="Finnick and Annie's wedding">Finnick and Annie's wedding</a>, which would serve as an entertainment propo. Coin vetoed a dinner, entertainment, and alcohol, and she and her people held reservations that the event would be too extravagant.<sup id="cite_ref-:4_14-1" class="reference"><a href="#cite_note-:4-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p><p>Katniss later barged into one of Coin's war meetings to demand that she be allowed to fight in the <a href="/wiki/Battle_of_the_Capitol" title="Battle of the Capitol">Battle of the Capitol</a>. Coin assured Katniss that her goal of uniting the districts had been achieved, and that the Mockingjay would be flown in for the surrender. Katniss protested that Gale was allowed to go, and Coin countered that Gale had been attending regular training, while Katniss had not. Coin asked why Katniss had to go, and when Katniss replied that it was because of the <a href="/wiki/Bombing_of_District_12" class="mw-redirect" title="Bombing of District 12">bombing of District 12</a>, Coin said Katniss's case could be reviewed if she attended the next three weeks of training leading up to the battle.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Battle_of_the_Capitol"><a href="/wiki/Battle_of_the_Capitol" title="Battle of the Capitol">Battle of the Capitol</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>Dead or alive, Katniss Everdeen will remain the face of this rebellion. If you ever waver in your resolve, think of the Mockingjay, and in her you will find the strength you need to rid Panem of its oppressors.</i>"</span></dd>
+<dd>—President Coin addressing Panem<sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div>
+<p>Coin and Plutarch were reportedly "unhappy" with the uninspiring propo footage shot by <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a>.<sup id="cite_ref-:3_16-0" class="reference"><a href="#cite_note-:3-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> She personally assigned Peeta to join the squad despite the fact that his <a href="/wiki/Hijacking" title="Hijacking">hijacking</a> had brainwashed him into trying to kill Katniss. This was presumably an attempt on Coin's part to dispose of the girl amid the battle,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup> making her a martyr and preventing her from becoming a threat to Coin's authority after the war.<sup id="cite_ref-:3_16-1" class="reference"><a href="#cite_note-:3-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> When Squad 451 was presumed dead, Coin interrupted a broadcast by Panem's President <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> in order to introduce herself to the nation as the head of the rebellion and to eulogize Katniss.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup>
+</p>
+<h5><span class="mw-headline" id="City_Circle_bombing">City Circle bombing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h5>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/City_Circle_bombing" class="mw-redirect" title="City Circle bombing">City Circle bombing</a></i></center></div>
+<p>Several days later, Snow announced that he was opening up his <a href="/wiki/President%27s_mansion" title="President's mansion">mansion</a> to refugees, though he was really using Capitol children as a human shield outside. Coin ordered<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> that <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a> falsely marked with the Capitol seal drop <a href="/wiki/Parachute" class="mw-redirect" title="Parachute">parachutes</a> into the <a href="/wiki/City_Circle" title="City Circle">City Circle</a>. Children in Panem were primed to recognize these parachutes as offering aid, like the <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gifts</a> tributes received during the Hunger Games, so they eagerly reached out to claim them. However, these were actually bombs. When <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> and medics rushed in to help, they were killed by the remaining parachutes that hadn't detonated with the first round.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup> Believing that Snow had massacred his city's own children in order to kill rebels, any remaining supporters he had turned against him, and the war came to an end.<sup id="cite_ref-:1_2-2" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Katniss's younger sister, <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a>, was one of the medics killed that day.<sup id="cite_ref-:1_2-3" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> She was not yet fourteen years old, the age when District 13 citizens gain the rank of soldier, so her presence in the Capitol was probably approved by President Coin herself. Katniss wondered if it was an attempt to unhinge her, or at least place her firmly on Coin's side.<sup id="cite_ref-:2_3-1" class="reference"><a href="#cite_note-:2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/18/Mockingjay2-movie-screencaps.com-13472.jpg/revision/latest?cb=20200919043924" class="mw-file-description image"><img alt="Coin after being shot in the heart by Katniss in ." src="https://static.wikia.nocookie.net/thehungergames/images/1/18/Mockingjay2-movie-screencaps.com-13472.jpg/revision/latest/scale-to-width-down/180?cb=20200919043924" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="Mockingjay2-movie-screencaps.com-13472.jpg" data-image-key="Mockingjay2-movie-screencaps.com-13472.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mockingjay2-movie-screencaps.com-13472.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coin after being shot in the heart by Katniss in <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i>.</p> 		 	</figcaption> </figure>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/cc/Coin_arrow.jpg/revision/latest?cb=20250115085812" class="mw-file-description image"><img alt="Coin getting shot by Katniss in Mockingjay - Part 2." src="https://static.wikia.nocookie.net/thehungergames/images/c/cc/Coin_arrow.jpg/revision/latest/scale-to-width-down/180?cb=20250115085812" decoding="async" loading="lazy" width="180" height="72" class="thumbimage" data-image-name="Coin arrow.jpg" data-image-key="Coin_arrow.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Coin_arrow.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coin getting shot by Katniss in <i>Mockingjay - Part 2</i>.</p> 		 	</figcaption> </figure>
+<p>After Snow's arrest, Coin became the interim President of Panem. Snow was tried and sentenced to death for his crimes, and his collaborators also awaited trial. To divert calls for an outright genocide against Capitol citizens, Coin and her colleagues debated a proposal for a <a href="/wiki/76th_Hunger_Games" title="76th Hunger Games">76th Hunger Games</a> featuring the children of Capitol officials. On the day of Snow's execution, she brought the proposal before the seven remaining victors and put it to a vote. The motion passed 4-3, but was never carried out. Katniss voted in favor of another Games to gain Coin's trust. At the execution, Coin positioned herself on a balcony above everyone else. Rather than killing Snow, her intended target, Katniss turned her weapon against Coin, who collapsed over the side of the balcony and plummeted to the ground, dead.<sup id="cite_ref-:2_3-2" class="reference"><a href="#cite_note-:2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 150px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/23/President_Alma_Coin.jpeg/revision/latest?cb=20140515163855" class="mw-file-description image"><img alt="A simple promotional portrait of Alma Coin." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="150" height="148" class="thumbimage lazyload" data-image-name="President Alma Coin.jpeg" data-image-key="President_Alma_Coin.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/23/President_Alma_Coin.jpeg/revision/latest/scale-to-width-down/150?cb=20140515163855"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/2/23/President_Alma_Coin.jpeg/revision/latest?cb=20140515163855" class="mw-file-description image"><img alt="A simple promotional portrait of Alma Coin." src="https://static.wikia.nocookie.net/thehungergames/images/2/23/President_Alma_Coin.jpeg/revision/latest/scale-to-width-down/150?cb=20140515163855" decoding="async" loading="lazy" width="150" height="148" class="thumbimage" data-image-name="President Alma Coin.jpeg" data-image-key="President_Alma_Coin.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/23/President_Alma_Coin.jpeg/revision/latest/scale-to-width-down/150?cb=20140515163855"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:President_Alma_Coin.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A simple promotional portrait of Alma Coin.</p> 		 	</figcaption> </figure><p>Katniss described Coin as being about 50 years old. She had gray hair that fell in an "unbroken sheet" down to her shoulders, lacking any visible flaws like wisps or split ends. Its unnatural perfection made Katniss wonder if it was a wig. Coin's eyes were also gray, though they were pale and devoid of color like "slush that you wish would melt away."<sup id="cite_ref-:0_1-4" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>In <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>The Hunger Games: Mockingjay - Part 1</i></a> and much of <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Part 2</a></i>, Coin's hair fell below her collarbone. Near the end of the last film, Coin got a haircut— evidently in anticipation of her appearance at Snow's execution. She had it trimmed into a medium bob, falling just above her shoulders.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Coinaspresident.jpg/revision/latest?cb=20151124202043" class="mw-file-description image"><img alt="Coin at the meeting with the remaining victors." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="166" class="thumbimage lazyload" data-image-name="Coinaspresident.jpg" data-image-key="Coinaspresident.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Coinaspresident.jpg/revision/latest/scale-to-width-down/180?cb=20151124202043"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Coinaspresident.jpg/revision/latest?cb=20151124202043" class="mw-file-description image"><img alt="Coin at the meeting with the remaining victors." src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Coinaspresident.jpg/revision/latest/scale-to-width-down/180?cb=20151124202043" decoding="async" loading="lazy" width="180" height="166" class="thumbimage" data-image-name="Coinaspresident.jpg" data-image-key="Coinaspresident.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Coinaspresident.jpg/revision/latest/scale-to-width-down/180?cb=20151124202043"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Coinaspresident.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coin at the meeting with the remaining victors.</p> 		 	</figcaption> </figure>
+<p>On the surface, Coin appeared to have a calm and collected demeanor, but towards the end of the war, Katniss Everdeen realized how ruthless she could be in her pursuit of power. She was highly efficient, a charismatic leader, and a remarkably subtle manipulator, having positioned Katniss and every powerful player in Panem into the proper place on her chessboard in order to seize political victory, even outmaneuvering President Coriolanus Snow.
+</p><p>She was a noticeably less heavy-handed leader than Snow, and she was remarkably patient, waiting years before the right moment came to seize power. While she was strict about enforcing the laws of District 13 and its strict daily regimens, she was able to give off the illusion of equality by providing all citizens with the essentials. 
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 220px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/d8/President-coin-capitol.jpg/revision/latest?cb=20231216194522" class="mw-file-description image"><img alt="Coin as interim President" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="220" height="147" class="thumbimage lazyload" data-image-name="President-coin-capitol.jpg" data-image-key="President-coin-capitol.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d8/President-coin-capitol.jpg/revision/latest/scale-to-width-down/220?cb=20231216194522"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/d/d8/President-coin-capitol.jpg/revision/latest?cb=20231216194522" class="mw-file-description image"><img alt="Coin as interim President" src="https://static.wikia.nocookie.net/thehungergames/images/d/d8/President-coin-capitol.jpg/revision/latest/scale-to-width-down/220?cb=20231216194522" decoding="async" loading="lazy" width="220" height="147" class="thumbimage" data-image-name="President-coin-capitol.jpg" data-image-key="President-coin-capitol.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d8/President-coin-capitol.jpg/revision/latest/scale-to-width-down/220?cb=20231216194522"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:President-coin-capitol.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coin as interim President</p> 		 	</figcaption> </figure><p>However, for all her intelligence and clever strategy, Coin was not above being fooled. She believed she had won the Mockingjay over to her side with the death of Prim, and she arrogantly underestimated Katniss's intelligence, assuming that the girl would never figure out what she had done. She also overplayed her hand becoming interim president. This cast suspicion on her character and motives.
+</p><p>In the films, Coin appeared more sympathetic, relating to Katniss on a personal level and even comforting her in <i>Mockingjay - Part 1</i>.<sup id="cite_ref-:5_21-0" class="reference"><a href="#cite_note-:5-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup> However, this could be a front meant to disarm and manipulate Katniss further.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <i>Mockingjay - Part 1, </i>Prim mentioned to Katniss that Coin lost <a href="/wiki/Alma_Coin%27s_husband" title="Alma Coin's husband">her husband</a> and <a href="/wiki/Alma_Coin%27s_daughter" title="Alma Coin's daughter">daughter</a> years earlier during the district's unspecified <a href="/wiki/Health_conditions#Pox_epidemic" title="Health conditions">pox epidemic</a>. Her cold, controlled nature could be due, at least in part, to the loss of her family.<sup id="cite_ref-:5_21-1" class="reference"><a href="#cite_note-:5-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Plutarch_Heavensbee">Plutarch Heavensbee</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 270px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/50/Coin_%2B_Heavensbee_in_Mockingjay.jpg/revision/latest?cb=20140515231753" class="mw-file-description image"><img alt="Coin and Plutarch" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="270" height="162" class="thumbimage lazyload" data-image-name="Coin + Heavensbee in Mockingjay.jpg" data-image-key="Coin_%2B_Heavensbee_in_Mockingjay.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/50/Coin_%2B_Heavensbee_in_Mockingjay.jpg/revision/latest/scale-to-width-down/270?cb=20140515231753"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/5/50/Coin_%2B_Heavensbee_in_Mockingjay.jpg/revision/latest?cb=20140515231753" class="mw-file-description image"><img alt="Coin and Plutarch" src="https://static.wikia.nocookie.net/thehungergames/images/5/50/Coin_%2B_Heavensbee_in_Mockingjay.jpg/revision/latest/scale-to-width-down/270?cb=20140515231753" decoding="async" loading="lazy" width="270" height="162" class="thumbimage" data-image-name="Coin + Heavensbee in Mockingjay.jpg" data-image-key="Coin_%2B_Heavensbee_in_Mockingjay.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/50/Coin_%2B_Heavensbee_in_Mockingjay.jpg/revision/latest/scale-to-width-down/270?cb=20140515231753"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Coin_%2B_Heavensbee_in_Mockingjay.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coin and Plutarch</p> 		 	</figcaption> </figure><p>Coin and Plutarch often did not see eye to eye, owing to cultural differences between District 13 and the Capitol; for example, Capitol rebels like Plutarch saw no issue in letting Katniss's family keep their <a href="/wiki/Buttercup" title="Buttercup">pet cat</a>, but the District 13 rebels pointed out a number of issues it would pose.<sup id="cite_ref-:6_6-1" class="reference"><a href="#cite_note-:6-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> They also notably argued over the specifics of Finnick and Annie's wedding, riling Plutarch up to the point where he shouted at Coin.<sup id="cite_ref-:4_14-2" class="reference"><a href="#cite_note-:4-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p><p>In the films, Plutarch sometimes attempted to overstep his boundaries as a guest in District 13, trying to maneuver Coin like he had maneuvered Snow in <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, but Coin swiftly, firmly, yet diplomatically shut him down. She did not tolerate having her authority undermined.<sup id="cite_ref-:5_21-2" class="reference"><a href="#cite_note-:5-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Coin's given name, <a href="https://en.wikipedia.org/wiki/Alma_(given_name)" class="extiw" title="wikipedia:Alma (given name)">Alma</a>, has a number of possible meanings. Given the series' classical influences, the most likely and relevant one is the feminine form of the Latin "<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://en.wiktionary.org/wiki/almus#Latin">almus</a>", meaning nourishing, kind, or favorable. It is commonly used in the phrase "<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://en.wiktionary.org/wiki/alma_mater">alma mater</a>" (literally "nourishing mother"), which could be construed here as a reference to her authority and calm demeanor.
+</p><p>Her surname might be related to the saying "<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://en.wiktionary.org/wiki/two_sides_of_the_same_coin">two sides of the same coin</a>", since she is superficially different from Snow, but the two presidents are fundamentally similar in their ruthless pursuit of power.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In order to get Squad 451 to follow her, Katniss claimed she had a special mission from Coin to infiltrate Snow's mansion and assassinate him.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup></li>
+<li>Coin is the only character from District 13 with a known first name.</li>
+<li>Coin was the series' first known female elected official. All known <a href="/wiki/Mayor" title="Mayor">mayors</a> have been men, and her two predecessors as President of Panem, Snow and <a href="/wiki/President_Ravinstill" class="mw-redirect" title="President Ravinstill">President Ravinstill</a> before him, were both male.
+<ul><li>Coin was succeeded as Panem's president by another woman, <a href="/wiki/Commander_Paylor" title="Commander Paylor">Paylor</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup></li></ul></li>
+<li>After the release of <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a>,</i> people have speculated that Coin could be related to <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, often her daughter, under the assumption that Lucy Gray ended up finding District 13.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAlma_Coin%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup> <sup><a href="#cite_ref-:0_1-3">1.3</a></sup> <sup><a href="#cite_ref-:0_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-:1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_2-0">2.0</a></sup> <sup><a href="#cite_ref-:1_2-1">2.1</a></sup> <sup><a href="#cite_ref-:1_2-2">2.2</a></sup> <sup><a href="#cite_ref-:1_2-3">2.3</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 25</span>
+</li>
+<li id="cite_note-:2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_3-0">3.0</a></sup> <sup><a href="#cite_ref-:2_3-1">3.1</a></sup> <sup><a href="#cite_ref-:2_3-2">3.2</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 26</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 2</span>
+</li>
+<li id="cite_note-:6-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:6_6-0">6.0</a></sup> <sup><a href="#cite_ref-:6_6-1">6.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 3</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 4</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 6</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 8</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 9</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 10</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 11</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 15</span>
+</li>
+<li id="cite_note-:4-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:4_14-0">14.0</a></sup> <sup><a href="#cite_ref-:4_14-1">14.1</a></sup> <sup><a href="#cite_ref-:4_14-2">14.2</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 16</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 17</span>
+</li>
+<li id="cite_note-:3-16"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_16-0">16.0</a></sup> <sup><a href="#cite_ref-:3_16-1">16.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 19</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 18</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 21</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 24</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span>
+</li>
+<li id="cite_note-:5-21"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:5_21-0">21.0</a></sup> <sup><a href="#cite_ref-:5_21-1">21.1</a></sup> <sup><a href="#cite_ref-:5_21-2">21.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 20</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 27</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <strong class="mw-selflink selflink">President Coin</strong> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251227134652
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.111 seconds
+Real time usage: 0.232 seconds
+Preprocessor visited node count: 667/1000000
+Post‐expand include size: 3543/2097152 bytes
+Template argument size: 431/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10684/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  124.079      1 -total
+ 34.96%   43.379      1 Template:Reflist
+ 30.24%   37.516      1 Template:Character
+  1.36%    1.693      1 Template:SeriesTP
+  1.34%    1.660      2 Template:Quote
+  1.26%    1.568      1 Template:W
+  1.08%    1.344      1 Template:Main
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3266-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227134652 and revision id 962311. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,82 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Felicia Porter</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/58/Felicia_Porter_.jpeg/revision/latest?cb=20200814151712" class="image image-thumbnail" title="Felicia Porter ">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/5/58/Felicia_Porter_.jpeg/revision/latest/scale-to-width-down/268?cb=20200814151712" srcset="https://static.wikia.nocookie.net/thehungergames/images/5/58/Felicia_Porter_.jpeg/revision/latest/scale-to-width-down/268?cb=20200814151712 1x, https://static.wikia.nocookie.net/thehungergames/images/5/58/Felicia_Porter_.jpeg/revision/latest/scale-to-width-down/536?cb=20200814151712 2x" class="pi-image-thumbnail" data-relevant="1" alt="Felicia Porter " width="270" height="405" data-image-key="Felicia_Porter_.jpeg" data-image-name="Felicia Porter .jpeg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthday">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthday</h3>
+	
+	<div class="pi-data-value pi-font">October 9, 1989</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthplace">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthplace</h3>
+	
+	<div class="pi-data-value pi-font">Albuquerque, New Mexico</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Capitol_Couture" title="Capitol Couture">Capitol Couture</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
+	
+		<h3 class="pi-data-label pi-secondary-font">Years active</h3>
+	
+	<div class="pi-data-value pi-font">2003–present</div>
+</div>
+</aside>
+
+</p><p><b>Felicia "Fo" Porter</b> is an American model who portrayed <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a>. She is best known for appearing on <i><a href="https://en.wikipedia.org/wiki/America%27s_Next_Top_Model" class="extiw" title="wikipedia:America&#39;s Next Top Model">America's Next Top Model</a></i>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFelicia_Porter%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/name/nm3306884/" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/name/nm3306884/">Felicia Porter</a> at the Internet Movie Database</span></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.facebook.com/fopopps">Felicia Porter</a> on Facebook</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.instagram.com/fopopps/?hl=en">Felicia Porter</a> on Instagram</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20251227110636
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.026 seconds
+Real time usage: 0.033 seconds
+Preprocessor visited node count: 63/1000000
+Post‐expand include size: 309/2097152 bytes
+Template argument size: 78/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   21.902      1 -total
+ 75.44%   16.522      1 Template:Actor
+ 13.79%    3.021      1 Template:Imdb
+  9.73%    2.131      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:540492-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227110636 and revision id 939946. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,100 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">District 13 head doctor</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Doctor</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_13" title="District 13">District 13</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>My head doctor says I'm not supposed to censor my thoughts. It's part of my therapy.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a><sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div>
+<p>The <b>District 13 head doctor</b> is a doctor who specialized in mental health care in <a href="/wiki/District_13" title="District 13">District 13</a>.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_13_head_doctor%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This doctor spent his whole life in District 13.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Following the <a href="/wiki/The_Rebels" class="mw-redirect" title="The Rebels">rebels</a>' extraction of captured <a href="/wiki/Victors" class="mw-redirect" title="Victors">victors</a> from <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, he took on <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> as a client while she was recovering from her torture. He came by for daily sessions to help her recover, but in Johanna's estimation, he was a "complete idiot" who reminded her "at least twenty times a session" that she was "totally safe."<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Because of his <a href="/wiki/Hijacking" title="Hijacking">hijacking</a>, <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> was only treated by District 13 natives,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> so this doctor may have been a part of his recovery team as well.
+</p><p>When Johanna sought discharge from the hospital, she was denied the opportunity to live alone even if she kept up daily sessions with her head doctor. <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> attributed this to the possibility that they may have caught onto Johanna's <a href="/wiki/Morphling_(drug)" title="Morphling (drug)">morphling</a> addiction and deemed her "unstable". With convincing from Katniss and <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, Johanna was approved to live in a compartment with Katniss soon after.<sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>According to Johanna, her head doctor was right about one thing: "There's no going back" to the people they were before the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>. She also quoted him as warning her against censoring her thoughts, as a part of her therapy.<sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_13_head_doctor%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-:1-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_3-0">3.0</a></sup> <sup><a href="#cite_ref-:1_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 17</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260101231251
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.043 seconds
+Real time usage: 0.067 seconds
+Preprocessor visited node count: 166/1000000
+Post‐expand include size: 444/2097152 bytes
+Template argument size: 146/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1524/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   43.090      1 -total
+ 39.92%   17.203      1 Template:Character
+ 26.52%   11.428      1 Template:Reflist
+  4.53%    1.950      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:541977-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260101231251 and revision id 939061. Rendering was triggered because: unknown
+ -->
+</div>

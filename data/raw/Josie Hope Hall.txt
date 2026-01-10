@@ -1,0 +1,152 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Josie Hope Hall</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/af/Josie_Hope_Hall.webp/revision/latest?cb=20231213000759" class="image image-thumbnail" title="Josie Hope Hall">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/a/af/Josie_Hope_Hall.webp/revision/latest/scale-to-width-down/268?cb=20231213000759" srcset="https://static.wikia.nocookie.net/thehungergames/images/a/af/Josie_Hope_Hall.webp/revision/latest/scale-to-width-down/268?cb=20231213000759 1x, https://static.wikia.nocookie.net/thehungergames/images/a/af/Josie_Hope_Hall.webp/revision/latest?cb=20231213000759 2x" class="pi-image-thumbnail" data-relevant="1" alt="Josie Hope Hall" width="270" height="277" data-image-key="Josie_Hope_Hall.webp" data-image-name="Josie Hope Hall.webp">
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Maude_Ivory_Baird" title="Maude Ivory Baird">Maude Ivory Baird</a> (singing voice)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthday">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthday</h3>
+	
+	<div class="pi-data-value pi-font">November 8, 2012</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Ballad of Songbirds &amp; Snakes</a></i> (voice only)</div>
+</div>
+</aside>
+
+</p><p><b>Josie Hope Hall</b> is a musician who provided the singing voice for <a href="/wiki/Maude_Ivory_Baird" title="Maude Ivory Baird">Maude Ivory Baird</a> in <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a>.</i><sup id="cite_ref-:1_1-0" class="reference"><a href="#cite_note-:1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="88701" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Josie Hope Hall play in The Hunger Games: The Ballad of Songbirds &amp; Snakes?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In The Hunger Games: The Ballad of Songbirds &amp; Snakes, Josie Hope Hall was the singing voice for Maude Ivory Baird. She is recognized for singing 'Keep On The Sunny Side' in the film's soundtrack, despite not being named in the credits. Besides singing, she is skilled in playing the drums, ukelele, and tambourine.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="88702" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the name of the band Josie Hope Hall is a part of?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Josie Hope Hall performs in The Bennett Hall Band, named in memory of their late brother.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="88703" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What song is Josie Hope Hall credited for singing in The Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Musician Josie Hope Hall is recognized for performing 'Keep On The Sunny Side' in The Hunger Games: The Ballad of Songbirds &amp; Snakes. She lent her singing voice to the character Maude Ivory Baird and is part of The Bennett Hall Band.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="88704" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who are the other members of The Bennett Hall Band?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The Bennett Hall Band, named in memory of Josie Hope Hall's brother Bennett, does not have its other members listed in the available information. Josie Hope, a skilled musician, plays the drums, ukelele, and tambourine. Her vocal contribution to 'The Hunger Games: The Ballad of Songbirds &amp; Snakes' is the song 'Keep On The Sunny Side'.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Josie Hope Hall","mainEntity":[{"@type":"Question","name":"What role did Josie Hope Hall play in The Hunger Games: The Ballad of Songbirds & Snakes?","acceptedAnswer":{"@type":"Answer","text":"In The Hunger Games: The Ballad of Songbirds & Snakes, Josie Hope Hall was the singing voice for Maude Ivory Baird. She is recognized for singing 'Keep On The Sunny Side' in the film's soundtrack, despite not being named in the credits. Besides singing, she is skilled in playing the drums, ukelele, and tambourine."}},{"@type":"Question","name":"What is the name of the band Josie Hope Hall is a part of?","acceptedAnswer":{"@type":"Answer","text":"Josie Hope Hall performs in The Bennett Hall Band, named in memory of their late brother."}},{"@type":"Question","name":"What song is Josie Hope Hall credited for singing in The Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Musician Josie Hope Hall is recognized for performing 'Keep On The Sunny Side' in The Hunger Games: The Ballad of Songbirds & Snakes. She lent her singing voice to the character Maude Ivory Baird and is part of The Bennett Hall Band."}},{"@type":"Question","name":"Who are the other members of The Bennett Hall Band?","acceptedAnswer":{"@type":"Answer","text":"The Bennett Hall Band, named in memory of Josie Hope Hall's brother Bennett, does not have its other members listed in the available information. Josie Hope, a skilled musician, plays the drums, ukelele, and tambourine. Her vocal contribution to 'The Hunger Games: The Ballad of Songbirds & Snakes' is the song 'Keep On The Sunny Side'."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FJosie_Hope_Hall%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Josie Hope is the youngest of three sisters. They are all members of The Bennett Hall Band, which was named after their brother who passed away in 2010.<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FJosie_Hope_Hall%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In addition to singing, Josie Hope can play the drums, ukelele, and tambourine.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li>
+<li>Josie Hope is not named in the film's credits, but she is credited for singing <a href="/wiki/Songs#Other_minor_songs" title="Songs">"Keep On The Sunny Side"</a> on <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes_(Music_From_%26_Inspired_By)" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)">The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)</a></i>.<sup id="cite_ref-:1_1-1" class="reference"><a href="#cite_note-:1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FJosie_Hope_Hall%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_1-0">1.0</a></sup> <sup><a href="#cite_ref-:1_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes_(Music_From_%26_Inspired_By)" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)"><i>The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)</i></a></span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_2-0">2.0</a></sup> <sup><a href="#cite_ref-:0_2-1">2.1</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.thebennetthallband.com/the-band">https://www.thebennetthallband.com/the-band</a></span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20260101072906
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.026 seconds
+Real time usage: 0.042 seconds
+Preprocessor visited node count: 100/1000000
+Post‐expand include size: 133/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1324/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   32.737      1 -total
+ 48.79%   15.971      1 Template:Actor
+ 28.29%    9.262      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542849-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260101072906 and revision id 944848. Rendering was triggered because: page-view
+ -->
+</div>

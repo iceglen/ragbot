@@ -1,0 +1,59 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">LaDell Preston</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/6f/LaDell_Preston.jpg/revision/latest?cb=20250621065503" class="image image-thumbnail" title="LaDell Preston">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/6/6f/LaDell_Preston.jpg/revision/latest/scale-to-width-down/268?cb=20250621065503" srcset="https://static.wikia.nocookie.net/thehungergames/images/6/6f/LaDell_Preston.jpg/revision/latest/scale-to-width-down/268?cb=20250621065503 1x, https://static.wikia.nocookie.net/thehungergames/images/6/6f/LaDell_Preston.jpg/revision/latest/scale-to-width-down/536?cb=20250621065503 2x" class="pi-image-thumbnail" data-relevant="1" alt="LaDell Preston" width="270" height="378" data-image-key="LaDell_Preston.jpg" data-image-name="LaDell Preston.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_2_male_(73rd_HG)" title="District 2 male (73rd HG)">District 2 male (73rd HG)</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></div>
+</div>
+</aside>
+
+</p><p><b>LaDell Preston</b> is an American stuntman and actor. He played the <a href="/wiki/District_2_male_(73rd_HG)" title="District 2 male (73rd HG)">District 2 male</a> in the recap that <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> saw of the previous year's <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> in <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLaDell_Preston%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/name/nm2803536/" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/name/nm2803536/">LaDell Preston</a> at the Internet Movie Database</span></li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20260105153946
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.022 seconds
+Real time usage: 0.079 seconds
+Preprocessor visited node count: 70/1000000
+Post‐expand include size: 458/2097152 bytes
+Template argument size: 32/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   67.604      1 -total
+ 97.12%   65.658      1 Template:Actor
+  3.50%    2.367      2 Template:THG
+  2.41%    1.626      1 Template:Imdb
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:544612-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105153946 and revision id 960728. Rendering was triggered because: api-parse
+ -->
+</div>

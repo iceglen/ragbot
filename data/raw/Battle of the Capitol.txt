@@ -1,0 +1,279 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Battle of the Capitol</h2>
+
+<figure class="pi-item pi-image" data-source="image1">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/76/Thg-mockingjay-pt2-official-trailer-screencaps.jpg/revision/latest?cb=20160327154824" class="image image-thumbnail" title="Thg-mockingjay-pt2-official-trailer-screencaps">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/7/76/Thg-mockingjay-pt2-official-trailer-screencaps.jpg/revision/latest/scale-to-width-down/268?cb=20160327154824" srcset="https://static.wikia.nocookie.net/thehungergames/images/7/76/Thg-mockingjay-pt2-official-trailer-screencaps.jpg/revision/latest/scale-to-width-down/268?cb=20160327154824 1x, https://static.wikia.nocookie.net/thehungergames/images/7/76/Thg-mockingjay-pt2-official-trailer-screencaps.jpg/revision/latest/scale-to-width-down/536?cb=20160327154824 2x" class="pi-image-thumbnail" data-relevant="1" alt="Thg-mockingjay-pt2-official-trailer-screencaps" width="270" height="113" data-image-key="Thg-mockingjay-pt2-official-trailer-screencaps.jpg" data-image-name="Thg-mockingjay-pt2-official-trailer-screencaps.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="conflict">
+	
+		<h3 class="pi-data-label pi-secondary-font">Conflict</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+	
+		<h3 class="pi-data-label pi-secondary-font">Date</h3>
+	
+	<div class="pi-data-value pi-font">Late autumn - winter, 75 ADD</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="place">
+	
+		<h3 class="pi-data-label pi-secondary-font">Place</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="outcome">
+	
+		<h3 class="pi-data-label pi-secondary-font">Outcome</h3>
+	
+	<div class="pi-data-value pi-font"><b>Decisive <a href="/wiki/The_Rebels" class="mw-redirect" title="The Rebels">rebel</a> victory</b><ul><li>Surrender of all Capitol forces</li><li><a href="/wiki/President" title="President">President</a> <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> captured</li><li>All <a href="/wiki/District" class="mw-redirect" title="District">districts</a> liberated</li><li>End of the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Combatants</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row6">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li><a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row7">
+	
+	<div class="pi-data-value pi-font"><b>Rebels</b><ul><li><a href="/wiki/District_13" title="District 13">District 13</a><ul><li><a href="/wiki/Squad_451" title="Squad 451">Squad 451</a></li></ul></li><li>Other district rebels</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Commanders</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row8">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li>President Snow</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row9">
+	
+	<div class="pi-data-value pi-font"><b>Rebels</b><ul><li>President <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a></li><li><a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a></li><li><a href="/wiki/Boggs" title="Boggs">Boggs</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Casualties</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row12">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li>Peacekeepers</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row13">
+	
+	<div class="pi-data-value pi-font"><b>Rebels</b><ul><li>Majority of Squad 451</li><li>Other rebel squads</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Civilian casualties</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row14">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li><a href="/wiki/Avox" title="Avox">Avox</a> slaves in the <a href="/wiki/Transfer" title="Transfer">Transfer</a></li><li>Many refugees, including children</li></ul><p><b>Rebels</b></p><ul><li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> and other medics</li><li><a href="/wiki/Messalla" title="Messalla">Messalla</a> and <a href="/wiki/Castor" title="Castor">Castor</a></li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>Battle of the Capitol</b> is an unofficial term for the last major large-scale engagement of the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>. This final battle pitted <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>'s <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> against an invading <a href="/wiki/The_Rebels" class="mw-redirect" title="The Rebels">rebel</a> coalition, led by forces from <a href="/wiki/District_13" title="District 13">District 13</a>, for control of the city and <a href="/wiki/Panem" title="Panem">Panem</a>'s government.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Prelude"><span class="tocnumber">1</span> <span class="toctext">Prelude</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tactics"><span class="tocnumber">2</span> <span class="toctext">Tactics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Pods"><span class="tocnumber">2.1</span> <span class="toctext">Pods</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Counteraction"><span class="tocnumber">2.1.1</span> <span class="toctext">Counteraction</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Propos"><span class="tocnumber">2.2</span> <span class="toctext">Propos</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Squad_451"><span class="tocnumber">2.2.1</span> <span class="toctext">Squad 451</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Initial_rebel_invasion"><span class="tocnumber">3.1</span> <span class="toctext">Initial rebel invasion</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Arrival_of_Squad_451"><span class="tocnumber">3.2</span> <span class="toctext">Arrival of Squad 451</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Rebels_gaining_momentum"><span class="tocnumber">3.3</span> <span class="toctext">Rebels gaining momentum</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Pressing_in_on_the_City_Center"><span class="tocnumber">3.4</span> <span class="toctext">Pressing in on the City Center</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#City_Circle_bombing"><span class="tocnumber">3.4.1</span> <span class="toctext">City Circle bombing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Aftermath"><span class="tocnumber">3.5</span> <span class="toctext">Aftermath</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Notable_persons_involved"><span class="tocnumber">4</span> <span class="toctext">Notable persons involved</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Rebels"><span class="tocnumber">4.1</span> <span class="toctext">Rebels</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Deceased"><span class="tocnumber">4.1.1</span> <span class="toctext">Deceased</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Alive"><span class="tocnumber">4.1.2</span> <span class="toctext">Alive</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="#Capitol"><span class="tocnumber">4.2</span> <span class="toctext">Capitol</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#Deceased_2"><span class="tocnumber">4.2.1</span> <span class="toctext">Deceased</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Prelude">Prelude</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After a <a href="/wiki/Pre-Second_Rebellion_civil_unrest" title="Pre-Second Rebellion civil unrest">period of widespread civil unrest</a>, rebels took up arms against the Capitol in an all-out war to unify and liberate the <a href="/wiki/District" class="mw-redirect" title="District">districts</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> By September, they were all allied except for <a href="/wiki/District_2" title="District 2">District 2</a>, which was the seat of the Capitol's military power and its last loyalist stronghold.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In the <a href="/wiki/Battle_of_District_2" title="Battle of District 2">Battle of District 2</a>, rebels strategically bombed the mountainside along avalanche paths, burying the military compound inside <a href="/wiki/The_Nut" title="The Nut">the Nut</a> and forcing its surviving personnel to evacuate into the town square.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> Upon their surrender, District 2 joined forces with the rest of the rebels. Together they fortified supply lines, tended to the wounded, and reorganized their troops.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> Rebels then set their sights on the Capitol.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Tactics">Tactics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pods">Pods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Pod" title="Pod">Pod</a></i></center></div>
+<p>A pod is an obstacle or <a href="/wiki/Weapon" class="mw-redirect" title="Weapon">weapon</a> designed by <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> to trap or kill anyone in proximity of its activation. The Capitol planted many pods around the city long before the war, adding to them over the years, and these served as a defense mechanism against the rebels' advance.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Counteraction">Counteraction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Unbeknownst to the Capitol, a rebel insider had secured a map of active pods before fleeing the city with <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>. With the use of a <a href="/wiki/Holo" title="Holo">Holo</a>, rebel units could access a digital version of this map and use it to navigate around the marked pods. or else purposefully trigger them at a safe distance, like defusing a bomb.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>However, the intel was several months old by the time it was put into use in the Battle of the Capitol. As a result, some pods were mislabeled, leaving rebels facing threats they were unprepared to address.<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> In other cases, pods were entirely missing from the map because they had been planted later, so unsuspecting rebels triggered pods where they thought there were none.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-:1_8-0" class="reference"><a href="#cite_note-:1-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>At one point, rebels began to let citizens' abandoned cars drift down the street to trigger pods, then follow after the vehicles unharmed. Once the Capitol caught on, they would manually disable a pod before the car could trigger it, then reenable it when rebel forces followed.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Propos">Propos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Propo" title="Propo">Propo</a></i></center></div>
+<p>Propaganda spots, more commonly known as propos, were televised materials used to promote the rebel cause as part of the Airtime Assault.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> Both the rebels and the Capitol aired propos throughout much of the war, including the Battle of the Capitol.
+</p>
+<h4><span class="mw-headline" id="Squad_451"><a href="/wiki/Squad_451" title="Squad 451">Squad 451</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Members of Squad 451, also known as the Star Squad, were sharpshooters who served as "the on-screen faces of the invasion". They were also a part of the disinformation team; if rebels only shot at the pods on Plutarch's map, the Capitol would quickly figure out they had one, rendering it useless. It subsequently fell to Squad 451 to draw suspicion away by shooting at less important targets.<sup id="cite_ref-:0_1-4" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Soon after, they would be derailed from their original goal in favor of <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>'s unsanctioned mission to assassinate <a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">President Snow</a>.<sup id="cite_ref-:1_8-1" class="reference"><a href="#cite_note-:1-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Initial_rebel_invasion">Initial rebel invasion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The rebel invasion of the Capitol began when rebel forces captured several tunnels that led through the <a href="https://en.wikipedia.org/wiki/Rocky_Mountains" class="extiw" title="wikipedia:Rocky Mountains">Rocky Mountains</a>, allowing the rebels to circumvent scaling the mountains, which had led to their defeat in the first war. In addition, the fall of the Nut in District 2 resulted in the loss of the majority of the Capitol's hovercraft fleet. This enabled the rebels to achieve air superiority and establish a beachhead at the perimeter of the city. This allowed for constant reinforcement and supplies, while simultaneously blocking any possibility of retreat by Capitol forces. 
+</p><p>During the first few days of the invasion, the rebels went largely unnoticed by the Capitol's military, as they faced little resistance. Capitol military commanders urged their forces to begin fighting, believing that sufficient brutality could turn the tide of the invasion. However, there were no illusions to Capitol leaders that the city would fall. 
+</p>
+<h3><span class="mw-headline" id="Arrival_of_Squad_451">Arrival of Squad 451</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Squad 451 consisted of nine soldiers accompanied by a four-person camera crew. During the early days of the battle, the Squad entered an abandoned Capitol neighborhood (staying behind the front lines in order to film propos for the rebels), and accidentally triggered a pod that sent a metal dart into the side of Leeg 2's head, instantly killing her. Leeg 1 broke down after her sister's death, and later on in the day Peeta Mellark was sent as a replacement. This alarmed the squad, as he had not fully recovered from his <a href="/wiki/Hijacking" title="Hijacking">hijacking</a>, making him dangerous, especially to Katniss. Boggs informed Katniss that <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> never liked her and wanted Peeta rescued from the arena instead, proving that Coin saw Katniss as a threat over the new Presidential position as there would be a free election after the war ended. Boggs believed Coin sent Peeta to kill Katniss, as he would not be able to control himself.
+</p><p>In the film adaptation, Peeta arrived to the Squad much earlier, and Leeg 2 was not killed.
+</p><p>The Squad progressed further into the Capitol, using Boggs's <a href="/wiki/Holo" title="Holo">Holo</a> to avoid and detect pods.
+</p>
+<h3><span class="mw-headline" id="Rebels_gaining_momentum">Rebels gaining momentum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most of the rebel losses during the battle came not from the Capitol's military forces, but rather from strategically placed traps commonly referred to as "<a href="/wiki/Pod" title="Pod">pods</a>". These pods resulted in the deaths of numerous rebels. Nevertheless, the rebel advance continued, causing massive damage to Capitol infrastructure and mounting civilian deaths. As the battle dragged on, it became clear to the rebels that the Capitol's remaining forces were being deployed in strategically important locations, not the whole city. Capitol commanders also began deploying their troops in positions to delay or outright block the rebel advance on the city center. This tactic became increasingly ineffective because of the rebels' constant reinforcements. The Capitol troops were under-supplied and had no replacement for soldiers they were losing. Where the Capitol troops had withdrawn, pods were expected to hold the rebel troops. This did not work, but did cause huge rebel losses. The nature of the pods was widely varied, ranging from conventional weapons such as gunfire and explosives to <a href="/wiki/Muttations" class="mw-redirect" title="Muttations">muttations</a> and an unknown chemical that resembled a large black wave. Nevertheless, the rebels continued their advance. The city became the site of numerous propaganda clips shot by <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a> in the opening days of the battle, but as the fighting dragged on, the propaganda stopped being produced.
+</p>
+<h3><span class="mw-headline" id="Pressing_in_on_the_City_Center">Pressing in on the City Center</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the following weeks of battle, the Capitol's defense began collapsing as the rebels pushed forward. During this period, the rebels marked out four distinct paths, simply referred to as the A, B, C, and D Lines, to the center of the Capitol. The Capitol authorities begin evacuating civilians towards the center of the city.  
+</p><p>This resulted in numerous civilian deaths as the rebels attempted to engage the Peacekeepers escorting the evacuees. The close proximity of the civilians resulted in several bloodbaths. At one point, the rebels attempted to disable pods by sending unmanned cars down roads, in a rudimentary attempt at minesweeping. The Capitol soon caught on and began manually activating pods, killing large numbers of rebel forces. 
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/1e/MockingjayFirefight.png/revision/latest?cb=20220624204829" class="mw-file-description image"><img alt="Rebel soldiers engage in a firefight with Peacekeepers near the City Circle during the final moments of the Second Rebellion" src="https://static.wikia.nocookie.net/thehungergames/images/1/1e/MockingjayFirefight.png/revision/latest/scale-to-width-down/180?cb=20220624204829" decoding="async" loading="lazy" width="180" height="72" class="thumbimage" data-image-name="MockingjayFirefight.png" data-image-key="MockingjayFirefight.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:MockingjayFirefight.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Rebel soldiers engage in a firefight with Peacekeepers near the City Circle during the final moments of the Second Rebellion. </p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="City_Circle_bombing">City Circle bombing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>After weeks of unsuccessful fighting, the remaining troops of the Capitol were ordered to retreat to the President's Mansion and provide security for the evacuation of civilians. As a last-ditch effort to slow down the rebel advance, President Snow ordered that the children were to be used as a shield for his mansion. However, a Capitol-marked hovercraft appeared and dropped what appeared to be aid parcels on the children. In reality, the aid parcels were twice-detonating explosives, which killed large numbers of children, Peacekeepers and medics who rushed in to help. Following this, all remaining support for President Snow and his regime collapsed, and the Capitol was quickly overrun by the rebels. 
+</p>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The government of President Snow was dissolved, as were the Capitol's Armed Forces and all its institutions. Mass arrests of Peacekeepers, Capitol officials, and Gamemakers soon followed, including President Coriolanus Snow himself, who was sentenced to be publicly executed by Katniss Everdeen. 
+</p><p>In what was supposed to be the liberalization and restructuration of Panem's government, was actually a consolidation of power by self-declared interim President Alma Coin. Showing her authoritarian tendencies, President Coin refused to hold elections, and proposed a continuation of the Hunger Games, which was narrowly approved by the victors.
+</p><p>In a private meeting between Snow and his executioner, he revealed to her that it was, in fact, Coin who had ordered the bombing of Capitol children, which had taken the life of Primrose. As the bombs which were used to kill Capitol children reassembled an invention designed by Gale and Beetee, Katniss began realizing that Snow was telling the truth. During Snow's execution, Katniss made a last-minute decision to assassinate interim President Alma Coin, while Snow was either trampled by the crowd, or choked on his own blood.
+</p><p>With the deaths of Snow and Coin, an emergency presidential election was held, resulting in a decisive victory for <a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a> of District 8. Under her administration, the constitutional republic of Panem was formed, and the Hunger Games were abolished permanently. Massive amounts of economic and political liberalization took place, leading to an explosion in economic growth and development.
+</p><p>It was later proven that the hovercraft actually belonged to the rebels, evidenced by the lack of Capitol aircraft at the time and the strategy behind the bombing, which was developed by rebels <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> and <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>.
+</p>
+<h2><span class="mw-headline" id="Notable_persons_involved">Notable persons involved</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Rebels">Rebels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Deceased">Deceased</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> - Blown up by President Coin's <a href="/wiki/Parachute" class="mw-redirect" title="Parachute">parachute</a> bombs.</li>
+<li><a href="/wiki/Messalla" title="Messalla">Messalla</a> - Melted in an unknown pod that trapped him before burning the flesh off him.</li>
+<li><a href="/wiki/Castor" title="Castor">Castor</a> - Decapitated by <a href="/wiki/Lizard_mutt" title="Lizard mutt">lizard mutts</a>.</li>
+<li><a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> - Exploded by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> after she uses the Holo to kill the lizard mutts.</li>
+<li><a href="/wiki/Leeg_1" title="Leeg 1">Leeg 1</a> - Mauled in the meat grinder pod.</li>
+<li><a href="/wiki/Leeg_2" title="Leeg 2">Leeg 2</a> - Stepped on mislabeled pod and hit in the head by a dart.</li>
+<li><a href="/wiki/Homes" title="Homes">Homes</a> - Decapitated by lizard mutts.</li>
+<li><a href="/wiki/Boggs" title="Boggs">Boggs</a> - Stepped on a mislabeled pod and both legs were blown off and bled to death.</li>
+<li><a href="/wiki/Mitchell" title="Mitchell">Mitchell</a> - Accidentally thrown in barbed wire by Peeta. Body destroyed in the black wave after Boggs lost his legs.</li>
+<li><a href="/wiki/Jackson" title="Jackson">Jackson</a> - Mutilated by the meat grinder pod.</li>
+<li><a href="/wiki/Lyme" title="Lyme">Lyme</a> - Died sometime after the invasion of the Nut.</li>
+<li><a href="/wiki/Avox" title="Avox">Avoxes</a> - Killed by lizard mutts.</li>
+<li><a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a> - Shot by Katniss.</li>
+<li>Dozens of rebels killed in the initial battle.</li></ul>
+<h4><span class="mw-headline" id="Alive">Alive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Katniss Everdeen</li>
+<li>Peeta Mellark</li>
+<li>Gale Hawthorne</li>
+<li><a href="/wiki/Pollux" title="Pollux">Pollux</a></li>
+<li><a href="/wiki/Tigris" title="Tigris">Tigris</a></li>
+<li><a href="/wiki/Cressida" title="Cressida">Cressida</a></li>
+<li><a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a></li>
+<li><a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a></li>
+<li><a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a></li></ul>
+<h3><span class="mw-headline" id="Capitol">Capitol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D18&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Deceased_2">Deceased</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D19&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Lizard mutts - Blown up when <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> threw an active Holo into the hole they were in.</li>
+<li>Peacekeeper squad - Killed by Squad 451.</li>
+<li>Capitol woman - Shot by Katniss in the heart.</li>
+<li>Dozens of Capitol civilians - Killed in the crossfire between rebels and Peacekeepers.</li>
+<li>President Coriolanus Snow - Choked on his own blood or was crushed to death.</li>
+<li>Capitol children - Blown up by President Coin's parachute bombs.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_the_Capitol%3Fveaction%3Dedit%26section%3D20&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup> <sup><a href="#cite_ref-:0_1-3">1.3</a></sup> <sup><a href="#cite_ref-:0_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 13</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 15</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 16</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 17</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 19</span>
+</li>
+<li id="cite_note-:1-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_8-0">8.0</a></sup> <sup><a href="#cite_ref-:1_8-1">8.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 20</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 22</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 24</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 3</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20251227144121
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.089 seconds
+Real time usage: 0.132 seconds
+Preprocessor visited node count: 385/1000000
+Post‐expand include size: 297/2097152 bytes
+Template argument size: 38/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4661/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   59.170      1 -total
+ 59.10%   34.967      1 Template:Battle
+  7.81%    4.619      2 Template:Main
+  2.44%    1.441      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:68326-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227144121 and revision id 951558. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,119 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Smiley</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/03/Smiley.jpg/revision/latest?cb=20231223174356" class="image image-thumbnail" title="Smiley">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/0/03/Smiley.jpg/revision/latest/scale-to-width-down/268?cb=20231223174356" srcset="https://static.wikia.nocookie.net/thehungergames/images/0/03/Smiley.jpg/revision/latest/scale-to-width-down/268?cb=20231223174356 1x, https://static.wikia.nocookie.net/thehungergames/images/0/03/Smiley.jpg/revision/latest?cb=20231223174356 2x" class="pi-image-thumbnail" data-relevant="1" alt="Smiley" width="270" height="407" data-image-key="Smiley.jpg" data-image-name="Smiley.jpg" />
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_8" title="District 8">District 8</a> (originally)<p><a href="/wiki/District_12" title="District 12">District 12</a></p></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Carl_Spencer" title="Carl Spencer">Carl Spencer</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Peacekeeping's good work if you can get it. Better than mill work. Lots of food, and money enough to send back to my folks. Some people sneer at it, but I say the war's history and a job's a job.</i>"</span></dd>
+<dd>&#8212;Smiley's opinion on Peacekeeper work<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Smiley</b> was a male individual who enlisted in the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>. He was originally born in <a href="/wiki/District_8" title="District 8">District 8</a>, but was assigned to work in <a href="/wiki/District_12" title="District 12">District 12</a>. He disliked the idea of working the textile mills that District 8 was known for, hence his decision to enroll in the Peacekeepers. He was a highly outgoing individual and considered his bunkmates his family.<sup id="cite_ref-Ballad_21_1-0" class="reference"><a href="#cite_note-Ballad_21-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSmiley%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Smiley had a history of selling things at the black market back in District 8.<sup id="cite_ref-Ballad_23_2-0" class="reference"><a href="#cite_note-Ballad_23-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>At the time that <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> enrolled in the Peacekeepers following the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, Smiley had only been enlisted for a week, but already seemed to have the routine down pat. He had become friends with <a href="/wiki/Bug" title="Bug">Bug</a>, his bunkmate.
+</p><p>Upon meeting Coriolanus and <a href="/wiki/Junius" title="Junius">Junius</a>, Smiley declared the group fast friends and gave them each nicknames. It was likely that "Smiley" was, itself, a nickname. He introduced Snow and the other new Peacekeepers to <a href="/wiki/The_Hob" title="The Hob">the Hob</a> in District 12 and often distracted them with his constant chatter.<sup id="cite_ref-Ballad_21_1-1" class="reference"><a href="#cite_note-Ballad_21-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>  
+</p><p>Smiley was disappointed when he learned that Peacekeepers were required to serve for a month before collecting their first paycheck, having counted on the money for a night of revelry at the Hob. He was therefore cheered when <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> joined the group and his mother, <a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">Mrs. Plinth</a> sent presents of food, which Sejanus shared with the group. Smiley suggested to set aside some of the bounty to trade for drinks during the <a href="/wiki/Covey" title="Covey">Covey</a>'s performance at the Hob, and the others agreed.<sup id="cite_ref-Ballad_22_3-0" class="reference"><a href="#cite_note-Ballad_22-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>At the clinic, Smiley met a nurse who told him of what was going on around the district. He told his bunkmates that <a href="/wiki/Arlo_Chance" title="Arlo Chance">Arlo Chance</a> had been arrested for three murders in the mines and was to be hanged that afternoon.<sup id="cite_ref-Ballad_22_3-1" class="reference"><a href="#cite_note-Ballad_22-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> Although Coriolanus and Sejanus attended, Smiley did not, and was eager to hear about what had happened.<sup id="cite_ref-Ballad_23_2-1" class="reference"><a href="#cite_note-Ballad_23-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>During his first visit to the Hob to watch the Covey perform, Smiley broke one or Mrs. Plinth's cookies into a dozen pieces for others to sample and trade for, having learned the strategy from dealing in the black market back in District 8. They ended up with a bottle of white liquor, which the bunkmates shared with one another.<sup id="cite_ref-Ballad_23_2-2" class="reference"><a href="#cite_note-Ballad_23-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> Because of his skill in trading, Smiley ended up as the group's treasurer.<sup id="cite_ref-Ballad_26_4-0" class="reference"><a href="#cite_note-Ballad_26-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>The morning after <a href="/wiki/Mayfair_Lipp" title="Mayfair Lipp">Mayfair Lipp</a> and <a href="/wiki/Billy_Taupe" class="mw-redirect" title="Billy Taupe">Billy Taupe</a>'s murders, Smiley learned of their identities by speaking to his nurse friend again and informed his bunkmates about what had happened, though he didn't know that Coriolanus and Sejanus had been involved with the murders firsthand. He later let the others know that <a href="/wiki/Spruce" title="Spruce">Spruce</a> had died during the night, and after Sejanus was arrested, led his group in confronting the sergeant at target practice that Sejanus hadn't committed the murders. However, Sejanus was hanged for his rebellious plans.<sup id="cite_ref-Ballad_28_5-0" class="reference"><a href="#cite_note-Ballad_28-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>Coriolanus remained in contact with Smiley after Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> manipulated his return to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> via an honorable discharge to attend the <a href="/wiki/University" title="University">University</a>. Smiley wrote him a letter informing him that <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> had disappeared, and was rumored to have been killed by <a href="/wiki/Mayor_Lipp" title="Mayor Lipp">Mayor Lipp</a>, who suspected her of murdering his daughter. He also told Coriolanus that their commander, <a href="/wiki/Commander_Hoff" title="Commander Hoff">Commander Hoff</a>, had been replaced by a new commander who had outlawed the <a href="/wiki/Covey" title="Covey">Covey</a>'s performances at the Hob, because music caused trouble.<sup id="cite_ref-Ballad_Epilogue_6-0" class="reference"><a href="#cite_note-Ballad_Epilogue-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSmiley%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_21-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_21_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_21_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-Ballad_23-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_23_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_23_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_23_2-2">2.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 23</span>
+</li>
+<li id="cite_note-Ballad_22-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_22_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_22_3-1">3.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 22</span>
+</li>
+<li id="cite_note-Ballad_26-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_26_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 26</span>
+</li>
+<li id="cite_note-Ballad_28-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_28_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 28</span>
+</li>
+<li id="cite_note-Ballad_Epilogue-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Epilogue_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Epilogue</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260104031756
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.029 seconds
+Real time usage: 0.039 seconds
+Preprocessor visited node count: 229/1000000
+Post‐expand include size: 647/2097152 bytes
+Template argument size: 367/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3329/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   29.478      1 -total
+ 68.64%   20.234      1 Template:Character
+ 12.85%    3.789      1 Template:Reflist
+  5.18%    1.527      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539732-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104031756 and revision id 941136. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,125 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 210px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/67/Bread.jpg/revision/latest?cb=20120128045059" class="mw-file-description image"><img alt="Various types of bread." src="https://static.wikia.nocookie.net/thehungergames/images/6/67/Bread.jpg/revision/latest/scale-to-width-down/210?cb=20120128045059" decoding="async" loading="lazy" width="210" height="140" class="thumbimage" data-image-name="Bread.jpg" data-image-key="Bread.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Bread.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Various types of bread.</p> 		 	</figcaption> </figure>
+<p><b>Bread</b> is a <a href="/wiki/Food_and_drink" title="Food and drink">food</a> made from various types of grain. It has been a staple for many cultures throughout history and plays a symbolic role in <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><i>The Hunger Games</i> trilogy</a>.  
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#District_specialties"><span class="tocnumber">1</span> <span class="toctext">District specialties</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Capitol_specialties"><span class="tocnumber">2</span> <span class="toctext">Capitol specialties</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Mellark_bakery_specialties"><span class="tocnumber">3</span> <span class="toctext">Mellark bakery specialties</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Role_of_bread"><span class="tocnumber">4</span> <span class="toctext">Role of bread</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="District_specialties">District specialties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Each of the twelve <a href="/wiki/District" class="mw-redirect" title="District">districts</a> of <a href="/wiki/Panem" title="Panem">Panem</a> has their own unique variety of bread. Each bread's shape, composition, and flavor is influenced by the district's industry and location. The districts whose breads are revealed in the narrative include:
+</p>
+<ul><li><a href="/wiki/District_3" title="District 3">District 3</a> (Technology): Bite-sized, square shaped rolls.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/District_4" title="District 4">District 4</a> (Fishing): Salty, fish-shaped bread. Made with seaweed, giving it a green tint.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/District_9" title="District 9">District 9</a> (Grain): As the grain-producing district it can be assumed it makes the majority of the bread for Panem.</li>
+<li><a href="/wiki/District_11" title="District 11">District 11</a> (Agriculture): Made with dark ration grain. It is crescent shaped and sprinkled with seeds.<sup id="cite_ref-THG_18_3-0" class="reference"><a href="#cite_note-THG_18-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/District_12" title="District 12">District 12</a> (Coal mining): Two kinds of bread are mentioned: "flat, dense loaves" made from the <a href="/wiki/Tessera" title="Tessera">tessera</a> grain,<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> and "drop biscuits" (presumably made from tessera grain as well). During the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a> training, <a href="/wiki/Katniss" class="mw-redirect mw-disambig" title="Katniss">Katniss</a> remarked that <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>'s version of the latter looked better than the ones from home, even though it was made from the same ingredients.<sup id="cite_ref-:1_5-0" class="reference"><a href="#cite_note-:1-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Capitol_specialties">Capitol specialties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several varieties of bread are seen in the Capitol. In contrast to several of the poorer districts, whose bread is made from rough ration grain, Capitol bread is made from refined white flour. Different types of bread from the Capitol include:
+</p>
+<ul><li>Flower-shaped rolls<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Puffy bread<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Soft rolls<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Mellark_bakery_specialties">Mellark bakery specialties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/6f/Hungergames_01453.jpg/revision/latest?cb=20130706182441" class="mw-file-description image"><img alt="The burned bread Peeta gave Katniss." src="https://static.wikia.nocookie.net/thehungergames/images/6/6f/Hungergames_01453.jpg/revision/latest/scale-to-width-down/180?cb=20130706182441" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="Hungergames 01453.jpg" data-image-key="Hungergames_01453.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Hungergames_01453.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The burned bread Peeta gave Katniss.</p> 		 	</figcaption> </figure>
+<p>A number of unique breads were produced at the <a href="/wiki/Bakery" title="Bakery">bakery</a> run by <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> and his family, some of which play key roles in the story.
+</p>
+<ul><li>Raisin-and-nut bread: This is the bread that Peeta burned on purpose to give to a starving Katniss, thus setting their relationship in motion.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Cinnamon and dill: Katniss notices these scents lingering on Peeta, and surmises that they must be from the breads he had baked that day.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Cheese buns: Katniss' favorite. Peeta kept her supplied with them following the 74th Hunger Games and subsequent <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Role_of_bread">Role of bread</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"Panem" (or simply "pan") is Latin for "bread", and forms part of the infamous Roman political phrase <i><a href="https://en.wikipedia.org/wiki/Bread_and_circuses" class="extiw" title="wikipedia:Bread and circuses">panem et circenses</a></i> , or "bread and circuses". Coined by the satirist <a href="https://en.wikipedia.org/wiki/Juvenal" class="extiw" title="wikipedia:Juvenal">Juvenal</a> around the second century C.E., he used the phrase to describe how the Roman people of his day no longer cared about political issues or participating in civic duty, as long as they were kept fed and entertained. This is even more true of Panem's Capitol: The people essentially gave up their autonomy and humanity in exchange for food and entertainment when they allowed the creation of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, therefore the phrase is very appropriate.
+<ul><li>In the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, the <a href="/wiki/District_9" title="District 9">District 9</a> male tribute's name, <a href="/wiki/Panlo" title="Panlo">Panlo</a>, comes from the same root.</li></ul></li>
+<li>While <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> would usually have gritty, dark bread made from Capitol flour, he had corn bread as a treat on his sixteenth birthday.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Peeta's name is a homonym for "<a href="https://en.wikipedia.org/wiki/pita" class="extiw" title="wikipedia:pita">pita</a>", a type of Middle Eastern flat bread.</li>
+<li>In <a href="/wiki/District_2" title="District 2">District 2</a>, it's a tradition to sprinkle breadcrumbs on the dead to wish them a good passing into the afterlife. In the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> snuck into the arena to sprinkle breadcrumbs on <a href="/wiki/Marcus" title="Marcus">Marcus</a>' corpse.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> Before the Hunger Games, Sejanus was seen doing the same for <a href="/wiki/Brandy" title="Brandy">Brandy</a> before being pulled away by a Peacekeeper.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> realized that <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a> was from District 11 when she showed special interest in the District 11 roll from a basket of assorted rolls, beginning to cry after inhaling its scent.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>In his first appearance, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> held a loaf of bread with an arrow through it and said, "Look what I shot".<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>During their training for the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>, Peeta pointed out all the districts' breads to Katniss when they were having lunch,<sup id="cite_ref-:1_5-1" class="reference"><a href="#cite_note-:1-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>, and during his first <a href="/wiki/Interview" class="mw-redirect" title="Interview">interview</a> with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>, Peeta compared the tributes to their districts' breads.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>In the 74th Hunger Games, Katniss noticed a loaf of bread on the ground by the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a>. She picked it up as soon as the Games began, but lost it during the struggle with the <a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">boy from District 9</a> when she was trying to obtain the <a href="/wiki/Backpack" title="Backpack">backpack</a>.<sup id="cite_ref-THG_11_17-0" class="reference"><a href="#cite_note-THG_11-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Katniss received bread from District 11 shortly after <a href="/wiki/Rue" title="Rue">Rue</a>'s death. She assumed the bread was originally meant for Rue herself, but after her death, the district decided to give it to Katniss.<sup id="cite_ref-THG_18_3-1" class="reference"><a href="#cite_note-THG_18-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>On the morning of her Victory Tour, Katniss visited the <a href="/wiki/Hob" class="mw-redirect" title="Hob">Hob</a> and made purchases of "coffee, buns, eggs, yarn, and oil."<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The District 12 marriage tradition, the <a href="/wiki/Toasting" title="Toasting">toasting</a>, is a literal meeting of bread and fire, which serves symbolically for Peeta and Katniss.<sup id="cite_ref-CF_17_19-0" class="reference"><a href="#cite_note-CF_17-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>To gain Katniss' trust, <a href="/wiki/Bonnie" title="Bonnie">Bonnie</a> and <a href="/wiki/Twill" title="Twill">Twill</a> showed her a cracker with a <a href="/wiki/Mockingjay" title="Mockingjay">mockingjay</a> stamped on it.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The amount and type of bread that was given in the arena during<i> <a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> served as a countdown for a start of the <a href="/wiki/Rebellion" title="Rebellion">rebellion</a>. Bread seemed so innocent, yet was used in communication between <a href="/wiki/Mentor" title="Mentor">mentor</a> and <a href="/wiki/Tribute" title="Tribute">tribute</a> for the start of a rebellion in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>.<sup id="cite_ref-CF_27_21-0" class="reference"><a href="#cite_note-CF_27-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>While in <a href="/wiki/District_13" title="District 13">District 13</a>, Katniss' <a href="/wiki/Prep_team" title="Prep team">prep team</a> was imprisoned for repeated infractions over bread (i.e. they took more than was allowed by their rations).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 22</span>
+</li>
+<li id="cite_note-THG_18-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_18_3-0">3.0</a></sup> <sup><a href="#cite_ref-THG_18_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_4-0">4.0</a></sup> <sup><a href="#cite_ref-:0_4-1">4.1</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 1</span>
+</li>
+<li id="cite_note-:1-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_5-0">5.0</a></sup> <sup><a href="#cite_ref-:1_5-1">5.1</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 7</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 5</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 6</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 26</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 2</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 11</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 10</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 7</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 9</span>
+</li>
+<li id="cite_note-THG_11-17"><span class="mw-cite-backlink"><a href="#cite_ref-THG_11_17-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 11</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 1</span>
+</li>
+<li id="cite_note-CF_17-19"><span class="mw-cite-backlink"><a href="#cite_ref-CF_17_19-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 17</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 9</span>
+</li>
+<li id="cite_note-CF_27-21"><span class="mw-cite-backlink"><a href="#cite_ref-CF_27_21-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 27</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 4</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251231201112
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.061 seconds
+Real time usage: 0.092 seconds
+Preprocessor visited node count: 460/1000000
+Post‐expand include size: 547/2097152 bytes
+Template argument size: 68/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7966/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   35.166      1 -total
+ 58.65%   20.625      1 Template:Reflist
+  5.74%    2.019      2 Template:SOTR
+  4.21%    1.479      3 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2833-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231201112 and revision id 962393. Rendering was triggered because: unknown
+ -->
+</div>

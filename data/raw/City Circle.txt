@@ -1,0 +1,140 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">City Circle</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e1/Capirgbsdd.jpg/revision/latest?cb=20120317000759" class="image image-thumbnail" title="Capirgbsdd">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/e/e1/Capirgbsdd.jpg/revision/latest/scale-to-width-down/268?cb=20120317000759" srcset="https://static.wikia.nocookie.net/thehungergames/images/e/e1/Capirgbsdd.jpg/revision/latest/scale-to-width-down/268?cb=20120317000759 1x, https://static.wikia.nocookie.net/thehungergames/images/e/e1/Capirgbsdd.jpg/revision/latest/scale-to-width-down/536?cb=20120317000759 2x" class="pi-image-thumbnail" data-relevant="1" alt="Capirgbsdd" width="270" height="115" data-image-key="Capirgbsdd.jpg" data-image-name="Capirgbsdd.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Tribute" title="Tribute">Tributes</a></li><li>The <a href="/wiki/President" title="President">President</a></li><li>Other wealthy Capitol citizens</li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i> <a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a> </i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>City Circle</b> is a looping road in the center of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> where the <a href="/wiki/Training_Center" title="Training Center">Training Center</a> and the <a href="/wiki/President%27s_mansion" title="President&#39;s mansion">president's mansion</a> are located.<sup id="cite_ref-:1_1-0" class="reference"><a href="#cite_note-:1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Annual_events"><span class="tocnumber">1</span> <span class="toctext">Annual events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">The Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Tribute_Parade"><span class="tocnumber">1.1.1</span> <span class="toctext">Tribute Parade</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Interviews"><span class="tocnumber">1.1.2</span> <span class="toctext">Interviews</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Second_Rebellion"><span class="tocnumber">3.1</span> <span class="toctext">Second Rebellion</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Aftermath"><span class="tocnumber">3.2</span> <span class="toctext">Aftermath</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Annual_events">Annual events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_Hunger_Games">The Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Tribute_Parade"><a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On the second day leading up to the annual <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, <a href="/wiki/Tribute" title="Tribute">tributes</a> ride chariots through the city in specially-made <a href="/wiki/Chariot_costumes" title="Chariot costumes">costumes</a> inspired by their <a href="/wiki/Districts" class="mw-redirect" title="Districts">districts</a>' industries. After about twenty minutes, the procession ends in the City Circle, when the twelve chariots pull up in front of the president's mansion to listen to a welcoming speech. Then the <a href="/wiki/Horn_of_Plenty" title="Horn of Plenty">anthem</a> would play, and the chariots would finally pull into the Training Center.<sup id="cite_ref-:1_1-1" class="reference"><a href="#cite_note-:1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Interviews"><a href="/wiki/Interviews" title="Interviews">Interviews</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The night before the Hunger Games officially began, tributes gathered on a stage in front of the Training Center to be interviewed before a crowd in the City Circle.<sup id="cite_ref-:2_2-0" class="reference"><a href="#cite_note-:2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> After surviving the <a href="/wiki/Arena" title="Arena">arena</a>, the new <a href="/wiki/Victor" title="Victor">victor</a> and their support team took to the same stage to watch the official recap of the Games. They would then be formally <a href="/wiki/Victor_crowning" class="mw-redirect" title="Victor crowning">crowned</a> by the president.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> The most recent victor would return there several months later for another interview on their <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The City Circle is a looping, circular road surrounded by buildings on all sides. During the Tribute Parade, spectators watched the procession from the windows, and there was at least one screen in the City Circle.<sup id="cite_ref-:1_1-2" class="reference"><a href="#cite_note-:1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> When interviews were held, they set up an "elevated seating unit... for prestigious guests", such as <a href="/wiki/Mentor" title="Mentor">mentors</a> and <a href="/wiki/Stylist" title="Stylist">stylists</a>. A balcony to the right of the stage was reserved for <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>, and all other balconies were claimed by television crews. Other spectators had to stand in the City Circle or crowd into side streets.<sup id="cite_ref-:2_2-1" class="reference"><a href="#cite_note-:2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Second_Rebellion">Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/Battle_of_the_Capitol" title="Battle of the Capitol">Battle of the Capitol</a>, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> led <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a> on an unsanctioned mission to reach the presidential mansion in the City Circle and assassinate President <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> When she finally reached it, the children of Capitol refugees were gathered outside, having been offered asylum there; however, they were really being used as human shields.<sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> On orders from <a href="/wiki/District_13" title="District 13">District 13</a>'s President <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> a <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a> marked with the Capitol insignia dropped <a href="/wiki/Silver_parachute" title="Silver parachute">silver parachutes</a> into the crowd, like the ones used to deliver Hunger Games <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gifts</a>. Instead of aid parcels, these were actually twice-detonating bombs. After the first explosion, rebel medics and <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> united to assist the wounded, and a second explosion killed the aid workers. Katniss's younger sister, <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a>, was one of the casualties of the <a href="/wiki/City_Circle_bombing" class="mw-redirect" title="City Circle bombing">City Circle bombing</a>.<sup id="cite_ref-:0_6-1" class="reference"><a href="#cite_note-:0-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the war, the captured President Snow was set to be <a href="/wiki/Execution" title="Execution">executed</a> by Katniss Everdeen in the City Circle, tied to a post outside his mansion. However, instead of firing her <a href="/wiki/Bow_and_arrow" title="Bow and arrow">arrow</a> at Snow, Katniss assassinated President Coin.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> Giant screens broadcasted her as she was taken into custody immediately after. Katniss was then held in her old quarters in the Training Center during her <a href="https://en.wikipedia.org/wiki/trial_in_absentia" class="extiw" title="wikipedia:trial in absentia">trial in absentia</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the films, the Training Center was located along a long, straight road known as the <a href="/wiki/Avenue_of_the_Tributes" title="Avenue of the Tributes">Avenue of the Tributes</a>, where a large government building stood in place of the president's mansion,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> which was located elsewhere in the city.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-:3_12-0" class="reference"><a href="#cite_note-:3-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>In <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>The Hunger Games:</i> <i>Mockingjay - Part 2</i></a>, the City Circle remained the location of the mansion and the bombing, but Snow's execution and Coin's assassination took place on the Avenue of the Tributes instead.<sup id="cite_ref-:3_12-1" class="reference"><a href="#cite_note-:3-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCity_Circle%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_1-0">1.0</a></sup> <sup><a href="#cite_ref-:1_1-1">1.1</a></sup> <sup><a href="#cite_ref-:1_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-:2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_2-0">2.0</a></sup> <sup><a href="#cite_ref-:2_2-1">2.1</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 9</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 27</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_6-0">6.0</a></sup> <sup><a href="#cite_ref-:0_6-1">6.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 24</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 25</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 26</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 27</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-:3-12"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_12-0">12.0</a></sup> <sup><a href="#cite_ref-:3_12-1">12.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251228123757
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.066 seconds
+Real time usage: 0.102 seconds
+Preprocessor visited node count: 307/1000000
+Post‐expand include size: 167/2097152 bytes
+Template argument size: 34/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5041/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   60.142      1 -total
+ 34.75%   20.902      1 Template:Reflist
+ 31.52%   18.959      1 Template:Location
+  2.21%    1.327      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3821-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228123757 and revision id 943110. Rendering was triggered because: page-view
+ -->
+</div>

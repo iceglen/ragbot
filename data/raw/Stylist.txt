@@ -1,0 +1,309 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/48/Cinna_profile.jpg/revision/latest?cb=20120214221742" class="mw-file-description image"><img alt="Cinna, Katniss Everdeen's stylist." src="https://static.wikia.nocookie.net/thehungergames/images/4/48/Cinna_profile.jpg/revision/latest/scale-to-width-down/180?cb=20120214221742" decoding="async" loading="lazy" width="180" height="245" class="thumbimage" data-image-name="Cinna profile.jpg" data-image-key="Cinna_profile.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Cinna_profile.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Cinna, Katniss Everdeen's stylist.</p> 		 	</figcaption> </figure>
+<p>A <b>stylist</b> was a citizen of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> who was responsible for designing the clothing for one of two <a href="/wiki/Tribute" title="Tribute">tributes</a> from their chosen or assigned <a href="/wiki/District" class="mw-redirect" title="District">district</a> leading up to the annual <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose"><span class="tocnumber">1</span> <span class="toctext">Purpose</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tasks"><span class="tocnumber">2</span> <span class="toctext">Tasks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Tribute_Parade"><span class="tocnumber">2.1</span> <span class="toctext">Tribute Parade</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Training"><span class="tocnumber">2.2</span> <span class="toctext">Training</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Interviews"><span class="tocnumber">2.3</span> <span class="toctext">Interviews</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Arena"><span class="tocnumber">2.4</span> <span class="toctext">Arena</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Victors"><span class="tocnumber">2.5</span> <span class="toctext">Victors</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Victory_Tour"><span class="tocnumber">2.5.1</span> <span class="toctext">Victory Tour</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#10th_Hunger_Games"><span class="tocnumber">3.1</span> <span class="toctext">10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#50th_Hunger_Games"><span class="tocnumber">3.2</span> <span class="toctext">50th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#74th_Hunger_Games"><span class="tocnumber">3.3</span> <span class="toctext">74th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#75th_Hunger_Games"><span class="tocnumber">3.4</span> <span class="toctext">75th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Second_Rebellion"><span class="tocnumber">3.5</span> <span class="toctext">Second Rebellion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Known_stylists"><span class="tocnumber">4</span> <span class="toctext">Known stylists</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="67182" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was the stylist responsible for designing Katniss's wardrobe in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Cinna, a citizen of the Capitol, was the stylist responsible for designing the wardrobe for Katniss Everdeen in the Hunger Games. His role included creating outfits for the tributes leading up to the annual Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67183" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did the stylist's clothing choices impact a tribute's public persona in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, stylist's clothing choices shaped a tribute's public image. Katniss Everdeen's stylist, Cinna, crafted a 'Girl on Fire' costume, a black unitard symbolizing coal, lit with synthetic fire. This striking image significantly influenced her public persona. Likewise, Peeta's interview suit, designed by Juun J., played a part in his public image. Stylists also influenced the Victory Tour, with Nicholas K's clothing worn by both Katniss and Peeta.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67184" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did the stylist play in attracting or driving away sponsors in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, stylists, such as Katniss Everdeen's stylist Cinna, are pivotal in attracting or repelling sponsors. They design the tributes' outfits, shaping their public persona. This persona can influence sponsors' decisions before the Games commence.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67185" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Peeta's stylist in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Portia served as Peeta Mellark's stylist in the 74th and 75th Hunger Games. Her responsibilities included designing Peeta's attire for various events such as the Tribute Parade, training sessions, interviews, and the Games themselves.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67186" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did the stylist from Hunger Games contribute to the overall narrative of the story?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The stylist in the Hunger Games is responsible for designing tribute clothing for public appearances, shaping their public image. This can influence the Games' outcome. Cinna, as Katniss Everdeen's stylist, had a significant impact on her public persona. The role of the stylist ended tragically, with all stylists from the third Quarter Quell dying in the Second Rebellion.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Stylist","mainEntity":[{"@type":"Question","name":"Who was the stylist responsible for designing Katniss's wardrobe in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Cinna, a citizen of the Capitol, was the stylist responsible for designing the wardrobe for Katniss Everdeen in the Hunger Games. His role included creating outfits for the tributes leading up to the annual Hunger Games."}},{"@type":"Question","name":"How did the stylist's clothing choices impact a tribute's public persona in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, stylist's clothing choices shaped a tribute's public image. Katniss Everdeen's stylist, Cinna, crafted a 'Girl on Fire' costume, a black unitard symbolizing coal, lit with synthetic fire. This striking image significantly influenced her public persona. Likewise, Peeta's interview suit, designed by Juun J., played a part in his public image. Stylists also influenced the Victory Tour, with Nicholas K's clothing worn by both Katniss and Peeta."}},{"@type":"Question","name":"What role did the stylist play in attracting or driving away sponsors in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, stylists, such as Katniss Everdeen's stylist Cinna, are pivotal in attracting or repelling sponsors. They design the tributes' outfits, shaping their public persona. This persona can influence sponsors' decisions before the Games commence."}},{"@type":"Question","name":"Who was Peeta's stylist in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Portia served as Peeta Mellark's stylist in the 74th and 75th Hunger Games. Her responsibilities included designing Peeta's attire for various events such as the Tribute Parade, training sessions, interviews, and the Games themselves."}},{"@type":"Question","name":"How did the stylist from Hunger Games contribute to the overall narrative of the story?","acceptedAnswer":{"@type":"Answer","text":"The stylist in the Hunger Games is responsible for designing tribute clothing for public appearances, shaping their public image. This can influence the Games' outcome. Cinna, as Katniss Everdeen's stylist, had a significant impact on her public persona. The role of the stylist ended tragically, with all stylists from the third Quarter Quell dying in the Second Rebellion."}}]}</script>
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/bc/Alojamiento_Distrito_12.png/revision/latest?cb=20140303063128" class="mw-file-description image"><img alt="Stylists Cinna and Portia with the District 12 team." src="https://static.wikia.nocookie.net/thehungergames/images/b/bc/Alojamiento_Distrito_12.png/revision/latest/scale-to-width-down/180?cb=20140303063128" decoding="async" loading="lazy" width="180" height="97" class="thumbimage" data-image-name="Alojamiento Distrito 12.png" data-image-key="Alojamiento_Distrito_12.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Alojamiento_Distrito_12.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Stylists Cinna and Portia with the District 12 team.</p> 		 	</figcaption> </figure>
+<p>Stylists were responsible for selecting their tribute's wardrobe, styling them for both private and public appearances. These clothing choices played a critical role in conveying the tribute's public persona to the audience, and this could either attract or drive away <a href="/wiki/Sponsor" class="mw-redirect" title="Sponsor">sponsors</a> before the actual commencement of the Games.<sup id="cite_ref-THG_5_1-0" class="reference"><a href="#cite_note-THG_5-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Most stylists stayed in the profession for a long time, "constants in the ever-changing pool of tributes." Due to their many appearances over the years, they were familiar to the audience. Newer stylists were typically given the least desirable districts, such as <a href="/wiki/District_12" title="District 12">District 12</a>; however, even newcomers to the role could request a certain district.<sup id="cite_ref-THG_5_1-1" class="reference"><a href="#cite_note-THG_5-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Tasks">Tasks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/7e/Portia.jpg/revision/latest?cb=20120426074110" class="mw-file-description image"><img alt="Portia, the other District 12 stylist." src="https://static.wikia.nocookie.net/thehungergames/images/7/7e/Portia.jpg/revision/latest/scale-to-width-down/180?cb=20120426074110" decoding="async" loading="lazy" width="180" height="187" class="thumbimage" data-image-name="Portia.jpg" data-image-key="Portia.jpg" data-relevant="0"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Portia.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Portia, the other District 12 stylist.</p> 		 	</figcaption> </figure>
+<p>Stylists created every item of clothing their tribute wore for the duration of their stay in the Capitol. Additionally, each stylist delegated tasks to their own three-person <a href="/wiki/Prep_team" title="Prep team">prep team</a> of beauticians.<sup id="cite_ref-THG_5_1-2" class="reference"><a href="#cite_note-THG_5-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Tribute_Parade">Tribute Parade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Chariot_rides" title="Chariot rides">Chariot rides</a></i></center></div>
+<p>At the <a href="/wiki/Remake_Center" title="Remake Center">Remake Center</a>, a tribute would be prepared by their prep team before being seen by their stylist. Said stylist would introduce themselves and give their tribute the <a href="/wiki/Chariot_costumes" title="Chariot costumes">costume</a> they would wear while riding in their chariot. These costumes traditionally represented some aspect of their district's industry.<sup id="cite_ref-THG_5_1-3" class="reference"><a href="#cite_note-THG_5-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Training">Training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Stylists individually picked out their tributes' <a href="/wiki/Training_outfits" title="Training outfits">training outfits</a>.<sup id="cite_ref-THG_7_2-0" class="reference"><a href="#cite_note-THG_7-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> In the films, the tributes were given uniforms to wear instead.<sup id="cite_ref-THG_3-0" class="reference"><a href="#cite_note-THG-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-CF_4-0" class="reference"><a href="#cite_note-CF-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Interviews">Interviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The stylists also designed <a href="/wiki/Interview_outfits" title="Interview outfits">outfits</a> for the tributes' night of <a href="/wiki/Interviews" title="Interviews">interviews</a>, which took place on the evening before the Games. This was the last chance for the tribute and stylist to make an impression on the audience before the Games themselves.<sup id="cite_ref-THG_9_5-0" class="reference"><a href="#cite_note-THG_9-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Stylists were the only members of the tribute's team to accompany them right up to the start of the Games. They rode with them to the site of the <a href="/wiki/Arena" title="Arena">arena</a> in a <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a>, traveled with them through the <a href="/wiki/Catacombs" title="Catacombs">catacombs</a>, and kept them company in their <a href="/wiki/Launch_Room" title="Launch Room">Launch Room</a>. There, they put the finishing touches on their tribute's appearance. Stylists had no say in the <a href="/wiki/Arena_wear" title="Arena wear">arena wear</a>, as the uniform was the same for everyone, but they could style the tribute's hair and give them their <a href="/wiki/Tribute_token" title="Tribute token">tribute token</a>. They could only speculate what the arena might be like based on the uniform's materials and the design choices made.<sup id="cite_ref-THG_10_6-0" class="reference"><a href="#cite_note-THG_10-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Victors">Victors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If a stylist's tribute emerged from the Games as a <a href="/wiki/Victor" title="Victor">victor</a>, they were responsible for styling the new victor for closing ceremonies.<sup id="cite_ref-THG_26_7-0" class="reference"><a href="#cite_note-THG_26-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> When the victor's support team rose up from beneath the stage for the occasion, the stylist was the third person introduced, after the prep team and <a href="/wiki/Escort" title="Escort">escort</a> but before the <a href="/wiki/Mentor" title="Mentor">mentor</a>.<sup id="cite_ref-THG_27_8-0" class="reference"><a href="#cite_note-THG_27-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Victory_Tour">Victory Tour</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a></i></center></div>
+<p>The stylist of a winning tribute also designed all of the victor's outfits for their <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>. Stylists and the rest of the support team personally accompanied the new victor throughout these public appearances.<sup id="cite_ref-CF_1_9-0" class="reference"><a href="#cite_note-CF_1-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the time of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, the position of a stylist had not yet been created. Tributes were simply thrown into the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> in whatever they had worn to the <a href="/wiki/Reaping" title="Reaping">reaping</a>, which had likely become rather dirty and soiled. The exception was <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, whose colorful dress had been repaired and cleaned up by <a href="/wiki/Tigris" title="Tigris">Tigris</a> before her interview.<sup id="cite_ref-Ballad_11_10-0" class="reference"><a href="#cite_note-Ballad_11-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="50th_Hunger_Games">50th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a></i></center></div>
+<p><a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> was the District 12 stylist for many years, gaining a reputation for frequent negligence, intoxication, and reckless handling of reptiles. Officially, he styled all four District 12 tributes during the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>; however, his unreliable behavior forced the prep team— <a href="/wiki/University" title="University">University</a> students <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> and <a href="/wiki/Vitus" title="Vitus">Vitus</a>— to take on more responsibility. Proserpina eventually had to bring in her older sister, <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>, to help style them.<sup id="cite_ref-SR_12_11-0" class="reference"><a href="#cite_note-SR_12-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Cinna" title="Cinna">Cinna</a> undertook his first year as a stylist alongside his partner <a href="/wiki/Portia" title="Portia">Portia</a> during the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>. He specifically requested District 12, and he became the stylist to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, while Portia styled <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>. The two stylists devised a harmless type of flame to use on the District 12 tributes' black costumes, which made Katniss and Peeta stand out, instantly endearing them to the Capitol audience.<sup id="cite_ref-THG_5_1-4" class="reference"><a href="#cite_note-THG_5-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="75th_Hunger_Games">75th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Both Cinna and Portia continued to clothe Katniss and Peeta through the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. Cinna made a rebellious statement by modifying Katniss's wedding dress, turning her into a <a href="/wiki/Mockingjay_(bird)" title="Mockingjay (bird)">mockingjay</a>.<sup id="cite_ref-CF_17_12-0" class="reference"><a href="#cite_note-CF_17-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion">Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, Portia and her prep team were <a href="/wiki/Execution" title="Execution">executed</a> on live television after Peeta was <a href="/wiki/Rescue_mission" class="mw-redirect" title="Rescue mission">rescued</a> from the Capitol.<sup id="cite_ref-MJ_13_13-0" class="reference"><a href="#cite_note-MJ_13-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup> All stylists from the third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a> died during the war, but it is unclear which side was responsible or through what means this was carried out.<sup id="cite_ref-MJ_26_14-0" class="reference"><a href="#cite_note-MJ_26-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_stylists">Known stylists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/TIGRIS.png/revision/latest?cb=20151128175826" class="mw-file-description image"><img alt="Tigris" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="200" height="269" class="thumbimage lazyload" data-image-name="TIGRIS.png" data-image-key="TIGRIS.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/TIGRIS.png/revision/latest/scale-to-width-down/200?cb=20151128175826"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/TIGRIS.png/revision/latest?cb=20151128175826" class="mw-file-description image"><img alt="Tigris" src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/TIGRIS.png/revision/latest/scale-to-width-down/200?cb=20151128175826" decoding="async" loading="lazy" width="200" height="269" class="thumbimage" data-image-name="TIGRIS.png" data-image-key="TIGRIS.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/TIGRIS.png/revision/latest/scale-to-width-down/200?cb=20151128175826"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:TIGRIS.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tigris</p> 		 	</figcaption> </figure>
+<table class="wikitable" style="text-align: center;">
+<tbody><tr>
+<th><b>Stylist</b>
+</th>
+<th><b>District(s)</b>
+</th>
+<th><b>Years active</b>
+</th>
+<th><b>Known clients</b>
+</th></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Tigris" title="Tigris">Tigris</a>
+</td>
+<td>12
+</td>
+<td>10th (unofficially)
+</td>
+<td><a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>
+</td></tr>
+<tr>
+<td>"Not 12"<sup id="cite_ref-:0_15-0" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</td>
+<td><i>Unknown</i>
+</td>
+<td>Other unknown tributes<sup id="cite_ref-:0_15-1" class="reference"><a href="#cite_note-:0-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_7_stylist" title="District 7 stylist">District 7 stylist</a>
+</td>
+<td>7
+</td>
+<td>"Forty years"<sup id="cite_ref-CF_15_16-0" class="reference"><a href="#cite_note-CF_15-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>
+<p>(<i>approx. 35th</i>-75th)
+</p>
+</td>
+<td style="text-align: left;">
+<ul><li><a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a></li>
+<li>Other D7 tributes</li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a>
+</td>
+<td rowspan="4">12
+</td>
+<td rowspan="2">50th
+</td>
+<td rowspan="2" style="text-align: left;">
+<ul><li><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a></li>
+<li><a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a></li>
+<li><a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a></li>
+<li><a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> / <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina</a> &amp; <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> (unofficially)
+</td></tr>
+<tr>
+<td><a href="/wiki/Cinna" title="Cinna">Cinna</a>
+</td>
+<td rowspan="2">74th-75th
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Portia" title="Portia">Portia</a>
+</td>
+<td><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Tigris unofficially styled her cousin <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>'s tribute, Lucy Gray Baird, during the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. Due to their personal relationship and Snow's considerable influence on the future of the Games, it is possible that Tigris inspired him to create the stylist position.</li>
+<li>Like Tigris, Proserpina Trinket and her older sister Effie unofficially styled District 12 tributes.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStylist%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-THG_5-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_5_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_5_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_5_1-2">1.2</a></sup> <sup><a href="#cite_ref-THG_5_1-3">1.3</a></sup> <sup><a href="#cite_ref-THG_5_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-THG_7-2"><span class="mw-cite-backlink"><a href="#cite_ref-THG_7_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-THG-3"><span class="mw-cite-backlink"><a href="#cite_ref-THG_3-0">↑</a></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-CF-4"><span class="mw-cite-backlink"><a href="#cite_ref-CF_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-THG_9-5"><span class="mw-cite-backlink"><a href="#cite_ref-THG_9_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-THG_10-6"><span class="mw-cite-backlink"><a href="#cite_ref-THG_10_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-THG_26-7"><span class="mw-cite-backlink"><a href="#cite_ref-THG_26_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-THG_27-8"><span class="mw-cite-backlink"><a href="#cite_ref-THG_27_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-CF_1-9"><span class="mw-cite-backlink"><a href="#cite_ref-CF_1_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_11-10"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_11_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></span>
+</li>
+<li id="cite_note-SR_12-11"><span class="mw-cite-backlink"><a href="#cite_ref-SR_12_11-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-CF_17-12"><span class="mw-cite-backlink"><a href="#cite_ref-CF_17_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-MJ_13-13"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_13_13-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-MJ_26-14"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_26_14-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-:0-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_15-0">15.0</a></sup> <sup><a href="#cite_ref-:0_15-1">15.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-CF_15-16"><span class="mw-cite-backlink"><a href="#cite_ref-CF_15_16-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260102213920
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.099 seconds
+Real time usage: 0.145 seconds
+Preprocessor visited node count: 869/1000000
+Post‐expand include size: 1602/2097152 bytes
+Template argument size: 102/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6724/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   65.123      1 -total
+ 56.94%   37.078      1 Template:Reflist
+  5.55%    3.614      6 Template:THG
+  5.37%    3.498      3 Template:MJ
+  3.74%    2.438      3 Template:Main
+  3.20%    2.083      3 Template:CF
+  3.05%    1.984      1 Template:BSS
+  2.95%    1.920      1 Template:SOTR
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2346-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102213920 and revision id 966797. Rendering was triggered because: page-view
+ -->
+</div>

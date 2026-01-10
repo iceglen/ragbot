@@ -1,0 +1,121 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Woods</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/8f/KAtniss_hunting_in_the_woods.png/revision/latest?cb=20120523190824" class="image image-thumbnail" title="KAtniss hunting in the woods">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/8/8f/KAtniss_hunting_in_the_woods.png/revision/latest/scale-to-width-down/267?cb=20120523190824" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/8f/KAtniss_hunting_in_the_woods.png/revision/latest/scale-to-width-down/267?cb=20120523190824 1x, https://static.wikia.nocookie.net/thehungergames/images/8/8f/KAtniss_hunting_in_the_woods.png/revision/latest/scale-to-width-down/536?cb=20120523190824 2x" class="pi-image-thumbnail" data-relevant="1" alt="KAtniss hunting in the woods" width="270" height="148" data-image-key="KAtniss_hunting_in_the_woods.png" data-image-name="KAtniss hunting in the woods.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font">Outside <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>There are added concerns like venomous snakes, rabid animals, and no real paths to follow.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> talking about the dangers of the woods<sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<p>The <b>woods</b> are an area that lies beyond the <a href="/wiki/Fence" title="Fence">fence</a> that surrounds <a href="/wiki/District_12" title="District 12">District 12</a>.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Location"><span class="tocnumber">1</span> <span class="toctext">Location</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_fence"><span class="tocnumber">1.1</span> <span class="toctext">The fence</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Katniss_and_Gale&#39;s_meeting_place"><span class="tocnumber">1.2</span> <span class="toctext">Katniss and Gale's meeting place</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#The_lake"><span class="tocnumber">1.3</span> <span class="toctext">The lake</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Resources"><span class="tocnumber">2</span> <span class="toctext">Resources</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWoods%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Like District 12, the woods are located in the region of <a href="https://en.wikipedia.org/wiki/Appalachia" class="extiw" title="wikipedia:Appalachia">Appalachia</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> and they come between between District 12 and <a href="/wiki/District_13" title="District 13">District 13</a>. They're very wide and vast, though the exact area is unknown.
+</p>
+<h3><span class="mw-headline" id="The_fence">The fence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWoods%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Fence" title="Fence">Fence</a></i></center></div>
+<p>An electric fence separated the outskirts of District 12 from the woods, but it was rarely on due to power shortages. There were many holes across the length of it that could be used to gain access to the woods. One of the most accessible points was the one by <a href="/wiki/The_Meadow" title="The Meadow">the Meadow</a>; <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> often used this entrance because it was so close to her home in <a href="/wiki/The_Seam" title="The Seam">the Seam</a>.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Supposedly, <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> placed the fence there to keep wild animals out and protect the streets of District 12, but Katniss suspected it was so they could ensure citizens were kept inside.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> This seems to be supported by the fact that the fence did not exist at the time of <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a>.</i> It was later torn down by escaping refugees.<sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span id="Katniss_and_Gale.27s_meeting_place"></span><span class="mw-headline" id="Katniss_and_Gale's_meeting_place">Katniss and Gale's meeting place</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWoods%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Katniss-Gale-UHQ.jpg/revision/latest?cb=20190929114444" class="mw-file-description image"><img alt="Katniss and Gale talking." src="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Katniss-Gale-UHQ.jpg/revision/latest/scale-to-width-down/180?cb=20190929114444" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Katniss-Gale-UHQ.jpg" data-image-key="Katniss-Gale-UHQ.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Katniss-Gale-UHQ.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss and Gale talking.</p> 		 	</figcaption> </figure>
+<p>Katniss and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> usually met up at a special place: a rock ledge overlooking a valley, though they were well-hidden by a thicket of berry bushes. On <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaping day</a> for the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>, Katniss stripped berries from the bushes, which they ate there along with bakery bread and goat cheese from <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Prim</a>.<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_lake">The lake</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWoods%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Lake" title="Lake">Lake</a></i></center></div>
+<p>A couple of hours into the woods, there is a lake with an old concrete house at its edge. This place was well-known to the <a href="/wiki/Covey" title="Covey">Covey</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> as well as to <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> many years later; he took Katniss there when she was young. According to her, he thought there used to be a lot of other buildings a long time ago, as the foundations were still visible, where people could come to play and fish.<sup id="cite_ref-:2_5-0" class="reference"><a href="#cite_note-:2-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Katniss never took Gale to the lake before her <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> but she led him there the Sunday after she returned.<sup id="cite_ref-:2_5-1" class="reference"><a href="#cite_note-:2-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> After the <a href="/wiki/Bombings#District_12" title="Bombings">bombing of District 12</a>, Gale brought around 800 survivors to the lake, and he and a team of other able-bodied volunteers kept the group fed for three days, hunting and fishing until they were rescued.<sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Resources">Resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWoods%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a6/Katniss_hunting.png/revision/latest?cb=20130720225355" class="mw-file-description image"><img alt="Katniss hunting by the lake in " src="https://static.wikia.nocookie.net/thehungergames/images/a/a6/Katniss_hunting.png/revision/latest/scale-to-width-down/180?cb=20130720225355" decoding="async" loading="lazy" width="180" height="99" class="thumbimage" data-image-name="Katniss hunting.png" data-image-key="Katniss_hunting.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Katniss_hunting.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss hunting by the lake in <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></p> 		 	</figcaption> </figure>
+<p>The forest is a place some citizens of District 12 venture to hunt or gather food. In the fall, some “brave souls” would sneak into the woods to harvest apples. Katniss and Gale entered the forest far more regularly, hunting to provide for their families. Mr. Everdeen hid bows around&#160;the forest so that he could easily gain access to them. They hunted rabbits, squirrels, and the occasional deer, and then brought them back to sell or trade at <a href="/wiki/The_Hob" title="The Hob">the Hob</a>. Katniss and Gale also collected plants, both edible and medicinal. Gale set up mesh nets around strawberry patches so wild animals couldn't eat them. People could also fish in the rivers and lakes, or collect <a href="/wiki/Katniss_(plant)" title="Katniss (plant)">katniss tubers</a> from the shallows.<sup id="cite_ref-:0_1-4" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWoods%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>For <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a>, Katniss and Gale's scene in the woods was filmed in <a href="https://en.wikipedia.org/wiki/Pisgah_National_Forest" class="extiw" title="wikipedia:Pisgah National Forest">Pisgah National Forest</a> in North Carolina.</li>
+<li>In <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, Katniss and Gale hunted in <a href="https://en.wikipedia.org/wiki/Ramapo_Mountain_State_Forest" class="extiw" title="wikipedia:Ramapo Mountain State Forest">Ramapo Mountain State Forest</a> in New Jersey.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FWoods%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup> <sup><a href="#cite_ref-:0_1-3">1.3</a></sup> <sup><a href="#cite_ref-:0_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 3</span>
+</li>
+<li id="cite_note-:1-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_3-0">3.0</a></sup> <sup><a href="#cite_ref-:1_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-:2-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_5-0">5.0</a></sup> <sup><a href="#cite_ref-:2_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 3</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251228155656
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.052 seconds
+Real time usage: 0.082 seconds
+Preprocessor visited node count: 271/1000000
+Post‐expand include size: 880/2097152 bytes
+Template argument size: 342/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3322/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   51.728      1 -total
+ 33.42%   17.288      1 Template:Reflist
+ 30.76%   15.912      1 Template:Location
+  2.68%    1.389      3 Template:W
+  2.68%    1.387      1 Template:Quote
+  2.43%    1.257      2 Template:Main
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:350901-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228155656 and revision id 954513. Rendering was triggered because: page-view
+ -->
+</div>

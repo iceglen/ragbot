@@ -1,0 +1,139 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Lake</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3a/D12_lake.png/revision/latest?cb=20231119080036" class="image image-thumbnail" title="D12 lake">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/3/3a/D12_lake.png/revision/latest/scale-to-width-down/268?cb=20231119080036" srcset="https://static.wikia.nocookie.net/thehungergames/images/3/3a/D12_lake.png/revision/latest/scale-to-width-down/268?cb=20231119080036 1x, https://static.wikia.nocookie.net/thehungergames/images/3/3a/D12_lake.png/revision/latest/scale-to-width-down/536?cb=20231119080036 2x" class="pi-image-thumbnail" data-relevant="1" alt="D12 lake" width="270" height="162" data-image-key="D12_lake.png" data-image-name="D12 lake.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font">The <a href="/wiki/Woods" title="Woods">woods</a> outside <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>lake</b> is located several hours into the <a href="/wiki/Woods" title="Woods">woods</a> outside <a href="/wiki/District_12" title="District 12">District 12</a>, with an old concrete house at its edge.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_lake_house"><span class="tocnumber">1.1</span> <span class="toctext">The lake house</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#The_Ballad_of_Songbirds_and_Snakes"><span class="tocnumber">2.1</span> <span class="toctext"><i>The Ballad of Songbirds and Snakes</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#The_Hunger_Games_trilogy"><span class="tocnumber">2.2</span> <span class="toctext"><i>The Hunger Games</i> trilogy</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Catching_Fire"><span class="tocnumber">2.2.1</span> <span class="toctext"><i>Catching Fire</i></span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Mockingjay"><span class="tocnumber">2.2.2</span> <span class="toctext"><i>Mockingjay</i></span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLake%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The lake was small, surrounded by blossoms and greenery in the summer. Waterfowl nested along the shore with their eggs in the grasses, and <a href="/wiki/Katniss_(plant)" title="Katniss (plant)">katniss plants</a> grew in the shallows.<sup id="cite_ref-:2_2-0" class="reference"><a href="#cite_note-:2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> A number of fish swam in its waters, and blackberries also grew in the vicinity. Snakes could often be found in a patch near the rocks. When setting out from District 12, the lake was about two or three hours into the woods, depending on the briars.<sup id="cite_ref-:3_3-0" class="reference"><a href="#cite_note-:3-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a7/CFIE_lake_house.jpg/revision/latest?cb=20251224235441" class="mw-file-description image"><img alt="Katniss Everdeen and Gale Hawthorne at the lake house in the Catching Fire: Illustrated Edition." src="https://static.wikia.nocookie.net/thehungergames/images/a/a7/CFIE_lake_house.jpg/revision/latest/scale-to-width-down/180?cb=20251224235441" decoding="async" loading="lazy" width="180" height="225" class="thumbimage" data-image-name="CFIE lake house.jpg" data-image-key="CFIE_lake_house.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:CFIE_lake_house.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> at the lake house in the <i><a href="/wiki/Catching_Fire:_Illustrated_Edition" title="Catching Fire: Illustrated Edition">Catching Fire: Illustrated Edition</a></i>.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="The_lake_house">The lake house</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLake%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The house by the lake had a concrete floor, roof, ceiling, and walls. It was comprised only of one room, about twelve square feet in area.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> There was no plumbing or electricity, but it had a working fireplace. The house had a door and four glass windows, one on each wall,<sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> but eventually only one window remained, wavy and yellowed with age.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLake%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> thought there used to be a lot of other buildings by the lake "a long time ago" where people could come to play and fish, as the foundations of those buildings were still visible.<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Ballad_of_Songbirds_and_Snakes"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLake%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the prequel, the lake was like a "second home" to the <a href="/wiki/Covey" title="Covey">Covey</a> of District 12. <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> and <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> once accompanied them there to swim, fish, and harvest katniss, which had not been ready to eat quite yet. That day, <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> revealed to Coriolanus that her ex-lover <a href="/wiki/Billy_Taupe_Clade" title="Billy Taupe Clade">Billy Taupe Clade</a> wanted her to run away with him.<sup id="cite_ref-:3_3-1" class="reference"><a href="#cite_note-:3-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> She and Coriolanus later made plans of their own to do the same.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>However, shortly after taking refuge from the rain in the lake house, Coriolanus turned against Lucy Gray. He fired wildly into the trees with his rifle, then sank it to the bottom of the lake along with several other incriminating firearms before he returned to District 12 alone.<sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> Lucy Gray went missing that day, and it is unknown whether she lived or died.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> The woods around the lake were the last place she was heard from alive. She was singing "<a href="/wiki/The_Hanging_Tree_(song)" title="The Hanging Tree (song)">The Hanging Tree</a>" just before Coriolanus opened fire.<sup id="cite_ref-:1_4-2" class="reference"><a href="#cite_note-:1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Hunger_Games_trilogy"><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><i>The Hunger Games</i> trilogy</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLake%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, her father found the lake one day while hunting, and he took her there several times when she was young. He taught her to swim on hot summer days, they harvested katniss roots together, and he hunted waterfowl as she collected their eggs.<sup id="cite_ref-:2_2-1" class="reference"><a href="#cite_note-:2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> They also gathered firewood, and he allowed her to play house in the old concrete structure with a twig broom he fashioned.<sup id="cite_ref-:0_1-4" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Catching_Fire"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLake%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss never took <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> to the lake before <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">her Victory Tour</a>,<sup id="cite_ref-:2_2-2" class="reference"><a href="#cite_note-:2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> but she led him there the Sunday after the <a href="/wiki/Harvest_Festival" class="mw-redirect" title="Harvest Festival">Harvest Festival</a> in hopes of privacy. There, they discussed the possibility of running away from District 12. Gale initially agreed with the idea, but he changed his mind when he learned of the <a href="/wiki/Uprising_of_District_8" title="Uprising of District 8">uprising in District 8</a>, and he was determined to stay and fight.<sup id="cite_ref-:0_1-5" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Katniss later met two refugees from <a href="/wiki/District_8" title="District 8">District 8</a>, <a href="/wiki/Bonnie" title="Bonnie">Bonnie</a> and <a href="/wiki/Twill" title="Twill">Twill</a>, who stopped to rest in the old house on their way to <a href="/wiki/District_13" title="District 13">District 13</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Mockingjay"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLake%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4><p>
+Following the events of the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> and the <a href="/wiki/Bombings#Bombing_of_District_12_(Second_Rebellion)" title="Bombings">bombing of District 12</a>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> Gale brought around 800 survivors to the lake. While <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> and <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Prim</a> tended to the wounded, he and a team of other able-bodied volunteers kept the group fed for three days, hunting and fishing until they were discovered and rescued by District 13 hovercraft.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/23/Mockingjay-cressidacastor.jpg/revision/latest?cb=20141015230659" class="mw-file-description image"><img alt=" (left) and  (right) at the lake in " src="https://static.wikia.nocookie.net/thehungergames/images/2/23/Mockingjay-cressidacastor.jpg/revision/latest/scale-to-width-down/180?cb=20141015230659" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Mockingjay-cressidacastor.jpg" data-image-key="Mockingjay-cressidacastor.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mockingjay-cressidacastor.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Castor" title="Castor">Castor</a> (left) and <a href="/wiki/Cressida" title="Cressida">Cressida</a> (right) at the lake in <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a></i></p> 		 	</figcaption> </figure><p>After shooting <a href="/wiki/Propo" title="Propo">propos</a> in the ruins of District 12 and hiking through the woods, Katniss, Gale, and a camera crew took a lunch break at the lake. A request from <a href="/wiki/Pollux" title="Pollux">Pollux</a> prompted Katniss to sing "<a href="/wiki/The_Hanging_Tree_(song)" title="The Hanging Tree (song)">The Hanging Tree</a>" for the first time in ten years.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p><h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLake%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This is not the only lake in the woods; Katniss and Gale went fishing at a different lake the morning of <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the reaping</a> for the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>In <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i>, the lake scene was filmed at <a href="https://en.wikipedia.org/wiki/Westside_Park#Bellwood_Quarry" class="extiw" title="wikipedia:Westside Park">Bellwood Quarry</a> in <a href="https://en.wikipedia.org/wiki/Atlanta" class="extiw" title="wikipedia:Atlanta">Atlanta, Georgia</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Lake scenes for <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> were allegedly filmed at Zalew Grzędy, a reservoir in Poland.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLake%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup> <sup><a href="#cite_ref-:0_1-3">1.3</a></sup> <sup><a href="#cite_ref-:0_1-4">1.4</a></sup> <sup><a href="#cite_ref-:0_1-5">1.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-:2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_2-0">2.0</a></sup> <sup><a href="#cite_ref-:2_2-1">2.1</a></sup> <sup><a href="#cite_ref-:2_2-2">2.2</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 3</span>
+</li>
+<li id="cite_note-:3-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_3-0">3.0</a></sup> <sup><a href="#cite_ref-:3_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-:1-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_4-0">4.0</a></sup> <sup><a href="#cite_ref-:1_4-1">4.1</a></sup> <sup><a href="#cite_ref-:1_4-2">4.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 30</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 28</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Epilogue</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 10</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 27</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 9</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.imdb.com/title/tt1951265/locations/?item=lc1048482">https://www.imdb.com/title/tt1951265/locations/?item=lc1048482</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.instagram.com/p/ChILbfHpudp/">https://www.instagram.com/p/ChILbfHpudp/</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251231133858
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.069 seconds
+Real time usage: 0.118 seconds
+Preprocessor visited node count: 359/1000000
+Post‐expand include size: 219/2097152 bytes
+Template argument size: 67/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6791/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   69.244      1 -total
+ 38.86%   26.905      1 Template:Reflist
+ 24.58%   17.022      1 Template:Location
+  2.02%    1.397      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542032-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231133858 and revision id 953447. Rendering was triggered because: page-view
+ -->
+</div>

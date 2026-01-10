@@ -1,0 +1,90 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Tax</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Trainer</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bow_and_arrow" title="Bow and arrow">Bow and arrow</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Tax</b> was the male trainer at the archery station in the <a href="/wiki/Training_Center" title="Training Center">Training Center</a>.<sup id="cite_ref-CF_16_1-0" class="reference"><a href="#cite_note-CF_16-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTax%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When Tax saw that the standing targets were way too easy for <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, he threw fake birds into the air which Katniss shot. Katniss took down each bird without fail, so he decided to throw more birds for increased difficulty. When Katniss hit five in one throw, everyone in the Training Center stared at her and the room fell silent. Their faces showed a mixture of envy, hatred and admiration.<sup id="cite_ref-CF_16_1-1" class="reference"><a href="#cite_note-CF_16-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Tax's fate is unknown in the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, as he was not mentioned again.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTax%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-CF_16-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_16_1-0">1.0</a></sup> <sup><a href="#cite_ref-CF_16_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 16</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260102061910
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.034 seconds
+Real time usage: 0.046 seconds
+Preprocessor visited node count: 108/1000000
+Post‐expand include size: 121/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 671/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   34.161      1 -total
+ 71.46%   24.410      1 Template:Character
+ 19.87%    6.789      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:22452-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102061910 and revision id 957739. Rendering was triggered because: page-view
+ -->
+</div>

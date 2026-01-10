@@ -1,0 +1,609 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">10th Hunger Games</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b0/10th_Hunger_Games_Logo.png/revision/latest?cb=20250622223627" class="image image-thumbnail" title="10th Hunger Games Logo">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/b/b0/10th_Hunger_Games_Logo.png/revision/latest/scale-to-width-down/268?cb=20250622223627" srcset="https://static.wikia.nocookie.net/thehungergames/images/b/b0/10th_Hunger_Games_Logo.png/revision/latest/scale-to-width-down/268?cb=20250622223627 1x, https://static.wikia.nocookie.net/thehungergames/images/b/b0/10th_Hunger_Games_Logo.png/revision/latest/scale-to-width-down/536?cb=20250622223627 2x" class="pi-image-thumbnail" data-relevant="1" alt="10th Hunger Games Logo" width="270" height="197" data-image-key="10th_Hunger_Games_Logo.png" data-image-name="10th Hunger Games Logo.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+	
+		<h3 class="pi-data-label pi-secondary-font">Type</h3>
+	
+	<div class="pi-data-value pi-font">Regular</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="district">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor's home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arena">
+	
+		<h3 class="pi-data-label pi-secondary-font">Arena</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gamemaker">
+	
+		<h3 class="pi-data-label pi-secondary-font">Head Gamemaker</h3>
+	
+	<div class="pi-data-value pi-font">Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="duration">
+	
+		<h3 class="pi-data-label pi-secondary-font">Duration</h3>
+	
+	<div class="pi-data-value pi-font">5 days (book)<p>2 days (film)<sup id="cite_ref-Ballad_film_1-0" class="reference"><a href="#cite_note-Ballad_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/9th_Hunger_Games" title="9th Hunger Games">9th Hunger Games</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/11th_Hunger_Games" title="11th Hunger Games">11th Hunger Games</a></div>
+</div>
+</aside>
+
+</p><p>The <b>10th Hunger Games</b> was the first <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> to introduce <a href="/wiki/Mentor" title="Mentor">mentors</a>, recruiting twenty-four of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> <a href="/wiki/Academy" title="Academy">Academy</a>'s best and brightest seniors. <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> mentored the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_12" title="District 12">District 12</a><sup id="cite_ref-Ballad_19_2-0" class="reference"><a href="#cite_note-Ballad_19-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> and the Games' eventual victor,<sup id="cite_ref-Ballad_20_3-0" class="reference"><a href="#cite_note-Ballad_20-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>.<sup id="cite_ref-Ballad_2_4-0" class="reference"><a href="#cite_note-Ballad_2-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The Head <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a> was Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>. These Games were considered to be disastrous, partly due to Capitol students being killed during and before the Games, and all but one recording were deleted.<sup id="cite_ref-Ballad_30_5-0" class="reference"><a href="#cite_note-Ballad_30-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tributes"><span class="tocnumber">1</span> <span class="toctext">Tributes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Arena"><span class="tocnumber">2</span> <span class="toctext">Arena</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Capitol_Arena"><span class="tocnumber">2.1</span> <span class="toctext">Capitol Arena</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Known_muttations"><span class="tocnumber">2.2</span> <span class="toctext">Known muttations</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Arena_uniform"><span class="tocnumber">2.3</span> <span class="toctext">Arena uniform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Summary"><span class="tocnumber">3</span> <span class="toctext">Summary</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Retrospective"><span class="tocnumber">4</span> <span class="toctext">Retrospective</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Placing"><span class="tocnumber">5</span> <span class="toctext">Placing</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Tributes">Tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/be/HGBOSAS10poster.jpeg/revision/latest?cb=20250327205704" class="mw-file-description image"><img alt="Games poster for the 10th Hunger Games as seen in The Ballad of Songbirds and Snakes film adaptation." src="https://static.wikia.nocookie.net/thehungergames/images/b/be/HGBOSAS10poster.jpeg/revision/latest/scale-to-width-down/180?cb=20250327205704" decoding="async" loading="lazy" width="180" height="320" class="thumbimage" data-image-name="HGBOSAS10poster.jpeg" data-image-key="HGBOSAS10poster.jpeg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HGBOSAS10poster.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Games poster for the 10th Hunger Games as seen in <i>The Ballad of Songbirds and Snakes</i> film adaptation.</p> 		 	</figcaption> </figure>
+<p>The 10th Hunger Games was the first Hunger Games in the series where every tribute is given at least a first name, and full names are given for every mentor.
+</p>
+<table class="fandom-table">
+
+<tbody><tr>
+<td align="center" style="background: #d4af37;"><b>District</b>
+</td>
+<td align="center" style="background: #d4af37;"><b>Tribute</b>
+</td>
+<td align="center" style="background: #d4af37;"><b>Age</b>
+</td>
+<td align="center" style="background: #d4af37;"><b>Mentor</b>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #1E90FF;"><b>District 1</b>
+</td>
+<td><a href="/wiki/Facet" title="Facet">Facet</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Velvereen" title="Velvereen">Velvereen</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #d2b48c;"><b>District 2</b>
+</td>
+<td><a href="/wiki/Marcus" title="Marcus">Marcus</a>
+</td>
+<td>18
+</td>
+<td><a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sabyn" title="Sabyn">Sabyn</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #6B8E23;"><b>District 3</b>
+</td>
+<td><a href="/wiki/Circ" title="Circ">Circ</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Teslee" title="Teslee">Teslee</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #5F9EA0;"><b>District 4</b>
+</td>
+<td><a href="/wiki/Mizzen" title="Mizzen">Mizzen</a>
+</td>
+<td>13
+</td>
+<td><a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Coral" title="Coral">Coral</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #6A5ACD;"><b>District 5</b>
+</td>
+<td><a href="/wiki/Hy" title="Hy">Hy</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sol" title="Sol">Sol</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #708090;"><b>District 6</b>
+</td>
+<td><a href="/wiki/Otto" title="Otto">Otto</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ginnee" title="Ginnee">Ginnee</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #9370DB;"><b>District 7</b>
+</td>
+<td><a href="/wiki/Treech" title="Treech">Treech</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lamina" title="Lamina">Lamina</a>
+</td>
+<td>15
+</td>
+<td><a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #9ACD32;"><b>District 8</b>
+</td>
+<td><a href="/wiki/Bobbin" title="Bobbin">Bobbin</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wovey" title="Wovey">Wovey</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #6495ED;"><b>District 9</b>
+</td>
+<td><a href="/wiki/Panlo" title="Panlo">Panlo</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sheaf" title="Sheaf">Sheaf</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #DA70D6;"><b>District 10</b>
+</td>
+<td><a href="/wiki/Tanner" title="Tanner">Tanner</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Brandy" title="Brandy">Brandy</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #4169E1;"><b>District 11</b>
+</td>
+<td><a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dill" title="Dill">Dill</a>
+</td>
+<td>?
+</td>
+<td><a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #800000;"><b>District 12</b>
+</td>
+<td><a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a>
+</td>
+<td>18
+</td>
+<td><a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a>
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a></b> - <a href="/wiki/Victor" title="Victor">Victor</a>
+</td>
+<td>16
+</td>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Capitol_Arena">Capitol Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a></i></center></div>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 230px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/99/Capitol_Arena_interior_tour.webp/revision/latest?cb=20240306002945" class="mw-file-description image"><img alt="Interior of the Capitol Arena." src="https://static.wikia.nocookie.net/thehungergames/images/9/99/Capitol_Arena_interior_tour.webp/revision/latest/scale-to-width-down/230?cb=20240306002945" decoding="async" loading="lazy" width="230" height="96" class="thumbimage" data-image-name="Capitol Arena interior tour.webp" data-image-key="Capitol_Arena_interior_tour.webp" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Capitol_Arena_interior_tour.webp" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Interior of the Capitol Arena.</p> 		 	</figcaption> </figure><p>
+The Games were held in a dilapidated amphitheater that had been used for sporting, entertainment, and military events prior to the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, but fell into disrepair afterwards.<sup id="cite_ref-Ballad_9_6-0" class="reference"><a href="#cite_note-Ballad_9-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> This year, the landscape of the arena was altered when a <a href="/wiki/Bombings" title="Bombings">bombing</a> opened up access to tunnels where tributes could hide.</p><figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/4e/Snake_mutts_in_tank.png/revision/latest?cb=20230427235538" class="mw-file-description image"><img alt="The snake mutts in their tank." src="https://static.wikia.nocookie.net/thehungergames/images/4/4e/Snake_mutts_in_tank.png/revision/latest/scale-to-width-down/180?cb=20230427235538" decoding="async" loading="lazy" width="180" height="221" class="thumbimage" data-image-name="Snake mutts in tank.png" data-image-key="Snake_mutts_in_tank.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Snake_mutts_in_tank.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The snake mutts in their tank.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Known_muttations">Known muttations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The only <a href="/wiki/Muttation" title="Muttation">muttations</a> that appeared in these Games were small, brightly colored <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a>. They had a heightened sense of smell, and they were highly venomous.<sup id="cite_ref-Ballad_7_7-0" class="reference"><a href="#cite_note-Ballad_7-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> These mutts were released into the arena on the fourth day, and once bitten, victims' wounds seeped with bright pus. This was the first use of mutts in the Games.<sup id="cite_ref-Ballad_19_2-1" class="reference"><a href="#cite_note-Ballad_19-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Arena_uniform"><a href="/wiki/Arena_wear" title="Arena wear">Arena uniform</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Games had not yet implemented uniforms, so tributes went into the arena in clothes they had worn since the reaping. Because of this, most of the tributes’ clothes were worn and improper for the event. For example, <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a> wore patched burlap clothing, and he and his district partner <a href="/wiki/Dill" title="Dill">Dill</a> were both barefoot.<sup id="cite_ref-Ballad_3_8-0" class="reference"><a href="#cite_note-Ballad_3-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Wovey" title="Wovey">Wovey</a> wore a filthy dress,<sup id="cite_ref-Ballad_19_2-2" class="reference"><a href="#cite_note-Ballad_19-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> and <a href="/wiki/Lamina" title="Lamina">Lamina</a> wore what appeared to be a flour sack belted with rope.<sup id="cite_ref-Ballad_14_9-0" class="reference"><a href="#cite_note-Ballad_14-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="tabber wds-tabber"><div class="wds-tabs__wrapper with-bottom-border"><ul class="wds-tabs"><li class="wds-tabs__tab wds-is-current" data-hash="Pre-Games"><div class="wds-tabs__tab-label"><a href="#">Pre-Games</a></div></li><li class="wds-tabs__tab" data-hash="The_Games"><div class="wds-tabs__tab-label"><a href="#">The Games</a></div></li></ul></div><div class="wds-tab__content wds-is-current"><p class="mw-empty-elt">
+</p><h3><span id="Reaping_-_Monday.2C.5B10.5D_July_4th.5B11.5D"></span><span class="mw-headline" id="Reaping_-_Monday,[10]_July_4th[11]"><a href="/wiki/Reaping" title="Reaping">Reaping</a> - Monday,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> July 4th<sup id="cite_ref-Ballad_1_11-0" class="reference"><a href="#cite_note-Ballad_1-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lucy Gray Baird was reaped from District 12. She slipped a snake down the blouse of <a href="/wiki/Mayfair_Lipp" title="Mayfair Lipp">Mayfair Lipp</a> and made her way to the stage. She was struck by <a href="/wiki/Mayor_Lipp" title="Mayor Lipp">Mayor Lipp</a>, Mayfair's father, nearly making her cry. However, the <a href="/wiki/Covey" title="Covey">Covey</a> began to sing to cheer her up from the crowd, and she joined in their impromptu performance. After this, <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a> was reaped as well.<sup id="cite_ref-Ballad_2_4-1" class="reference"><a href="#cite_note-Ballad_2-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span id="Arrival_in_the_Capitol_-_Wednesday.2C_July_6th"></span><span class="mw-headline" id="Arrival_in_the_Capitol_-_Wednesday,_July_6th">Arrival in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> - Wednesday, July 6th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Two days later, <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> roughly pulled the tributes from the dirty <a href="/wiki/Train" title="Train">cattle car</a> they'd been transported in. Here, Coriolanus Snow met Lucy Gray, and he joined the tributes in a truck to the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>, where they were dumped into the monkey enclosure.<sup id="cite_ref-Ballad_4_12-0" class="reference"><a href="#cite_note-Ballad_4-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span id="Thursday.2C_July_7th_-_Friday.2C_July_8th"></span><span class="mw-headline" id="Thursday,_July_7th_-_Friday,_July_8th">Thursday, July 7th - Friday, July 8th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tributes and their mentors met to gather information for records. Later at the zoo, <a href="/wiki/Brandy" title="Brandy">Brandy</a> from District 10 was <a href="/wiki/Weapons#Guns" title="Weapons">shot dead</a> after slitting the throat of her mentor, <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a>.<sup id="cite_ref-Ballad_6_13-0" class="reference"><a href="#cite_note-Ballad_6-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> The next day, Coriolanus finished his proposal for betting and <a href="/wiki/Sponsorship" title="Sponsorship">sponsorships</a> in the morning. While at Dr. Gaul's lab, <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> was bitten by snake mutts<sup id="cite_ref-Ballad_7_7-1" class="reference"><a href="#cite_note-Ballad_7-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> and taken to the hospital.<sup id="cite_ref-Ballad_8_14-0" class="reference"><a href="#cite_note-Ballad_8-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Fallen_tributes">Fallen tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Brandy" title="Brandy">Brandy</a> (<a href="/wiki/District_10" title="District 10">District 10</a>)</li></ul>
+<h4><span class="mw-headline" id="Mentor_deaths">Mentor deaths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> (<a href="/wiki/Brandy" title="Brandy">Brandy</a>'s mentor)</li></ul>
+<h3><span id="Saturday.2C_July_9th"></span><span class="mw-headline" id="Saturday,_July_9th">Saturday, July 9th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Funeral_of_Arachne_Crane">Funeral of Arachne Crane</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Arachne's funeral was held on Saturday, and the corpse of Brandy, Arachne's killer, was hung on a hook above the living tributes as they were paraded around the City Circle. Coriolanus then sang the national anthem, "<a href="/wiki/Gem_of_Panem" title="Gem of Panem">Gem of Panem</a>".<sup id="cite_ref-Ballad_8_14-1" class="reference"><a href="#cite_note-Ballad_8-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Visit_to_the_Capitol_Arena">Visit to the Capitol Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Bombing_of_the_Capitol_Arena" class="mw-redirect" title="Bombing of the Capitol Arena">Bombing of the Capitol Arena</a></i></center></div>
+<p>Later, after lunch, tributes and their mentors were taken for a tour of the Capitol Arena.<sup id="cite_ref-Ballad_9_6-1" class="reference"><a href="#cite_note-Ballad_9-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> However, two bombs went off, one at the main gate and another in the stands. This killed both tributes from <a href="/wiki/District_6" title="District 6">District 6</a>, their mentors <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo</a> and <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a>, and injured the two tributes from <a href="/wiki/District_9" title="District 9">District 9</a>. The tributes from <a href="/wiki/District_1" title="District 1">District 1</a> and <a href="/wiki/District_2" title="District 2">2</a> attempted an escape only to be shot dead by Peacekeepers. In her own escape attempt, Sabyn from <a href="/wiki/District_2" title="District 2">District 2</a> fell to her death, but her district partner <a href="/wiki/Marcus" title="Marcus">Marcus</a> successfully got away. Three mentors were hospitalized: Coriolanus Snow and District 9 mentors <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> and <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a>. Most everyone present needed some degree of medical attention, but injured tributes were only treated by a veterinarian.<sup id="cite_ref-Ballad_10_15-0" class="reference"><a href="#cite_note-Ballad_10-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Fallen_tributes_2">Fallen tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Facet" title="Facet">Facet</a> (<a href="/wiki/District_1" title="District 1">District 1</a>)</li>
+<li><a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> (<a href="/wiki/District_1" title="District 1">District 1</a>)</li>
+<li><a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> (<a href="/wiki/District_2" title="District 2">District 2</a>)</li>
+<li><a href="/wiki/Otto" title="Otto">Otto</a> (<a href="/wiki/District_6" title="District 6">District 6</a>)</li>
+<li><a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> (<a href="/wiki/District_6" title="District 6">District 6</a>)</li></ul>
+<h4><span class="mw-headline" id="Mentor_deaths_2">Mentor deaths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> (<a href="/wiki/Otto" title="Otto">Otto</a>'s mentor)</li>
+<li><a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> (<a href="/wiki/Ginnee" title="Ginnee">Ginnee</a>'s mentor)</li></ul>
+<hr />
+<h3><span id="Sunday.2C_July_10th_-_Monday.2C_July_11th"></span><span class="mw-headline" id="Sunday,_July_10th_-_Monday,_July_11th">Sunday, July 10th - Monday, July 11th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On Sunday, Coriolanus woke up in the hospital, and on Monday, he was visited by friends from the Academy. Outside, the Capitol and the districts were under heightened security due to Marcus's escape. During this time, the District 9 tributes were treated by the veterinarian, whose request to have them transferred into the care of a doctor was denied; as a result, both tributes died.<sup id="cite_ref-Ballad_10_15-1" class="reference"><a href="#cite_note-Ballad_10-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Fallen_tributes_3">Fallen tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Panlo" title="Panlo">Panlo</a> (<a href="/wiki/District_9" title="District 9">District 9</a>)</li>
+<li><a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> (<a href="/wiki/District_9" title="District 9">District 9</a>)</li></ul>
+<h3><span id="Tuesday.2C_July_12th"></span><span class="mw-headline" id="Tuesday,_July_12th">Tuesday, July 12th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the early hours of Tuesday morning, Clemensia came to Coriolanus in his hospital room, showing him that her skin was turning to scales. She claimed that Dr. Gaul was trying to kill her. Later that day, Coriolanus was discharged from the hospital.<sup id="cite_ref-Ballad_10_15-2" class="reference"><a href="#cite_note-Ballad_10-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Funeral_of_the_Ring_twins">Funeral of the Ring twins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>By nine in the morning, a funeral was held for the Ring twins with a hologram of Coriolanus singing the anthem. The bodies of tributes who died were slung over the backs of horses, while the corpses of those who attempted escape were dragged behind them. The surviving tributes followed in two caged trucks separated by sex.<sup id="cite_ref-Ballad_10_15-3" class="reference"><a href="#cite_note-Ballad_10-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<hr />
+<h3><span id="Wednesday.2C_July_13th_-_Friday.2C_July_15th"></span><span class="mw-headline" id="Wednesday,_July_13th_-_Friday,_July_15th">Wednesday, July 13th - Friday, July 15th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On Wednesday, the remaining tributes and mentors began to plan for their <a href="/wiki/Interviews" title="Interviews">interviews</a>, if they chose to participate.<sup id="cite_ref-Ballad_10_15-4" class="reference"><a href="#cite_note-Ballad_10-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> Coriolanus got a guitar from <a href="/wiki/Pluribus_Bell" title="Pluribus Bell">Pluribus Bell</a> for Lucy Gray to use. Thursday and Friday were devoted to the tributes practicing in separate classrooms with their mentors.<sup id="cite_ref-Ballad_11_16-0" class="reference"><a href="#cite_note-Ballad_11-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span id="The_Hunger_Games:_A_Night_of_Interviews_-_Saturday.2C_July_16th"></span><span class="mw-headline" id="The_Hunger_Games:_A_Night_of_Interviews_-_Saturday,_July_16th"><i>The Hunger Games: A Night of Interviews</i> - Saturday, July 16th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the evening of July 16th, the first interviews in Hunger Games history were broadcast across Panem. They were also held in front of a live audience in the Academy auditorium, hosted by <a href="/wiki/Lucretius_Flickerman" title="Lucretius Flickerman">Lucky Flickerman</a>. Only half the remaining mentor-tribute pairs chose to participate. Mentors generally offered background information on their tributes, attempting to be memorable and urging sponsors to support them.<sup id="cite_ref-Ballad_11_16-1" class="reference"><a href="#cite_note-Ballad_11-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<ul><li>Jessup lifted his mentor, <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a>, over his head as she sat in her chair.</li>
+<li><a href="/wiki/Circ" title="Circ">Circ</a> claimed he could start a fire with his glasses; mentor <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> suggested angles and times of day where this would be possible.</li>
+<li><a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> admitted disappointment with her small tribute, <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a>, until he told her "five different ways" to kill someone with a sewing needle.</li>
+<li>Coral demonstrated her <a href="/wiki/Weapons#Trident" title="Weapons">trident</a> skills with a broomstick.</li>
+<li><a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> got <a href="/wiki/Tanner" title="Tanner">Tanner</a> "so engaged in talking about slaughterhouse techniques that Lucky had to cut them off".</li>
+<li><a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a> attempted to talk up <a href="/wiki/Dill" title="Dill">Dill</a>, though she was so weak that even her coughs were barely audible.</li>
+<li>Lucy Gray sang a song she wrote herself, "<a href="/wiki/Songs#&quot;The_Ballad_of_Lucy_Gray_Baird&quot;" title="Songs">The Ballad of Lucy Gray Baird</a>".</li></ul>
+<hr />
+<h3><span id="Sunday.2C_July_17th"></span><span class="mw-headline" id="Sunday,_July_17th">Sunday, July 17th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The mentors were taken for a tour behind the scenes at the Games headquarters, where they were shown the <a href="/wiki/Drone" title="Drone">drone</a> prototypes for delivering <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gifts</a>. Coriolanus decided to give Lucy Gray his mother's compact, telling her to use her own powder— meaning the rat poison in the tributes' enclosure at the zoo.<sup id="cite_ref-Ballad_12_17-0" class="reference"><a href="#cite_note-Ballad_12-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> After more talk of strategy, Coriolanus and Lucy Gray kissed, and the tributes were taken away. Afterward, Hy from District 5 died of asthma complications overnight.<sup id="cite_ref-Ballad_13_18-0" class="reference"><a href="#cite_note-Ballad_13-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Fallen_tributes_4">Fallen tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D18&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Hy" title="Hy">Hy</a> (<a href="/wiki/District_5" title="District 5">District 5</a>)<p class="mw-empty-elt"></p></li></ul></div><div class="wds-tab__content"><p class="mw-empty-elt">
+</p><h3><span id="Day_1_.28July_18th.29"></span><span class="mw-headline" id="Day_1_(July_18th)">Day 1 (July 18th)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 14 remaining tributes were placed in the center of the arena in a circle surrounding a pile of multiple weapons—there was no proper <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> horn, as it was still early in the history of the Hunger Games. No food or water supplies were included in the pile. The District 2 male tribute Marcus, who had escaped and disappeared during the rebel bombings of the Arena, had been captured and strung up by steel poles in the air at the main entrance to the Arena and left to hang from his manacles, still alive and badly beaten.<sup id="cite_ref-Ballad_13_18-1" class="reference"><a href="#cite_note-Ballad_13-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>At the sound of the gong, most of the tributes ran for the tunnels which had been caused by the rebel bombings. Some of the stronger tributes; <a href="/wiki/Coral" title="Coral">Coral</a>, <a href="/wiki/Tanner" title="Tanner">Tanner</a>, Jessup and <a href="/wiki/Reaper" class="mw-redirect" title="Reaper">Reaper</a> ran forward for the <a href="/wiki/Weapons" title="Weapons">weapons</a> but quickly ran away once they had gotten what they needed. Reaper was the only tribute to stay out in the open, armed with a pitchfork and a long <a href="/wiki/Weapons#Knife" title="Weapons">knife</a>. After seeing that none of the other tributes stayed to fight, Reaper climbed into a nearby stand to begin his hunt for the other tributes.
+</p><p>Later in the day, <a href="/wiki/Lamina" title="Lamina">Lamina</a> emerged from one of the tunnels and made her way over to the weapon pile taking a knife and a small <a href="/wiki/Weapons#Axe" title="Weapons">axe</a>. She then went over to the poles in which Marcus still hung from and began to climb up them. Once she reached the top and balanced herself on the beams she spoke to Marcus, possibly apologizing, before driving her axe into his neck three times, killing him. As reward for showing strength, Lamina was then gifted a bottle of water. 
+</p><p>As the afternoon progressed, only a few tributes could be spotted leaving their hiding places momentarily before disappearing again. Reaper remained in the stands and Lamina a top of of the beams, eventually she hacked away at the restraints still holding Marcus in the air sending his body falling to the ground. Lamina then received another sponsor, this time being a slice of bread. Lamina used her belt rope to sturdily fasten herself to the beam and then rested.
+</p><p><a href="/wiki/Circ" title="Circ">Circ</a> and <a href="/wiki/Teslee" title="Teslee">Teslee</a> eventually appeared out of the barricade and moved over to Marcus’s body where the broken drones lay. The pair began examining the pieces of the drones, fiddling with the wires and causing the lights to blink. Circ and Teslee then received a sponsor of some water and bread before vanishing back into the barricade with the drones.
+</p><p>Reaper then appeared from one of the tunnels carrying his district partner, <a href="/wiki/Dill" title="Dill">Dill</a>, in his arms. Dill was most likely suffering from tuberculosis as she began coughing up blood once Reaper placed her down. Reaper went back into the barricade, leaving Dill by herself. She received two water bottle sponsors but she was too weak to even acknowledge them. <a href="/wiki/Treech" title="Treech">Treech</a> then appeared from one of the tunnels, took the bottles of water and quickly retreated back into the tunnels again. 
+</p><p>As evening approached, Dill started to convulse and spray blood from her mouth, before dying.<sup id="cite_ref-Ballad_14_9-1" class="reference"><a href="#cite_note-Ballad_14-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Later that night, Capitol citizen and mentor to Marcus, <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>, snuck into the Arena to sit by and cover Marcus’s body in bread crumbs, a District 2 custom to wish the dead good passing into the afterlife. Coriolanus Snow was sent in to retrieve Sejanus discretely without alerting the tributes. Sejanus and Coriolanus attempted to take Marcus’s body back with them but were forced to leave it as <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a>, Coral, Mizzen and Tanner appeared and attacked them. Coriolanus whacked Bobbin in the head with a plank of wood, killing him. Coriolanus and Sejanus managed to escape the Arena, keeping the tributes still trapped inside.<sup id="cite_ref-Ballad_15_19-0" class="reference"><a href="#cite_note-Ballad_15-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-Ballad_16_20-0" class="reference"><a href="#cite_note-Ballad_16-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h5><span class="mw-headline" id="Fallen_tributes">Fallen tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/Marcus" title="Marcus">Marcus</a> (<a href="/wiki/District_2" title="District 2">District 2</a>)</li>
+<li><a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> (<a href="/wiki/District_8" title="District 8">District 8</a>)</li>
+<li><a href="/wiki/Dill" title="Dill">Dill</a> (<a href="/wiki/District_11" title="District 11">District 11</a>)</li></ul>
+<hr />
+<h3><span id="Day_2_.28July_19th.29"></span><span class="mw-headline" id="Day_2_(July_19th)">Day 2 (July 19th)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the afternoon of the second day, <a href="/wiki/Sol" title="Sol">Sol</a> began to climb onto the bleachers at the furthest end of the Arena. Coral, Mizzen and Tanner, who had formed an <a href="/wiki/Alliance" title="Alliance">alliance</a>, chased her down and Coral speared Sol through the throat with a trident.<sup id="cite_ref-Ballad_16_20-1" class="reference"><a href="#cite_note-Ballad_16-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Lucy Gray was then chased out from one of the tunnels by a rabid Jessup. It was assumed he contracted rabies from being bitten by either a rat or a raccoon during his time in the monkey enclosure in the Capitol Zoo. Jessup cornered Lucy Gray up the remains of a concession stand. Due to the rabies, Jessup could not stand water, so Lucy Gray was sponsored numerous bottles of water by Jessup's mentor, <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a>. Seeing the bottles caused Jessup to enter a frenzy and he fell from the stands, the sound of his bones breaking audible to the audience as he hit the ground.
+</p><p>Lucy Gray comforted Jessup as he died, telling him that he could ‘sleep’ now. She then took some of the remaining bottles of water to hydrate herself and then used some of the water to clean Jessup's face. She then closed his eyes with a handkerchief given to her before the Games by her mentor, Coriolanus Snow. She received a sponsor gift of bread and cheese, collected them and exited into a near tunnel when she saw Reaper approaching. Reaper let Lucy Gray run into the tunnels as he took what water bottles remained and returned to the stands.<sup id="cite_ref-Ballad_17_21-0" class="reference"><a href="#cite_note-Ballad_17-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Fallen_tributes_2">Fallen tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Sol" title="Sol">Sol</a> (<a href="/wiki/District_5" title="District 5">District 5</a>)</li>
+<li><a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a> (<a href="/wiki/District_12" title="District 12">District 12</a>)</li></ul>
+<hr />
+<h3><span id="Day_3_.28July_20th.29"></span><span class="mw-headline" id="Day_3_(July_20th)">Day 3 (July 20th)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As the day started, Reaper went up to Lamina. They formed a mini alliance with Reaper giving Lamina scraps of the Panem flag to protect her from the sun; in exchange, Lamina gave him a piece of bread and a chunk of cheese. Reaper's disrespect of the flag angered the Capitol audience. A calmness came between the two tributes, but it was ruined when Mizzen, Coral, and Tanner appeared. Lamina warned Reaper of them, and he retreated to the barricade.
+</p><p>When the alliance reached directly under Lamina's beam, Lamina did not pay attention to them until Tanner smacked his <a href="/wiki/Weapons#Sword" title="Weapons">sword</a> on a pole. The alliance created a plan; Mizzen and Coral would coordinate climbing up the two poles while Tanner stayed at the bottom with their weapons, trapping Lamina. After a while, Lamina decided to confront the stronger Coral and swung her axe. Coral slid away, so Lamina went to Mizzen, who was on the beam but too distracted to catch the trident Tanner threw. This gave Lamina the opportunity to use the flat side of her axe to injure his knee, sending Mizzen down. Unfortunately for Lamina, Mizzen caught himself. As Coral reached the top, she yelled a loud war cry. She then plunged her trident into Lamina's abdomen, causing her to fall off the beam and die on impact.
+</p><p>Coral then helped Mizzen with his knee while Tanner did a sort of dance over Lamina's corpse. As Mizzen initiated a "victory slap", Coral stabbed her trident in Tanner's back. Mizzen finished him off with a knife to his neck. After the District 4 duo left to a tunnel, Treech came out to take his district partner's axe and receive food from sponsors.
+</p><p>In the late afternoon, Reaper awoke from his sleep and surveyed the damage, unable to comprehend the scene, and particularly Lamina. He walked around Lamina's and Tanner's bodies until he decided to carry Lamina's body to where Bobbin's and Marcus's bodies laid. He did the same with the remaining dead tributes, save Jessup, over the next hour. He then again infuriated the citizens of the Capitol by using another piece of flag to cover the dead tributes and making a cape for himself. His makeshift cape seemed to inspire him.<sup id="cite_ref-Ballad_18_22-0" class="reference"><a href="#cite_note-Ballad_18-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Fallen_tributes_3">Fallen tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Lamina" title="Lamina">Lamina</a> (<a href="/wiki/District_7" title="District 7">District 7</a>)</li>
+<li><a href="/wiki/Tanner" title="Tanner">Tanner</a> (<a href="/wiki/District_10" title="District 10">District 10</a>)</li></ul>
+<hr />
+<h3><span id="Day_4_.28July_21st.29"></span><span class="mw-headline" id="Day_4_(July_21st)">Day 4 (July 21st)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The forgotten <a href="/wiki/Wovey" title="Wovey">Wovey</a> appeared mid-morning, to her mentor's delight. Her appearance was skeletal, with an empty bottle of water in her hand. Unbeknownst to her, though, Lucy Gray had put rat poison she received by Coriolanus in that bottle of water and left the bottle in the tunnels. Wovey only took  a few gulps of water from her sponsor gifts until she ceased motion, a silvery liquid trickling down her mouth.
+</p><p>Near noon, Reaper appeared and cautiously approached Wovey. He examined an apple and her face, suspecting her death was unnatural. He abandoned the food and water, but took her corpse and placed it with the others. By the time Reaper returned to the tunnels, the <a href="/wiki/District_4" title="District 4">District 4</a> duo were eating Wovey's sponsor gifts, oblivious to her death.
+</p><p>In late afternoon, Circ and Teslee were in the arena's center, poking for something. Reaper was already at the stands. Treech then attempted to ambush the <a href="/wiki/District_3" title="District 3">District 3</a> duo, but the duo fled for the barricade. The three become distracted by the large drone carrying a tank with Dr. Gaul's snake muttations. These snake mutts were sent by Dr. Gaul in retaliation for Gaius Breen's death after he succumbed to his injuries from the arena bombing. As the snakes shot out, Treech immediately climbed up the bleachers like a goat while the District 3 duo stared in a moment of confusion. When they finally noticed the immediate danger, it was already too late for Circ. The snakes left pink, yellow, and blue streaks on his body and he asphyxiated for about ten seconds before dying. Teslee managed to cling onto a pole, crying.
+</p><p>Not long after, Coral shrieked and ran out of a tunnel, Mizzen ahead of her. A snake dangled on her arm. Despite tearing it free, numerous snakes attacked her, leading to her blissfully short death. Mizzen flung his trident and leapt onto the pole opposite of Teslee, halving the first time he climbed it. Teslee cried for Mizzen's help as her grip on the pole weakened, but Mizzen only shook his head, shocked.
+</p><p>As the snakes began to target Teslee again, Lucy Gray emerged from the tunnels, softly singing. The snake mutts, recognizing her scent due to Snow having placed a <a href="/wiki/Crassus_Snow%27s_handkerchief" title="Crassus Snow&#39;s handkerchief">handkerchief</a> in a tank with her scent, flocked to her.<sup id="cite_ref-Ballad_19_2-3" class="reference"><a href="#cite_note-Ballad_19-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> This gave Teslee the chance to reach a safer place. Lucy Gray than began an elaborate song as the snakes wove around her. After completing the song, she hummed to them, keeping them docile.
+</p><p>A storm rolled in, creating a dazzling sunset and killing the snakes mutts due to their inability to adapt to the cold and wet weather. During the night, the female tributes sought shelter in the tunnels or the barricade while the male tributes got drenched outside.<sup id="cite_ref-Ballad_20_3-1" class="reference"><a href="#cite_note-Ballad_20-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Fallen_tributes_4">Fallen tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Circ" title="Circ">Circ</a> (<a href="/wiki/District_3" title="District 3">District 3</a>)</li>
+<li><a href="/wiki/Coral" title="Coral">Coral</a> (<a href="/wiki/District_4" title="District 4">District 4</a>)</li>
+<li><a href="/wiki/Wovey" title="Wovey">Wovey</a> (<a href="/wiki/District_8" title="District 8">District 8</a>)</li></ul>
+<h4><span class="mw-headline" id="Mentor_deaths">Mentor deaths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> (<a href="/wiki/Panlo" title="Panlo">Panlo</a>'s mentor)</li></ul>
+<hr />
+<h3><span id="Day_5_.28July_22nd.29"></span><span class="mw-headline" id="Day_5_(July_22nd)">Day 5 (July 22nd)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sunrise came with the last of the clouds rolling out, leaving the arena wet with puddles. Both Treech and Reaper received food from sponsors, but as Treech ate his food hungrily, Reaper only drank from a puddle despite this having been the first time he received a sponsor gift since the start of the Games. Unknown to everyone except Lucy Gray, Reaper had contracted rabies when Jessup spit in his eyes before the Games even started, and this was a symptom of it.
+</p><p>Mizzen mimed eating to receive sponsor gifts, and Teslee revealed herself after a minute. She was armed with a <a href="/wiki/Drone" title="Drone">drone</a> she had hacked with Circ, blocking the homing direction of the drones. When she positioned herself under Mizzen, she flipped a switch and launched the drone, a cable tethered to her wrist. Mizzen was confused at first, and got distracted from the bread he received. The drone was normal for a while, but then suddenly attempted to make another delivery. More drones came and did the same, injuring Mizzen's eye. He attempted to escape the drones' torment, and gripped towards the pole he left Teslee to when the snake mutts were unleashed. In the process, he put pressure on his injured knee and lost his balance. This caused him to fall, snapping his neck.
+</p><p>While Mizzen was being attacked, Treech managed to climb down the scoreboard to attempt another try to kill Teslee. Right after Mizzen's death, Treech brought his axe down on Teslee's skull, killing her instantly. The drones sent for the dead Teslee were taken by Treech. After he took a dozen parcels, he left for the barricade. This left Treech from 7, Reaper from 11, and Lucy Gray from 12 in the top 3. Reaper proceeded to take the two bodies over to the rest, using a new piece of flag to cover them.
+</p><p>Lucy Gray finally came out just before noon and surveyed the arena. She poisoned a puddle with another water bottle with rat poison, receiving many drones of sponsor gifts. She saw Reaper, so she went the opposite way and checked which tributes were left alive. Treech attempted to ambush Lucy Gray, but Lucy Gray ran away on time. Just as Treech swung at Lucy Gray, she flung herself and clung to him, surprising him. She then grabbed a surviving snake mutt from her dress pockets and the snake bit Treech's neck, killing him. Before he died, he managed to kill the snake mutt by smashing it into the ground multiple times.
+</p><p>As the day grew longer, the hot sun dried up the many puddles. Lucy Gray received more food and water. She later attempted to drag Treech's body to the others, but Reaper shouted at her. She let go of Treech and went to the tunnels. Reaper then transported Treech's body himself, satisfied. Lucy Gray then put her plan into motion. Using the fact Reaper had not eaten much for many days, she tired him out by taking the flag pieces, getting him to chase after her. He was very insistent on keeping the corpses covered, and ran ragged to the point of exhaustion. Reaper then desperately drank out of the puddle the Lucy Gray had poisoned. He only just made it to the body of Treech and covered up only half of himself with a flag before his body gave out. After thirty minutes, Lucy Gray came from the bleachers to check his pulse and, finding nothing, closed his eyelids. She was then announced as the victor of the 10th Hunger Games.<sup id="cite_ref-Ballad_20_3-2" class="reference"><a href="#cite_note-Ballad_20-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Fallen_tributes_5">Fallen tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Teslee" title="Teslee">Teslee</a> (<a href="/wiki/District_3" title="District 3">District 3</a>)</li>
+<li><a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> (<a href="/wiki/District_4" title="District 4">District 4</a>)</li>
+<li><a href="/wiki/Treech" title="Treech">Treech</a> (<a href="/wiki/District_7" title="District 7">District 7</a>)</li>
+<li><a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a> (<a href="/wiki/District_11" title="District 11">District 11</a>)<p class="mw-empty-elt"></p></li></ul></div></div>
+<h2><span class="mw-headline" id="Retrospective">Retrospective</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>These early Games lacked several features which would become prominent in later versions, while others were experimental. Nobody was said to be a "<a href="/wiki/Career_Tribute" title="Career Tribute">Career tribute</a>" and there were no known <a href="/wiki/Volunteer" title="Volunteer">volunteers</a>. The tributes were not injected with <a href="/wiki/Tracker" title="Tracker">trackers</a>, so there was no easy way to tell at any given time if they were alive or dead if they didn't come out into the open. This had never been a problem before due to the openness of the <a href="/wiki/Arena" title="Arena">arena</a>, but became an issue in these Games due to the hiding places created by the rebel bombing. Since the Gamemakers could not easily tell when tributes had passed away, there were no nightly displays of those tributes who had passed away during the day. Additionally, the bodies of dead tributes were not removed by <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a>, but were instead left in the arena to be dealt with or not dealt with by the remaining tributes as they saw fit. There were no <a href="/wiki/Stylist" title="Stylist">stylists</a> and thus tributes were not dressed in elaborate costumes prior to entering the Games. There were also no <a href="/wiki/Escort" title="Escort">escorts</a>. <a href="/wiki/Sponsorship" title="Sponsorship">Sponsorship</a> of tributes was available for the first time, though the drone delivery system used to deliver the gifts had not yet been perfected. Though <a href="/wiki/Lucretius_Flickerman" title="Lucretius Flickerman">Lucretius Flickerman</a> was tapped to be the first ever host of the Games for a television audience, he only had previous experience reporting the weather and the broadcast thus lacked the polish of latter presentations. For the first time in the history of the Games, <a href="/wiki/Muttation" title="Muttation">muttations</a> were unleashed in the arena in the form of rainbow-colored snakes, specially bred by Head <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a> Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>.
+</p><p>Ultimately, Dr. Gaul considered these Games a disaster, presenting the Capitol as far too vulnerable. She erased all recordings of the Games, keeping only a master copy in her own personal vault for her own purposes.<sup id="cite_ref-Ballad_30_5-1" class="reference"><a href="#cite_note-Ballad_30-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Before the <a href="/wiki/Victor_crowning" class="mw-redirect" title="Victor crowning">Victor crowning</a> of the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, now-President <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Snow</a> arranged for <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> to see the footage of <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> singing to the Capitol audience. By this time, Lucy Gray had all but vanished from memory in District 12 and was considered District 12's mysterious victor.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Placing">Placing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="tabber wds-tabber"><div class="wds-tabs__wrapper with-bottom-border"><ul class="wds-tabs"><li class="wds-tabs__tab wds-is-current" data-hash="Book"><div class="wds-tabs__tab-label"><a href="#">Book</a></div></li><li class="wds-tabs__tab" data-hash="Film"><div class="wds-tabs__tab-label"><a href="#">Film</a></div></li></ul></div><div class="wds-tab__content wds-is-current"><p class="mw-empty-elt">
+</p><h3><span class="mw-headline" id="The_Arena">The Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>1st</b> - <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> (victor)</li>
+<li><b>2nd</b> - <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a> - poisoned by Lucy Gray</li>
+<li><b>3rd</b> - <a href="/wiki/Treech" title="Treech">Treech</a> - bitten by venomous snake mutt set upon him by Lucy Gray</li>
+<li><b>4th</b> - <a href="/wiki/Teslee" title="Teslee">Teslee</a> - axed in the skull by Treech</li>
+<li><b>5th</b> - <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> - neck snapped after attacks due to hacked drones from Teslee</li>
+<li><b>6th</b> - <a href="/wiki/Coral" title="Coral">Coral</a> - bitten by snake mutts</li>
+<li><b>7th</b> - <a href="/wiki/Circ" title="Circ">Circ</a> - snake mutts</li>
+<li><b>8th</b> - <a href="/wiki/Wovey" title="Wovey">Wovey</a> - poisoned by Lucy Gray</li>
+<li><b>9th</b> - <a href="/wiki/Tanner" title="Tanner">Tanner</a> - Coral drove a trident through his back and Mizzen knifed him in the neck</li>
+<li><b>10th</b> - <a href="/wiki/Lamina" title="Lamina">Lamina</a> - fell to her death after being attacked by Coral, Mizzen, and Tanner</li>
+<li><b>11th</b> - <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a> - died of injuries sustained in a fall; also suffered from rabies</li>
+<li><b>12th</b> - <a href="/wiki/Sol" title="Sol">Sol</a> - speared through the throat with a trident by Coral</li>
+<li><b>13th</b> - <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> - hit in the head with a wooden plank by <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a></li>
+<li><b>14th</b> - <a href="/wiki/Dill" title="Dill">Dill</a> - succumbed to tuberculosis</li>
+<li><b>15th</b> - <a href="/wiki/Marcus" title="Marcus">Marcus</a> - mercy killed by Lamina with three axe blows to the neck</li></ul>
+<h3><span class="mw-headline" id="Pre-Games">Pre-Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>16th</b> - <a href="/wiki/Hy" title="Hy">Hy</a> - succumbed to complications related to asthma</li>
+<li><b>17th-18th</b> - <a href="/wiki/Panlo" title="Panlo">Panlo</a> and <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> - killed by injuries sustained in the Capitol Arena bombing
+<ul><li>The veterinarian treating them requested for the two to be treated by a doctor, but the request was denied. Their corpses were slung over the backs of horses during the Ring twins' funeral.</li></ul></li>
+<li><b>19th</b> - <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> - fell to her death after jumping a wall at the river; had attempted to escape during the bombing
+<ul><li>For their escape attempts, the corpses of Sabyn, Facet, and Velvereen were dragged through the Capitol streets behind horses.</li></ul></li>
+<li><b>20th-21st</b> - <a href="/wiki/Facet" title="Facet">Facet</a> and <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> - shot dead by Peacekeepers while attempting to escape during bombing</li>
+<li><b>22nd-23rd</b> - <a href="/wiki/Otto" title="Otto">Otto</a> and <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> - killed by shrapnel during bombing
+<ul><li>Corpses slung over the backs of horses</li></ul></li>
+<li><b>24th</b> - <a href="/wiki/Brandy" title="Brandy">Brandy</a> - shot dead by Peacekeepers, after slitting the throat of her mentor Arachne Crane
+<ul><li>During Arachne's funeral parade, her corpse was hung from a hook above the living tributes.</li></ul></li></ul>
+Nine tributes died prior to the Games itself, and the overall mentor death toll was four: Arachne Crane by Brandy; Apollo and Diana Ring in the bombing; and Gaius Breen later succumbed to injuries from the bombing as well. The loss of Capitol lives made the regime look too vulnerable: a contributing factor in the decision to erase all but one recording of the 10th Hunger Games.<sup id="cite_ref-Ballad_30_5-2" class="reference"><a href="#cite_note-Ballad_30-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><p class="mw-empty-elt"></p></div><div class="wds-tab__content"><p class="mw-empty-elt">
+</p><div class="id=&quot;stub&quot;" style="padding:0.2em 0.4em; margin:0 0 10px 0; background:#fee; color:black; border:2px solid lightgray;-moz-border-radius-topleft: 15px;-moz-border-radius-topright: 15px;-moz-border-radius-bottomleft: 15px;-moz-border-radius-bottomright: 15px; text-align:center;"><i><b>This section is in need of clean up and improvement.</b><br /> You can help The Hunger Games Wiki by <a target="_blank" rel="noreferrer noopener" class="text" href="https://thehungergames.fandom.com/wiki/10th_Hunger_Games?action=edit">improving it</a>. </i></div>
+<p>The pacing of the Games, and the tributes' order and manner of death, were altered in <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>.
+</p>
+<h3><span class="mw-headline" id="The_Arena">The Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>1st</b> - <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> (victor)</li>
+<li><b>2nd</b> - <a href="/wiki/Coral" title="Coral">Coral</a> - killed by snake mutts</li>
+<li><b>3rd</b> - <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a> - allowed himself to be overcome by snake mutts</li>
+<li><b>4th</b> - <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> - killed by snake mutts</li>
+<li><b>5th</b> - <a href="/wiki/Wovey" title="Wovey">Wovey</a> - killed by snake mutts</li>
+<li><b>6th</b> - <a href="/wiki/Treech" title="Treech">Treech</a> - inhaled rat poison Lucy Gray dropped on him</li>
+<li><b>7th</b> - <a href="/wiki/Dill" title="Dill">Dill</a> - drank water poisoned by Lucy Gray (indirectly); also weakened by tuberculosis</li>
+<li><b>8th</b> -  <a href="/wiki/Tanner" title="Tanner">Tanner</a> - speared in the chest with trident by Coral</li>
+<li><b>9th</b> - <a href="/wiki/Lamina" title="Lamina">Lamina</a> - speared in the chest with trident by Coral; also weakened by fall damage</li>
+<li><b>10th</b> - <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a> - died of injuries from a fall caused by drones sent from Lysistrata Vickers; also suffered from rabies</li>
+<li><b>11th</b> - <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> - bludgeoned in the head with concrete by Coriolanus Snow</li>
+<li><b>12th</b> - <a href="/wiki/Otto" title="Otto">Otto</a> - succumbed to stab injuries most likely inflicted by Tanner</li>
+<li><b>13th</b> - <a href="/wiki/Marcus" title="Marcus">Marcus</a> - mercy killed by Lamina with a clean blow from her axe</li></ul>
+<h5><span class="mw-headline" id="Cornucopia_bloodbath"><a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><b>14th</b> - <a href="/wiki/Sol" title="Sol">Sol</a> - speared in the back with trident by Coral</li>
+<li><b>15th</b> - <a href="/wiki/Hy" title="Hy">Hy</a> - caught in a net by Mizzen and killed by Treech</li>
+<li><b>16th</b> - <a href="/wiki/Teslee" title="Teslee">Teslee</a> - stabbed by Mizzen</li>
+<li><b>17th</b> - <a href="/wiki/Circ" title="Circ">Circ</a> - trident thrown into chest by Coral</li>
+<li><b>18th</b> - <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> - shot in the leg and back with a crossbow by Otto</li>
+<li><b>19th</b> - <a href="/wiki/Panlo" title="Panlo">Panlo</a>  - sliced in the abdomen by Tanner and speared in the chest with a trident by Coral</li></ul>
+<h3><span class="mw-headline" id="Pre-Games">Pre-Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Less tributes died prior to the Games in the film adaptation: 5 deaths as opposed to the book's 9.
+</p>
+<ul><li><b>20th</b> - <a href="/wiki/Facet" title="Facet">Facet</a> - shot dead by Peacekeepers while attempting to escape during bombing</li>
+<li><b>21st</b> - <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> - shot dead by Peacekeepers while attempting to escape during bombing</li>
+<li><b>22nd</b> - <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> - killed during bombing</li>
+<li><b>23rd</b> - <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> - killed during bombing</li>
+<li><b>24th</b> - <a href="/wiki/Brandy" title="Brandy">Brandy</a> - shot dead by Peacekeepers after killing her mentor, Arachne Crane</li></ul>
+<p>The mentor deaths were also different in the film:
+</p>
+<ul><li>Brandy stabbed Arachne in the throat with a broken bottle.<sup id="cite_ref-Ballad_film_1-1" class="reference"><a href="#cite_note-Ballad_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Clemensia Dovecote died off-screen after being bitten by Dr. Gaul's snakes.<sup id="cite_ref-lesslie_24-0" class="reference"><a href="#cite_note-lesslie-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>It was not Gaius Breen but Felix Ravinstill who succumbed to injuries from the bombing.<sup id="cite_ref-Ballad_film_1-2" class="reference"><a href="#cite_note-Ballad_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The fate of the Ring twins in the film version is unknown.<p class="mw-empty-elt"></p></li></ul></div></div>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This is the first games where a victor was from District 12. The district would not have a second victor for another forty years, when <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> won the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F10th_Hunger_Games%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_film-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_film_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_film_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_film_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-Ballad_19-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_19_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_19_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_19_2-2">2.2</a></sup> <sup><a href="#cite_ref-Ballad_19_2-3">2.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-Ballad_20-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_20_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_20_3-1">3.1</a></sup> <sup><a href="#cite_ref-Ballad_20_3-2">3.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-Ballad_2-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_2_4-0">4.0</a></sup> <sup><a href="#cite_ref-Ballad_2_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_30-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_30_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ballad_30_5-1">5.1</a></sup> <sup><a href="#cite_ref-Ballad_30_5-2">5.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 30</span>
+</li>
+<li id="cite_note-Ballad_9-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_9_6-0">6.0</a></sup> <sup><a href="#cite_ref-Ballad_9_6-1">6.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-Ballad_7-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_7_7-0">7.0</a></sup> <sup><a href="#cite_ref-Ballad_7_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-8"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_14-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_14_9-0">9.0</a></sup> <sup><a href="#cite_ref-Ballad_14_9-1">9.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1 - On the day of the reaping, Tigris states that the previous day was Sunday.</span>
+</li>
+<li id="cite_note-Ballad_1-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_1_11-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_4-12"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_4_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-Ballad_6-13"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_6_13-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_8-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_8_14-0">14.0</a></sup> <sup><a href="#cite_ref-Ballad_8_14-1">14.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-Ballad_10-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_10_15-0">15.0</a></sup> <sup><a href="#cite_ref-Ballad_10_15-1">15.1</a></sup> <sup><a href="#cite_ref-Ballad_10_15-2">15.2</a></sup> <sup><a href="#cite_ref-Ballad_10_15-3">15.3</a></sup> <sup><a href="#cite_ref-Ballad_10_15-4">15.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_11-16"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_11_16-0">16.0</a></sup> <sup><a href="#cite_ref-Ballad_11_16-1">16.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_12-17"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_12_17-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_13-18"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_13_18-0">18.0</a></sup> <sup><a href="#cite_ref-Ballad_13_18-1">18.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_15-19"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_15_19-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-Ballad_16-20"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_16_20-0">20.0</a></sup> <sup><a href="#cite_ref-Ballad_16_20-1">20.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-Ballad_17-21"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_17_21-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-Ballad_18-22"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_18_22-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-lesslie-24"><span class="mw-cite-backlink"><a href="#cite_ref-lesslie_24-0">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.thewrap.com/hunger-games-ballad-of-songbirds-and-snakes-snow-evil-michael-lesslie-interview/">Was Snow Inherently Evil? And Other Burning ‘Hunger Games’ Questions Answered by Cowriter Michael Lesslie</a>.&#32;TheWrap.&#32;Retrieved on June 10, 2024.</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 3</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251231161135
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.206 seconds
+Real time usage: 0.322 seconds
+Preprocessor visited node count: 1864/1000000
+Post‐expand include size: 4334/2097152 bytes
+Template argument size: 799/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 48592/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  151.557      1 -total
+ 29.82%   45.197      1 Template:Reflist
+ 16.12%   24.433      1 Template:Games
+  4.10%    6.214     21 Template:BSS
+  2.41%    3.658      1 Template:SOTR
+  1.64%    2.481      1 Template:Cite_web
+  1.60%    2.424      1 Template:Cleanup
+  1.07%    1.618      2 Template:Main
+  1.01%    1.527      1 Template:CF
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539250-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231161135 and revision id 967748. Rendering was triggered because: unknown
+ -->
+</div>

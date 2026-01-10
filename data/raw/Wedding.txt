@@ -1,0 +1,36 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><b>This article is a disambiguation page for Wedding</b>
+<p>The following is a list of links to pages that might share the same title.<br />
+</p>
+Please follow one of the disambiguation links below or <a href="/wiki/Special:Search" title="Special:Search">search</a> to find the page you were looking for if it is not listed. If an <a href="/wiki/Special:WhatLinksHere/Wedding" title="Special:WhatLinksHere/Wedding">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</center></div>
+<p><br />
+<b>Wedding</b> may refer to:
+</p>
+<ul><li><a href="/wiki/Finnick_and_Annie%27s_wedding" title="Finnick and Annie&#39;s wedding">Finnick and Annie's wedding</a> - the wedding of <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> and <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a>.</li>
+<li><a href="/wiki/Wedding_Dress" class="mw-redirect" title="Wedding Dress">Wedding Dress</a> - the wedding gown <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> wore during <a href="/wiki/Interviews" title="Interviews">interviews</a> for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>.</li>
+<li><a href="/wiki/Toasting" title="Toasting">Toasting</a> - a marriage tradition in <a href="/wiki/District_12" title="District 12">District 12</a>.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20260105074912
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.007 seconds
+Real time usage: 0.013 seconds
+Preprocessor visited node count: 6/1000000
+Post‐expand include size: 537/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    2.495      1 Template:Disambig
+100.00%    2.495      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542115-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105074912 and revision id 956498. Rendering was triggered because: page-view
+ -->
+</div>

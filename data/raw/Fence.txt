@@ -1,0 +1,148 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Fence</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/D12_fence.jpg/revision/latest?cb=20120210004347" class="image image-thumbnail" title="D12 fence">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/D12_fence.jpg/revision/latest/scale-to-width-down/268?cb=20120210004347" srcset="https://static.wikia.nocookie.net/thehungergames/images/5/5a/D12_fence.jpg/revision/latest/scale-to-width-down/268?cb=20120210004347 1x, https://static.wikia.nocookie.net/thehungergames/images/5/5a/D12_fence.jpg/revision/latest/scale-to-width-down/536?cb=20120210004347 2x" class="pi-image-thumbnail" data-relevant="1" alt="D12 fence" width="270" height="223" data-image-key="D12_fence.jpg" data-image-name="D12 fence.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>fence</b> is an old security setting in <a href="/wiki/District_12" title="District 12">District 12</a> made by&#160;<a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, separating the <a href="/wiki/District" class="mw-redirect" title="District">district</a> from the <a href="/wiki/Woods" title="Woods">woods</a>.<sup id="cite_ref-THG_1_1-0" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#74th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">74th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Second_Rebellion"><span class="tocnumber">1.2</span> <span class="toctext">Second Rebellion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearance"><span class="tocnumber">2</span> <span class="toctext">Appearance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#People_known_to_have_crossed_the_fence"><span class="tocnumber">3</span> <span class="toctext">People known to have crossed the fence</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFence%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/6c/Sign_fence.jpg/revision/latest?cb=20140521191141" class="mw-file-description image"><img alt="A sign placed on the fence." src="https://static.wikia.nocookie.net/thehungergames/images/6/6c/Sign_fence.jpg/revision/latest/scale-to-width-down/180?cb=20140521191141" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Sign fence.jpg" data-image-key="Sign_fence.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Sign_fence.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A sign placed on the fence.</p> 		 	</figcaption> </figure><p>The fence was put in place sometime after the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, as it did not exist when the <a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">prequel</a> took place.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> Ostensibly, the fence was supposed to keep the district's streets safe from wild animals. It was supposed to electrified 24 hours a day, but due to frequent power outages, this was rarely the case, so it was a simple matter to cross it.<sup id="cite_ref-THG_1_1-1" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Occasionally, in the autumn, people were known to walk about 60 feet beyond the fence to pick apples, but they never wandered far. Others like <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> would venture further on a regular basis in pursuit of plants and game to bring back to the district. While trespassing and poaching were technically illegal, District 12's <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> never enforced those laws, since they also benefited from the labor of hunters.<sup id="cite_ref-THG_1_1-2" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/74/CF_concept_art_crossing_the_fence.jpg/revision/latest?cb=20240216201450" class="mw-file-description image"><img alt="Concept art of Gale and Katniss crossing the fence." src="https://static.wikia.nocookie.net/thehungergames/images/7/74/CF_concept_art_crossing_the_fence.jpg/revision/latest/scale-to-width-down/180?cb=20240216201450" decoding="async" loading="lazy" width="180" height="74" class="thumbimage" data-image-name="CF concept art crossing the fence.jpg" data-image-key="CF_concept_art_crossing_the_fence.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:CF_concept_art_crossing_the_fence.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Concept art of Gale and Katniss crossing the fence.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFence%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After Katniss and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>'s <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>, <a href="/wiki/Romulus_Thread" title="Romulus Thread">Romulus Thread</a> became the new Head Peacekeeper. Under his orders, the fence was consistently electrified, cutting the district off from a major source of <a href="/wiki/Food_and_drink" title="Food and drink">food</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion"><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFence%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/Bombing_of_District_12" class="mw-redirect" title="Bombing of District 12">bombing of District 12</a>, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> herded refugees to <a href="/wiki/The_Meadow" title="The Meadow">the Meadow</a>, and they worked together to tear down a portion of the fence and escape into the woods. Gale then led the survivors to a <a href="/wiki/Lake" title="Lake">lake</a> several hours from the district on foot, where they were later found by <a href="/wiki/District_13" title="District 13">District 13</a>.<sup id="cite_ref-MJ_1_4-0" class="reference"><a href="#cite_note-MJ_1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Following the rebel victory in the Second Rebellion, the district's fence was propped up by branches to keep wild animals out, but citizens were able to freely enter and exit the woods.<sup id="cite_ref-MJ_27_5-0" class="reference"><a href="#cite_note-MJ_27-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearance">Appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFence%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 300px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/09/THG59.jpg/revision/latest?cb=20130604131354" class="mw-file-description image"><img alt="The fence around District 12." src="https://static.wikia.nocookie.net/thehungergames/images/0/09/THG59.jpg/revision/latest/scale-to-width-down/300?cb=20130604131354" decoding="async" loading="lazy" width="300" height="124" class="thumbimage" data-image-name="THG59.jpg" data-image-key="THG59.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:THG59.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The fence around District 12.</p> 		 	</figcaption> </figure>
+<p>The fence is described as being a 6 meter high chain link fence topped with barbed wire loops. It is quite old and rusty because it has not been well maintained or used. 
+</p><p>Despite its oppressive presence, even the fence could offer the district's citizens some resources. Katniss and her sister <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Prim</a> were once able to harvest dandelion flowers, greens, and stems along a mile-long stretch of fence.<sup id="cite_ref-THG_4_6-0" class="reference"><a href="#cite_note-THG_4-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="People_known_to_have_crossed_the_fence">People known to have crossed the fence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFence%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th><b>Frequently</b>
+</th>
+<th><b>Occasionally</b>
+</th>
+<th colspan="2"><b>Escaping the District 12 bombing</b>
+</th></tr>
+<tr>
+<td>
+<ul><li><a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a><sup id="cite_ref-THG_3_7-0" class="reference"><a href="#cite_note-THG_3-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a><sup id="cite_ref-THG_1_1-3" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a><sup id="cite_ref-THG_1_1-4" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a><sup id="cite_ref-THG_3_7-1" class="reference"><a href="#cite_note-THG_3-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a><sup id="cite_ref-CF_6_8-0" class="reference"><a href="#cite_note-CF_6-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a></li>
+<li><a href="/wiki/Hazelle_Hawthorne" title="Hazelle Hawthorne">Hazelle Hawthorne</a></li>
+<li><a href="/wiki/Rory_Hawthorne" title="Rory Hawthorne">Rory Hawthorne</a></li>
+<li><a href="/wiki/Vick_Hawthorne" title="Vick Hawthorne">Vick Hawthorne</a></li>
+<li><a href="/wiki/Posy_Hawthorne" title="Posy Hawthorne">Posy Hawthorne</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Thom" title="Thom">Thom</a></li>
+<li><a href="/wiki/Leevy" title="Leevy">Leevy</a></li>
+<li><a href="/wiki/Delly_Cartwright" title="Delly Cartwright">Delly Cartwright</a> and her <a href="/wiki/Delly_Cartwright%27s_brother" title="Delly Cartwright&#39;s brother">younger brother</a></li>
+<li><a href="/wiki/Greasy_Sae" title="Greasy Sae">Greasy Sae</a></li>
+<li><a href="/wiki/Greasy_Sae%27s_granddaughter" title="Greasy Sae&#39;s granddaughter">Greasy Sae's granddaughter</a></li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFence%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>There was also a fence in <a href="/wiki/District_11" title="District 11">District 11</a>, which Katniss saw briefly from the <a href="/wiki/Train" title="Train">train</a> on her <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>. District 11's fence was at least 35 feet high,  topped with coils of barbed wire, with "enormous" metal plates lining to base of it to prevent anyone digging underneath. It was also guarded by evenly-spaced watchtowers manned by armed Peacekeepers.<sup id="cite_ref-CF_4_9-0" class="reference"><a href="#cite_note-CF_4-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFence%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-THG_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_1_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_1_1-2">1.2</a></sup> <sup><a href="#cite_ref-THG_1_1-3">1.3</a></sup> <sup><a href="#cite_ref-THG_1_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-MJ_1-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_1_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-MJ_27-5"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_27_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-THG_4-6"><span class="mw-cite-backlink"><a href="#cite_ref-THG_4_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-THG_3-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_3_7-0">7.0</a></sup> <sup><a href="#cite_ref-THG_3_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-CF_6-8"><span class="mw-cite-backlink"><a href="#cite_ref-CF_6_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-CF_4-9"><span class="mw-cite-backlink"><a href="#cite_ref-CF_4_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 4</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251230161328
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.040 seconds
+Real time usage: 0.082 seconds
+Preprocessor visited node count: 259/1000000
+Post‐expand include size: 123/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4235/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   36.141      1 -total
+ 39.24%   14.182      1 Template:Location
+ 25.13%    9.083      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:347986-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230161328 and revision id 954516. Rendering was triggered because: page-view
+ -->
+</div>

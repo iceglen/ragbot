@@ -1,0 +1,143 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">9th Hunger Games</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+	
+		<h3 class="pi-data-label pi-secondary-font">Type</h3>
+	
+	<div class="pi-data-value pi-font">Regular</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arena">
+	
+		<h3 class="pi-data-label pi-secondary-font">Arena</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gamemaker">
+	
+		<h3 class="pi-data-label pi-secondary-font">Head Gamemaker</h3>
+	
+	<div class="pi-data-value pi-font">Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/8th_Hunger_Games" class="mw-redirect" title="8th Hunger Games">8th Hunger Games</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a></div>
+</div>
+</aside>
+
+</p><p>The <b>9th Hunger Games</b> were held one year before the <a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">prequel</a> and sixty-five years prior to the start of the <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy">trilogy</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tributes"><span class="tocnumber">1</span> <span class="toctext">Tributes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Arena"><span class="tocnumber">2</span> <span class="toctext">Arena</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Summary"><span class="tocnumber">3</span> <span class="toctext">Summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Pre-Games"><span class="tocnumber">3.1</span> <span class="toctext">Pre-Games</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#The_Games"><span class="tocnumber">3.2</span> <span class="toctext">The Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Placing"><span class="tocnumber">4</span> <span class="toctext">Placing</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Tributes">Tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F9th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Not much information was archived about the <a href="/wiki/Tribute" title="Tribute">tributes</a> during the first nine years of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>. Ahead of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, <a href="/wiki/Mentor" title="Mentor">mentors</a> collected data from their tributes such as their names, district addresses, dates of birth, hair and eye colors, height and weight, disabilities, and family makeup. Since this was an attempt to change course from the previous years' poor recordkeeping,<sup id="cite_ref-Ballad_6_1-0" class="reference"><a href="#cite_note-Ballad_6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> it is unclear how much of this information, if any, was recorded during the 9th Hunger Games and before.
+</p>
+<h2><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F9th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a></i></center></div>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 215px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/99/Capitol_Arena_interior_tour.webp/revision/latest?cb=20240306002945" class="mw-file-description image"><img alt="Interior of the Capitol Arena in The Hunger Games: The Ballad of Songbirds &amp; Snakes" src="https://static.wikia.nocookie.net/thehungergames/images/9/99/Capitol_Arena_interior_tour.webp/revision/latest/scale-to-width-down/215?cb=20240306002945" decoding="async" loading="lazy" width="215" height="90" class="thumbimage" data-image-name="Capitol Arena interior tour.webp" data-image-key="Capitol_Arena_interior_tour.webp" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Capitol_Arena_interior_tour.webp" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Interior of the Capitol Arena in <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>.</p> 		 	</figcaption> </figure>
+<p>The 9th Hunger Games, as well as the eight previous editions, were held in the Capitol Arena.<sup id="cite_ref-Ballad_1_2-0" class="reference"><a href="#cite_note-Ballad_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> The tributes' area of play was limited to the <a href="/wiki/Arena" title="Arena">arena</a>'s field and stands. At that time, the once-lush green field had been reduced to dirt and weeds, and rubble was strewn everywhere from <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>-era <a href="/wiki/Rebel" class="mw-redirect" title="Rebel">rebel</a> <a href="/wiki/Bombings" title="Bombings">bombings</a>.<sup id="cite_ref-Ballad_14_3-0" class="reference"><a href="#cite_note-Ballad_14-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F9th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pre-Games">Pre-Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F9th_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the first nine Games, tributes were <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaped</a> from their home <a href="/wiki/District" class="mw-redirect" title="District">districts</a> and transported to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> by <a href="/wiki/Train" title="Train">train</a>. Upon arrival, they were held in the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>' stables.<sup id="cite_ref-Ballad_3_4-0" class="reference"><a href="#cite_note-Ballad_3-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F9th_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Soon after arriving, tributes were locked inside the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> with nothing but <a href="/wiki/Weapons" title="Weapons">weapons</a>.<sup id="cite_ref-Ballad_9_5-0" class="reference"><a href="#cite_note-Ballad_9-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> People in the Capitol were encouraged to watch, but most people avoided doing so.<sup id="cite_ref-Ballad_1_2-1" class="reference"><a href="#cite_note-Ballad_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> In terms of casualties, Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> said on the first evening of the 10th Hunger Games that the number of deaths was "running neck and neck with last year".<sup id="cite_ref-Ballad_14_3-1" class="reference"><a href="#cite_note-Ballad_14-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> This implies that during the 9th Hunger Games, around 10 tributes had died by 5pm on the first day.
+</p><p>Once twenty-three tributes died, the <a href="/wiki/Victor" title="Victor">victor</a> was thoroughly searched when they left the arena,<sup id="cite_ref-Ballad_21_6-0" class="reference"><a href="#cite_note-Ballad_21-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> and they were unceremoniously sent back to their district.<sup id="cite_ref-Ballad_9_5-1" class="reference"><a href="#cite_note-Ballad_9-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-Ballad_22_7-0" class="reference"><a href="#cite_note-Ballad_22-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> Subsequently, the bodies of the deceased were removed alongside the weapons, and the arena's doors were locked until the following year.<sup id="cite_ref-Ballad_9_5-2" class="reference"><a href="#cite_note-Ballad_9-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Placing">Placing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F9th_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Italicized numbers are speculative.
+</p>
+<ul><li><b>1st</b> - The victor of the 9th Hunger Games is unknown. However, <a href="/wiki/District_1" title="District 1">Districts 1</a> and <a href="/wiki/District_2" title="District 2">2</a> produced more victors in the first nine years, and <a href="/wiki/District_4" title="District 4">Districts 4</a> and <a href="/wiki/District_11" title="District 11">11</a> were also considered contenders,<sup id="cite_ref-Ballad_1_2-2" class="reference"><a href="#cite_note-Ballad_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> making those four districts likely prospects.</li>
+<li><b>2nd-<i>14th</i></b> - Unknown. The information above could imply that tributes from Districts 1, 2, 4, and 11 tended to place highly as well.</li>
+<li><b><i>15th</i>-24th</b> (Day 1) - Around ten tributes were dead by the first evening.<sup id="cite_ref-Ballad_14_3-2" class="reference"><a href="#cite_note-Ballad_14-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>Throughout the first nine years, <a href="/wiki/District_12" title="District 12">District 12</a>'s tributes were said to be "stunted, joint-swollen kids that always died within the first five minutes,"<sup id="cite_ref-Ballad_2_8-0" class="reference"><a href="#cite_note-Ballad_2-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> so they were likely among this number.</li>
+<li>In <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>, <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> complained that she might receive a "pathetic runt girl from one of the poor districts, like <a href="/wiki/District_8" title="District 8">8</a> or 12" as her tribute, who would die within a few minutes "like they did last year and the year before."<sup id="cite_ref-Ballad_film_9-0" class="reference"><a href="#cite_note-Ballad_film-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> If her comment was specific to those two districts, then District 8 and 12's female tributes died very early into the <a href="/wiki/8th_Hunger_Games" class="mw-redirect" title="8th Hunger Games">8th</a> and 9th Hunger Games.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F9th_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Mentors, <a href="/wiki/Betting" title="Betting">betting</a>, <a href="/wiki/Sponsorship" title="Sponsorship">sponsorships</a>, <a href="/wiki/Interviews" title="Interviews">interviews</a>, and <a href="/wiki/Muttation" title="Muttation">muttations</a> would not be introduced until the 10th Hunger Games.</li>
+<li>The <a href="/wiki/Victors%27_Village" title="Victors&#39; Village">Victors' Village</a>, monetary winnings for victors, <a href="/wiki/Food_and_drink" title="Food and drink">food</a> for the winning district, and <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tours</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> were not introduced until the <a href="/wiki/11th_Hunger_Games" title="11th Hunger Games">11th Hunger Games</a>.<sup id="cite_ref-Ballad_Epilogue_11-0" class="reference"><a href="#cite_note-Ballad_Epilogue-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The following year's tributes were only fed by their mentors and spectators,<sup id="cite_ref-Ballad_5_12-0" class="reference"><a href="#cite_note-Ballad_5-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup> so the tributes of the 9th Hunger Games and their predecessors most likely went into the competition starving and dehydrated.</li>
+<li>The 10th Hunger Games' tributes wore the same clothes from the reaping all the way into the arena. This may have also been the case in prior years.</li>
+<li><a href="/wiki/Stylist" title="Stylist">Stylists</a>, <a href="/wiki/Prep_team" title="Prep team">prep teams</a>, <a href="/wiki/Escort" title="Escort">escorts</a>, and <a href="/wiki/Training_stations" title="Training stations">training stations</a> were not a part of the Games yet. The year(s) they were introduced is unknown.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F9th_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_6-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_6_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_1_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_1_2-2">2.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_14-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_14_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_14_3-1">3.1</a></sup> <sup><a href="#cite_ref-Ballad_14_3-2">3.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_3-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_9-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_9_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ballad_9_5-1">5.1</a></sup> <sup><a href="#cite_ref-Ballad_9_5-2">5.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 9</span>
+</li>
+<li id="cite_note-Ballad_21-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_21_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 21</span>
+</li>
+<li id="cite_note-Ballad_22-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_22_7-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 22</span>
+</li>
+<li id="cite_note-Ballad_2-8"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_2_8-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_film-9"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_film_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://capitolcouture.tumblr.com/post/133013089492">MAGS, THE 11TH VICTOR - Capitol Couture</a></span>
+</li>
+<li id="cite_note-Ballad_Epilogue-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Epilogue_11-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Epilogue</span>
+</li>
+<li id="cite_note-Ballad_5-12"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_5_12-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 5</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251231091917
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.060 seconds
+Real time usage: 0.086 seconds
+Preprocessor visited node count: 319/1000000
+Post‐expand include size: 251/2097152 bytes
+Template argument size: 13/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6116/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   50.227      1 -total
+ 40.21%   20.195      1 Template:Games
+ 25.73%   12.925      1 Template:Reflist
+  2.82%    1.418      1 Template:Main
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:543330-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231091917 and revision id 952313. Rendering was triggered because: page-view
+ -->
+</div>

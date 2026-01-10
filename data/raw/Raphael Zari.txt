@@ -1,0 +1,73 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Raphael Zari</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/00/Raphael_Zari.jpg/revision/latest?cb=20231110003509" class="image image-thumbnail" title="Raphael Zari">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/0/00/Raphael_Zari.jpg/revision/latest/scale-to-width-down/268?cb=20231110003509" srcset="https://static.wikia.nocookie.net/thehungergames/images/0/00/Raphael_Zari.jpg/revision/latest/scale-to-width-down/268?cb=20231110003509 1x, https://static.wikia.nocookie.net/thehungergames/images/0/00/Raphael_Zari.jpg/revision/latest/scale-to-width-down/536?cb=20231110003509 2x" class="pi-image-thumbnail" data-relevant="1" alt="Raphael Zari" width="270" height="338" data-image-key="Raphael_Zari.jpg" data-image-name="Raphael Zari.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Arlo_Chance" title="Arlo Chance">Arlo Chance</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthday">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthday</h3>
+	
+	<div class="pi-data-value pi-font">1991</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
+	
+		<h3 class="pi-data-label pi-secondary-font">Years active</h3>
+	
+	<div class="pi-data-value pi-font">2017-present</div>
+</div>
+</aside>
+
+</p><p><b>Raphael Zari</b> is an actor who portrayed <a href="/wiki/Arlo_Chance" title="Arlo Chance">Arlo Chance</a> in <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRaphael_Zari%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/name/nm8933454/" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/name/nm8933454/">Raphael Zari</a> at the Internet Movie Database</span></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.instagram.com/raphaelzari/">Raphael Zari</a> on Instagram</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20260105153945
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.022 seconds
+Real time usage: 0.031 seconds
+Preprocessor visited node count: 53/1000000
+Post‐expand include size: 240/2097152 bytes
+Template argument size: 30/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   21.068      1 -total
+ 91.66%   19.311      1 Template:Actor
+  7.64%    1.610      1 Template:Imdb
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542657-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105153945 and revision id 938936. Rendering was triggered because: api-parse
+ -->
+</div>

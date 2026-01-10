@@ -1,0 +1,149 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Junius</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/8c/Beanpole.jpg/revision/latest?cb=20231223173852" class="image image-thumbnail" title="Beanpole">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/8/8c/Beanpole.jpg/revision/latest?cb=20231223173852" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/8c/Beanpole.jpg/revision/latest?cb=20231223173852 1x, https://static.wikia.nocookie.net/thehungergames/images/8/8c/Beanpole.jpg/revision/latest?cb=20231223173852 2x" class="pi-image-thumbnail" data-relevant="1" alt="Beanpole" width="242" height="489" data-image-key="Beanpole.jpg" data-image-name="Beanpole.jpg" />
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Beanpole</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></li><li><a href="/wiki/District_12" title="District 12">District 12</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Peacekeeper's rifle</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">Tall</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Scott_Folan" title="Scott Folan">Scott Folan</a></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Junius</b>, also known by the nickname <b>Beanpole</b>, was a male <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a> assigned to <a href="/wiki/District_12" title="District 12">District 12</a>. He was originally from <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>.<sup id="cite_ref-Ballad_29_1-0" class="reference"><a href="#cite_note-Ballad_29-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FJunius%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Beanpole had no recognition of <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> despite Snow's frequent appearances in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, a sign of how little attention the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Games</a> got outside <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>.<sup id="cite_ref-Ballad_21_2-0" class="reference"><a href="#cite_note-Ballad_21-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>After duty on the Saturday of Beanpole's first week Peacekeeping, he was assigned latrine duty due to his shortcomings as a Peacekeeper while his bunkmates played poker in the rec room.<sup id="cite_ref-Ballad_21_2-1" class="reference"><a href="#cite_note-Ballad_21-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> That evening, <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> arrived and cheered Beanpole up by opting to help him with his drill performance.<sup id="cite_ref-Ballad_22_3-0" class="reference"><a href="#cite_note-Ballad_22-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Despite Sejanus’ help, Beanpole still fainted during drills one Friday. His bunkmates took him to the clinic, where Snow took a metal can of powder to heal heat rash.<sup id="cite_ref-Ballad_26_4-0" class="reference"><a href="#cite_note-Ballad_26-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>He joined Snow and <a href="/wiki/Smiley" title="Smiley">Smiley</a>, another Peacekeeper, in a visit to <a href="/wiki/The_Hob" title="The Hob">the Hob</a> and got inebriated.<sup id="cite_ref-Ballad_24_5-0" class="reference"><a href="#cite_note-Ballad_24-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> This became a habit of his, and <a href="/wiki/Bug" title="Bug">Bug</a> and Sejanus later had to steer him back to the barrack.<sup id="cite_ref-Ballad_27_6-0" class="reference"><a href="#cite_note-Ballad_27-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>He later expressed worry that <a href="/wiki/Commander_Hoff" title="Commander Hoff">Commander Hoff</a> might suspect that they were all involved after Sejanus was hung for treason. Smiley pointed out that he had nothing to worry about because he was from the Capitol. Beanpole shot back that Sejanus Plinth had also come from the Capitol, but <a href="/wiki/Bug" title="Bug">Bug</a> noted that this wasn't really true, since Plinth had originally come from <a href="/wiki/District_2" title="District 2">District 2</a> and still talked about it often.<sup id="cite_ref-Ballad_29_1-1" class="reference"><a href="#cite_note-Ballad_29-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FJunius%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Beanpole was a young, nervous individual, a recent recruit of the Peacekeepers who seemed to need reassurance. His small frame was what earned him his nickname. He had a fear of heights. Beanpole also had two left feet and a concave chest, which made him the subject of much ridicule during drills.<sup id="cite_ref-Ballad_21_2-2" class="reference"><a href="#cite_note-Ballad_21-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FJunius%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_29-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_29_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_29_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 29</span>
+</li>
+<li id="cite_note-Ballad_21-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_21_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_21_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_21_2-2">2.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 21</span>
+</li>
+<li id="cite_note-Ballad_22-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_22_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 22</span>
+</li>
+<li id="cite_note-Ballad_26-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_26_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 26</span>
+</li>
+<li id="cite_note-Ballad_24-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_24_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 24</span>
+</li>
+<li id="cite_note-Ballad_27-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_27_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 27</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251231234505
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.036 seconds
+Real time usage: 0.058 seconds
+Preprocessor visited node count: 214/1000000
+Post‐expand include size: 118/2097152 bytes
+Template argument size: 5/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3066/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   39.668      1 -total
+ 59.94%   23.776      1 Template:Character
+ 19.01%    7.542      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539675-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231234505 and revision id 952187. Rendering was triggered because: page-view
+ -->
+</div>

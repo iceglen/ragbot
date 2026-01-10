@@ -1,0 +1,287 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Drove</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0f/District_10_Male.jpg/revision/latest?cb=20120214010208" class="image image-thumbnail" title="District 10 Male">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/0/0f/District_10_Male.jpg/revision/latest?cb=20120214010208" srcset="https://static.wikia.nocookie.net/thehungergames/images/0/0f/District_10_Male.jpg/revision/latest?cb=20120214010208 1x, https://static.wikia.nocookie.net/thehungergames/images/0/0f/District_10_Male.jpg/revision/latest?cb=20120214010208 2x" class="pi-image-thumbnail" data-relevant="1" alt="District 10 Male" width="232" height="375" data-image-key="District_10_Male.jpg" data-image-name="District 10 Male.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">18 (film)<sup id="cite_ref-stats_1-0" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_10" title="District 10">District 10</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Sword" class="mw-redirect" title="Sword">Sword</a> (film, training)<br>Hand-to-hand combat (film)<br>Short sword (film)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">5'8" (film)<sup id="cite_ref-stats_1-1" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Jeremy_Marinas" title="Jeremy Marinas">Jeremy Marinas</a> (film)<p>Mark Samaras (<a href="/wiki/The_Hunger_Games_On_Stage" title="The Hunger Games On Stage">stage</a>)</p></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Drove </b>was the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_10" title="District 10">District 10</a> who participated in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#74th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">74th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Reaping"><span class="tocnumber">1.1.1</span> <span class="toctext">Reaping</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Tribute_Parade"><span class="tocnumber">1.1.2</span> <span class="toctext">Tribute Parade</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Training"><span class="tocnumber">1.1.3</span> <span class="toctext">Training</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Interviews"><span class="tocnumber">1.1.4</span> <span class="toctext">Interviews</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Cornucopia_bloodbath"><span class="tocnumber">1.1.5</span> <span class="toctext">Cornucopia bloodbath</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Death"><span class="tocnumber">1.1.6</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">2</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="59304" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who played the role of the District 10 male in the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Jeremy Marinas portrayed the District 10 male in the 74th Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="59305" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was unique about the District 10 male that caught Katniss's attention?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The male tribute from District 10 in the 75th Hunger Games was distinctive due to his previous victory in an unspecified Hunger Games. His attire, along with the District 10 female during the Tribute Parade, was particularly noticeable to Katniss Everdeen.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="59306" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What did the District 10 male and his partner wear in the Tribute Parade?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the Tribute Parade, the District 10 male tribute and his partner were outfitted in golden cowboy attire, including hats, shirts, and pants. This ensemble symbolized District 10's livestock industry. Following the parade, they were observed conversing behind the District 12 chariot.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="59307" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Was the District 10 male's disability depicted in the film?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the book, the District 10 male from the 74th Hunger Games had a 'crippled foot' disability. This was not shown in the film. Instead, the District 8 male was portrayed with a leg injury, possibly referencing the District 10 male's book disability. The District 10 male's film debut was in the Tribute Parade, dressed in golden cowboy attire alongside his partner, symbolizing District 10's livestock industry.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="59308" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was the District 10 male's partner in the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, the District 10 male was partnered with the female tribute from District 10, as each district is represented by one male and one female tribute.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Drove","mainEntity":[{"@type":"Question","name":"Who played the role of the District 10 male in the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Jeremy Marinas portrayed the District 10 male in the 74th Hunger Games."}},{"@type":"Question","name":"What was unique about the District 10 male that caught Katniss's attention?","acceptedAnswer":{"@type":"Answer","text":"The male tribute from District 10 in the 75th Hunger Games was distinctive due to his previous victory in an unspecified Hunger Games. His attire, along with the District 10 female during the Tribute Parade, was particularly noticeable to Katniss Everdeen."}},{"@type":"Question","name":"What did the District 10 male and his partner wear in the Tribute Parade?","acceptedAnswer":{"@type":"Answer","text":"During the Tribute Parade, the District 10 male tribute and his partner were outfitted in golden cowboy attire, including hats, shirts, and pants. This ensemble symbolized District 10's livestock industry. Following the parade, they were observed conversing behind the District 12 chariot."}},{"@type":"Question","name":"Was the District 10 male's disability depicted in the film?","acceptedAnswer":{"@type":"Answer","text":"In the book, the District 10 male from the 74th Hunger Games had a 'crippled foot' disability. This was not shown in the film. Instead, the District 8 male was portrayed with a leg injury, possibly referencing the District 10 male's book disability. The District 10 male's film debut was in the Tribute Parade, dressed in golden cowboy attire alongside his partner, symbolizing District 10's livestock industry."}},{"@type":"Question","name":"Who was the District 10 male's partner in the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, the District 10 male was partnered with the female tribute from District 10, as each district is represented by one male and one female tribute."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Reaping">Reaping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Drove was one of the few tributes that caught <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss's</a> attention while watching back footage from the <a href="/wiki/Reaping" title="Reaping">reapings</a>, due to his "crippled foot".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> However, his disability was not present in the film and was played by a stunt actor.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Tribute_Parade">Tribute Parade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/1f/District_10_Tribute_parade.png/revision/latest?cb=20121227012028" class="mw-file-description image"><img alt="The District 10 tributes in their parade costumes." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="180" class="thumbimage lazyload" data-image-name="District 10 Tribute parade.png" data-image-key="District_10_Tribute_parade.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/1f/District_10_Tribute_parade.png/revision/latest/scale-to-width-down/180?cb=20121227012028"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/1/1f/District_10_Tribute_parade.png/revision/latest?cb=20121227012028" class="mw-file-description image"><img alt="The District 10 tributes in their parade costumes." src="https://static.wikia.nocookie.net/thehungergames/images/1/1f/District_10_Tribute_parade.png/revision/latest/scale-to-width-down/180?cb=20121227012028" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-image-name="District 10 Tribute parade.png" data-image-key="District_10_Tribute_parade.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/1f/District_10_Tribute_parade.png/revision/latest/scale-to-width-down/180?cb=20121227012028"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_10_Tribute_parade.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The District 10 tributes in their parade costumes.</p> 		 	</figcaption> </figure>
+<p>In the film, Drove first appeared in the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a> with his <a href="/wiki/District_10_female_(74th_HG)" title="District 10 female (74th HG)">district partner</a>. They both wore golden cowboy hats, shirts, and pants, representing District 10's livestock industry. Later, once the chariots were parked, they could be seen talking to each other behind the <a href="/wiki/District_12" title="District 12">District 12</a> chariot.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Training">Training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During <a href="/wiki/Training_stations" title="Training stations">training</a> in the film, Drove was shown practicing with a staff against a trainer, dodging and hitting each other's <a href="/wiki/Weapons" title="Weapons">weapons</a> as Katniss watched, impressed. After <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta</a> threw a heavy weight, he and the <a href="/wiki/District_5_male_(74th_HG)" title="District 5 male (74th HG)">District 5 male</a> were in the background looking doubtfully at the <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tributes</a>. He was also briefly seen wrestling with the <a href="/wiki/District_6_male_(74th_HG)" class="mw-redirect" title="District 6 male (74th HG)">District 6 male</a> while the <a href="/wiki/District_7_male_(74th_HG)" class="mw-redirect" title="District 7 male (74th HG)">District 7 male</a> threw a spear with the help of a trainer.<sup id="cite_ref-:0_3-2" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>In the film, the <a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">District 8 male</a> fell and hurt his leg during training, and was later sent into the <a href="/wiki/Arena" title="Arena">arena</a> with a cast on his leg.<sup id="cite_ref-:0_3-3" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> This was likely a nod to Drove's disability in the book.
+</p>
+<h4><span class="mw-headline" id="Interviews">Interviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>He was described as being "very quiet" when he was <a href="/wiki/Interviews" title="Interviews">interviewed</a> by <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> In the film, he wore a gray suit with black pants and gray shoes as he waited in line backstage, looking bored.<sup id="cite_ref-:0_3-4" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Cornucopia_bloodbath">Cornucopia bloodbath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 174px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c5/10mgydb.jpg/revision/latest?cb=20140607155822" class="mw-file-description image"><img alt="Drove getting a duffel bag." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="174" height="200" class="thumbimage lazyload" data-image-name="10mgydb.jpg" data-image-key="10mgydb.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c5/10mgydb.jpg/revision/latest/scale-to-width-down/174?cb=20140607155822"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/c/c5/10mgydb.jpg/revision/latest?cb=20140607155822" class="mw-file-description image"><img alt="Drove getting a duffel bag." src="https://static.wikia.nocookie.net/thehungergames/images/c/c5/10mgydb.jpg/revision/latest/scale-to-width-down/174?cb=20140607155822" decoding="async" loading="lazy" width="174" height="200" class="thumbimage" data-image-name="10mgydb.jpg" data-image-key="10mgydb.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c5/10mgydb.jpg/revision/latest/scale-to-width-down/174?cb=20140607155822"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:10mgydb.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Drove getting a duffel bag.</p> 		 	</figcaption> </figure>
+<p>Drove survived the initial <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>In the film, like majority of the tributes, he ran to the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> for supplies. He grabbed a yellow sleeping bag, but the District 7 male and the District 6 male charged at him in opposite directions. He quickly pushed the District 7 male back and elbowed the District 6 male in the chest. The <a href="/wiki/District_6_female_(74th_HG)" title="District 6 female (74th HG)">District 6 female</a> stole the bag from his hands, while <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> came from behind to pull her hair, and shove her away from him. After Glimmer killed the District 6 female, Drove collided with her and took the bag away from her. Glimmer pinned him to a crate to stab him, but he was too quick for her. <a href="/wiki/Marvel" title="Marvel">Marvel</a> confronted him and tried to slash him with an axe, but he successfully dodged. At some point in the bloodbath, he and the <a href="/wiki/District_5_male_(74th_HG)" title="District 5 male (74th HG)">District 5 male</a> tried to kill <a href="/wiki/Cato" title="Cato">Cato</a> while the <a href="/wiki/District_6_male_(74th_HG)" class="mw-redirect" title="District 6 male (74th HG)">District 6 male</a> watched from behind a crate. Katniss later spotted him running in the forest with his bag, and she ran the opposite direction.<sup id="cite_ref-:0_3-5" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/cf/640px-D4_female_killed_by_Cato.png/revision/latest?cb=20140516182942" class="mw-file-description image"><img alt="A corpse at the bloodbath played by the same stuntman." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="75" class="thumbimage lazyload" data-image-name="640px-D4 female killed by Cato.png" data-image-key="640px-D4_female_killed_by_Cato.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/cf/640px-D4_female_killed_by_Cato.png/revision/latest/scale-to-width-down/180?cb=20140516182942"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/c/cf/640px-D4_female_killed_by_Cato.png/revision/latest?cb=20140516182942" class="mw-file-description image"><img alt="A corpse at the bloodbath played by the same stuntman." src="https://static.wikia.nocookie.net/thehungergames/images/c/cf/640px-D4_female_killed_by_Cato.png/revision/latest/scale-to-width-down/180?cb=20140516182942" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="640px-D4 female killed by Cato.png" data-image-key="640px-D4_female_killed_by_Cato.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/cf/640px-D4_female_killed_by_Cato.png/revision/latest/scale-to-width-down/180?cb=20140516182942"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:640px-D4_female_killed_by_Cato.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A corpse at the bloodbath played by the same stuntman.</p> 		 	</figcaption> </figure>
+<p>The cannon signaling his death, likely at the hands of the Careers, woke Katniss and <a href="/wiki/Rue" title="Rue">Rue</a> in the morning on day eight.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> Katniss didn't realize who it had been until she saw his picture during that evening's <a href="/wiki/Horn_of_Plenty" title="Horn of Plenty">anthem</a> recap. He placed 10th out of 24.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>Rue later recounted his death as occurring after Glimmer's, at some point in the several days that Katniss slept after being stung by <a href="/wiki/Tracker_jacker" title="Tracker jacker">tracker jackers</a>.<sup id="cite_ref-:0_3-6" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>The stuntman who played this character also played an extra death there in the film, presenting a continuity error. He was also the second shown to be injured by another tribute during the initial bloodbath, after the <a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">District 8 male</a>. Based on the arena wear and the angle of the shots, he might have doubled his district partner.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the film, the tribute boards showed that he was 18, weighing 165 pounds.<sup id="cite_ref-stats_1-2" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+<ul><li>He, Cato, and <a href="/wiki/Thresh" title="Thresh">Thresh</a> were the oldest and largest tributes in the 74th Hunger Games.<sup id="cite_ref-stats_1-3" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li></ul></li>
+<li>He, <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a>, Rue, and Thresh were the only tributes alive when Katniss dropped the tracker jacker nest who were not known to have gotten stung.</li>
+<li>He and the <a href="/wiki/District_10_male_(75th_HG)" title="District 10 male (75th HG)">District 10 male</a> from the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> are similar because they both died after a <a href="/wiki/Cashmere" title="Cashmere">District 1 female</a> tribute was killed. They also both outlived their district partners, then later died to an unknown cause.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="556854689f675148bed95666447abfa1" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="3-D10male-jpg" style="position: relative; height:83px; width:185px; top:20px;"><a class="image lightbox" href="/wiki/File:3.D10male.jpg" title="3.D10male.jpg (117 KB)" style="height:83px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/6/6a/3.D10male.jpg/revision/latest/scale-to-width-down/185?cb=20140321074536" title="3.D10male.jpg (117 KB)" class="thumbimage" alt="In the Training Center" height="123" width="185" data-image-name="3.D10male.jpg" data-image-key="3.D10male.jpg" data-relevant="1" data-caption="In the Training Center"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="3.D10male.jpg (117 KB)" class="thumbimage lazyload" alt="In the Training Center" height="123" width="185" data-image-name="3.D10male.jpg" data-image-key="3.D10male.jpg" data-relevant="1" data-caption="In the Training Center" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/6a/3.D10male.jpg/revision/latest/scale-to-width-down/185?cb=20140321074536"></a></div></div><div class="lightbox-caption" style="width:185px;">In the Training Center</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="Tributesrunning-jpg" style="position: relative; height:79px; width:185px; top:22px;"><a class="image lightbox" href="/wiki/File:Tributesrunning.jpg" title="Tributesrunning.jpg (19 KB)" style="height:79px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/7/7a/Tributesrunning.jpg/revision/latest/scale-to-width-down/185?cb=20140411213321" title="Tributesrunning.jpg (19 KB)" class="thumbimage" alt="Drove running to the Cornucopia" height="123" width="185" data-image-name="Tributesrunning.jpg" data-image-key="Tributesrunning.jpg" data-relevant="1" data-caption="Drove running to the Cornucopia"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tributesrunning.jpg (19 KB)" class="thumbimage lazyload" alt="Drove running to the Cornucopia" height="123" width="185" data-image-name="Tributesrunning.jpg" data-image-key="Tributesrunning.jpg" data-relevant="1" data-caption="Drove running to the Cornucopia" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/7a/Tributesrunning.jpg/revision/latest/scale-to-width-down/185?cb=20140411213321"></a></div></div><div class="lightbox-caption" style="width:185px;">Drove running to the Cornucopia</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="DAAAMMNN--png" style="position: relative; height:99px; width:185px; top:12px;"><a class="image lightbox" href="/wiki/File:DAAAMMNN!.png" title="DAAAMMNN!.png (1.57 MB)" style="height:99px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/6/61/DAAAMMNN%21.png/revision/latest/scale-to-width-down/185?cb=20181230170811" title="DAAAMMNN!.png (1.57 MB)" class="thumbimage" alt="The District 6 female tries to steal Drove's bag while being pulled away by Glimmer in the background" height="123" width="185" data-image-name="DAAAMMNN!.png" data-image-key="DAAAMMNN%21.png" data-relevant="1" data-caption="The District 6 female tries to steal Drove's bag while being pulled away by Glimmer in the background"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="DAAAMMNN!.png (1.57 MB)" class="thumbimage lazyload" alt="The District 6 female tries to steal Drove's bag while being pulled away by Glimmer in the background" height="123" width="185" data-image-name="DAAAMMNN!.png" data-image-key="DAAAMMNN%21.png" data-relevant="1" data-caption="The District 6 female tries to steal Drove's bag while being pulled away by Glimmer in the background" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/61/DAAAMMNN%21.png/revision/latest/scale-to-width-down/185?cb=20181230170811"></a></div></div><div class="lightbox-caption" style="width:185px;">The District 6 female tries to steal Drove's bag while being pulled away by Glimmer in the background</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="D10boylocation-jpg" style="position: relative; height:101px; width:185px; top:11px;"><a class="image lightbox" href="/wiki/File:D10boylocation.jpg" title="D10boylocation.jpg (65 KB)" style="height:101px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/a/a9/D10boylocation.jpg/revision/latest/scale-to-width-down/185?cb=20140427222621" title="D10boylocation.jpg (65 KB)" class="thumbimage" alt="The District 10 boy's location hours before his death" height="123" width="185" data-image-name="D10boylocation.jpg" data-image-key="D10boylocation.jpg" data-relevant="1" data-caption="The District 10 boy's location hours before his death"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D10boylocation.jpg (65 KB)" class="thumbimage lazyload" alt="The District 10 boy's location hours before his death" height="123" width="185" data-image-name="D10boylocation.jpg" data-image-key="D10boylocation.jpg" data-relevant="1" data-caption="The District 10 boy's location hours before his death" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a9/D10boylocation.jpg/revision/latest/scale-to-width-down/185?cb=20140427222621"></a></div></div><div class="lightbox-caption" style="width:185px;">The District 10 boy's location hours before his death</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:125px;"><div class="gallery-image-wrapper accent" id="D10_male_ID_card-jpg" style="position: relative; height:123px; width:185px;"><a class="image lightbox" href="/wiki/File:D10_male_ID_card.jpg" title="D10 male ID card.jpg (21 KB)" style="height:123px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/0/01/D10_male_ID_card.jpg/revision/latest/scale-to-width-down/185?cb=20121227012340" title="D10 male ID card.jpg (21 KB)" class="thumbimage" alt="Tribute Identification Card" height="123" width="185" data-image-name="D10 male ID card.jpg" data-image-key="D10_male_ID_card.jpg" data-relevant="1" data-caption="Tribute Identification Card"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D10 male ID card.jpg (21 KB)" class="thumbimage lazyload" alt="Tribute Identification Card" height="123" width="185" data-image-name="D10 male ID card.jpg" data-image-key="D10_male_ID_card.jpg" data-relevant="1" data-caption="Tribute Identification Card" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/01/D10_male_ID_card.jpg/revision/latest/scale-to-width-down/185?cb=20121227012340"></a></div></div><div class="lightbox-caption" style="width:185px;">Tribute Identification Card</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDrove%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-stats-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-stats_1-0">1.0</a></sup> <sup><a href="#cite_ref-stats_1-1">1.1</a></sup> <sup><a href="#cite_ref-stats_1-2">1.2</a></sup> <sup><a href="#cite_ref-stats_1-3">1.3</a></sup></span> <span class="reference-text"><a href="/wiki/File:Full_stats_board.png" title="File:Full stats board.png">File:Full stats board.png</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_3-0">3.0</a></sup> <sup><a href="#cite_ref-:0_3-1">3.1</a></sup> <sup><a href="#cite_ref-:0_3-2">3.2</a></sup> <sup><a href="#cite_ref-:0_3-3">3.3</a></sup> <sup><a href="#cite_ref-:0_3-4">3.4</a></sup> <sup><a href="#cite_ref-:0_3-5">3.5</a></sup> <sup><a href="#cite_ref-:0_3-6">3.6</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 17</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251227083353
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.065 seconds
+Real time usage: 0.106 seconds
+Preprocessor visited node count: 331/1000000
+Post‐expand include size: 118/2097152 bytes
+Template argument size: 8/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12120/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   65.905      1 -total
+ 39.63%   26.121      1 Template:Character
+ 27.51%   18.129      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:521891-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227083353 and revision id 967711. Rendering was triggered because: page-view
+ -->
+</div>

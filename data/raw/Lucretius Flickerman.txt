@@ -1,0 +1,269 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Lucretius Flickerman</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/be/LuckyFlickerman-Poster.jpeg/revision/latest?cb=20230922111211" class="image image-thumbnail" title="LuckyFlickerman-Poster">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/b/be/LuckyFlickerman-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922111211" srcset="https://static.wikia.nocookie.net/thehungergames/images/b/be/LuckyFlickerman-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922111211 1x, https://static.wikia.nocookie.net/thehungergames/images/b/be/LuckyFlickerman-Poster.jpeg/revision/latest/scale-to-width-down/536?cb=20230922111211 2x" class="pi-image-thumbnail" data-relevant="1" alt="LuckyFlickerman-Poster" width="270" height="264" data-image-key="LuckyFlickerman-Poster.jpeg" data-image-name="LuckyFlickerman-Poster.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Lucky</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Weathercaster</li><li><a href="/wiki/Interviews" title="Interviews">Interview</a> host for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a></li><li>Television commentator for the 10th Hunger Games</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> (possible descendant)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Presumed Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></li><li><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i> (on television)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Jason_Schwartzman" title="Jason Schwartzman">Jason Schwartzman</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>How's the weather look in District 12, Jubilee? </i>They've got snow, Lucky!<i> Snow in July, Jubilee? </i><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a><i>!</i>"</span></dd>
+<dd>—Lucky Flickerman, speaking for himself and his parrot<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Lucretius Flickerman</b>, generally known by the nickname "<b>Lucky Flickerman</b>," was a weathercaster and amateur magician who was tapped to host the <a href="/wiki/Interviews" title="Interviews">interviews</a> from the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> and later the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Games</a> themselves. He had a pet parrot named <a href="/wiki/Jubilee" title="Jubilee">Jubilee</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37554" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was the actor that played the role of Lucky Flickerman?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Jason Schwartzman, an actor born in Los Angeles, portrayed Lucretius 'Lucky' Flickerman in 'The Hunger Games: The Ballad of Songbirds &amp; Snakes'. He has been active in the acting industry since 1998 and has received nominations for Gotham, SAG, and WGA Awards.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37555" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Is there a familial relationship between Lucky Flickerman and Caesar Flickerman?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Lucretius 'Lucky' Flickerman, the initial host of the 10th Hunger Games, shares a last name with Caesar Flickerman, a subsequent host. This implies a familial link, which may have aided Caesar's successful career as a host and interviewer in the Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37556" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the name of Lucky Flickerman's pet parrot?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Lucky Flickerman, whose real name is Lucretius Flickerman, had a pet parrot named Jubilee. He was known for his roles as a weathercaster, amateur magician, and host of the 10th Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37557" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Lucky Flickerman's role in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Lucretius 'Lucky' Flickerman served as the host. His responsibilities included conducting interviews with the available tributes and elucidating the newly implemented sponsorship system. This role was particularly pivotal due to the loss of numerous tributes and mentors in the Capitol Arena bombing. Before becoming the host, Lucky was a weathercaster.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37558" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Lucky Flickerman explain the new sponsorship system in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the 10th Hunger Games, Lucretius 'Lucky' Flickerman introduced a sponsorship system. This system enabled mentors to send tributes useful items, funded by sponsor donations. Coriolanus Snow and Dr. Gaul conceived this program, which also brought in the idea of betting on tributes.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Lucretius Flickerman","mainEntity":[{"@type":"Question","name":"Who was the actor that played the role of Lucky Flickerman?","acceptedAnswer":{"@type":"Answer","text":"Jason Schwartzman, an actor born in Los Angeles, portrayed Lucretius 'Lucky' Flickerman in 'The Hunger Games: The Ballad of Songbirds & Snakes'. He has been active in the acting industry since 1998 and has received nominations for Gotham, SAG, and WGA Awards."}},{"@type":"Question","name":"Is there a familial relationship between Lucky Flickerman and Caesar Flickerman?","acceptedAnswer":{"@type":"Answer","text":"Lucretius 'Lucky' Flickerman, the initial host of the 10th Hunger Games, shares a last name with Caesar Flickerman, a subsequent host. This implies a familial link, which may have aided Caesar's successful career as a host and interviewer in the Hunger Games."}},{"@type":"Question","name":"What was the name of Lucky Flickerman's pet parrot?","acceptedAnswer":{"@type":"Answer","text":"Lucky Flickerman, whose real name is Lucretius Flickerman, had a pet parrot named Jubilee. He was known for his roles as a weathercaster, amateur magician, and host of the 10th Hunger Games."}},{"@type":"Question","name":"What was Lucky Flickerman's role in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Lucretius 'Lucky' Flickerman served as the host. His responsibilities included conducting interviews with the available tributes and elucidating the newly implemented sponsorship system. This role was particularly pivotal due to the loss of numerous tributes and mentors in the Capitol Arena bombing. Before becoming the host, Lucky was a weathercaster."}},{"@type":"Question","name":"How did Lucky Flickerman explain the new sponsorship system in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"During the 10th Hunger Games, Lucretius 'Lucky' Flickerman introduced a sponsorship system. This system enabled mentors to send tributes useful items, funded by sponsor donations. Coriolanus Snow and Dr. Gaul conceived this program, which also brought in the idea of betting on tributes."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLucretius_Flickerman%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lucky Flickerman first appeared for the 10th Hunger Games for the interviews, described as <i>The Hunger Games: A Night of Interviews</i>. He welcomed the audience to a brand-new <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> for a brand-new decade and explained the new <a href="/wiki/Sponsorship" title="Sponsorship">sponsorship</a> system in place for the Games. He then worked through the interviews with those tributes who were available, as many tributes and <a href="/wiki/Mentor" title="Mentor">mentors</a> had been killed in the <a href="/wiki/Bombings" title="Bombings">bombing</a> of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a>. He finally came to <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> and <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, and seeing that Lucy Gray was a born performer, didn't bother asking her questions that nobody cared about. He instead let her perform and she sang a song that wowed everyone, including him.<sup id="cite_ref-Ballad_11_1-0" class="reference"><a href="#cite_note-Ballad_11-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> He was, however, finally forced to usher her and Snow off the stage, despite calls for an encore. After the interviews, he went on television to give updates on the betting on the tributes. His performance in the interviews was considered enough of a success that he was tapped to host the Games themselves.<sup id="cite_ref-Ballad_12_2-0" class="reference"><a href="#cite_note-Ballad_12-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Before the Games began, Lucky hosted a pre-show, which featured only those seven mentors which had participated in the night of interviews. Coriolanus Snow was the only one who had fresh material, having devoted the entire interview to Lucy Gray, and as such Lucky was happy to let him run over his allotted time. Afterwards, Dean <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> of the <a href="/wiki/Academy" title="Academy">Academy</a> appeared to speak about the mentor-tribute program. Lucky was taken aback by his comment that it would be a mistake to think that either side during the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a> lacked courage, strength, or intelligence, asking if he was really comparing District children to Capitol children. When Highbottom pressed his point, Lucky could think of nothing to say other than that his views were "fascinating." When Highbottom commented drily that there was nobody whose opinion he valued more, Lucky replied that he was just a humble weatherman and amateur magician and seemingly pulled a candy from behind Highbottom's ear.<sup id="cite_ref-Ballad_13_3-0" class="reference"><a href="#cite_note-Ballad_13-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>Lucky provided his own brand of colorful commentary throughout the Games. He spoke with Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>, head <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a>, about the relatively slow start to the Games. She replied that the <a href="/wiki/Bombings" title="Bombings">bombing</a> of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> had opened up new cracks into tunnels which the tributes could hide in, but they would come out when they needed food, thanks to the new sponsorship system. When she commented that the Games might last indefinitely, he replied that he hoped she had more magic tricks up her sleeve. She replied that she had a <a href="/wiki/Muttation#Rabbit_mutts" title="Muttation">rabbit muttation</a> that he could pull out of a hat, causing him to blanch and say that he had his own pets. He later irritated mentor <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a>, by referring to him as "Turban," leading Urban to whine that they should have gotten a professional.<sup id="cite_ref-Ballad_14_4-0" class="reference"><a href="#cite_note-Ballad_14-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>At one point, he brought his pet parrot <a href="/wiki/Jubilee" title="Jubilee">Jubilee</a>, trying to get him to say "Hi, handsome!" to Dean Highbottom. The two of them discussed the new level of interactivity seen in the games, the dean noting that the <a href="/wiki/Bombings" title="Bombings">bombing</a> of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> had changed the landscape. He commented "We're all in the arena together, Lucky," but Lucky didn't understand what he was getting at and just then a despondent Jubilee finally said "Hi, handsome!" Later on, Lucky brought the parrot back out and tried to do a weather report with commentary from the parrot, but the parrot again refused to speak. He then started doing it himself, adopting a high-pitched voice to speak in the parrot's place.<sup id="cite_ref-Ballad_18_5-0" class="reference"><a href="#cite_note-Ballad_18-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> 
+</p><p>Although there were many elements of the 10th Hunger Games that Dr. Gaul chose to erase from history, she thought it likely that she would keep Lucky around to continue hosting.<sup id="cite_ref-Ballad_30_6-0" class="reference"><a href="#cite_note-Ballad_30-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> This proved to be true as Lucky also hosted the <a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th Hunger Games</a>, the first <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, with Dr. Gaul as a commentator. He likely retired as host before the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a> for which he was not present, with fellow Flickerman, <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar</a> now serving as the presenter by that point.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLucretius_Flickerman%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was described as being "clownish" and dressed in a high-collared blue suit with rhinestone accents, with gelled hair dusted in coppery powder. He spoke in a voice like a bird chirping and liked to entertain the crowd with amateur magic tricks. In the film, he is a more polished performer and does not appear as a subject of mockery.<sup id="cite_ref-Ballad_film_8-0" class="reference"><a href="#cite_note-Ballad_film-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLucretius_Flickerman%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He shares his name with <a href="https://en.wikipedia.org/wiki/Lucretius" class="extiw" title="wikipedia:Lucretius">Titus Lucretius Carus</a>, a Roman poet who described a universe that was guided by <i>fortuna</i>, "chance", and not divine intervention.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLucretius_Flickerman%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>He shares his last name with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>, and is quite likely related to him.
+<ul><li>In <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> film, he cancelled a dinner reservation for two adults and a highchair,<sup id="cite_ref-Ballad_film_8-1" class="reference"><a href="#cite_note-Ballad_film-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> implying that he has a partner and a young child. Since Caesar spent over forty years hosting the Hunger Games,<sup id="cite_ref-THG_9_9-0" class="reference"><a href="#cite_note-THG_9-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> he was likely at least in his sixties during the trilogy, making it possible that he could have been the child Lucky was referring to, meaning he would be his father.</li></ul></li>
+<li>Lucky appears in the story earlier in the film than in the novel. He is first seen at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>, where he essentially fills the role of Capitol News reporter <a href="/wiki/Lepidus_Malmsey" title="Lepidus Malmsey">Lepidus Malmsey</a> from the novel. He is also implied to have been selected to be the host for the Games from the start, as opposed to the novel, in which this role is only finalized following the success of the interviews.</li>
+<li>On TikTok, the official Hunger Games account (<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.tiktok.com/@hungergamesofficial">@hungergamesofficial</a>) put out several <a href="/wiki/Capitol_News" title="Capitol News">Capitol News</a> reports starring Lucky in order to promote the film adaptation.
+<ul><li>In one video, Lucky gave a breaking news report about how rumors of a rabies outbreak were a "complete fabrication, spread by treasonous outlaws' intent on destroying our way of life". He then cracked a joke about how that "sounds like [his] in-laws", suggesting that he is married.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup></li></ul></li>
+<li>During filming, <a href="/wiki/Jason_Schwartzman" title="Jason Schwartzman">Jason Schwartzman</a> decided that Lucky needed a "nemesis", so with permission from <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>'s actor <a href="/wiki/Max_Raphael" title="Max Raphael">Max Raphael</a>, he singled out Festus to pick on. According to Raphael, "We've got a whole backstory here. Festus, maybe he wants a career in broadcasting. Maybe Lucky babysat him when he was a kid, and he's just never gotten over how annoying he was. I don't know. That's for the fans to decide.”<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLucretius_Flickerman%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_11-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_11_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_12-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_12_2-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_13-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_13_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_14-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_14_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_18-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_18_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 18</span>
+</li>
+<li id="cite_note-Ballad_30-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_30_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 30</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_film-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_film_8-0">8.0</a></sup> <sup><a href="#cite_ref-Ballad_film_8-1">8.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-THG_9-9"><span class="mw-cite-backlink"><a href="#cite_ref-THG_9_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.tiktok.com/@hungergamesofficial/video/7286134122374876462">https://www.tiktok.com/@hungergamesofficial/video/7286134122374876462</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://x.com/panempropaganda/status/1757109429932024259">https://x.com/panempropaganda/status/1757109429932024259</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260103104233
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.068 seconds
+Real time usage: 0.100 seconds
+Preprocessor visited node count: 348/1000000
+Post‐expand include size: 722/2097152 bytes
+Template argument size: 364/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4655/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   58.122      1 -total
+ 52.79%   30.685      1 Template:Character
+ 20.42%   11.870      1 Template:Reflist
+  2.87%    1.666      1 Template:Quote
+  2.35%    1.367      1 Template:W
+  2.17%    1.263      1 Template:SOTR
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539500-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103104233 and revision id 958973. Rendering was triggered because: page-view
+ -->
+</div>

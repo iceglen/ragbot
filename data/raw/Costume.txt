@@ -1,0 +1,36 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><b>This article is a disambiguation page for Costume</b>
+<p>The following is a list of links to pages that might share the same title.<br />
+</p>
+Please follow one of the disambiguation links below or <a href="/wiki/Special:Search" title="Special:Search">search</a> to find the page you were looking for if it is not listed. If an <a href="/wiki/Special:WhatLinksHere/Costume" title="Special:WhatLinksHere/Costume">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</center></div>
+<p><br />
+<b>Costume</b> may refer to:
+</p>
+<ul><li><a href="/wiki/Chariot_costumes" title="Chariot costumes">Chariot costumes</a> - outfits worn by <a href="/wiki/Tribute" title="Tribute">tributes</a> during the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>.</li>
+<li><a href="/wiki/Film_costumes" title="Film costumes">Film costumes</a> - costumes used in <i>The Hunger Games</i> film franchise.</li>
+<li><a href="/wiki/Mockingjay_suit" title="Mockingjay suit">Mockingjay suit</a> - a costume designed by <a href="/wiki/Cinna" title="Cinna">Cinna</a> and worn by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20260105153946
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.009 seconds
+Real time usage: 0.018 seconds
+Preprocessor visited node count: 6/1000000
+Post‐expand include size: 537/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    2.234      1 Template:Disambig
+100.00%    2.234      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542298-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105153946 and revision id 965875. Rendering was triggered because: api-parse
+ -->
+</div>

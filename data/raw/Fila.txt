@@ -1,0 +1,285 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Fila</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/48/Tribute_D3_male.jpg/revision/latest?cb=20120214004353" class="image image-thumbnail" title="Tribute D3 male">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/4/48/Tribute_D3_male.jpg/revision/latest/scale-to-width-down/268?cb=20120214004353" srcset="https://static.wikia.nocookie.net/thehungergames/images/4/48/Tribute_D3_male.jpg/revision/latest/scale-to-width-down/268?cb=20120214004353 1x, https://static.wikia.nocookie.net/thehungergames/images/4/48/Tribute_D3_male.jpg/revision/latest?cb=20120214004353 2x" class="pi-image-thumbnail" data-relevant="1" alt="Tribute D3 male" width="270" height="410" data-image-key="Tribute_D3_male.jpg" data-image-name="Tribute D3 male.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">14 (film)<sup id="cite_ref-stats_1-0" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_3" title="District 3">District 3</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Land mines <br><a href="/wiki/Weapons#Spear" title="Weapons">Spear</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">5'6<sup id="cite_ref-stats_1-1" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ian_Nelson" title="Ian Nelson">Ian Nelson</a> (film)<p>Rory Toms (stage)</p></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Fila</b> was the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_3" title="District 3">District 3</a> who participated in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#74th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">74th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Tribute_Parade"><span class="tocnumber">1.1.1</span> <span class="toctext">Tribute Parade</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Training"><span class="tocnumber">1.1.2</span> <span class="toctext">Training </span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Interviews"><span class="tocnumber">1.1.3</span> <span class="toctext">Interviews</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Cornucopia_bloodbath"><span class="tocnumber">1.1.4</span> <span class="toctext">Cornucopia bloodbath</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#The_Games"><span class="tocnumber">1.1.5</span> <span class="toctext">The Games</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Death"><span class="tocnumber">1.1.6</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Tactics"><span class="tocnumber">3</span> <span class="toctext">Tactics</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="47226" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did the District 3 male play in the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The male tribute from District 3, portrayed by Ian Nelson, participated in the 74th Hunger Games. His weapon of choice was land mines and a spear, marking his significant role in the games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47227" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who portrayed the District 3 male in the Hunger Games film?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Ian Nelson portrayed the District 3 male tribute in the 74th Hunger Games film.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47228" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What did the District 3 tributes' outfits represent in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, all tributes including the District 3 male from the 74th Hunger Games wore identical uniforms. These uniforms featured black short-sleeved shirts with red and light gray stripes on the sleeves and underarms, black sweatpants with matching stripes, and black leather shoes. A cloth square with their district number was also pinned to their back for identification by the Gamemakers.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47229" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the District 3 male's reaction to his partner's injury during training?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, the District 3 male demonstrated concern upon his district partner's injury during training. He also displayed a reluctant laugh when Glimmer elbowed him, possibly to curry favor with the Career Tributes.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47230" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What did the District 3 male and District 9 male create together during training?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the training phase of the 74th Hunger Games, the District 3 male and the District 9 male collaborated to ignite a fire. Upon successful ignition, they promptly retreated.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Fila","mainEntity":[{"@type":"Question","name":"What role did the District 3 male play in the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"The male tribute from District 3, portrayed by Ian Nelson, participated in the 74th Hunger Games. His weapon of choice was land mines and a spear, marking his significant role in the games."}},{"@type":"Question","name":"Who portrayed the District 3 male in the Hunger Games film?","acceptedAnswer":{"@type":"Answer","text":"Ian Nelson portrayed the District 3 male tribute in the 74th Hunger Games film."}},{"@type":"Question","name":"What did the District 3 tributes' outfits represent in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, all tributes including the District 3 male from the 74th Hunger Games wore identical uniforms. These uniforms featured black short-sleeved shirts with red and light gray stripes on the sleeves and underarms, black sweatpants with matching stripes, and black leather shoes. A cloth square with their district number was also pinned to their back for identification by the Gamemakers."}},{"@type":"Question","name":"What was the District 3 male's reaction to his partner's injury during training?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, the District 3 male demonstrated concern upon his district partner's injury during training. He also displayed a reluctant laugh when Glimmer elbowed him, possibly to curry favor with the Career Tributes."}},{"@type":"Question","name":"What did the District 3 male and District 9 male create together during training?","acceptedAnswer":{"@type":"Answer","text":"In the training phase of the 74th Hunger Games, the District 3 male and the District 9 male collaborated to ignite a fire. Upon successful ignition, they promptly retreated."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 175px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a8/District_3_Tribute_parade.png/revision/latest?cb=20120405222216" class="mw-file-description image"><img alt="The District 3 tributes in their parade costumes." src="https://static.wikia.nocookie.net/thehungergames/images/a/a8/District_3_Tribute_parade.png/revision/latest/scale-to-width-down/175?cb=20120405222216" decoding="async" loading="lazy" width="175" height="175" class="thumbimage" data-image-name="District 3 Tribute parade.png" data-image-key="District_3_Tribute_parade.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_3_Tribute_parade.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The District 3 tributes in their parade costumes.</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Tribute_Parade">Tribute Parade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the film, the District 3 tributes wore silver costumes and silver headdresses to represent their <a href="/wiki/Technology" title="Technology">technology</a> industry during the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>.
+</p>
+<h4><span class="mw-headline" id="Training">Training </span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 210px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/9f/2.D3%2B9male.jpg/revision/latest?cb=20140321074104" class="mw-file-description image"><img alt="Fila and the District 9 male light a fire." src="https://static.wikia.nocookie.net/thehungergames/images/9/9f/2.D3%2B9male.jpg/revision/latest/scale-to-width-down/210?cb=20140321074104" decoding="async" loading="lazy" width="210" height="95" class="thumbimage" data-image-name="2.D3+9male.jpg" data-image-key="2.D3%2B9male.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:2.D3%2B9male.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Fila and the District 9 male light a fire.</p> 		 	</figcaption> </figure>
+<p>Fila was first seen in the <a href="/wiki/Training_Center" title="Training Center">Training Center</a> working with the <a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">District 9 male</a> to create a <a href="/wiki/Fire" title="Fire">fire</a>, and quickly backed away when the fire ignited. He also showed concern when his <a href="/wiki/District_3_female_(74th_HG)" title="District 3 female (74th HG)">district partner</a> was injured in training, but laughed reluctantly when <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> elbowed him, probably to make the <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tributes</a> like him.
+</p>
+<h4><span class="mw-headline" id="Interviews">Interviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/Interviews" title="Interviews">interviews</a>, Fila wore a yellow suit with a black shirt under it. <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> said that there was nothing special about his interview.
+</p>
+<h4><span class="mw-headline" id="Cornucopia_bloodbath">Cornucopia bloodbath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Fila survived the initial <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>. He was stationed to the left of <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a>. After arriving at the cornucopia, he grapples over <a href="/wiki/Marvel" title="Marvel">Marvel</a>'s axe. When he refused to let go, Marvel shoves his heavy backpack into his face, which causes him to fall to the ground. He is then later seen fighting the <a href="/wiki/District_7_female_(74th_HG)" title="District 7 female (74th HG)">District 7 female</a> over a backpack, while <a href="/wiki/Thresh" title="Thresh">Thresh</a> is running out of the Cornucopia. He somehow managed to survive and escape into the forest.
+</p>
+<h4><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>As shown in The Hunger Games film, at the time of the wild fire, Fila was outside the northern part of the Cornucopia. By day eight (although it is presumed to be day five in the book, as he joined when the Careers led the <a href="/wiki/Tracker_jacker" title="Tracker jacker">tracker jackers</a> to the lake), he had joined the Career pack and booby-trapped the area right around the Cornucopia with land mines he had dug up and then re-armed, which Katniss said in the book that he probably knew due to the fact that he was from District 3 which produces technology. Katniss Everdeen discovered the minefield after observing <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> steal supplies from the Careers, while <a href="/wiki/Rue" title="Rue">Rue</a> distracted the other Careers with several fires. In the film, he was left behind to guard. In the novel, the Careers told him to come with them to look for Rue. 
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 240px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/08/District_3_Male_Guarding_Supplies.jpg/revision/latest?cb=20120914233307" class="mw-file-description image"><img alt="Fila at the Careers' camp." src="https://static.wikia.nocookie.net/thehungergames/images/0/08/District_3_Male_Guarding_Supplies.jpg/revision/latest/scale-to-width-down/240?cb=20120914233307" decoding="async" loading="lazy" width="240" height="211" class="thumbimage" data-image-name="District 3 Male Guarding Supplies.jpg" data-image-key="District_3_Male_Guarding_Supplies.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_3_Male_Guarding_Supplies.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Fila at the Careers' camp.</p> 		 	</figcaption> </figure>
+<p>While Marvel, <a href="/wiki/Clove" title="Clove">Clove</a>, and <a href="/wiki/Cato" title="Cato">Cato</a> were hunting for Rue, Foxface stole supplies from the Careers, jumping around the mines in what Katniss described as a sort of "dance". As Foxface ran away behind Fila, he looked around to see who was there and followed Foxface into the woods to take her down. Katniss blew up the Careers' supplies by shooting a suspended bag of apples with her arrows when he left, which in turn set off the mines he planted, destroying everything. After the explosion, Fila came back and saw the blown-up supplies.
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>When the Careers returned, Cato, in a fit of rage, confronted Fila and stripped him of his spear, the only means of protection he had, and promptly snapped his neck as Katniss watched from behind cover nearby. He placed 9th out of 24.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the novels, he, <a href="/wiki/Beetee" class="mw-redirect" title="Beetee">Beetee</a>, and <a href="/wiki/Wiress" title="Wiress">Wiress</a> were all described as having ashen skin. This was probably a general characteristic of District 3's people.
+</p>
+<h2><span class="mw-headline" id="Tactics">Tactics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Like most tributes, he participated in the Cornucopia bloodbath and was lucky enough to survive the onslaught. He survived alone close to the Cornucopia until some point after the tracker jackers killed Glimmer and Peeta was kicked out of the Career pack. The surviving Careers found him and allowed him into their pack in exchange for him rewiring the mines around their stash of supplies, which he agreed to. As a tribute of District 3, he was skilled in electronics.
+</p><p>
+He was also armed with a spear while with the Careers. In the film, when Foxface stole supplies, he followed her in an attempt to kill her, possibly to impress his new companions, but inadvertently left the stash unguarded. After Katniss blew up the Careers' supplies, he immediately returned and tried to explain that he did not see what happened, but this would be his downfall. </p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/fa/Ian-Nelson.jpg/revision/latest?cb=20121227235653" class="mw-file-description image"><img alt="Fila's Tribute Identification Card." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="120" class="thumbimage lazyload" data-image-name="Ian-Nelson.jpg" data-image-key="Ian-Nelson.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/f/fa/Ian-Nelson.jpg/revision/latest/scale-to-width-down/180?cb=20121227235653"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/f/fa/Ian-Nelson.jpg/revision/latest?cb=20121227235653" class="mw-file-description image"><img alt="Fila's Tribute Identification Card." src="https://static.wikia.nocookie.net/thehungergames/images/f/fa/Ian-Nelson.jpg/revision/latest/scale-to-width-down/180?cb=20121227235653" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Ian-Nelson.jpg" data-image-key="Ian-Nelson.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/f/fa/Ian-Nelson.jpg/revision/latest/scale-to-width-down/180?cb=20121227235653"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ian-Nelson.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Fila's Tribute Identification Card.</p> 		 	</figcaption> </figure>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 171px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/7a/D3Male.png/revision/latest?cb=20181129221206" class="mw-file-description image"><img alt="Fila waiting for his interview." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="171" height="218" class="thumbimage lazyload" data-image-name="D3Male.png" data-image-key="D3Male.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/7a/D3Male.png/revision/latest/scale-to-width-down/171?cb=20181129221206"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/7/7a/D3Male.png/revision/latest?cb=20181129221206" class="mw-file-description image"><img alt="Fila waiting for his interview." src="https://static.wikia.nocookie.net/thehungergames/images/7/7a/D3Male.png/revision/latest/scale-to-width-down/171?cb=20181129221206" decoding="async" loading="lazy" width="171" height="218" class="thumbimage" data-image-name="D3Male.png" data-image-key="D3Male.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/7a/D3Male.png/revision/latest/scale-to-width-down/171?cb=20181129221206"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:D3Male.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Fila waiting for his interview.</p> 		 	</figcaption> </figure>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the film, he weighs 120 pounds, same as his district partner. He is 14 years old in the film. His odds of winning were initially 20-1 after training,<sup id="cite_ref-stats_1-2" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> and later 22–1. He was the only tribute to have his odds decrease instead of improving.</li>
+<li>When all the tributes are standing on their platforms, he is seen standing next to his district partner.</li>
+<li>He was the highest placing unnamed tribute, not including Foxface, as she had a nickname.</li>
+<li>In the <i><a href="/wiki/Tribute_Guide" class="mw-redirect" title="Tribute Guide">Tribute Guide</a></i>, his height is said to be 4'8, but when he is seen fighting with the District 7 female, he is taller; his actual height is closer to 5'6", given alongside his betting odds in the film.</li>
+<li>In the trailer of <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, it can be noted that when Katniss and Peeta visited District 3 on their <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>, only a woman was standing on the pedestal preserved for the family members of a deceased tribute. The woman could possibly have been his mother, and no father or siblings were present.</li>
+<li>He survived for 8 days in the <a href="/wiki/The_Hunger_Games" title="The Hunger Games">book</a> and for 7 days in the <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">film</a>. Despite the film does not show how long he lasted in the games, if we count the time that elapses from when Caesar and Claudius appear on the scoreboard explaining the mines surrounding the supply tower until their death, it tells us that it lasted exactly 6 days, 9 hours, 14 minutes, 49 seconds, and 60 milliseconds. Note that the first day is counted as day 0 on the scoreboards.</li>
+<li>He had the lowest odds of all the Cornucopia survivors excluding Katniss Everdeen and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>.</li>
+<li>In <i><a href="/wiki/The_Hunger_Games_On_Stage" title="The Hunger Games On Stage">The Hunger Games On Stage</a></i>, his name is <b>Fila</b>, which could derive from <a href="https://en.wikipedia.org/wiki/electrical_filament" class="extiw" title="wikipedia:electrical filament">electrical filaments</a>.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFila%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-stats-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-stats_1-0">1.0</a></sup> <sup><a href="#cite_ref-stats_1-1">1.1</a></sup> <sup><a href="#cite_ref-stats_1-2">1.2</a></sup></span> <span class="reference-text"><a href="/wiki/File:Statsreference.png" title="File:Statsreference.png">File:Statsreference.png</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260101215117
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.044 seconds
+Real time usage: 0.082 seconds
+Preprocessor visited node count: 202/1000000
+Post‐expand include size: 175/2097152 bytes
+Template argument size: 46/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 948/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   32.276      1 -total
+ 74.15%   23.932      1 Template:Character
+ 16.87%    5.445      1 Template:Reflist
+  4.66%    1.504      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2602-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260101215117 and revision id 967531. Rendering was triggered because: unknown
+ -->
+</div>

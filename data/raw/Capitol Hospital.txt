@@ -1,0 +1,83 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Capitol Hospital</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>Capitol Hospital</b> is the main hospital in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Known_staff"><span class="tocnumber">3</span> <span class="toctext">Known staff</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Hospital%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The hospital often treated victims of lab mishaps. <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> was taken there after she was bitten by Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>'s <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a>. <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> ran to the hospital afterward, wanting to make sure she was still alive, and was given a fizzy drink and crackers by the nurse at the counter.<sup id="cite_ref-Ballad_8_1-0" class="reference"><a href="#cite_note-Ballad_8-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>After the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> was bombed, Coriolanus was hospitalized along with <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> and <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a>, who were in critical condition. The veterinarian had tried to get <a href="/wiki/Panlo" title="Panlo">Panlo</a> and <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a>, the two <a href="/wiki/Tribute" title="Tribute">tributes</a> from <a href="/wiki/District_9" title="District 9">District 9</a>, admitted to the hospital, but her requests were refused. They succumbed to their wounds,<sup id="cite_ref-Ballad_10_2-0" class="reference"><a href="#cite_note-Ballad_10-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> as did Gaius some time later.<sup id="cite_ref-Ballad_18_3-0" class="reference"><a href="#cite_note-Ballad_18-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Coriolanus was put on a table under a bright light while doctors tried to assess his concussion, asking him questions and jabbing him with needles, one of which was a <a href="/wiki/Morphling_(drug)" title="Morphling (drug)">morphling</a> drip. <a href="/wiki/Dr._Wane" title="Dr. Wane">Dr. Wane</a> introduced himself afterward and gave Coriolanus a quick checkup. A few days later, Clemensia visited Coriolanus in his room, showing him what the snake venom had done to her before being carried away by two hospital staff. Coriolanus was released the next day.<sup id="cite_ref-Ballad_10_2-1" class="reference"><a href="#cite_note-Ballad_10-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>At some point during his time in the hospital, Coriolanus received a tube of ointment.<sup id="cite_ref-Ballad_16_4-0" class="reference"><a href="#cite_note-Ballad_16-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Hospital%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The entrance hall is cool, with automated doors that lead to the emergency room.<sup id="cite_ref-Ballad_8_1-1" class="reference"><a href="#cite_note-Ballad_8-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> It has air-conditioning and gives generous portions of bland food to its patients. The hospital also has a large-screen television.<sup id="cite_ref-Ballad_10_2-2" class="reference"><a href="#cite_note-Ballad_10-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_staff">Known staff</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Hospital%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Dr._Wane" title="Dr. Wane">Dr. Wane</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Hospital%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_8-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_8_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_8_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-Ballad_10-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_10_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_10_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_10_2-2">2.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_18-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_18_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 18</span>
+</li>
+<li id="cite_note-Ballad_16-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_16_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 16</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251228064238
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.031 seconds
+Real time usage: 0.046 seconds
+Preprocessor visited node count: 151/1000000
+Post‐expand include size: 118/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2298/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   28.888      1 -total
+ 49.99%   14.440      1 Template:Location
+ 24.01%    6.937      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:541849-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228064238 and revision id 950088. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,413 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Sejanus Plinth</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/71/SejanusPlinth-Poster.jpeg/revision/latest?cb=20230922110746" class="image image-thumbnail" title="SejanusPlinth-Poster">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/7/71/SejanusPlinth-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922110746" srcset="https://static.wikia.nocookie.net/thehungergames/images/7/71/SejanusPlinth-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922110746 1x, https://static.wikia.nocookie.net/thehungergames/images/7/71/SejanusPlinth-Poster.jpeg/revision/latest/scale-to-width-down/536?cb=20230922110746 2x" class="pi-image-thumbnail" data-relevant="1" alt="SejanusPlinth-Poster" width="270" height="267" data-image-key="SejanusPlinth-Poster.jpeg" data-image-name="SejanusPlinth-Poster.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">18<sup id="cite_ref-Ballad_Epilogue_2-0" class="reference"><a href="#cite_note-Ballad_Epilogue-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Bull's Eye (by District 12 Peacekeepers)<sup id="cite_ref-Ballad_22_1-0" class="reference"><a href="#cite_note-Ballad_22-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Academy" title="Academy">Academy</a> student</li><li><a href="/wiki/Mentor" title="Mentor">Mentor</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</li><li><a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeeper</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/District_2" title="District 2">District 2</a> <small>(originally)</small></li><li><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></li><li><a href="/wiki/District_12" title="District 12">District 12</a> <small>(briefly)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Strabo_Plinth" title="Strabo Plinth">Strabo Plinth</a> <small>(father)</small></li><li><a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">Mrs. Plinth</a> <small>(mother)</small></li><li><a href="/wiki/Mrs._Plinth%27s_sister" title="Mrs. Plinth's sister">Unnamed maternal aunt</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Gun</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Josh_Andr%C3%A9s_Rivera" title="Josh Andrés Rivera">Josh Andrés Rivera</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>The only thing I loved about the war was the fact that I still lived at home. If you're asking me if it had any value beyond that, I would say that it was the opportunity to right some wrongs.</i>"</span></dd>
+<dd>—Plinth, reading from an essay about the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a><sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Sejanus Plinth</b> was a Capitol citizen, formerly from District 2, and <a href="/wiki/Mentor" title="Mentor">mentor</a> of the male <a href="/wiki/Tribute" title="Tribute">tribute</a> of <a href="/wiki/District_2" title="District 2">District 2</a>, <a href="/wiki/Marcus" title="Marcus">Marcus</a>, during the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. Marcus was formerly a childhood friend of Sejanus and he was quite eager for Marcus to win. He was one of the 24 top-performing seniors of the <a href="/wiki/Academy" title="Academy">Academy</a> selected for a mentor role.<sup id="cite_ref-Ballad_1_3-0" class="reference"><a href="#cite_note-Ballad_1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> He was a close friend of <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Mentorship"><span class="tocnumber">1.1</span> <span class="toctext">Mentorship</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#10th_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Peacekeeping"><span class="tocnumber">1.3</span> <span class="toctext">Peacekeeping</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Death"><span class="tocnumber">1.4</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Legacy"><span class="tocnumber">1.5</span> <span class="toctext">Legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Relationships"><span class="tocnumber">3</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Coriolanus_Snow"><span class="tocnumber">3.1</span> <span class="toctext">Coriolanus Snow</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Mrs._Plinth"><span class="tocnumber">3.2</span> <span class="toctext">Mrs. Plinth</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Strabo_Plinth"><span class="tocnumber">3.3</span> <span class="toctext">Strabo Plinth</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Dr._Gaul"><span class="tocnumber">3.4</span> <span class="toctext">Dr. Gaul</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Marcus"><span class="tocnumber">3.5</span> <span class="toctext">Marcus</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="12123" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Sejanus Plinth's role during the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the 10th Hunger Games, Sejanus Plinth, a Capitol citizen and former District 2 resident, mentored Marcus, the male tribute from District 2. Sejanus, who was a childhood friend of Marcus, was keen for him to win. In addition to his mentorship, Sejanus was a distinguished student and assistant of Professor Agrippina Sickle at the Academy, and was entrusted with an ornamental shield at the Reaping Day festivities.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12124" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why was Sejanus Plinth eager for Marcus to win the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Sejanus Plinth's eagerness for Marcus to win the Hunger Games was driven by their childhood friendship and his role as Marcus's mentor in the games. The potential awarding of the Plinth Prize to the mentor of the winning tribute also played a part.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12125" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What led to the betrayal of Sejanus Plinth by Snow in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Snow's betrayal of Sejanus Plinth in the Hunger Games was a strategic move for survival. He recorded the rebels' plans, which he sent to Dr. Gaul, resulting in Sejanus' execution. To cope with guilt, Snow convinced himself he had no alternative. Following Sejanus' death, Snow hid the true cause and became the Plinth family heir.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12126" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What were the circumstances surrounding Sejanus Plinth's death in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The circumstances of Sejanus Plinth's death in the Hunger Games were obscured by darkness and manipulated camera lighting. His rebellious actions in the arena were not clearly visible. His father, Strabo Plinth, had previously tried to solve issues with money, such as when Sejanus was caught infiltrating the Capitol Arena.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12127" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who portrayed the character of Sejanus Plinth in the Hunger Games film adaptation?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games film adaptation, 'The Hunger Games: The Ballad of Songbirds &amp; Snakes', the character Sejanus Plinth is portrayed by actor Josh Andrés Rivera.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Sejanus Plinth","mainEntity":[{"@type":"Question","name":"What was Sejanus Plinth's role during the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"During the 10th Hunger Games, Sejanus Plinth, a Capitol citizen and former District 2 resident, mentored Marcus, the male tribute from District 2. Sejanus, who was a childhood friend of Marcus, was keen for him to win. In addition to his mentorship, Sejanus was a distinguished student and assistant of Professor Agrippina Sickle at the Academy, and was entrusted with an ornamental shield at the Reaping Day festivities."}},{"@type":"Question","name":"Why was Sejanus Plinth eager for Marcus to win the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Sejanus Plinth's eagerness for Marcus to win the Hunger Games was driven by their childhood friendship and his role as Marcus's mentor in the games. The potential awarding of the Plinth Prize to the mentor of the winning tribute also played a part."}},{"@type":"Question","name":"What led to the betrayal of Sejanus Plinth by Snow in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Snow's betrayal of Sejanus Plinth in the Hunger Games was a strategic move for survival. He recorded the rebels' plans, which he sent to Dr. Gaul, resulting in Sejanus' execution. To cope with guilt, Snow convinced himself he had no alternative. Following Sejanus' death, Snow hid the true cause and became the Plinth family heir."}},{"@type":"Question","name":"What were the circumstances surrounding Sejanus Plinth's death in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"The circumstances of Sejanus Plinth's death in the Hunger Games were obscured by darkness and manipulated camera lighting. His rebellious actions in the arena were not clearly visible. His father, Strabo Plinth, had previously tried to solve issues with money, such as when Sejanus was caught infiltrating the Capitol Arena."}},{"@type":"Question","name":"Who portrayed the character of Sejanus Plinth in the Hunger Games film adaptation?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games film adaptation, 'The Hunger Games: The Ballad of Songbirds & Snakes', the character Sejanus Plinth is portrayed by actor Josh Andr\u00e9s Rivera."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sejanus was born into the <a href="/wiki/Capitol_families#Plinth_family" title="Capitol families">Plinth family</a> as the only child of <a href="/wiki/Strabo_Plinth" title="Strabo Plinth">Strabo</a> and <a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">Mrs. Plinth</a>, a wealthy couple from District 2. His father, Strabo, made much of his wealth from munitions and weapon manufacturing. At a young age, he went to school with <a href="/wiki/Marcus" title="Marcus">Marcus</a>, whom he would later mentor in the Hunger Games. His father trained him to properly shoot with a gun every week with mandatory practice, considering it a part of the family business.<sup id="cite_ref-Ballad_23_4-0" class="reference"><a href="#cite_note-Ballad_23-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>The Plinth family profited greatly from the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, providing most of the weaponry used in the fight against <a href="/wiki/District_13" title="District 13">District 13</a>. Strabo Plinth's decision to side with the Capitol combined with the family's newfound wealth earned the Plinths Capitol citizenship, instantly affording them privileges that the oldest and most powerful families had earned over generations.<sup id="cite_ref-Ballad_1_3-1" class="reference"><a href="#cite_note-Ballad_1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>Sejanus arrived to the Capitol at the age of 8, ten years prior to the 10th Hunger Games. Having come from the Districts, he was immediately perceived as an outsider and subjected to a campaign of vicious bullying by his classmates. <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> considered participating in this, but decided against it, opting to ignore Sejanus instead.<sup id="cite_ref-Ballad_1_3-2" class="reference"><a href="#cite_note-Ballad_1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>Strabo Plinth's generous donations in the reconstruction effort after the war landed Sejanus a position at the Academy. He was a star pupil of Professor <a href="/wiki/Agrippina_Sickle" title="Agrippina Sickle">Agrippina Sickle</a>, later becoming her assistant, whom she relied on for every frivolous whim.<sup id="cite_ref-Ballad_1_3-3" class="reference"><a href="#cite_note-Ballad_1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Mentorship">Mentorship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the Reaping Day festivities for the 10th Hunger Games, Sejanus was tasked by Professor Sickle to carry around an ornamental shield that she was awarded for overseeing bombing drills during the rebellion. His outfit drew the attention of Snow, with whom he engaged in conversation about the state of the Capitol and the burden of taxes put on the residents for the upcoming city restoration efforts. This discussion left Snow visibly shaken, to the point that Sejanus asked after him.<sup id="cite_ref-Ballad_1_3-4" class="reference"><a href="#cite_note-Ballad_1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Sejanus was later chosen as a mentor for the Games, assigned the male tribute from District 2. He theorized that his father influenced this decision through the use of bribes.<sup id="cite_ref-Ballad_2_5-0" class="reference"><a href="#cite_note-Ballad_2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Sejanus was unable to disguise his misery at this outcome.
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 238px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/57/Sejanus_at_the_Zoo.png/revision/latest?cb=20231229072752" class="mw-file-description image"><img alt="Sejanus offering a sandwich at the Capitol Zoo" src="https://static.wikia.nocookie.net/thehungergames/images/5/57/Sejanus_at_the_Zoo.png/revision/latest/scale-to-width-down/238?cb=20231229072752" decoding="async" loading="lazy" width="238" height="162" class="thumbimage" data-image-name="Sejanus at the Zoo.png" data-image-key="Sejanus_at_the_Zoo.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Sejanus_at_the_Zoo.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Sejanus offering a sandwich at the Capitol Zoo</p> 		 	</figcaption> </figure>
+<p>Sejanus arrived at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a> the day the tributes arrived, carrying a pack with fresh plums and sandwiches made by his mother, in hopes of comforting them. He offered a sandwich to <a href="/wiki/Dill" title="Dill">Dill</a>, the female tribute from <a href="/wiki/District_11" title="District 11">District 11</a>. All of the tributes responded with distrust. A young girl commented to him that he should not feed the animals, referring to the tributes, who were presented in a cage. Sejanus argued on the tributes' behalf, but was met with further disdain. Sejanus enlisted Snow to convince his own tribute, <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, to accept his offering, hoping it might inspire the others to follow suit. This worked; Lucy Gray accepted, and invited over <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>, the District 12 male. The other tributes hurriedly followed, with the exception of Marcus, who looked on dispassionately from the back of the cage. Sejanus' origins as a resident of District 2 had made him unpopular in his home District, which he cited as the reason for Marcus' apparent hatred of him. The knowledge that Sejanus could have been in Marcus' place was not lost on him. When Snow expressed his belief that Marcus had a shot at winning the Games, Sejanus suggested that they swap tributes, showing excitement at the prospect. However, Snow turned down the proposal.<sup id="cite_ref-Ballad_2_5-1" class="reference"><a href="#cite_note-Ballad_2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Sejanus expressed that he found the Games both absurd and unnatural, and that he did not want to be a part of the charade.<sup id="cite_ref-Ballad_6_6-0" class="reference"><a href="#cite_note-Ballad_6-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> 
+</p><p>Sejanus continued to voice his opposition to the Games throughout his term as a mentor. He questioned the ethicality of the whole affair, and openly decried the cruelty of forcing people to watch children die as a sport. He held that only the inhumanly cruel would delight in such a thing. His objections were largely ignored, his stance dismissed as being the result of his District origins. His continued insistence that the tributes were human, and deserving of respect, got him labeled as a rebel sympathizer by <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Dr. Gaul</a>. He attempted to recuse himself as a mentor, but was denied.<sup id="cite_ref-Ballad_6_6-1" class="reference"><a href="#cite_note-Ballad_6-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>During his tenure as a mentor, Sejanus continued to draw attention to himself through both his behavior and his incendiary opinions. Snow attempted to mitigate this where possible, covering for him in small ways. While Sejanus appreciated what he perceived to be Snow's friendship towards him, he insisted that Snow stop rescuing him.<sup id="cite_ref-Ballad_11_7-0" class="reference"><a href="#cite_note-Ballad_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>Sejanus was present on the tour of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> with his tribute, Marcus. When the bombs went off, Marcus escaped, though Sejanus was largely uninjured. He later visited Snow in the Hospital, bringing Snow's book bag and a stack of his mother's sandwiches.<sup id="cite_ref-Ballad_10_8-0" class="reference"><a href="#cite_note-Ballad_10-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> The loss of his tribute put Sejanus under even more suspicion. He used this as a platform to object to the entirety of the war, which some of his classmates agreed with. 
+</p>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 154px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Sejanus_Plinth.jpg/revision/latest?cb=20230428035749" class="mw-file-description image"><img alt="Sejanus throwing his chair in anger" src="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Sejanus_Plinth.jpg/revision/latest/scale-to-width-down/154?cb=20230428035749" decoding="async" loading="lazy" width="154" height="206" class="thumbimage" data-image-name="Sejanus Plinth.jpg" data-image-key="Sejanus_Plinth.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Sejanus_Plinth.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Sejanus throwing his chair in anger</p> 		 	</figcaption> </figure>
+<p>Marcus was recaptured, and put on display at the start of the Games, badly beaten and strung up to poles with no way to defend himself. Sejanus threw a chair at the viewing screen and left in retaliation, infuriated by this needless display of cruelty.<sup id="cite_ref-Ballad_14_9-0" class="reference"><a href="#cite_note-Ballad_14-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>That night, Sejanus broke into the arena, intending to martyr himself, and protested the Games by holding vigil over Marcus' body. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Dr. Gaul</a> told Snow to enter the arena and bring Sejanus back before anyone noticed. Unfortunately, as Sejanus and Snow moved Marcus' body away from the cameras, the tributes <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a>, <a href="/wiki/Coral" title="Coral">Coral</a>, <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a>, and <a href="/wiki/Tanner" title="Tanner">Tanner</a> found the two and attacked them. Snow accidentally killed Bobbin in self-defense, and, terrified, Sejanus abandoned the idea of reclaiming Marcus' body. Both boys nearly died, but managed to make it past the barricade to safety. After the incident, Sejanus was consumed with grief over the loss of Marcus, and his participation dwindled.<sup id="cite_ref-Ballad_15_10-0" class="reference"><a href="#cite_note-Ballad_15-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Peacekeeping">Peacekeeping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For entering the arena illegally, Sejanus was forced to become a <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a> in District 12, a lesser punishment bought by his father, who offered to improve the <a href="/wiki/Academy" title="Academy">Academy</a> gymnasium in return. Sejanus insisted that Snow also be allowed graduate the Academy, a request which was granted. When he arrived to his bunk room in <a href="/wiki/District_12" title="District 12">District 12</a>, he was immediately greeted by an excited Snow, who had also been punished for cheating in the Games.<sup id="cite_ref-Ballad_22_1-1" class="reference"><a href="#cite_note-Ballad_22-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Sejanus' mother sent him care packages, such as baked goods and equipment, for his deployment in District 12. He also brought thousands of dollars in cash and a picture of his old class with Marcus.<sup id="cite_ref-Ballad_25_11-0" class="reference"><a href="#cite_note-Ballad_25-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p><p>Sejanus and Snow trained together, with Sejanus showing greater skill in marksmanship than the other Peacekeepers, who were believed to be badly trained.<sup id="cite_ref-Ballad_23_4-1" class="reference"><a href="#cite_note-Ballad_23-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> They were later assigned to the hanging of <a href="/wiki/Arlo_Chance" title="Arlo Chance">Arlo Chance</a> for his part in bombing the coal mines. 
+</p><p>Sejanus soon made the acquaintance of <a href="/wiki/Billy_Taupe" class="mw-redirect" title="Billy Taupe">Billy Taupe</a>, Lucy Gray's ex, and became embroiled in rebel activities.<sup id="cite_ref-Ballad_24_12-0" class="reference"><a href="#cite_note-Ballad_24-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> He then revealed to Snow that he was indeed planning with local rebels to flee to the north and escape Capitol influence, confirming Snow's previous suspicions. Unbeknownst to Sejanus however, Snow used one of the <a href="/wiki/Jabberjay" title="Jabberjay">jabberjays</a> to record him, and the bird was then sent to the Capitol.<sup id="cite_ref-Ballad_27_13-0" class="reference"><a href="#cite_note-Ballad_27-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p><p>During a performance at the Hob, Snow stumbled upon Sejanus, Billy Taupe and <a href="/wiki/Spruce" title="Spruce">Spruce</a> at a shed with a sack of weapons, finalizing their plans. Suddenly, <a href="/wiki/Mayfair_Lipp" title="Mayfair Lipp">Mayfair Lipp</a>, the daughter of the then <a href="/wiki/Mayor_Lipp" title="Mayor Lipp">mayor of District 12</a>, stumbled upon the scene and threatened to out all the rebels to her father. In the altercation that followed, Mayfair was shot dead by Snow and Billy Taupe was killed by Spruce.<sup id="cite_ref-Ballad_28_14-0" class="reference"><a href="#cite_note-Ballad_28-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> After the two had died, Sejanus claimed that he "didn't want anyone to get hurt" and became emotional at the thought.
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite Snow's efforts to stop Sejanus from getting into trouble, Sejanus' rebel sympathies and loathing for the Capitol won out in the end. Though Snow was certain Dr. Gaul would not bother to check the jabberjay recordings, she had. Strabo Plinth was unable to buy his son out of the situation this time. Despite being present at Mayfair and Billy Taupe's murder, it was the jabberjay recording which led Sejanus' arrest. He was executed at the <a href="/wiki/Hanging_tree" title="Hanging tree">hanging tree</a>, and his last act was to cry out for his mother.<sup id="cite_ref-Ballad_28_14-1" class="reference"><a href="#cite_note-Ballad_28-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Snow was wrecked with guilt over his role in causing Sejanus's death, but convinced himself he did the right thing in order to not expose himself and secure a better future for his family. However, Snow's relationship with Lucy Gray fell apart when he indirectly mentioned his role in Sejanus's death, causing her to abandon him which led Snow to break down and return to the Capitol after he was granted a pardon by President Ravenstill.
+</p><p>Sejanus's parents were devastated over their son's death and decided to take Snow under their wing to help fill a void left by Sejanus. Their decision allowed Snow to inherit their family fortune, but they never learned the truth of Sejanus's death due to Snow keeping it a secret from them.<sup id="cite_ref-Ballad_Epilogue_2-1" class="reference"><a href="#cite_note-Ballad_Epilogue-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sejanus had soulful brown eyes and a tall, angular frame.<sup id="cite_ref-Ballad_1_3-5" class="reference"><a href="#cite_note-Ballad_1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Coriolanus_Snow">Coriolanus Snow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>We're so glad that Sejanus has such a good friend.</i>"</span></dd>
+<dd>—Mrs. Plinth showing gratitude toward Coriolanus Snow<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 241px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3c/Coryo_and_Sejanus.webp/revision/latest?cb=20231229071529" class="mw-file-description image"><img alt="Coryo and Sejanus promoting the Hunger Games" src="https://static.wikia.nocookie.net/thehungergames/images/3/3c/Coryo_and_Sejanus.webp/revision/latest/scale-to-width-down/241?cb=20231229071529" decoding="async" loading="lazy" width="241" height="162" class="thumbimage" data-image-name="Coryo and Sejanus.webp" data-image-key="Coryo_and_Sejanus.webp" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Coryo_and_Sejanus.webp" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coryo and Sejanus promoting the Hunger Games</p> 		 	</figcaption> </figure>
+<p>Snow's abstention from bullying Sejanus initially inclined Sejanus to trust Snow more, believing that Snow was more likely to help him than any of his classmates.<sup id="cite_ref-Ballad_2_5-2" class="reference"><a href="#cite_note-Ballad_2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Sejanus treated Snow as a friend right away, even going so far as to call him "Coryo", a personal nickname that Snow resented. Snow sacrificed for and rescued Sejanus repeatedly, assisting him breaking out of the arena and defending him to Dr. Gaul. Despite their rather friendly relationship, Snow initially held Sejanus in contempt, silently judging him for his origins in the Districts, and getting angry when Sejanus expressed sympathy for the Districts in front of the class.<sup id="cite_ref-Ballad_12_15-0" class="reference"><a href="#cite_note-Ballad_12-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> While Sejanus believed their friendship to be genuine, Snow was initially pretending, in order to benefit from his family's hospitality. 
+</p><p>They grew closer over time, with the friendship becoming genuine. Their relationship continued to develop for the better well into their Peacekeeping deployment. However, Snow betrayed Sejanus in the end, recording the rebels' plans and sending them to Dr. Gaul. His actions led to Sejanus' execution and death. After his death, Snow convinced himself that he'd had no choice in order to cope with his guilt.<sup id="cite_ref-Ballad_29_16-0" class="reference"><a href="#cite_note-Ballad_29-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> Afterwards, Snow concealed Sejanus' cause of death and became an heir to the Plinth family in return for his friendship.<sup id="cite_ref-Ballad_Epilogue_2-2" class="reference"><a href="#cite_note-Ballad_Epilogue-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Mrs._Plinth">Mrs. Plinth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Sejanus hasn't come home. I'm so worried.</i>"</span></dd>
+<dd>—Mrs. Plinth expressing her distress at the disappearance of Sejanus<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>Mrs. Plinth adored Sejanus, showing gratitude to Snow for being kind to and looking out him. She cooked and baked food for Sejanus, his friends, and his allies, including his Peacekeeper squad.<sup id="cite_ref-Ballad_22_1-2" class="reference"><a href="#cite_note-Ballad_22-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> She was crippled with worry when Sejanus failed to come home at the start of the Games.<sup id="cite_ref-Ballad_15_10-1" class="reference"><a href="#cite_note-Ballad_15-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> After his death, Mrs. Plinth was devastated. Strabo stated that Sejanus' loss left her in need of something to live for.<sup id="cite_ref-Ballad_Epilogue_2-3" class="reference"><a href="#cite_note-Ballad_Epilogue-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Strabo_Plinth">Strabo Plinth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>My wife needs something to live for. So do I, for that matter.</i>"</span></dd>
+<dd>—Strabo Plinth speaking to Snow about his grief after Sejanus' death<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>Strabo Plinth had a strained relationship with his son, but showed some degree of kindness and care for him. The reason he decided to move his family to the Capitol was because he personally believed it would give his son and grandchildren a better life.<sup id="cite_ref-Ballad_25_11-1" class="reference"><a href="#cite_note-Ballad_25-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> However, he largely misunderstood Sejanus, who would rather have lived back in District 2. Strabo resorted to bribes and corruption to give Sejanus the best opportunity, as a mentor and a spot at the Academy, a fact Sejanus was acutely aware of. Strabo tried to make Sejanus conform to Capitol standards, believing it best for him, but was was met with resistance from Sejanus. Although their relationship was tumultuous, Strabo greatly mourned his son's death, choosing Snow as his heir to fill the hole of his son had left.<sup id="cite_ref-Ballad_Epilogue_2-4" class="reference"><a href="#cite_note-Ballad_Epilogue-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Dr._Gaul">Dr. Gaul</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>It's the compassionate one. Where's your tribute boy? Any clue?</i>"</span></dd>
+<dd>—Dr. Gaul taunting Sejanus about Marcus<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>Dr. Gaul and Sejanus disliked one another, with Dr. Gaul taunting him constantly, mockingly calling him everything but his name.<sup id="cite_ref-Ballad_15_10-2" class="reference"><a href="#cite_note-Ballad_15-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> However, Dr. Gaul believed that Sejanus' compassion to be a good trait. Nevertheless, their disagreements regarding the Districts led to arguments, as Dr. Gaul disliked the Districts greatly, while Sejanus believed that the Districts and the Capitol should reunite.<sup id="cite_ref-Ballad_11_7-1" class="reference"><a href="#cite_note-Ballad_11-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> He regularly defied Dr. Gaul, disrespecting her and refusing to adhere to her requests. Dr. Gaul didn't care for Sejanus at all, showing no sympathy for his death,<sup id="cite_ref-Ballad_29_16-1" class="reference"><a href="#cite_note-Ballad_29-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> and only helped save Sejanus from the arena to prevent the potential fallout his death would have for the Capitol.<sup id="cite_ref-Ballad_15_10-3" class="reference"><a href="#cite_note-Ballad_15-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Marcus">Marcus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Marcus, this is for you.</i>"</span></dd>
+<dd>—Sejanus trying to feed Marcus, who only ignored him<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>Sejanus and Marcus were in the same class in District 2. When a young Sejanus shut his finger in a door, Marcus attempted to help him by collecting snow from a windowsill to bring down the swelling.<sup id="cite_ref-Ballad_2_5-3" class="reference"><a href="#cite_note-Ballad_2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> However, when Sejanus left for the Capitol, Marcus grew to resent him, alongside much of the District. Marcus was resentful of Sejanus during much of the mentorship program before the Games, largely ignoring him. Sejanus made several attempts to talk to Marcus, plying him with food and treats, but Marcus never answered him.<sup id="cite_ref-Ballad_6_6-2" class="reference"><a href="#cite_note-Ballad_6-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>When Marcus was put on display in the Capitol arena, hanging and badly beaten, Sejanus was so upset that he stepped out of character and flew into a rage, displaying the sympathy he felt for Marcus.<sup id="cite_ref-Ballad_12_15-1" class="reference"><a href="#cite_note-Ballad_12-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> Despite their unfriendly relationship, Sejanus still attempted to make amends and help Marcus, going so far as to break into the arena to sit vigil over his body. Marcus' death was the last nail in the coffin of Sejanus' tolerance for the Capitol, setting him on the road that would lead to his own grave.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name Sejanus likely comes from <a href="https://en.wikipedia.org/wiki/Sejanus" class="extiw" title="wikipedia:Sejanus">Lucius Aelius Sejanus</a>, a Roman soldier and friend of the Roman Emperor <a href="https://en.wikipedia.org/wiki/Tiberius" class="extiw" title="wikipedia:Tiberius">Tiberius</a>. He was also a prefect of the Praetorian Guard. Both Sejanus the character and his historical counterpart were executed for treason.
+</p><p>A plinth is a heavy base that supports a statue, vase, or column, coming from ancient Greco-Roman times. This can be a fitting surname as the Plinths supported the Capitol militarily during the Dark Days.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Sejanus's birthday was in mid to late October.<sup id="cite_ref-Ballad_Epilogue_2-5" class="reference"><a href="#cite_note-Ballad_Epilogue-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li>
+<li>Sejanus was disliked in the districts for having connections to the Capitol, and disliked in the Capitol for being from the districts.</li>
+<li>Sejanus originally wanted to be a medic, as he disliked the use of violence. His lean towards pacifism, in opposition to his family's role in the war, made his assignment as a Peacekeeper all the more punishing for him.</li>
+<li><a href="/wiki/Josh_Andr%C3%A9s_Rivera" title="Josh Andrés Rivera">Josh Andrés Rivera</a> and <a href="/wiki/Rachel_Zegler" title="Rachel Zegler">Rachel Zegler</a>— the actors for Sejanus and Lucy Gray, respectively— were dating at the time they were in <i>The Ballad of Songbirds &amp; Snakes</i>. They were also co-stars in <i>West Side Story</i>.</li>
+<li>According to director <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>, casting for Sejanus had to be paused so they could rewrite his character in the script because they felt they had gotten him wrong. Rivera was among the actors who auditioned once casting reopened with the revised script.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSejanus_Plinth%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_22-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_22_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_22_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_22_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-Ballad_Epilogue-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_Epilogue_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_Epilogue_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_Epilogue_2-2">2.2</a></sup> <sup><a href="#cite_ref-Ballad_Epilogue_2-3">2.3</a></sup> <sup><a href="#cite_ref-Ballad_Epilogue_2-4">2.4</a></sup> <sup><a href="#cite_ref-Ballad_Epilogue_2-5">2.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-Ballad_1-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_1_3-1">3.1</a></sup> <sup><a href="#cite_ref-Ballad_1_3-2">3.2</a></sup> <sup><a href="#cite_ref-Ballad_1_3-3">3.3</a></sup> <sup><a href="#cite_ref-Ballad_1_3-4">3.4</a></sup> <sup><a href="#cite_ref-Ballad_1_3-5">3.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_23-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_23_4-0">4.0</a></sup> <sup><a href="#cite_ref-Ballad_23_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-Ballad_2-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_2_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ballad_2_5-1">5.1</a></sup> <sup><a href="#cite_ref-Ballad_2_5-2">5.2</a></sup> <sup><a href="#cite_ref-Ballad_2_5-3">5.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_6-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_6_6-0">6.0</a></sup> <sup><a href="#cite_ref-Ballad_6_6-1">6.1</a></sup> <sup><a href="#cite_ref-Ballad_6_6-2">6.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_11-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_11_7-0">7.0</a></sup> <sup><a href="#cite_ref-Ballad_11_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_10-8"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_10_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_14-9"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_14_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_15-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_15_10-0">10.0</a></sup> <sup><a href="#cite_ref-Ballad_15_10-1">10.1</a></sup> <sup><a href="#cite_ref-Ballad_15_10-2">10.2</a></sup> <sup><a href="#cite_ref-Ballad_15_10-3">10.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-Ballad_25-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_25_11-0">11.0</a></sup> <sup><a href="#cite_ref-Ballad_25_11-1">11.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-Ballad_24-12"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_24_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-Ballad_27-13"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_27_13-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-Ballad_28-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_28_14-0">14.0</a></sup> <sup><a href="#cite_ref-Ballad_28_14-1">14.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 28</span>
+</li>
+<li id="cite_note-Ballad_12-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_12_15-0">15.0</a></sup> <sup><a href="#cite_ref-Ballad_12_15-1">15.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_29-16"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_29_16-0">16.0</a></sup> <sup><a href="#cite_ref-Ballad_29_16-1">16.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 29</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><i><a href="/wiki/Predator_or_Prey:_Making_The_Ballad_of_Songbirds_%26_Snakes" title="Predator or Prey: Making The Ballad of Songbirds &amp; Snakes">Predator or Prey: Making The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <strong class="mw-selflink selflink">Sejanus Plinth</strong>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20251231192218
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.119 seconds
+Real time usage: 0.206 seconds
+Preprocessor visited node count: 1332/1000000
+Post‐expand include size: 6727/2097152 bytes
+Template argument size: 1683/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12452/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  111.954      1 -total
+ 33.09%   37.049      1 Template:Character
+ 27.03%   30.264      1 Template:Reflist
+  3.95%    4.423      1 Template:PrequelSeries
+  3.69%    4.131      2 Template:W
+  3.16%    3.534     16 Template:BSS
+  1.87%    2.091      6 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:538844-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231192218 and revision id 962736. Rendering was triggered because: page-view
+ -->
+</div>

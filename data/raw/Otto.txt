@@ -1,0 +1,299 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Otto</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/22/OttoBTS.png/revision/latest?cb=20250416215205" class="image image-thumbnail" title="OttoBTS">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/2/22/OttoBTS.png/revision/latest?cb=20250416215205" srcset="https://static.wikia.nocookie.net/thehungergames/images/2/22/OttoBTS.png/revision/latest?cb=20250416215205 1x, https://static.wikia.nocookie.net/thehungergames/images/2/22/OttoBTS.png/revision/latest?cb=20250416215205 2x" class="pi-image-thumbnail" data-relevant="1" alt="OttoBTS" width="230" height="452" data-image-key="OttoBTS.png" data-image-name="OttoBTS.png">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">12–18</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_6" title="District 6">District 6</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Crossbow (film)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Nova_Just" title="Nova Just">Nova Just</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Their musing was interrupted by a loud "Woo-hoo!" The tributes from District 6 began a funny dance, and the Ring twins got some of the audience to clap along in rhythm. After that, things became almost festive.</i>"</span></dd>
+<dd>—<a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> describing Otto and <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> dancing for <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> citizens.<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Otto</b> was a <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_6" title="District 6">District 6</a> for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. His <a href="/wiki/Mentor" title="Mentor">mentor</a> was <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a>. He died before the Games started. During the Ring twins' funeral, the bodies of him and his district partner, <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> (or what remained of them), were draped on horses and paraded down <a href="/wiki/Scholars_Road" title="Scholars Road">Scholars Road</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Death"><span class="tocnumber">1.1</span> <span class="toctext">Death</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Film_adaptation"><span class="tocnumber">1.1.1</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="51609" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What district was Otto a tribute for in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Otto represented District 6 as a tribute. He was recognized for his upbeat demeanor and proficiency with a crossbow. Tragically, a bombing event claimed his life before the Games commenced.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51610" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Otto's mentor during the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Otto, a tribute from District 6, was under the mentorship of Apollo Ring. During this period, the Hunger Games mentor program was newly established, and mentors were selected from the Academy's high-performing students.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51611" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Otto die before the start of the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Otto, a participant from District 6 in the 10th Hunger Games, met his end prior to the commencement of the Games due to a bombing during an arena tour. In the film adaptation, The Hunger Games: The Ballad of Songbirds &amp; Snakes, Otto survived until the arena but was slain by Mizzen in the initial chaos after trying to secure a weapon from the arena's center.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51612" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What happened to Otto's body after his death?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Otto's demise occurred during a Capitol Arena tour due to rebel bomb shrapnel. Posthumously, his body was displayed on a horse's back and paraded on Scholars Road during the Ring twins' funeral.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51613" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How was Otto chosen as a tribute for the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Otto, a tribute from District 6, was chosen for the 10th Hunger Games. His mentor, Apollo Ring, guided him. However, Otto's life was cut short due to a bombing incident during an arena tour, prior to the commencement of the Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Otto","mainEntity":[{"@type":"Question","name":"What district was Otto a tribute for in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Otto represented District 6 as a tribute. He was recognized for his upbeat demeanor and proficiency with a crossbow. Tragically, a bombing event claimed his life before the Games commenced."}},{"@type":"Question","name":"Who was Otto's mentor during the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Otto, a tribute from District 6, was under the mentorship of Apollo Ring. During this period, the Hunger Games mentor program was newly established, and mentors were selected from the Academy's high-performing students."}},{"@type":"Question","name":"How did Otto die before the start of the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Otto, a participant from District 6 in the 10th Hunger Games, met his end prior to the commencement of the Games due to a bombing during an arena tour. In the film adaptation, The Hunger Games: The Ballad of Songbirds & Snakes, Otto survived until the arena but was slain by Mizzen in the initial chaos after trying to secure a weapon from the arena's center."}},{"@type":"Question","name":"What happened to Otto's body after his death?","acceptedAnswer":{"@type":"Answer","text":"Otto's demise occurred during a Capitol Arena tour due to rebel bomb shrapnel. Posthumously, his body was displayed on a horse's back and paraded on Scholars Road during the Ring twins' funeral."}},{"@type":"Question","name":"How was Otto chosen as a tribute for the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Otto, a tribute from District 6, was chosen for the 10th Hunger Games. His mentor, Apollo Ring, guided him. However, Otto's life was cut short due to a bombing incident during an arena tour, prior to the commencement of the Games."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Otto grew up in District 6 and became his district's male tribute in <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a> for the 10th Hunger Games.<sup id="cite_ref-Ballad_7_1-0" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Along with the other tributes, Otto was taken to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in a dirty cattle car. From there, they were dumped into the monkey house at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>.<sup id="cite_ref-Ballad_3_2-0" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> While in the zoo, Otto and Ginnee began a funny dance, and their mentors, <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo</a> and <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a>, got some of the audience to clap along. This led to the environment becoming more festive and social.<sup id="cite_ref-Ballad_6_3-0" class="reference"><a href="#cite_note-Ballad_6-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Before the start of the Games, the tributes and their mentors were taken on a tour of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a>. During the tour, rebel bombs exploded, sending shrapnel that killed Otto, as well as his district partner and their mentors.
+</p><p>His body was later draped on the back of a horse and paraded down Scholars Road during the Ring twins' funeral.<sup id="cite_ref-Ballad_10_4-0" class="reference"><a href="#cite_note-Ballad_10-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest?cb=20250316063242" class="mw-file-description image"><img alt="Otto shooting Sheaf with a crossbow." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="85" class="thumbimage lazyload" data-image-name="BoSaSOttoSheaf.png" data-image-key="BoSaSOttoSheaf.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest/scale-to-width-down/180?cb=20250316063242"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest?cb=20250316063242" class="mw-file-description image"><img alt="Otto shooting Sheaf with a crossbow." src="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest/scale-to-width-down/180?cb=20250316063242" decoding="async" loading="lazy" width="180" height="85" class="thumbimage" data-image-name="BoSaSOttoSheaf.png" data-image-key="BoSaSOttoSheaf.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest/scale-to-width-down/180?cb=20250316063242"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:BoSaSOttoSheaf.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Otto shooting Sheaf with a crossbow.</p> 		 	</figcaption> </figure>
+<p>Instead of being killed in the bombing, Otto survived to see the arena. When the gong rang, he initially headed toward the pile of weapons but changed his mind and chased after <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a>. He tried for some time to kill her before eventually grabbing a crossbow and shooting an arrow into her leg. Before she could get up, he shot another arrow into her back. He then saw other tributes fighting and tried to hide when he saw <a href="/wiki/Hy" title="Hy">Hy</a>, who he chased; however, upon entering the tunnels, he decided to hide under some rubble. Between <a href="/wiki/Marcus" title="Marcus">Marcus</a> and <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a>'s deaths, he was killed by unknown means offscreen, placing 12th. His body was seen being dragged out from a pile of rubble by Coral and her alliance, suggesting they were responsible for his death.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Otto's name might come from the German engineer Nicolaus Otto, who successfully developed the first modern internal combustion engine during the Industrial Revolution. It could also be derived from the word "automobile".
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="ae9f6e992057e5e0e1f9b978c348c305" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sabyn-1-jpg" style="position: relative; height:184px; width:160px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Sabyn.1.jpg" title="Sabyn.1.jpg (48 KB)" style="height:184px; width:160px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/4/43/Sabyn.1.jpg/revision/latest/scale-to-width-down/161?cb=20250316062738" title="Sabyn.1.jpg (48 KB)" class="thumbimage" alt="Sabyn and Otto in the Capitol Zoo." height="185" width="185" data-image-name="Sabyn.1.jpg" data-image-key="Sabyn.1.jpg" data-relevant="1" data-caption="Sabyn and Otto in the Capitol Zoo."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Sabyn.1.jpg (48 KB)" class="thumbimage lazyload" alt="Sabyn and Otto in the Capitol Zoo." height="185" width="185" data-image-name="Sabyn.1.jpg" data-image-key="Sabyn.1.jpg" data-relevant="1" data-caption="Sabyn and Otto in the Capitol Zoo." data-src="https://static.wikia.nocookie.net/thehungergames/images/4/43/Sabyn.1.jpg/revision/latest/scale-to-width-down/161?cb=20250316062738"></a></div></div><div class="lightbox-caption" style="width:185px;">Sabyn and Otto in the Capitol Zoo.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Otto_-TBOSAS--jpg" style="position: relative; height:163px; width:185px; top:11px;"><a class="image lightbox" href="/wiki/File:Otto_(TBOSAS).jpg" title="Otto (TBOSAS).jpg (22 KB)" style="height:163px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/d/db/Otto_%28TBOSAS%29.jpg/revision/latest/scale-to-width-down/185?cb=20250427062316" title="Otto (TBOSAS).jpg (22 KB)" class="thumbimage" alt="Otto's face on the monitors." height="175" width="185" data-image-name="Otto (TBOSAS).jpg" data-image-key="Otto_%28TBOSAS%29.jpg" data-relevant="1" data-caption="Otto's face on the monitors."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Otto (TBOSAS).jpg (22 KB)" class="thumbimage lazyload" alt="Otto's face on the monitors." height="175" width="185" data-image-name="Otto (TBOSAS).jpg" data-image-key="Otto_%28TBOSAS%29.jpg" data-relevant="1" data-caption="Otto's face on the monitors." data-src="https://static.wikia.nocookie.net/thehungergames/images/d/db/Otto_%28TBOSAS%29.jpg/revision/latest/scale-to-width-down/185?cb=20250427062316"></a></div></div><div class="lightbox-caption" style="width:185px;">Otto's face on the monitors.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Ginnneottoconceptart-png" style="position: relative; height:174px; width:185px; top:5.5px;"><a class="image lightbox" href="/wiki/File:Ginnneottoconceptart.png" title="Ginnneottoconceptart.png (681 KB)" style="height:174px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/d/d9/Ginnneottoconceptart.png/revision/latest/scale-to-width-down/185?cb=20250427060237" title="Ginnneottoconceptart.png (681 KB)" class="thumbimage" alt="Concept art of Otto and Ginnee's costumes." height="185" width="185" data-image-name="Ginnneottoconceptart.png" data-image-key="Ginnneottoconceptart.png" data-relevant="1" data-caption="Concept art of Otto and Ginnee's costumes."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Ginnneottoconceptart.png (681 KB)" class="thumbimage lazyload" alt="Concept art of Otto and Ginnee's costumes." height="185" width="185" data-image-name="Ginnneottoconceptart.png" data-image-key="Ginnneottoconceptart.png" data-relevant="1" data-caption="Concept art of Otto and Ginnee's costumes." data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d9/Ginnneottoconceptart.png/revision/latest/scale-to-width-down/185?cb=20250427060237"></a></div></div><div class="lightbox-caption" style="width:185px;">Concept art of Otto and Ginnee's costumes.</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_7-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_2-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_6-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_6_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_10-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_10_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 10</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <strong class="mw-selflink selflink">Otto</strong> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251231230453
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.052 seconds
+Real time usage: 0.098 seconds
+Preprocessor visited node count: 218/1000000
+Post‐expand include size: 2973/2097152 bytes
+Template argument size: 442/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6572/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   43.862      1 -total
+ 57.66%   25.292      1 Template:Character
+ 10.70%    4.691      1 Template:Reflist
+  3.84%    1.686      1 Template:Quote
+  3.35%    1.469      1 Template:PrequelSeries
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539476-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231230453 and revision id 963981. Rendering was triggered because: page-view
+ -->
+</div>

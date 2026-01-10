@@ -1,0 +1,239 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Academy</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/16/Academy_Emblem.png/revision/latest?cb=20250623063336" class="image image-thumbnail" title="Academy Emblem">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/1/16/Academy_Emblem.png/revision/latest/scale-to-width-down/268?cb=20250623063336" srcset="https://static.wikia.nocookie.net/thehungergames/images/1/16/Academy_Emblem.png/revision/latest/scale-to-width-down/268?cb=20250623063336 1x, https://static.wikia.nocookie.net/thehungergames/images/1/16/Academy_Emblem.png/revision/latest/scale-to-width-down/536?cb=20250623063336 2x" class="pi-image-thumbnail" data-relevant="1" alt="Academy Emblem" width="270" height="478" data-image-key="Academy_Emblem.png" data-image-name="Academy Emblem.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Scholars_Road" title="Scholars Road">Scholars Road</a> in <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font">Students and faculty</div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i> <br /> <i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>Academy</b> was an elite, four-year secondary <a href="/wiki/School" title="School">school</a> in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> for the children of the wealthy and powerful.<sup id="cite_ref-Ballad_1_1-0" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Administration"><span class="tocnumber">1</span> <span class="toctext">Administration</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Uniform"><span class="tocnumber">1.1</span> <span class="toctext">Uniform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Academics"><span class="tocnumber">2</span> <span class="toctext">Academics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Subjects_and_staff"><span class="tocnumber">2.1</span> <span class="toctext">Subjects and staff</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Academic_standing"><span class="tocnumber">2.2</span> <span class="toctext">Academic standing</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Mentor_program"><span class="tocnumber">2.2.1</span> <span class="toctext">Mentor program</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Disciplinary_action"><span class="tocnumber">2.2.2</span> <span class="toctext">Disciplinary action</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Campus"><span class="tocnumber">3</span> <span class="toctext">Campus</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Known_students"><span class="tocnumber">4</span> <span class="toctext">Known students</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Administration">Administration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dean <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> oversaw the school. The Academy provided students with free meals and uniforms for daily use, though they were required to finance their own clothing for special events.<sup id="cite_ref-Ballad_1_1-1" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Uniform">Uniform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Academy-issued uniform was not described in <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i> novel, but it was noted as including underwear and socks.<sup id="cite_ref-Ballad_1_1-2" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> In the <a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">film adaptation</a>, uniforms consisted of a light blue dress shirt with a mandarin collar and covered placket, a red lapelless blazer in a shade that <a href="/wiki/Lucky_Flickerman" class="mw-redirect" title="Lucky Flickerman">Lucky Flickerman</a> identified as "Academy rouge", and a golden pin of the Academy's logo. Regardless of gender, all students wore red skirts over their matching red trousers with a slit on each side, presumably for ease of pocket access.<sup id="cite_ref-Ballad_film_2-0" class="reference"><a href="#cite_note-Ballad_film-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<center><div id="gallery-0" hash="bc8dac17a4e85bdf4aaad0a2721f8af4" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sejanus_plinth_academy_uniform_concept-png" style="position: relative; height:184px; width:119px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Sejanus_plinth_academy_uniform_concept.png" title="Sejanus plinth academy uniform concept.png (5.59 MB)" style="height:184px; width:119px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/9/95/Sejanus_plinth_academy_uniform_concept.png/revision/latest/scale-to-width-down/120?cb=20231005162817" title="Sejanus plinth academy uniform concept.png (5.59 MB)" class="thumbimage" alt="Concept art of Sejanus Plinth in his Academy uniform." height="185" width="185" data-image-name="Sejanus plinth academy uniform concept.png" data-image-key="Sejanus_plinth_academy_uniform_concept.png" data-relevant="1" data-caption="Concept art of  in his Academy uniform."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Sejanus plinth academy uniform concept.png (5.59 MB)" class="thumbimage lazyload" alt="Concept art of Sejanus Plinth in his Academy uniform." height="185" width="185" data-image-name="Sejanus plinth academy uniform concept.png" data-image-key="Sejanus_plinth_academy_uniform_concept.png" data-relevant="1" data-caption="Concept art of  in his Academy uniform." data-src="https://static.wikia.nocookie.net/thehungergames/images/9/95/Sejanus_plinth_academy_uniform_concept.png/revision/latest/scale-to-width-down/120?cb=20231005162817" /></a></div></div><div class="lightbox-caption" style="width:185px;">Concept art of <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> in his Academy uniform.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Academy_logo_pin-webp" style="position: relative; height:185px; width:185px;"><a class="image lightbox" href="/wiki/File:Academy_logo_pin.webp" title="Academy logo pin.webp (78 KB)" style="height:185px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/2/2b/Academy_logo_pin.webp/revision/latest/scale-to-width-down/185?cb=20240524191537" title="Academy logo pin.webp (78 KB)" class="thumbimage" alt="Official merchandise image of the Academy logo pin." height="185" width="185" data-image-name="Academy logo pin.webp" data-image-key="Academy_logo_pin.webp" data-relevant="1" data-caption="Official merchandise image of the Academy logo pin."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Academy logo pin.webp (78 KB)" class="thumbimage lazyload" alt="Official merchandise image of the Academy logo pin." height="185" width="185" data-image-name="Academy logo pin.webp" data-image-key="Academy_logo_pin.webp" data-relevant="1" data-caption="Official merchandise image of the Academy logo pin." data-src="https://static.wikia.nocookie.net/thehungergames/images/2/2b/Academy_logo_pin.webp/revision/latest/scale-to-width-down/185?cb=20240524191537" /></a></div></div><div class="lightbox-caption" style="width:185px;">Official merchandise image of the Academy logo pin.</div></div></div></center>
+<h2><span class="mw-headline" id="Academics">Academics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Subjects_and_staff">Subjects and staff</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Biology
+<ul><li>High biology - restricted to senior students gifted in the science<sup id="cite_ref-Ballad_4_3-0" class="reference"><a href="#cite_note-Ballad_4-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Genetics<sup id="cite_ref-Ballad_8_4-0" class="reference"><a href="#cite_note-Ballad_8-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li></ul></li>
+<li>Communications - Professor <a href="/wiki/Satyria_Click" title="Satyria Click">Satyria Click</a><sup id="cite_ref-Ballad_1_1-3" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Gym class<sup id="cite_ref-Ballad_14_5-0" class="reference"><a href="#cite_note-Ballad_14-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> - Gymnasium mistress <a href="/wiki/Agrippina_Sickle" title="Agrippina Sickle">Agrippina Sickle</a><sup id="cite_ref-Ballad_1_1-4" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>History - Professor <a href="/wiki/Crispus_Demigloss" title="Crispus Demigloss">Crispus Demigloss</a><sup id="cite_ref-Ballad_6_6-0" class="reference"><a href="#cite_note-Ballad_6-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Homeroom<sup id="cite_ref-Ballad_9_7-0" class="reference"><a href="#cite_note-Ballad_9-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Rhetoric, including analyzing poetry<sup id="cite_ref-Ballad_7_8-0" class="reference"><a href="#cite_note-Ballad_7-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>School counselor <a href="/wiki/Hippocrata_Lunt" title="Hippocrata Lunt">Hippocrata Lunt</a><sup id="cite_ref-Ballad_7_8-1" class="reference"><a href="#cite_note-Ballad_7-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h3><span class="mw-headline" id="Academic_standing">Academic standing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At graduation in midsummer, the Academy presented monetary prizes to high-performing students. Those students who performed well at the Academy often went on to attend higher education at the <a href="/wiki/University" title="University">University</a>.<sup id="cite_ref-Ballad_1_1-5" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Mentor_program">Mentor program</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 225px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/bc/10th_Hunger_Games_Mentors.png/revision/latest?cb=20231004222640" class="mw-file-description image"><img alt="The 10th Hunger Games mentors." src="https://static.wikia.nocookie.net/thehungergames/images/b/bc/10th_Hunger_Games_Mentors.png/revision/latest/scale-to-width-down/225?cb=20231004222640" decoding="async" loading="lazy" width="225" height="83" class="thumbimage" data-image-name="10th Hunger Games Mentors.png" data-image-key="10th_Hunger_Games_Mentors.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:10th_Hunger_Games_Mentors.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The 10th Hunger Games mentors.</p> 		 	</figcaption> </figure>
+<p>During the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, the Academy's top 24 students were selected to <a href="/wiki/Mentor" title="Mentor">mentor</a> <a href="/wiki/Tribute" title="Tribute">tributes</a> from the twelve <a href="/wiki/District" class="mw-redirect" title="District">districts</a>. This was used as a means to make citizens of the Capitol more interested in the Games.<sup id="cite_ref-Ballad_1_1-6" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> However, the program resulted in the deaths of four students, so it was discontinued once the Games concluded that year. The <a href="/wiki/Head_Gamemaker" class="mw-redirect" title="Head Gamemaker">Head Gamemaker</a>, Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>, considered it a catastrophic and embarrassing failure.<sup id="cite_ref-Ballad_30_9-0" class="reference"><a href="#cite_note-Ballad_30-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Disciplinary_action">Disciplinary action</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Students at the Academy who committed serious infractions might receive a demerit. Three such demerits would result in a student's expulsion.<sup id="cite_ref-Ballad_4_3-1" class="reference"><a href="#cite_note-Ballad_4-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> The Academy had a tradition of offering expelled students a lifeline. For <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, this came in the form of an offer to join the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> for a twenty-year-term, as an alternative to public disgrace.<sup id="cite_ref-Ballad_21_10-0" class="reference"><a href="#cite_note-Ballad_21-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> However, after being expelled, Snow received a diploma indicating he had graduated with high honors, which <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> made a condition of accepting his own offer to join the Peacekeepers after he was expelled as well. Having an Academy diploma allowed Snow to take the Peacekeeper officer test<sup id="cite_ref-Ballad_22_11-0" class="reference"><a href="#cite_note-Ballad_22-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> and later to enroll at the University after Dr. Gaul arranged for his honorable discharge from the Peacekeepers.<sup id="cite_ref-Ballad_30_9-1" class="reference"><a href="#cite_note-Ballad_30-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Campus">Campus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/4d/Academy.png/revision/latest?cb=20230427234000" class="mw-file-description image"><img alt="Heavensbee Hall." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="123" class="thumbimage lazyload" data-image-name="Academy.png" data-image-key="Academy.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/4d/Academy.png/revision/latest/scale-to-width-down/180?cb=20230427234000" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/4/4d/Academy.png/revision/latest?cb=20230427234000" class="mw-file-description image"><img alt="Heavensbee Hall." src="https://static.wikia.nocookie.net/thehungergames/images/4/4d/Academy.png/revision/latest/scale-to-width-down/180?cb=20230427234000" decoding="async" loading="lazy" width="180" height="123" class="thumbimage" data-image-name="Academy.png" data-image-key="Academy.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/4d/Academy.png/revision/latest/scale-to-width-down/180?cb=20230427234000" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Academy.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Heavensbee Hall.</p> 		 	</figcaption> </figure>
+<p>The Academy had a gathering area called <a href="/wiki/Heavensbee_Hall" title="Heavensbee Hall">Heavensbee Hall</a>, which hosted events such as viewing the districts' <a href="/wiki/Reaping" title="Reaping">reapings</a>.<sup id="cite_ref-Ballad_1_1-7" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> The high biology lab hosted the mentors' meetings with Dr. Gaul,<sup id="cite_ref-Ballad_6_6-1" class="reference"><a href="#cite_note-Ballad_6-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> and there were at least fourteen other classrooms, since they were able to accommodate 14 different mentor-tribute pairs as they prepared for their <a href="/wiki/Interviews" title="Interviews">interviews</a>.<sup id="cite_ref-Ballad_11_12-0" class="reference"><a href="#cite_note-Ballad_11-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_students">Known students</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="" style="background-color:transparent; color:inherit; width:100%;">
+
+<tbody><tr>
+<td valign="top" style="width:50%;">
+<ul><li><a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a></li>
+<li><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a></li>
+<li><a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a></li>
+<li><a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a></li>
+<li><a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a></li>
+<li><a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a></li>
+<li><a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a></li>
+<li><a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a></li>
+<li><a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a></li>
+<li><a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a></li>
+<li><a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a></li>
+<li><a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a></li>
+<li><a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a></li>
+<li><a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a></li>
+<li><a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a></li></ul>
+</td>
+<td valign="top" style="width:50%;">
+<ul><li><a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a></li>
+<li><a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a></li>
+<li><a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a></li>
+<li><a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a></li>
+<li><a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a></li>
+<li><a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a></li>
+<li><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a></li>
+<li><a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a></li>
+<li><a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a></li>
+<li><a href="/wiki/Tigris" title="Tigris">Tigris</a> - Former, graduated three years before Coriolanus</li>
+<li><a href="/wiki/Arachne_Crane%27s_brother" title="Arachne Crane&#39;s brother">Arachne Crane's brother</a> - Former, graduated a year prior</li>
+<li><a href="/wiki/Crassus_Snow" title="Crassus Snow">Crassus Snow</a> - Former</li>
+<li><a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> - Former</li>
+<li><a href="/wiki/Alys" title="Alys">Alys</a></li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/91/TBOSAS_auditorium_Entertainment_Weekly.webp/revision/latest?cb=20240228183916" class="mw-file-description image"><img alt="The Academy auditorium." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="120" class="thumbimage lazyload" data-image-name="TBOSAS auditorium Entertainment Weekly.webp" data-image-key="TBOSAS_auditorium_Entertainment_Weekly.webp" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/9/91/TBOSAS_auditorium_Entertainment_Weekly.webp/revision/latest/scale-to-width-down/180?cb=20240228183916" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/9/91/TBOSAS_auditorium_Entertainment_Weekly.webp/revision/latest?cb=20240228183916" class="mw-file-description image"><img alt="The Academy auditorium." src="https://static.wikia.nocookie.net/thehungergames/images/9/91/TBOSAS_auditorium_Entertainment_Weekly.webp/revision/latest/scale-to-width-down/180?cb=20240228183916" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="TBOSAS auditorium Entertainment Weekly.webp" data-image-key="TBOSAS_auditorium_Entertainment_Weekly.webp" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/9/91/TBOSAS_auditorium_Entertainment_Weekly.webp/revision/latest/scale-to-width-down/180?cb=20240228183916" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:TBOSAS_auditorium_Entertainment_Weekly.webp" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Academy auditorium.</p> 		 	</figcaption> </figure>
+<ul><li>Classroom scenes were filmed in the Tieranatomisches Theater at <a href="https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin" class="extiw" title="wikipedia:Humboldt University of Berlin">Humboldt University of Berlin</a> in Germany.</li>
+<li>The auditorium scenes were filmed in the Kuppelsaal (Dome Hall), where fencing events were held at <a href="https://en.wikipedia.org/wiki/Olympiapark_Berlin" class="extiw" title="wikipedia:Olympiapark Berlin">Olympiapark Berlin</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The Academy was also the setting of <a href="/wiki/Academy_Adventures" title="Academy Adventures">Academy Adventures</a>, an officially licensed <a href="https://en.wikipedia.org/wiki/Roblox" class="extiw" title="wikipedia:Roblox">Roblox</a> game created in order to promote the film.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAcademy%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_1_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_1_1-2">1.2</a></sup> <sup><a href="#cite_ref-Ballad_1_1-3">1.3</a></sup> <sup><a href="#cite_ref-Ballad_1_1-4">1.4</a></sup> <sup><a href="#cite_ref-Ballad_1_1-5">1.5</a></sup> <sup><a href="#cite_ref-Ballad_1_1-6">1.6</a></sup> <sup><a href="#cite_ref-Ballad_1_1-7">1.7</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_film-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_film_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-Ballad_4-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_4_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_4_3-1">3.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 4</span>
+</li>
+<li id="cite_note-Ballad_8-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_8_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 8</span>
+</li>
+<li id="cite_note-Ballad_14-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_14_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_6-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_6_6-0">6.0</a></sup> <sup><a href="#cite_ref-Ballad_6_6-1">6.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_9-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_9_7-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 9</span>
+</li>
+<li id="cite_note-Ballad_7-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_7_8-0">8.0</a></sup> <sup><a href="#cite_ref-Ballad_7_8-1">8.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_30-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_30_9-0">9.0</a></sup> <sup><a href="#cite_ref-Ballad_30_9-1">9.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 30</span>
+</li>
+<li id="cite_note-Ballad_21-10"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_21_10-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 21</span>
+</li>
+<li id="cite_note-Ballad_22-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_22_11-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 22</span>
+</li>
+<li id="cite_note-Ballad_11-12"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_11_12-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 11</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.youtube.com/watch?v=vcbki4nmLfE">https://www.youtube.com/watch?v=vcbki4nmLfE</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma&#39;am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><strong class="mw-selflink selflink">Academy</strong> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251225173444
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.107 seconds
+Real time usage: 0.127 seconds
+Preprocessor visited node count: 437/1000000
+Post‐expand include size: 2676/2097152 bytes
+Template argument size: 106/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11261/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   64.981      1 -total
+ 34.05%   22.129      1 Template:Location
+ 19.05%   12.376      1 Template:Reflist
+  2.92%    1.896      1 Template:Col-begin
+  2.65%    1.724      1 Template:PrequelSeries
+  2.53%    1.642      3 Template:W
+  2.37%    1.543      2 Template:Col-2
+  2.30%    1.494      1 Template:Col-end
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539247-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225173444 and revision id 965795. Rendering was triggered because: page-view
+ -->
+</div>

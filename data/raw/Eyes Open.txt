@@ -1,0 +1,170 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Eyes Open</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Taylor_Swift_-_Eyes_Open_Lyrics.jpg/revision/latest?cb=20120602164828" class="image image-thumbnail" title="Taylor Swift - Eyes Open Lyrics">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Taylor_Swift_-_Eyes_Open_Lyrics.jpg/revision/latest/scale-to-width-down/268?cb=20120602164828" srcset="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Taylor_Swift_-_Eyes_Open_Lyrics.jpg/revision/latest/scale-to-width-down/268?cb=20120602164828 1x, https://static.wikia.nocookie.net/thehungergames/images/f/f1/Taylor_Swift_-_Eyes_Open_Lyrics.jpg/revision/latest?cb=20120602164828 2x" class="pi-image-thumbnail" data-relevant="1" alt="Taylor Swift - Eyes Open Lyrics" width="270" height="203" data-image-key="Taylor_Swift_-_Eyes_Open_Lyrics.jpg" data-image-name="Taylor Swift - Eyes Open Lyrics.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="producers">
+	
+		<h3 class="pi-data-label pi-secondary-font">Producers</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/Nathan_Chapman" class="extiw" title="wikipedia:Nathan Chapman">Nathan Chapman</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="publisher">
+	
+		<h3 class="pi-data-label pi-secondary-font">Publisher</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="https://en.wikipedia.org/wiki/Big_Machine_Records" class="extiw" title="wikipedia:Big Machine Records">Big Machine Records</a></li><li><a href="https://en.wikipedia.org/wiki/Republic_Records" class="extiw" title="wikipedia:Republic Records">Republic Records</a> (Taylor's Version)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
+	
+		<h3 class="pi-data-label pi-secondary-font">Artist</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/Taylor_Swift" class="extiw" title="wikipedia:Taylor Swift">Taylor Swift</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
+	
+		<h3 class="pi-data-label pi-secondary-font">Length</h3>
+	
+	<div class="pi-data-value pi-font">4:04</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="releasedate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Release date</h3>
+	
+	<div class="pi-data-value pi-font">March 27th, 2012</div>
+</div>
+</aside>
+
+</p><p><b>"Eyes Open"</b> is the third overall single released from the album, <i><a href="/wiki/The_Hunger_Games:_Songs_from_District_12_and_Beyond" title="The Hunger Games: Songs from District 12 and Beyond">The Hunger Games: Songs from District 12 and Beyond</a></i>&#160;and the first official single (the first two were promotional singles). The song is performed and written by <a href="https://en.wikipedia.org/wiki/Taylor_Swift" class="extiw" title="wikipedia:Taylor Swift">Taylor Swift</a>.            
+This is one of two songs that Taylor Swift wrote for <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>. "<i><a href="/wiki/Safe_and_Sound" class="mw-redirect" title="Safe and Sound">Safe and Sound</a></i>" was featured at the end of the film during the credits whereas "<i>Eyes Open</i>"&#160;was not.
+</p><p>Swift has since re-recorded many of her songs that were originally written and published prior to 2018, "Safe &amp; Sound" and "Eyes Open" included. Both songs, now bearing the title of "(Taylor's Version)," were released at midnight on March 17th 2023 after being teased by Swift the previous day.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Lyrics"><span class="tocnumber">1</span> <span class="toctext">Lyrics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Charts"><span class="tocnumber">2</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Lyric_video"><span class="tocnumber">3</span> <span class="toctext">Lyric&#160;video</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Lyrics">Lyrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEyes_Open%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="poem">
+<p>Everybody's waiting<br />Everybody's watching<br />Even when you're sleeping<br />Keep your eyes open<br />
+<br />
+The tricky thing is<br />Yesterday we were just children<br />Playing soldiers, just pretending<br />Dreaming dreams with happy endings<br />
+<br />
+In backyards<br />Winning battles with our wooden swords<br />But now we've stepped into a cruel world<br />Where everybody stands and keeps score<br />
+<br />
+Keep your eyes open<br />
+<br />
+Everybody's waiting for you to break down<br />Everybody's watching to see the fallout<br />Even when you're sleeping, sleeping<br />Keep your ey-eyes open<br />Keep your ey-eyes open<br />Keep your ey-eyes open<br />
+<br />
+So here you are<br />Two steps ahead and staying on guard<br />Every lesson forms a new scar<br />They never thought you'd make it this far<br />
+<br />
+But turn around (turn around)<br />Oh they've surrounded you it's a showdown (showdown)<br />And nobody comes to save you now<br />But you've got something they don't<br />Yeah you've got something they don't<br />
+<br />
+You've just gotta keep your eyes open<br />
+<br />
+Everybody's waiting for you to break down<br />Everybody's watching to see the fallout<br />Even when you're sleeping, sleeping<br />Keep your eyes open<br />Keep your eyes open<br />Keep your eyes<br />
+<br />
+Keep your feet ready<br />Heartbeat steady<br />Keep your eyes open<br />Keep your aim locked<br />The night goes dark<br />Keep your eyes open<br />Keep your eyes open<br />Keep your eyes open<br />Keep your eyes open<br />
+<br />
+Everybody's waiting for you to break down<br />Everybody's watching to see the fallout<br />Even when you're sleeping, sleeping<br />Keep your eyes open<br />Keep your eyes open<br />Keep your eyes open<br />Keep your eyes open<br />Keep your eyes open
+</p>
+</div>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEyes_Open%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="article-table" border="0" cellpadding="1" cellspacing="1" style="width:500px;">
+<tbody><tr>
+<th scope="col"><b>Chart</b>
+</th>
+<th scope="col"><b>Peak</b>
+</th></tr>
+<tr>
+<td>Australia (ARIA)
+</td>
+<td>47
+</td></tr>
+<tr>
+<td>Canada (Canadian Hot 100)
+</td>
+<td>17
+</td></tr>
+<tr>
+<td>New Zealand (RIANZ)
+</td>
+<td>6
+</td></tr>
+<tr>
+<td>UK Singles Chart
+</td>
+<td>70
+</td></tr>
+<tr>
+<td>Ireland (IRMA)
+</td>
+<td>65
+</td></tr>
+<tr>
+<td>US Billboard Hot 100
+</td>
+<td>19
+</td></tr>
+<tr>
+<td>US Pop Songs (Billboard)
+</td>
+<td>20
+</td></tr>
+<tr>
+<td>US Digital Songs (Billboard)
+</td>
+<td>4
+</td></tr>
+<tr>
+<td>US Radio Songs (Billboard)
+</td>
+<td>41
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Lyric_video">Lyric&#160;video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEyes_Open%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-right show-info-icon" typeof="mw:File/Thumb" style="width: 235px"> 	 <a href="https://thehungergames.fandom.com/wiki/File:Taylor_Swift_-_Eyes_Open_(Lyric_Version)" class="video video-thumbnail small "> 	<img src="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Taylor_Swift_-_Eyes_Open_%28Lyric_Version%29/revision/latest/scale-to-width-down/235?cb=20120602170052" alt="Taylor_Swift_-_Eyes_Open_(Lyric_Version)" height="132" width="235" data-video-key="Taylor_Swift_-_Eyes_Open_(Lyric_Version)" data-video-name="Taylor Swift - Eyes Open (Lyric Version)" class="" /> 	<span class="thumbnail-play-icon-container"> 		<svg class="thumbnail-play-icon wds-icon"><use xlink:href="#wds-player-icon-play"></use></svg>	</span> </a>  	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Taylor_Swift_-_Eyes_Open_(Lyric_Version)" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 			<p class="title">Taylor Swift - Eyes Open (Lyric Version)</p> 		 		 	</figcaption> </figure>
+<p>No official music&#160;video was released for the song, but a lyric&#160;video was released on May 17, 2012. The video features animations of the lyrics to the song.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEyes_Open%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The song was the second top 40 at the <a href="https://en.wikipedia.org/wiki/Billboard_Hot_100" class="extiw" title="wikipedia:Billboard Hot 100">Billboard Hot 100</a> which was featured in the soundtrack of the Hunger Games; the first was Safe &amp; Sound which reached #30.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20251230230035
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.025 seconds
+Real time usage: 0.034 seconds
+Preprocessor visited node count: 141/1000000
+Post‐expand include size: 315/2097152 bytes
+Template argument size: 180/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 2336/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   18.870      1 -total
+ 89.95%   16.973      1 Template:Single
+  9.14%    1.725      6 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:170667-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230230035 and revision id 941362. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,50 @@
+Mouse
+Rat
+Beaver
+Bear - black bear
+Bee
+Deer
+Fish
+Goose
+Lynx
+Mockingbird
+Mockingjay
+Porcupine
+Rabbit
+Raccoon
+Snake - venomous and non-venomous
+Squirrel
+Wasp
+Wild dog
+Wild turkey
+Duck
+Fish
+Snake
+Waterfowl
+Groosling
+Mockingbird
+Mockingjay
+Raccoon
+Rat
+Monkey
+Tortoise
+Toucan
+Migratory bird
+Fish
+Rabbit
+Waterbird
+Beetle
+Deer
+Fish
+Groosling
+Mockingjay
+Owl
+Rabbit
+Squirrel
+Wild dog
+Birds
+Fish
+Oyster
+Shellfish
+Tree lizards
+Tree rat

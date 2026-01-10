@@ -1,0 +1,255 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Strabo Plinth</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Strabo_Plinth.jpg/revision/latest?cb=20231215134856" class="image image-thumbnail" title="Strabo Plinth">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Strabo_Plinth.jpg/revision/latest/scale-to-width-down/267?cb=20231215134856" srcset="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Strabo_Plinth.jpg/revision/latest/scale-to-width-down/267?cb=20231215134856 1x, https://static.wikia.nocookie.net/thehungergames/images/d/d4/Strabo_Plinth.jpg/revision/latest?cb=20231215134856 2x" class="pi-image-thumbnail" data-relevant="1" alt="Strabo Plinth" width="266" height="500" data-image-key="Strabo_Plinth.jpg" data-image-name="Strabo Plinth.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Munitions manufacturer</li><li>War profiteer</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_2" title="District 2">District 2</a> (formerly)<br><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">Mrs. Plinth</a> <small>(wife)</small></li><li><a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> <small>(son)</small></li><li><a href="/wiki/Mrs._Plinth%27s_sister" title="Mrs. Plinth's sister">Unnamed sister-in-law</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Presumed Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Michael_Greco" title="Michael Greco">Michael Greco</a></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Strabo Plinth</b> was a wealthy ammunitions tycoon. He was originally from <a href="/wiki/District_2" title="District 2">District 2</a> and later moved to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> with his wife, <a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">Mrs. Plinth</a>, and son, <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>. A war profiteer, his power and influence gave him opportunities most in the <a href="/wiki/District" class="mw-redirect" title="District">districts</a> could only dream of.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="47255" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Strabo Plinth's role in the First Rebellion?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Strabo Plinth was a war profiteer in the First Rebellion. He allied with the Capitol, supplying the majority of the weaponry against District 13. His weapon manufacturing and the resulting wealth not only earned the Plinth family Capitol citizenship but also allowed them to move into the elite Corso residence a decade post-rebellion.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47256" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Strabo Plinth amass his wealth?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Strabo Plinth gained wealth as a munitions manufacturer during the First Rebellion. His strategic alliance with President Ravinstill and the Capitol, coupled with his wealth, secured a place for his family in the Capitol. His status was further elevated when he moved into the Corso, a residence for elite families, a decade post the rebellion.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47257" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the significance of the Plinth Prize in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Strabo Plinth established the Plinth Prize in the 10th Hunger Games as a significant monetary award. It was meant for the mentor of the Hunger Games' winning tribute, covering University tuition fees. The Prize also offered potential access to government's highest echelons, including a possible War Department apprenticeship. Despite its intentions, the Plinth Prize was never given out.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47258" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Strabo Plinth's relationship with President Ravinstill benefit him?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Strabo Plinth gained wealth and status through his alliance with President Ravinstill. His support for the Capitol during the First Rebellion enabled him to profit from weapon and machinery production. This wealth facilitated his family's move to the Capitol's elite Corso. After Sejanus Plinth's death, Ravinstill manipulated Plinth's parents into accepting him as their heir, further securing his financial stability.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47259" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is known about the Plinth family's apartment in the Capitol?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Residing in the Capitol, the Plinth family's apartment is in an opulent building on the Corso, a luxurious avenue of marble and granite. As the last 'new money' family post-District travel restrictions, their move to the Corso apartments cemented their elite status. Despite rebellion and taxes, they retained their lifestyle, including personal Avox drivers. They ensured their continued residence in the building's penthouse by making Snow their heir.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Strabo Plinth","mainEntity":[{"@type":"Question","name":"What was Strabo Plinth's role in the First Rebellion?","acceptedAnswer":{"@type":"Answer","text":"Strabo Plinth was a war profiteer in the First Rebellion. He allied with the Capitol, supplying the majority of the weaponry against District 13. His weapon manufacturing and the resulting wealth not only earned the Plinth family Capitol citizenship but also allowed them to move into the elite Corso residence a decade post-rebellion."}},{"@type":"Question","name":"How did Strabo Plinth amass his wealth?","acceptedAnswer":{"@type":"Answer","text":"Strabo Plinth gained wealth as a munitions manufacturer during the First Rebellion. His strategic alliance with President Ravinstill and the Capitol, coupled with his wealth, secured a place for his family in the Capitol. His status was further elevated when he moved into the Corso, a residence for elite families, a decade post the rebellion."}},{"@type":"Question","name":"What is the significance of the Plinth Prize in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Strabo Plinth established the Plinth Prize in the 10th Hunger Games as a significant monetary award. It was meant for the mentor of the Hunger Games' winning tribute, covering University tuition fees. The Prize also offered potential access to government's highest echelons, including a possible War Department apprenticeship. Despite its intentions, the Plinth Prize was never given out."}},{"@type":"Question","name":"How did Strabo Plinth's relationship with President Ravinstill benefit him?","acceptedAnswer":{"@type":"Answer","text":"Strabo Plinth gained wealth and status through his alliance with President Ravinstill. His support for the Capitol during the First Rebellion enabled him to profit from weapon and machinery production. This wealth facilitated his family's move to the Capitol's elite Corso. After Sejanus Plinth's death, Ravinstill manipulated Plinth's parents into accepting him as their heir, further securing his financial stability."}},{"@type":"Question","name":"What is known about the Plinth family's apartment in the Capitol?","acceptedAnswer":{"@type":"Answer","text":"Residing in the Capitol, the Plinth family's apartment is in an opulent building on the Corso, a luxurious avenue of marble and granite. As the last 'new money' family post-District travel restrictions, their move to the Corso apartments cemented their elite status. Despite rebellion and taxes, they retained their lifestyle, including personal Avox drivers. They ensured their continued residence in the building's penthouse by making Snow their heir."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStrabo_Plinth%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, he made a fortune off munitions, managing to buy himself and his family a place in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, and chose to side with <a href="/wiki/President_Ravinstill" class="mw-redirect" title="President Ravinstill">President Ravinstill</a> against the <a href="/wiki/District" class="mw-redirect" title="District">districts</a>. By doing so, and strategically donating a portion of his wealth, he was able to see to it that his family enjoyed privileges that even the oldest and most powerful families of the Capitol had only earned over generations. One such donation allowed his son, <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>, a place at the <a href="/wiki/Academy" title="Academy">Academy</a>.<sup id="cite_ref-Ballad_1_1-0" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>His son, Sejanus, was a top-performing student at the Academy and thus was selected for the <a href="/wiki/Mentor" title="Mentor">mentor</a> program for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. He personally saw to it that his son was assigned the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_2" title="District 2">District 2</a>, <a href="/wiki/Marcus" title="Marcus">Marcus</a>. He was trying to teach his rebellious son a lesson, as Sejanus still sympathized with the districts.<sup id="cite_ref-Ballad_2_2-0" class="reference"><a href="#cite_note-Ballad_2-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Strabo's move backfired, in that Marcus escaped during a bombing of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a>. Marcus was captured and strung up inside the arena at the start of the games and Sejanus, in a rash move, snuck inside the arena to try to help him. After Sejanus was rescued by <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, Strabo created the <a href="/wiki/Plinth_Prize" title="Plinth Prize">Plinth Prize</a> to try to tide things over and keep his son's actions from being revealed publicly. This was a prize that was supposed to be awarded to the student who <a href="/wiki/Mentor" title="Mentor">mentored</a> the victor of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, a prize large enough to pay for their <a href="/wiki/University" title="University">University</a> tuition. Strabo denied that it had been his idea, instead giving credit to his son.<sup id="cite_ref-Ballad_16_3-0" class="reference"><a href="#cite_note-Ballad_16-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>On the third night of the Games, Coriolanus headed to the Plinth apartment, where he met Strabo Plinth. Strabo offered him whiskey, then when he refused, compared Coriolanus to his parents. After thanking Coriolanus for saving Sejanus in the arena, they wished each other good night and Coriolanus left.<sup id="cite_ref-Ballad_19_4-0" class="reference"><a href="#cite_note-Ballad_19-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>Ultimately, <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>, head <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a>, felt that Sejanus's actions constituted treason. Strabo then bought her off by funding a new gymnasium for <a href="/wiki/Agrippina_Sickle" title="Agrippina Sickle">Agrippina Sickle</a>, as well as a laboratory for Dr. Gaul's <a href="/wiki/Muttation" title="Muttation">muttation</a> projects.<sup id="cite_ref-Ballad_28_5-0" class="reference"><a href="#cite_note-Ballad_28-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Because of this, they agreed to have Sejanus enroll in the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> to get him out of the way, as well as letting Coriolanus officially graduate. Sejanus was sent to <a href="/wiki/District_12" title="District 12">District 12</a> with Coriolanus Snow, who had also been disgraced in the games.<sup id="cite_ref-Ballad_22_6-0" class="reference"><a href="#cite_note-Ballad_22-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> There, Sejanus ultimately got involved in a rebel plot. Coriolanus recorded evidence of Sejanus's treachery via a <a href="/wiki/Jabberjay" title="Jabberjay">jabberjay</a> and sent it back to the Capitol, where it was heard by Dr. Gaul.<sup id="cite_ref-Ballad_28_5-1" class="reference"><a href="#cite_note-Ballad_28-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>My wife needs something to live for. So do I, for that matter. You've lost your parents. We've lost our son. I was thinking perhaps we could work something out.</i>"</span></dd>
+<dd>—Strabo Plinth, explaining to Snow why he wanted to make him his heir<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>With Sejanus dead, Strabo adopted Coriolanus as his heir, entirely unaware of the boy's betrayal of his son. He funded both his tuition and lifestyle, ending the poverty that had plagued his life since the end of the Dark Days. For his part, Coriolanus got along well with him, finding at times that he could almost forget that he had come from one of the districts. Strabo neither questioned Snow's expenditures nor nitpicked new additions to Snow's wardrobe and seemed pleased when Snow asked him for advice.<sup id="cite_ref-Ballad_Epilogue_7-0" class="reference"><a href="#cite_note-Ballad_Epilogue-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStrabo_Plinth%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was an extremely wealthy man and seemed convinced that with enough money, he could buy anything. To some degree, his strategy seemed to work. He bought himself and his family a place in the Capitol and a position of power. He also was able to buy his son into the Academy.<sup id="cite_ref-Ballad_1_1-1" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> 
+</p><p>However, his money did not result in his son's loyalty or obedience. It was ultimately also unable to save his son's life when Sejanus was made into a Peacekeeper and engaged in rebellious activity in District 12.<sup id="cite_ref-Ballad_28_5-2" class="reference"><a href="#cite_note-Ballad_28-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStrabo_Plinth%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Before announcing the Plinth Prize, Strabo had a stern expression which, according to Coriolanus Snow, seemed to be "carved from the very granite of his home district".<sup id="cite_ref-Ballad_16_3-1" class="reference"><a href="#cite_note-Ballad_16-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>When Coriolanus visited him in his apartment, Strabo had a profoundly sad expression on his face and wore an expensive smoking jacket with a velvet lapel. However, Coriolanus thought it suggested that the Plinths were always trying too hard to be Capitol, and clashed with their district personae rather than disguising them.<sup id="cite_ref-Ballad_19_4-1" class="reference"><a href="#cite_note-Ballad_19-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStrabo_Plinth%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name Strabo may come from <a href="https://en.wikipedia.org/wiki/Strabo" class="extiw" title="wikipedia:Strabo">Strabo</a>, a Greek geographer, philosopher and historian during the transitional period from the Roman Republic into the Roman Empire. 
+</p><p>A plinth is a heavy base that supports a statue, vase, or column, coming from ancient Greco-Roman times. This can be a fitting surname as the Plinths supported the Capitol militarily during the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FStrabo_Plinth%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_1_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_2-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_2_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_16-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_16_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_16_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-Ballad_19-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_19_4-0">4.0</a></sup> <sup><a href="#cite_ref-Ballad_19_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-Ballad_28-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_28_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ballad_28_5-1">5.1</a></sup> <sup><a href="#cite_ref-Ballad_28_5-2">5.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 28</span>
+</li>
+<li id="cite_note-Ballad_22-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_22_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-Ballad_Epilogue-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Epilogue_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Epilogue</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20251226121206
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.070 seconds
+Real time usage: 0.106 seconds
+Preprocessor visited node count: 548/1000000
+Post‐expand include size: 1419/2097152 bytes
+Template argument size: 414/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3840/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   62.735      1 -total
+ 53.44%   33.528      1 Template:Character
+ 19.91%   12.488      1 Template:Reflist
+  3.87%    2.427      7 Template:BSS
+  2.80%    1.755      1 Template:Quote
+  2.40%    1.506      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539431-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251226121206 and revision id 962725. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,36 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><b>This article is a disambiguation page for Rebellion</b>
+<p>The following is a list of links to pages that might share the same title.<br />
+</p>
+Please follow one of the disambiguation links below or <a href="/wiki/Special:Search" title="Special:Search">search</a> to find the page you were looking for if it is not listed. If an <a href="/wiki/Special:WhatLinksHere/Rebellion" title="Special:WhatLinksHere/Rebellion">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</center></div>
+<p><br />
+<b>Rebellion</b> may refer to:
+</p>
+<ul><li><a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a> - The three-year civil war that resulted in the creation of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>.</li>
+<li><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a> - The revolution that occurred 75 years after the Dark Days, ending <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>'s rule.</li>
+<li><a href="/wiki/Rebels" title="Rebels">Rebels</a> - A group of dissenters against the Capitol.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20260102022118
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.009 seconds
+Real time usage: 0.016 seconds
+Preprocessor visited node count: 6/1000000
+Post‐expand include size: 545/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    4.709      1 Template:Disambig
+100.00%    4.709      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2625-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102022118 and revision id 952362. Rendering was triggered because: page-view
+ -->
+</div>

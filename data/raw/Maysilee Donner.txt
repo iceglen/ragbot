@@ -1,0 +1,489 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Maysilee Donner</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/03/MaysileeSOTR.jpeg/revision/latest?cb=20251120143345" class="image image-thumbnail" title="MaysileeSOTR">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/0/03/MaysileeSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120143345" srcset="https://static.wikia.nocookie.net/thehungergames/images/0/03/MaysileeSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120143345 1x, https://static.wikia.nocookie.net/thehungergames/images/0/03/MaysileeSOTR.jpeg/revision/latest/scale-to-width-down/536?cb=20251120143345 2x" class="pi-image-thumbnail" data-relevant="1" alt="MaysileeSOTR" width="270" height="289" data-image-key="MaysileeSOTR.jpeg" data-image-name="MaysileeSOTR.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">16 (<i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>)<sup id="cite_ref-SR14_1-0" class="reference"><a href="#cite_note-SR14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Sis, Ladybug <small>(by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>)</small><sup id="cite_ref-SR22_3-0" class="reference"><a href="#cite_note-SR22-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Tribute" title="Tribute">Tribute</a> <small>(<a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>)</small></li><li><a href="/wiki/Merchant" title="Merchant">Merchant</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Mr. Donner <small>(father)</small></li><li>Mrs. Donner <small>(mother)</small></li><li><a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Undersee</a> <small>(twin sister)</small></li><li>Unnamed grandmother</li><li><a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> <small>(niece)</small></li><li><a href="/wiki/Mayor_Undersee" title="Mayor Undersee">Mayor Undersee</a> <small>(brother-in-law)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Weapons#Blowgun" title="Weapons">Blowgun</a> with poisonous darts<sup id="cite_ref-CF_14_2-0" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">5'1 <small>(<a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">film</a>)</small></div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-SR1_4-0" class="reference"><a href="#cite_note-SR1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font">Blonde<sup id="cite_ref-SR1_4-1" class="reference"><a href="#cite_note-SR1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Mckenna_Grace" title="Mckenna Grace">Mckenna Grace</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>I had a friend who went that year, Maysilee Donner. Her parents owned the sweetshop. They gave me her songbird after. A <a href="/wiki/Lou_Lou_(canary)" title="Lou Lou (canary)">canary</a>.</i>"</span></dd>
+<dd>—<a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid Everdeen</a> about Maysilee Donner<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p><b>Maysilee Donner</b> was one of the female <a href="/wiki/Tribute" title="Tribute">tributes</a> from <a href="/wiki/District_12" title="District 12">District 12</a> in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, also known as the second <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>.<sup id="cite_ref-CF_14_2-1" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> She placed 4th out of 48 in her Games and was an <a href="/wiki/Ally" class="mw-redirect" title="Ally">ally</a> of <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>.<sup id="cite_ref-CF_14_2-2" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> She was the daughter of Mr. and Mrs. Donner. She was <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Undersee</a>'s twin sister and <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a>'s maternal aunt.<sup id="cite_ref-CF_7_5-0" class="reference"><a href="#cite_note-CF_7-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> She was the original owner of the <a href="/wiki/Mockingjay_pin" title="Mockingjay pin">mockingjay pin</a>.<sup id="cite_ref-CF_7_5-1" class="reference"><a href="#cite_note-CF_7-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#50th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">50th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Arena"><span class="tocnumber">1.1.1</span> <span class="toctext">Arena</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-4"><a href="#Death"><span class="tocnumber">1.2</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Victims"><span class="tocnumber">2</span> <span class="toctext">Victims</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personality_and_traits"><span class="tocnumber">4</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Skills"><span class="tocnumber">5</span> <span class="toctext">Skills</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Relationships"><span class="tocnumber">6</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Haymitch_Abernathy"><span class="tocnumber">6.1</span> <span class="toctext">Haymitch Abernathy</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Merrilee_Undersee"><span class="tocnumber">6.2</span> <span class="toctext">Merrilee Undersee</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Wyatt_Callow"><span class="tocnumber">6.3</span> <span class="toctext">Wyatt Callow</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Asterid_Everdeen"><span class="tocnumber">6.4</span> <span class="toctext">Asterid Everdeen</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Madge_Undersee"><span class="tocnumber">6.5</span> <span class="toctext">Madge Undersee</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Effie_Trinket"><span class="tocnumber">6.6</span> <span class="toctext">Effie Trinket</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Trivia"><span class="tocnumber">8</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37297" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was the original owner of the mockingjay pin in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Maysilee Donner, a participant in the 50th Hunger Games, was the initial owner of the mockingjay pin. The pin was later passed to Katniss Everdeen by Maysilee's niece, Madge Undersee. This pin, worn by Katniss in the 74th and 75th Hunger Games, evolved into a rebellion symbol.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37298" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Maysilee Donner's relationship with Madge Undersee?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Madge Undersee's aunt was Maysilee Donner, a tribute from District 12 in the second Quarter Quell, also known as the 50th Hunger Games. Maysilee passed away during the games, long before Madge's birth. Despite this, a strong familial resemblance was observed between them. Maysilee was the first owner of the notable mockingjay pin.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37299" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Where did Maysilee Donner live before participating in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Before entering the Hunger Games, Maysilee Donner lived in District 12 with her family. Her residence was above a sweet shop on the district's merchant side. She was a tribute in the 50th Hunger Games, or the second Quarter Quell.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Maysilee Donner","mainEntity":[{"@type":"Question","name":"Who was the original owner of the mockingjay pin in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Maysilee Donner, a participant in the 50th Hunger Games, was the initial owner of the mockingjay pin. The pin was later passed to Katniss Everdeen by Maysilee's niece, Madge Undersee. This pin, worn by Katniss in the 74th and 75th Hunger Games, evolved into a rebellion symbol."}},{"@type":"Question","name":"What was Maysilee Donner's relationship with Madge Undersee?","acceptedAnswer":{"@type":"Answer","text":"Madge Undersee's aunt was Maysilee Donner, a tribute from District 12 in the second Quarter Quell, also known as the 50th Hunger Games. Maysilee passed away during the games, long before Madge's birth. Despite this, a strong familial resemblance was observed between them. Maysilee was the first owner of the notable mockingjay pin."}},{"@type":"Question","name":"Where did Maysilee Donner live before participating in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Before entering the Hunger Games, Maysilee Donner lived in District 12 with her family. Her residence was above a sweet shop on the district's merchant side. She was a tribute in the 50th Hunger Games, or the second Quarter Quell."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Before the Games, Maysilee Donner lived with her parents and twin sister <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee</a> above a sweet shop on the <a href="/wiki/Merchant" title="Merchant">merchant</a> side of District 12. She was the best friend of <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid Everdeen</a>, and she also had a pet <a href="/wiki/Canary" title="Canary">canary</a>.<sup id="cite_ref-CF_12_6-0" class="reference"><a href="#cite_note-CF_12-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> She often teased other children, telling <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a>'s sister that she looked like she used coal dust for powder, and calling <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> "itchy itchy Haymitchy" when he had chiggers.<sup id="cite_ref-SR3_7-0" class="reference"><a href="#cite_note-SR3-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Maysilee was often dressed in the same clothing as her sister by her mother. She wears various necklaces to be herself. <sup id="cite_ref-SR7_8-0" class="reference"><a href="#cite_note-SR7-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>The mockingjay pin worn by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> since the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a><sup id="cite_ref-THG_10_9-0" class="reference"><a href="#cite_note-THG_10-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> was originally Maysilee's<sup id="cite_ref-CF_14_2-3" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. She disliked the pin however due to the fact that the bird was half mutt, and that her sister was gifted a hummingbird pin instead. She wanted to return it to Tam Amber and have it melted down and remade into something prettier, but he declined. She then kept the pin in her dresser, much to <a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a>'s disdain.<sup id="cite_ref-SR12_10-0" class="reference"><a href="#cite_note-SR12-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> It later became a <a href="/wiki/Mockingjay_(bird)#Symbolism" title="Mockingjay (bird)">symbol</a> for the <a href="/wiki/Second_Rebellion" title="Second Rebellion">second rebellion</a> against the Capitol.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="50th_Hunger_Games">50th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Maysilee was one of the four tributes from District 12 in the 50th Hunger Games, along with Haymitch Abernathy, <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> and <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a>.<sup id="cite_ref-CF_14_2-4" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> The usual number of contestants from each district was two (one male and one female), but because the 50th Hunger Games was a Quarter Quell, <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> demanded that twice the number of tributes be <a href="/wiki/Reaping" title="Reaping">reaped</a> for the event. They chose this to remind the districts that for every Capitol citizen that was killed during the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, two rebels were also killed.<sup id="cite_ref-CF_12_6-1" class="reference"><a href="#cite_note-CF_12-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> Both Asterid and Merrilee were seen clinging to Maysilee at the reaping.<sup id="cite_ref-CF_14_2-5" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Her reaping was a surprise, as affluent town children are rarely chosen.<sup id="cite_ref-SR1_4-2" class="reference"><a href="#cite_note-SR1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> 
+</p><p>During the train ride to the Capitol, Maysilee defends Louella from <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a>'s insult. The two argue, which leads to Maysilee slapping the woman and the woman beating her with her heel. Maysilee gains several welts, and insults Drusilla further. When Drusilla leaves, Maysilee tears up from the pain due to never being whipped before. As the tributes from twelve begin to sleep in their room on the train, she asks Haymitch about his necklace. She wants to see it, but Haymitch refuses due to it being personal.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p><p>At the <a href="/wiki/Academy" title="Academy">Academy's gym</a>, she gets showered down and given a make-over. She pokes fun at <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a>'s outfit while there, as they did not hit it off in the locker room. As they are led out on the chariots, one of the crowd members tries to jab his cane in her face, but falls into the avenue. The horses pulling the chariot lose control and begin to run wild, causing the cart to crash but she and Wyatt manage to hold onto the railings. Louella and Haymitch are sent flying, and Louella dies from her skull hitting the floor. Maysilee and Wyatt join the other two, and she takes off a beaded necklace and places the necklace around the little girl's neck, as she was originally going to give it to her as her <a href="/wiki/Tribute_token" title="Tribute token">token</a>. As Peacekeepers begin to come up to them, Maysilee encourages Haymitch to run and make them fight for her, as she doesn't belong to them. Afterwards, Maysilee complements Haymitch on showing the crowd not to mess with District 12.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> Later at the apartment she and the remaining tributes of District 12 meet their mentors, <a href="/wiki/Wiress" title="Wiress">Wiress</a> and <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a>. 
+</p><p>At breakfast the following day, Maysilee declines the food. Instead she drinks a cup of black coffee. She tells the others that she isn't a breakfast person, to which Haymitch makes a snide remark to her. She comments about disliking the matching outfits all three of them are made to wear. Mags begins to tell her and the other tributes about her mentoring plan. She asks each tribute what they want in the arena. Maysilee tells her that she doesn't want to beg or plead for her life, that she wants to go out with her head up. Haymitch agrees with her, but adds that he wants to make the audience consider that fifty years of the Hunger Games could be enough. Maysilee asks how he would do this. and he tells her that he would remind them that all the tributes are human beings. She agrees and calls all of the Capitolites stupid.  Later in the conversation she offers to be Wyatt's ally. Haymitch tells them about <a href="/wiki/Ampert_Latier" title="Ampert Latier">Ampert Latier</a> offering to be allies, and his plan with making his own version of a career pack, and Maysilee shrugs. Wiress and Mags then discuss what training will be like. When talking about rest, both her and Haymitch joke about Wyatt's snores.<sup id="cite_ref-SR7_8-1" class="reference"><a href="#cite_note-SR7-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>As the tributes are transported to the gym, Maysilee tells Wyatt that he needs to have more attitude. She addresses them all and comes up with their nickname: "loose cannons". They take on this persona during training, where they are unpredictable and wild. Maysilee notes how they are the last ones to arrive. They first practice throwing knifes with the group of tributes from 7. She hits more than she misses and Haymitch doesn't miss a single one. Haymitch, after being punched by <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> and interviewed by <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>, pulls her and Wyatt aside. He tells them that they need to join Ampert's alliance as they walk over to <a href="/wiki/Ringina" title="Ringina">Ringina</a>. He tells her to not comment on her appearance to which Maysilee says she actually likes her hair. When Ampert joins them, Maysilee says he looks like a "weasal caught in chicken wire" due to his wired necklace. Haymitch introduces her to Ampert while she takes the wire from his neck. Her and Ampert discuss a way she could make it more tie it to be something prettier, to which Ampert agrees.  They talk for a while as she braids it. When she finishes, Ampert calls it beautiful and perfectly symmetrical. He says that he wishes Maysilee was his sister. She says she'd be his sister, and Ampert gives her a hug that she stiffly returns. Throughout training Maysilee takes the other tributes of the newly-formed <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> pack and makes them into special bracelets, necklaces, and other nick-nacks. <sup id="cite_ref-SR8_16-0" class="reference"><a href="#cite_note-SR8-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>
+</p><p>Maysilee achieved a <a href="/wiki/Training_score" title="Training score">score</a> of 6 in her private session with the <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>, presumably having demonstrated her ability at manipulating cords.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During her time in the <a href="/wiki/Arena" title="Arena">arena</a>, Maysilee escaped from the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> with only a blowgun, a bowl, some dried beef, and a <a href="/wiki/Backpack" title="Backpack">backpack</a> of rope. She was very resourceful, dipping the blowgun darts into numerous amounts of poisons available in the arena to kill other tributes. On Day 2, she single-handedly killed <a href="/wiki/Loupe" title="Loupe">Loupe</a>.<sup id="cite_ref-SOTR25_18-0" class="reference"><a href="#cite_note-SOTR25-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup> When Haymitch was about to have his throat slit by <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a>, Maysilee shot the Career with her poison dart from her blowgun<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup>. She arranged a temporary <a href="/wiki/Alliance" title="Alliance">alliance</a> with Haymitch, saying that they would last longer with the two of them. 
+</p><p>On Day 5, they encounter <a href="/wiki/Hull" title="Hull">Hull</a>, <a href="/wiki/Buck" title="Buck">Buck</a> and <a href="/wiki/Chicory" title="Chicory">Chicory</a> being attacked by a porcupine mutt. Haymitch and Maysilee manage to deter the mutt but Buck and Chicory are already dead. They try to rescue Hull, feeding him the antidote but it just spills and he dies from the porcupine quills like the other two tributes<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup>. 
+</p><p>On Day 6 of the games, Maysilee and Haymitch  are ambushed by Silka and Maritte, but they encounter some Gamemakers cleaning up slime. Maritte killed one with a trident and Maysilee killed one with a poison dart. The other tripped and fell, smashing their head jumping into Sub-A. Silka was shocked and Maysilee told her to stop sucking up to the Capitol in an attempt to win. A bomb was dropped, separating them.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup> 
+</p><p>Maysilee and Haymitch broke off their alliance when they were among the final five tributes alive, as she didn't want to have to kill him.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Maysilee died only minutes after parting with Haymitch, being attacked by a large number of bright, <a href="/wiki/Muttation" title="Muttation">candy-pink birds</a> that used their sharp beaks to skewer her in the neck. Haymitch held her hand and stayed with her until she died.<sup id="cite_ref-CF_14_2-6" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> The birds were programmed to target only Maysilee and ignored Haymitch when he tried to save her.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Victims">Victims</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Maysilee was able to single-handedly kill both <a href="/wiki/Loupe" title="Loupe">Loupe</a><sup id="cite_ref-SOTR25_18-1" class="reference"><a href="#cite_note-SOTR25-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup> and <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a><sup id="cite_ref-SOTR19_24-0" class="reference"><a href="#cite_note-SOTR19-24"><span class="cite-bracket">[</span>24<span class="cite-bracket">]</span></a></sup>, and almost <a href="/wiki/Camilla" title="Camilla">Camilla</a><sup id="cite_ref-SOTR25_18-2" class="reference"><a href="#cite_note-SOTR25-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup>, with her poison darts. She also killed a Gamemaker with a dart to the neck.<sup id="cite_ref-SOTR22_25-0" class="reference"><a href="#cite_note-SOTR22-25"><span class="cite-bracket">[</span>25<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Maysilee is said to have the traditional merchant look of smooth, straight blonde hair and blue eyes. She had "great cheekbones" as described by Plutarch<sup id="cite_ref-SR14_1-1" class="reference"><a href="#cite_note-SR14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>, and long eyelashes<sup id="cite_ref-SR13_26-0" class="reference"><a href="#cite_note-SR13-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup>. She resembled Mrs. Everdeen, but even moreso her <a href="/wiki/Mrs._Undersee" class="mw-redirect" title="Mrs. Undersee">twin sister</a>, as well as <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge</a>, her niece.<sup id="cite_ref-CF_14_2-7" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> After her capitol make-over, her hair changed from straight to tight curls.<sup id="cite_ref-SR5_27-0" class="reference"><a href="#cite_note-SR5-27"><span class="cite-bracket">[</span>27<span class="cite-bracket">]</span></a></sup> Maysilee wore a lavender dress identical to Merrilee's pink one at the reaping ceremony.<sup id="cite_ref-SR1_4-3" class="reference"><a href="#cite_note-SR1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> She always wore half a dozen necklaces, some were beaded, some corded, some with trinkets hanging off them, and one made of real gold<sup id="cite_ref-SR3_7-1" class="reference"><a href="#cite_note-SR3-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>. For the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>, Maysilee and the other District 12 tributes wore <a href="/wiki/Coal_miner" title="Coal miner">coal miners</a>' outfits.<sup id="cite_ref-CF_14_2-8" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The official synopsis for <i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i> describes her as "the most stuck-up girl in town".<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span class="cite-bracket">[</span>28<span class="cite-bracket">]</span></a></sup> She is indeed usually quite stuck-up, though she can be kind, as when she offered to help some of the other tributes with their tokens. She can also be quite blunt and critical, as seen on multiple occasions when she criticizes the fashion choices made by Drusilla.
+</p>
+<h2><span class="mw-headline" id="Skills">Skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Maysilee was described to be quite resourceful, as she came up with the idea to dip her darts for her weapon, the <a href="/wiki/Weapon#blowgun" class="mw-redirect" title="Weapon">blowgun</a>, into the poisonous substances in the arena. She was also quite accurate with her blowgun, killing even a Career tribute.<sup id="cite_ref-CF_14_2-9" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> She also played a large role in creating and fixing tributes' tokens which helped Haymitch successfully execute his plan.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Haymitch_Abernathy">Haymitch Abernathy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Haymitch and Maysilee had known each other most of their lives, but never liked each other due to living in different areas of District 12. Maysilee had a low opinion of Haymitch, calling him "Itchy Itchy Haymitchy" when he had chiggers<sup id="cite_ref-SR3_7-2" class="reference"><a href="#cite_note-SR3-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>. She was also aware of the rebellious activities of Haymitch's girlfriend, <a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a>, but never revealed them to him. However, Haymitch and Maysilee's relationship drastically changed when they both were reaped for the Second Quarter Quell. She becomes impressed with Haymitch showing defiance towards the Capitol and joins him in forming the Newcomer alliance with other tributes to counter the Careers. Despite Haymitch's initial dislike of Maysilee, she made an alliance with him, and the two began to bond more, developing a a sibling-like dynamic, with Haymitch even call Maysilee "sis"<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span class="cite-bracket">[</span>29<span class="cite-bracket">]</span></a></sup>. When Maysilee killed a Gamemaker, she was angry that Haymitch did not join her and nearly broke their alliance until she changed her mind, showing she understood Haymitch's reluctance and did not wish to kill him. When Maysilee was fatally wounded, Haymitch ran to her and held her hand, comforting her as she died, while silently promising her to not let the Capitol "paint his poster" if he won the Games.
+</p><p>25 years later, when Katniss Everdeen watched the video of the <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, she compared Haymitch and Maysilee's relationship and final moments to the friendship she had with the <a href="/wiki/District_11" title="District 11">District 11</a> tribute <a href="/wiki/Rue" title="Rue">Rue</a> and how she spent her last moments with her as she died.<sup id="cite_ref-CF_14_2-10" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Merrilee_Undersee">Merrilee Undersee</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Maysilee's twin sister struggled terribly after Maysilee died in the Games. Even after she married <a href="/wiki/Mayor_Undersee" title="Mayor Undersee">Mayor Undersee</a> and had Madge, Mrs. Undersee suffered terrible headaches that she treated with <a href="/wiki/Morphling_(drug)" title="Morphling (drug)">morphling</a>,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span class="cite-bracket">[</span>30<span class="cite-bracket">]</span></a></sup> and she was confined to her bed, possibly suffering from severe depression.<sup id="cite_ref-CF_14_2-11" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Because of how badly Mrs. Undersee was affected by Maysilee's death, it can be inferred that the sisters were very close. They were identical twins.
+</p>
+<h3><span class="mw-headline" id="Wyatt_Callow">Wyatt Callow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After facing rejection from Haymitch Abernathy and Louella McCoy, Maysilee and Wyatt agree to form an alliance. Despite Maysilee's abrasive attitude to her fellow district partners, she shows kindness towards Wyatt, defending him after Haymitch makes a nasty comment about how low the odds Wyatt's father placed on him were. When it's revealed that Wyatt is a loud snorer, she shows care for him by offering to wake him up or take precautions to muffle the sound of his snores. She ends up assisting Wyatt in appearing more intimidating, mussing up his hair and pushing up his sleeves before walking into the training center.
+</p><p>Later, during training, Maysilee weaves Wyatt's token (a scrip coin) into a necklace so he can easily wear it, but she designs it so that he can easily pop the coin in and out, knowing that fidgeting with the coin helps him think. While preparing for their interviews, Wyatt says that Maysilee "isn't a bad bet" and has a decent shot of winning the Games, displaying a clear respect for her.
+</p><p>Maysilee later expresses grief at Wyatt's death, having directly witnessed it, and follows Lou Lou after she runs from the Cornucopia, but ends up losing her. 
+</p>
+<h3><span class="mw-headline" id="Asterid_Everdeen">Asterid Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid Everdeen</a> reveals at the card reading ceremony for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">third Quarter Quell</a> that her friend Maysilee Donner had been reaped for the second Quell. She had never mentioned Maysilee to her daughters before, probably because she knew they would want to know how she died.<sup id="cite_ref-CF_12_6-2" class="reference"><a href="#cite_note-CF_12-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> Mrs. Everdeen was also standing next to her when she was reaped and broke down in tears along with Mrs. Undersee.<sup id="cite_ref-CF_14_2-12" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> After Maysilee's death, her parents entrusted their daughter's pet canary to Asterid.<sup id="cite_ref-CF_12_6-3" class="reference"><a href="#cite_note-CF_12-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Madge_Undersee">Madge Undersee</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Maysilee died before her niece was born, but Madge inherited her late aunt's mockingjay pin,<sup id="cite_ref-CF_7_5-2" class="reference"><a href="#cite_note-CF_7-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_1_31-0" class="reference"><a href="#cite_note-THG_1-31"><span class="cite-bracket">[</span>31<span class="cite-bracket">]</span></a></sup> and she later gave it to Katniss as a <a href="/wiki/Tribute_token" title="Tribute token">tribute token</a>.<sup id="cite_ref-THG_3_32-0" class="reference"><a href="#cite_note-THG_3-32"><span class="cite-bracket">[</span>32<span class="cite-bracket">]</span></a></sup> Madge's mother and aunt were said to look a lot like her.<sup id="cite_ref-CF_14_2-13" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Effie_Trinket">Effie Trinket</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite Maysilee's distain for most Capitol workers in the Games, she has a better relationship with Effie. She helps her offer the tributes style and makeup advice before the interviews. Haymitch described them as "two girls on a mission to beautify the world." 
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Maysilee_Donner/Gallery" title="Maysilee Donner/Gallery">Maysilee Donner Gallery</a></li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Maysilee Donner is the only known District 12 tribute to make it to the top five who did not survive to become a victor.<sup id="cite_ref-CF_14_2-14" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li>
+<li>Merrilee Undersee and Maysilee Donner are the first confirmed pair of twins in the trilogy.
+<ul><li><a href="/wiki/Leeg_1" title="Leeg 1">Leeg 1</a> and <a href="/wiki/Leeg_2" title="Leeg 2">Leeg 2</a>, despite played by identical twin actresses in the <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i> film adaptation, are not explicitly referred to as twins in the book, though it is mentioned they look so similar in uniform that others can't tell them apart.</li>
+<li><a href="/wiki/Pollux" title="Pollux">Pollux</a> and <a href="/wiki/Castor" title="Castor">Castor</a> are also described as having a strong physical resemblance to one another, and their names refer to a pair of mythological Greek twins, but they are not explicitly confirmed to be twins in the text.</li>
+<li>Revealed in <i>Sunrise on the Reaping</i>, Haymitch's stillborn younger sisters are the second pair of twins mentioned.</li></ul></li>
+<li>She loved jewelry and fashion.</li>
+<li>Maysilee was predetermined to work at her family's sweet shop for life, but she shared to Haymitch that she never wanted to work there.</li>
+<li>Mckenna Grace, Maysilee’s actress in the upcoming <i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i>, listens to “Von dutch” by Charli xcx to get into character before filming as Maysilee. <sup id="cite_ref-“Music”_33-0" class="reference"><a href="#cite_note-%E2%80%9CMusic%E2%80%9D-33"><span class="cite-bracket">[</span>33<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMaysilee_Donner%3Fveaction%3Dedit%26section%3D18&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-SR14-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR14_1-0">1.0</a></sup> <sup><a href="#cite_ref-SR14_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-CF_14-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_14_2-0">2.00</a></sup> <sup><a href="#cite_ref-CF_14_2-1">2.01</a></sup> <sup><a href="#cite_ref-CF_14_2-2">2.02</a></sup> <sup><a href="#cite_ref-CF_14_2-3">2.03</a></sup> <sup><a href="#cite_ref-CF_14_2-4">2.04</a></sup> <sup><a href="#cite_ref-CF_14_2-5">2.05</a></sup> <sup><a href="#cite_ref-CF_14_2-6">2.06</a></sup> <sup><a href="#cite_ref-CF_14_2-7">2.07</a></sup> <sup><a href="#cite_ref-CF_14_2-8">2.08</a></sup> <sup><a href="#cite_ref-CF_14_2-9">2.09</a></sup> <sup><a href="#cite_ref-CF_14_2-10">2.10</a></sup> <sup><a href="#cite_ref-CF_14_2-11">2.11</a></sup> <sup><a href="#cite_ref-CF_14_2-12">2.12</a></sup> <sup><a href="#cite_ref-CF_14_2-13">2.13</a></sup> <sup><a href="#cite_ref-CF_14_2-14">2.14</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-SR22-3"><span class="mw-cite-backlink"><a href="#cite_ref-SR22_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-SR1-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR1_4-0">4.0</a></sup> <sup><a href="#cite_ref-SR1_4-1">4.1</a></sup> <sup><a href="#cite_ref-SR1_4-2">4.2</a></sup> <sup><a href="#cite_ref-SR1_4-3">4.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-CF_7-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_7_5-0">5.0</a></sup> <sup><a href="#cite_ref-CF_7_5-1">5.1</a></sup> <sup><a href="#cite_ref-CF_7_5-2">5.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-CF_12-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_12_6-0">6.0</a></sup> <sup><a href="#cite_ref-CF_12_6-1">6.1</a></sup> <sup><a href="#cite_ref-CF_12_6-2">6.2</a></sup> <sup><a href="#cite_ref-CF_12_6-3">6.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-SR3-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR3_7-0">7.0</a></sup> <sup><a href="#cite_ref-SR3_7-1">7.1</a></sup> <sup><a href="#cite_ref-SR3_7-2">7.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-SR7-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR7_8-0">8.0</a></sup> <sup><a href="#cite_ref-SR7_8-1">8.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-THG_10-9"><span class="mw-cite-backlink"><a href="#cite_ref-THG_10_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-SR12-10"><span class="mw-cite-backlink"><a href="#cite_ref-SR12_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-SR8-16"><span class="mw-cite-backlink"><a href="#cite_ref-SR8_16-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-SOTR25-18"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR25_18-0">18.0</a></sup> <sup><a href="#cite_ref-SOTR25_18-1">18.1</a></sup> <sup><a href="#cite_ref-SOTR25_18-2">18.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>, Chapter 19</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>, Chapter 21</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>, Chapter 22</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>, Chapter 22</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-SOTR19-24"><span class="mw-cite-backlink"><a href="#cite_ref-SOTR19_24-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-SOTR22-25"><span class="mw-cite-backlink"><a href="#cite_ref-SOTR22_25-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-SR13-26"><span class="mw-cite-backlink"><a href="#cite_ref-SR13_26-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-SR5-27"><span class="mw-cite-backlink"><a href="#cite_ref-SR5_27-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://mediaroom.scholastic.com/press-release/scholastic-reveals-cover-new-book-worldwide-bestselling-hunger-games-series-suzanne-co">Scholastic Reveals Cover for New Book in the Worldwide Bestselling Hunger Games Series by Suzanne Collins</a></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>, Chapter 20</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-THG_1-31"><span class="mw-cite-backlink"><a href="#cite_ref-THG_1_31-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-THG_3-32"><span class="mw-cite-backlink"><a href="#cite_ref-THG_3_32-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-“Music”-33"><span class="mw-cite-backlink"><a href="#cite_ref-%E2%80%9CMusic%E2%80%9D_33-0">↑</a></span> <span class="reference-text"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://x.com/javi_shaka/status/1957823256569774396">Conversation with a fan</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <strong class="mw-selflink selflink">Maysilee Donner</strong> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <strong class="mw-selflink selflink">Maysilee Donner</strong>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <strong class="mw-selflink selflink">Maysilee Donner</strong> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20260102204806
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.133 seconds
+Real time usage: 0.146 seconds
+Preprocessor visited node count: 978/1000000
+Post‐expand include size: 6123/2097152 bytes
+Template argument size: 258/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 17786/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   79.692      1 -total
+ 39.90%   31.794      1 Template:Character
+ 23.06%   18.378      1 Template:Reflist
+  3.20%    2.554      1 Template:SeriesTP
+  2.77%    2.205      3 Template:SOTR
+  1.87%    1.487      1 Template:SOTRNav
+  1.83%    1.457      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2227-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102204806 and revision id 967347. Rendering was triggered because: page-view
+ -->
+</div>

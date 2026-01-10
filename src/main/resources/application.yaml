@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: ragbot
+  ai:
+    openai:
+      api-key: ${RAG_OPENAI_API_KEY:ollama}
+      base-url: ${RAG_OPENAI_BASE_URL:http://localhost:11434/}
+      chat:
+        options:
+          model: ${RAG_CHAT_MODEL:gpt-oss:20b}
+          reasoning-effort: high
+      embedding:
+        options:
+          model: ${RAG_EMBEDDING_MODEL:qwen3-embedding:latest}
+config:
+  fandom-id: ${RAG_FANDOM_ID:thehungergames}
+  exclusions: ${RAG_EXCLUSIONS:gallery,novel,film,quotes,book,reviews,soundtrack,wiki,audiobook,faq,sandbox,trilogy}
+  content-exclusions: ${RAG_CONTENT_EXCLUSIONS:redirect to}
+  raw-data-dir: ${RAG_RAW_DATA_DIR:./data/raw}
+  clean-data-dir: ${RAG_CLEAN_DATA_DIR:./data/clean}
+  dereferenced-data-dir: ${RAG_DEREFERENCED_DATA_DIR:./data/dereferenced}
+  filtered-data-dir: ${RAG_FILTERED_DATA_DIR:./data/filtered}
+  masked-data-dir: ${RAG_MASKED_DATA_DIR:./data/masked}
+  masked-mapping-file: ${RAG_MASKED_MAPPING_FILE:./data/masked-mapping.json}
+  replaced-data-dir: ${RAG_REPLACED_DATA_DIR:./data/replaced}

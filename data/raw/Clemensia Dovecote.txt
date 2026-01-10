@@ -1,0 +1,312 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Clemensia Dovecote</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/49/Clemensia_at_the_Citadel.jpg/revision/latest?cb=20240816215001" class="image image-thumbnail" title="Clemensia at the Citadel">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/4/49/Clemensia_at_the_Citadel.jpg/revision/latest/scale-to-width-down/268?cb=20240816215001" srcset="https://static.wikia.nocookie.net/thehungergames/images/4/49/Clemensia_at_the_Citadel.jpg/revision/latest/scale-to-width-down/268?cb=20240816215001 1x, https://static.wikia.nocookie.net/thehungergames/images/4/49/Clemensia_at_the_Citadel.jpg/revision/latest/scale-to-width-down/536?cb=20240816215001 2x" class="pi-image-thumbnail" data-relevant="1" alt="Clemensia at the Citadel" width="270" height="182" data-image-key="Clemensia_at_the_Citadel.jpg" data-image-name="Clemensia at the Citadel.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">17-18</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Clemmie (by <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>)<sup id="cite_ref-Ballad_6_1-0" class="reference"><a href="#cite_note-Ballad_6-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li><li>Clem (by <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a> and <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a>)<sup id="cite_ref-Ballad_13_2-0" class="reference"><a href="#cite_note-Ballad_13-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Academy" title="Academy">Academy</a> student</li><li><a href="/wiki/Mentor" title="Mentor">Mentor</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive (book) <br>Deceased (film)<sup id="cite_ref-lesslie_3-0" class="reference"><a href="#cite_note-lesslie-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ashley_Liao" title="Ashley Liao">Ashley Liao</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>He did not want to be her enemy. If the Snow fortress was about to fall, he would need friends. Until the snake incident, he’d counted Clemensia among his best.</i>"</span></dd>
+<dd>—<a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> on his friendship with Clemensia<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Clemensia Dovecote</b> was a female resident of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> and a student of the <a href="/wiki/Academy" title="Academy">Academy</a>. She was one of 24 top-performing seniors at the Academy selected to be a <a href="/wiki/Mentor" title="Mentor">mentor</a> for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. She was assigned the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_11" title="District 11">District 11</a>, <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a>.
+</p><p>Clemensia was the daughter of the energies secretary.<sup id="cite_ref-Ballad_1_4-0" class="reference"><a href="#cite_note-Ballad_1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#10th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Film_adaptation"><span class="tocnumber">1.2</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personality"><span class="tocnumber">3</span> <span class="toctext">Personality</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37500" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Clemensia Dovecote's tribute in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Clemensia Dovecote, a top-performing senior at the Academy, mentored two tributes: Reaper Ash, the male tribute from District 11, and Sol, the female tribute from District 5.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37501" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Clemensia Dovecote's role in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Clemensia Dovecote, an Academy senior from the Capitol, mentored the male tribute from District 11, Reaper Ash. Despite her struggles with malnutrition, she was a dedicated mentor and maintained a friendship with Coriolanus Snow.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37502" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Did Clemensia Dovecote survive the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the book The Ballad of Songbirds and Snakes, Clemensia Dovecote is alive. However, her fate is presumed deceased in the movie adaptation of the Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Clemensia Dovecote","mainEntity":[{"@type":"Question","name":"Who was Clemensia Dovecote's tribute in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Clemensia Dovecote, a top-performing senior at the Academy, mentored two tributes: Reaper Ash, the male tribute from District 11, and Sol, the female tribute from District 5."}},{"@type":"Question","name":"What was Clemensia Dovecote's role in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Clemensia Dovecote, an Academy senior from the Capitol, mentored the male tribute from District 11, Reaper Ash. Despite her struggles with malnutrition, she was a dedicated mentor and maintained a friendship with Coriolanus Snow."}},{"@type":"Question","name":"Did Clemensia Dovecote survive the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the book The Ballad of Songbirds and Snakes, Clemensia Dovecote is alive. However, her fate is presumed deceased in the movie adaptation of the Hunger Games."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FClemensia_Dovecote%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/78/ClemensiaDovecote.jpg/revision/latest?cb=20231122042000" class="mw-file-description image"><img alt="Clemensia at the reaping" src="https://static.wikia.nocookie.net/thehungergames/images/7/78/ClemensiaDovecote.jpg/revision/latest/scale-to-width-down/180?cb=20231122042000" decoding="async" loading="lazy" width="180" height="169" class="thumbimage" data-image-name="ClemensiaDovecote.jpg" data-image-key="ClemensiaDovecote.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:ClemensiaDovecote.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Clemensia at the reaping.</p> 		 	</figcaption> </figure>
+<p>Clemensia was present at the <a href="/wiki/Reaping" title="Reaping">reaping</a> for the 10th Hunger Games, and like many other <a href="/wiki/Academy" title="Academy">Academy</a> students, was awaiting the announcement of her assignment and tribute to mentor for the games. When it was announced by <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> that she was to mentor the district 11 boy, <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a>, she received the news with tact and made a note of her tribute in her binder.<sup id="cite_ref-Ballad_1_4-1" class="reference"><a href="#cite_note-Ballad_1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> Alike many of her peers, Clemensia continued on with the reaping day festivities and ate, as <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> had placed his plate down next to Clemensia's.<sup id="cite_ref-Ballad_2_5-0" class="reference"><a href="#cite_note-Ballad_2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>On the morning of the arrival of the tributes, the twenty-four mentors were called in a seminar in the morning led by Professor <a href="/wiki/Crispus_Demigloss" title="Crispus Demigloss">Crispus Demigloss</a>. <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a> proposed the idea of making it compulsory to view the Games. In response, Clemensia questioned his proposal, asking what would occur if people did not abide by that. However, she concluded that citizens avoided watching the games due to their sickening nature. As the class continued and Festus had deduced that the Games could increase viewership by betting, Clemensia remarked that betting on tributes was gruesome, and thoughtfully twisting her hair, disputed in disbelief at the idea whether betting should be put in place. When Coriolanus responded that gambling should continue if was successful for the 10th Hunger Games, Clemensia shook her head in exasperation.
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/45/Reaper_and_Clemensia_.jpg/revision/latest?cb=20231122042221" class="mw-file-description image"><img alt="Clemensia meeting Reaper." src="https://static.wikia.nocookie.net/thehungergames/images/4/45/Reaper_and_Clemensia_.jpg/revision/latest/scale-to-width-down/180?cb=20231122042221" decoding="async" loading="lazy" width="180" height="167" class="thumbimage" data-image-name="Reaper and Clemensia .jpg" data-image-key="Reaper_and_Clemensia_.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Reaper_and_Clemensia_.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Clemensia meeting Reaper.</p> 		 	</figcaption> </figure>
+<p>The next day, Clemensia met Reaper, as the mentors were to be introduced to their assignments. However, as the mentors were walking back to the biology lab afterwards, Clemensia revealed that Reaper refused to speak to her. She also stated that she believed it was ironic to name a child Reaper then have them <a href="/wiki/Reaped" class="mw-redirect" title="Reaped">reaped</a>.<sup id="cite_ref-Ballad_6_1-1" class="reference"><a href="#cite_note-Ballad_6-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>After the class with Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>, Clemensia, <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne</a> and Coriolanus were chosen to write up an essay. The three agreed to meet one another at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a> to meet their tributes at 8 o'clock and then go to the library to write up the proposal. However, after Arachne had her throat slit by her tribute, <a href="/wiki/Brandy" title="Brandy">Brandy</a>, Clemensia met up with Snow and <a href="/wiki/Festus_Creed" title="Festus Creed">Festus</a> in the zoo, trembling in distress. The three walked back to Festus' apartment, but when he broke into tears, Clemensia and Snow bid him good night on the elevator. As Snow walked Clemensia home, she mentioned that Dr. Gaul would surely not expect the proposal to be finished after the ordeal.
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/91/Clemensia_and_snakes.jpg/revision/latest?cb=20230926201932" class="mw-file-description image"><img alt="Clemensia reaching into the snake tank." src="https://static.wikia.nocookie.net/thehungergames/images/9/91/Clemensia_and_snakes.jpg/revision/latest/scale-to-width-down/180?cb=20230926201932" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="Clemensia and snakes.jpg" data-image-key="Clemensia_and_snakes.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Clemensia_and_snakes.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Clemensia reaching into the snake tank.</p> 		 	</figcaption> </figure>
+<p>However, Coriolanus wrote the proposal on sponsors and betting odds by himself. The next day, Clemensia and Coriolanus were called out of class by Dr. Gaul, and Snow revealed to Clemensia that he wrote the proposal at night. Clemensia yelled at Coriolanus in disbelief that he would do such a thing, as she was crying the entire night. However, she apologized to him afterwards, commenting that different people handled grief differently. They made their way to Dr. Gaul and came into contact with her <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a>. Dr. Gaul questioned the pair on who wrote on the proposal, and they both lied that they had written the essay together, when in reality, Coriolanus had written the essay by himself. Aware of the lie, Dr. Gaul taunted Clemensia by asking her to dip her hands in the snakes' tank to retrieve the only available copy of the essay. Since the snakes did not recognize her scent, they bit her and she screamed, shaking her hand profusely.<sup id="cite_ref-Ballad_7_6-0" class="reference"><a href="#cite_note-Ballad_7-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> She was then pinned down by lab assistants and injected with a needle before quickly losing consciousness. 
+</p><p>She was then transported to the <a href="/wiki/Capitol_Hospital" title="Capitol Hospital">Capitol Hospital</a>, where she regained consciousness and screamed so loudly that Coriolanus heard her near the emergency room. Her parents were then informed of the incident and rushed to the hospital to visit her although visitors were strictly prohibited, as the staff at the hospital lied to Clemensia's parents and the public, stating that Clemensia had caught an infectious flu.<sup id="cite_ref-Ballad_8_7-0" class="reference"><a href="#cite_note-Ballad_8-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>Clemensia visited Coriolanus in the early morning of Tuesday after the bombing. She had a ravaged face, golden peeling brown skin and yellow coloured eyes. She received neurological damage due to the snake venom, her entire body twitching, her face grimacing and her tongue jerking periodically. Clemensia was frantic, hissing quietly at Snow on why no one had visited her, unaware of the lies the hospital staff had told her parents and others and whether people believed she died. In desperation, she told Coriolanus that she believed Dr. Gaul was out to kill her. She then revealed to him that her skin was turning to scales and it was spreading, but she was quickly taken away by hospital staff.<sup id="cite_ref-Ballad_10_8-0" class="reference"><a href="#cite_note-Ballad_10-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FClemensia_Dovecote%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Clemensia was released from hospital care on the first day of the games, and angrily walked straight toward Snow and <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata</a> sitting in the back of <a href="/wiki/Heavensbee_Hall" title="Heavensbee Hall">Heavensbee Hall</a>. Her condition had grown better, but she still looked considerably ill. She wore a long sleeve high collared white blouse to conceal her scales and the yellow of her eyes had reduced to a pale pollen shade. She picked on her skin and flicked bits of it off randomly. She made her way to the seats directly in front of Coriolanus and sarcastically thanked him for his lack of effort with helping her. She argued to Festus, Coriolanus and Lysistrata before stomping off and taking a seat on the front row. Festus remarked that her behaviour was abnormal.<sup id="cite_ref-Ballad_13_2-1" class="reference"><a href="#cite_note-Ballad_13-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p><a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia</a> requested Clemensia to give Reaper something as <a href="/wiki/Dill" title="Dill">Dill</a> died, but Clemensia retaliated. Coriolanus concluded that Clemensia wasn't herself, believing the snake venom had altered her brain and changed her behaviour.<sup id="cite_ref-Ballad_14_9-0" class="reference"><a href="#cite_note-Ballad_14-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> Snow also noticed that Clemensia spent a lot of time glaring at him.<sup id="cite_ref-Ballad_16_10-0" class="reference"><a href="#cite_note-Ballad_16-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> Clemensia abstained from feeding Reaper throughout much of the Games, exclaiming that she would only feed him when he did something that merited feeding. Her refusal to feed her tribute irritated Festus, who demanded that she feed Reaper at once, though to no avail.<sup id="cite_ref-Ballad_18_11-0" class="reference"><a href="#cite_note-Ballad_18-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> As Reaper picked up Wovey's body, Clemensia criticized him, calling him mentally unbalanced.
+</p><p>When snakes mutts were released into the arena, Clemensia panicked. She screamed and jumped from her chair, nearly causing Festus to fall. Afraid that she would reveal the story of the snakes to the others, Coriolanus wrapped his arms around her from behind to comfort or confine her. She went rigid but silent as Coriolanus comforted her, stating that she was entirely safe from the snake mutts. As <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> walked out into the arena in view of the cameras, Coriolanus let her go and gently pushed her toward Festus.<sup id="cite_ref-Ballad_19_12-0" class="reference"><a href="#cite_note-Ballad_19-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p><p>Afterward, the remaining mentors slept at the Heavensbee Hall. At dawn, Coriolanus observing Clemensia still awake and fingering her collarbone. Intending on making amends once more, he asked if her scales were fading, to which she replied that they had, but commented it may take a full year to disappear completely. Clemensia then apologised to Snow, revealing that the source of her recent erratic and abnormal behavior was a result of her fear. The pair then shared Coriolanus's last cheese tart whilst the others were sleeping and conversed. As they washed their faces to prepare for the day, she loaned Coriolanus her soap, a gesture that he considered to symbolise her forgiveness toward him. Almost back to normal, Clemensia began sending her tribute more gifts, although Reaper ignored them all.
+</p><p>As the tributes reduced to the final two, both Coriolanus and Clemensia refused to eat Festus' sandwich he gave to them out of nervousness. Eventually, Reaper died from poison, and Coriolanus was celebrated for his tribute's victory. Clemensia most likely participated in the celebrations before Coriolanus was taken away.<sup id="cite_ref-Ballad_20_13-0" class="reference"><a href="#cite_note-Ballad_20-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup> Following Coriolanus' disqualification, it is said that Clemensia would get the Plinth Prize at graduation.<sup id="cite_ref-Ballad_20_13-1" class="reference"><a href="#cite_note-Ballad_20-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FClemensia_Dovecote%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">film adaptation</a>, Clemensia volunteered to create the proposal with Coriolanus instead of Dr. Gaul assigning it to her, Arachne, and Coriolanus. The next morning, she attempted to take full credit for the writing and fell off the tall platform housing the snake mutts after being bitten.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> Unlike the book, she dies from the snake bite.<sup id="cite_ref-lesslie_3-1" class="reference"><a href="#cite_note-lesslie-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FClemensia_Dovecote%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Coriolanus considered her to be the prettiest girl in her year at the <a href="/wiki/Academy" title="Academy">Academy</a> before the snake attack occurred.<sup id="cite_ref-Ballad_8_7-1" class="reference"><a href="#cite_note-Ballad_8-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> She had golden brown skin and raven hair that reached over her shoulders.<sup id="cite_ref-Ballad_1_4-2" class="reference"><a href="#cite_note-Ballad_1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> In the film, she is portrayed by an East Asian actress.
+</p><p>After she was bitten by the snake mutts, Clemensia's skin was peeling and her eyes were the color of egg yolks. She was also affected by twitching across her entire body, and part of her skin was mottled with the bright blue, pink and yellow scales that the snakes had.<sup id="cite_ref-Ballad_10_8-1" class="reference"><a href="#cite_note-Ballad_10-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality">Personality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FClemensia_Dovecote%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>What's her problem? Other than she looks like she's molting.</i>"</span></dd>
+<dd>—Festus Creed on Clemensia Dovecote’s snarky behaviour<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>Compared with <a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a>, she showed tact and studiously made a note in her binder upon learning of her tribute.<sup id="cite_ref-Ballad_1_4-3" class="reference"><a href="#cite_note-Ballad_1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>She was extremely popular with both the students and faculty of the <a href="/wiki/Academy" title="Academy">Academy</a>, due to her kindness. This served to excuse an occasional rudeness, such as not raising her hand before asking a question of an instructor.<sup id="cite_ref-Ballad_6_1-2" class="reference"><a href="#cite_note-Ballad_6-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Clemensia was shown to be kind and rather humble, as when she showed her hysteric behavior after the snake incident, Lysistrata, Festus and Coriolanus all observed that the behavior was abnormal coming from her, with Coriolanus deducing that her behavior was a result of the snake venom.<sup id="cite_ref-Ballad_13_2-2" class="reference"><a href="#cite_note-Ballad_13-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Clemensia was kind and forgiving, apologizing to Snow multiple times for her comments and her behavior, and was shown to be considerate, as she always apologized to others and considered what she would do better. As an example, she apologized for yelling at Coriolanus for writing the essay overnight after Arachne's death, commenting that others handled grief differently.<sup id="cite_ref-Ballad_7_6-1" class="reference"><a href="#cite_note-Ballad_7-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FClemensia_Dovecote%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name Clemensia closely resembles <a href="https://en.wikipedia.org/wiki/Clementia" class="extiw" title="wikipedia:Clementia">Clementia</a>, the Roman goddess of clemency or mercy. <a href="https://en.wikipedia.org/wiki/Clemensia" class="extiw" title="wikipedia:Clemensia">Clemensia</a> is also a genus of moths in the family Erebidae. Dovecote is the word for a birdhouse made for doves.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FClemensia_Dovecote%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_6-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_6_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_6_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_6_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_13-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_13_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_13_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_13_2-2">2.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-lesslie-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-lesslie_3-0">3.0</a></sup> <sup><a href="#cite_ref-lesslie_3-1">3.1</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.thewrap.com/hunger-games-ballad-of-songbirds-and-snakes-snow-evil-michael-lesslie-interview/">Was Snow Inherently Evil? And Other Burning ‘Hunger Games’ Questions Answered by Cowriter Michael Lesslie</a>. TheWrap. Retrieved on June 10, 2024.</span>
+</li>
+<li id="cite_note-Ballad_1-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_4-0">4.0</a></sup> <sup><a href="#cite_ref-Ballad_1_4-1">4.1</a></sup> <sup><a href="#cite_ref-Ballad_1_4-2">4.2</a></sup> <sup><a href="#cite_ref-Ballad_1_4-3">4.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_2-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_2_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_7-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_7_6-0">6.0</a></sup> <sup><a href="#cite_ref-Ballad_7_6-1">6.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_8-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_8_7-0">7.0</a></sup> <sup><a href="#cite_ref-Ballad_8_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-Ballad_10-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_10_8-0">8.0</a></sup> <sup><a href="#cite_ref-Ballad_10_8-1">8.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_14-9"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_14_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_16-10"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_16_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-Ballad_18-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_18_11-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-Ballad_19-12"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_19_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-Ballad_20-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_20_13-0">13.0</a></sup> <sup><a href="#cite_ref-Ballad_20_13-1">13.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 20 <span class="error mw-ext-cite-error" lang="en" dir="ltr">Cite error: Invalid <code>&lt;ref&gt;</code> tag; name "Ballad 20" defined multiple times with different content</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <strong class="mw-selflink selflink">Clemensia Dovecote</strong> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20260105120923
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.095 seconds
+Real time usage: 0.170 seconds
+Preprocessor visited node count: 1015/1000000
+Post‐expand include size: 5741/2097152 bytes
+Template argument size: 1419/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8617/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   83.297      1 -total
+ 36.67%   30.547      1 Template:Character
+ 31.90%   26.568      1 Template:Reflist
+  7.60%    6.329     13 Template:BSS
+  4.17%    3.471      1 Template:PrequelSeries
+  3.92%    3.268      1 Template:Cite_web
+  1.97%    1.644      2 Template:Quote
+  1.67%    1.395      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:538842-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105120923 and revision id 967513. Rendering was triggered because: page-view
+ -->
+</div>

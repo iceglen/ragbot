@@ -1,0 +1,173 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/d0/Thgexplorer_snow.jpg/revision/latest?cb=20130906224150" class="mw-file-description image"><img alt=", one of the most influential presidents of Panem" src="https://static.wikia.nocookie.net/thehungergames/images/d/d0/Thgexplorer_snow.jpg/revision/latest/scale-to-width-down/180?cb=20130906224150" decoding="async" loading="lazy" width="180" height="213" class="thumbimage" data-image-name="Thgexplorer snow.jpg" data-image-key="Thgexplorer_snow.jpg" data-relevant="0"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Thgexplorer_snow.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, one of the most influential presidents of Panem</p> 		 	</figcaption> </figure>
+<p>The <b>president</b> of <a href="/wiki/Panem" title="Panem">Panem</a> presides over the entire country, making all major administrative decisions. Panem is shown to be a totalitarian dictatorship, a police state in which the president possessed all the governing power. 
+</p><p><a href="/wiki/District_13" title="District 13">District 13</a> also had a president, although it was the only district to do so, given that it considered itself independent from the others. Although the district presumably had a republican form of government, and was fighting for freedom and republicanism during both rebellions, the unique situation meant that it was in practice a stratocracy, or a government led by military chiefs. 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hunger_Games_and_pre-Hunger_Games_era"><span class="tocnumber">1.1</span> <span class="toctext">Hunger Games and pre-Hunger Games era</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Republic_era"><span class="tocnumber">1.2</span> <span class="toctext">Republic era</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Powers"><span class="tocnumber">2</span> <span class="toctext">Powers</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Known_presidents"><span class="tocnumber">3</span> <span class="toctext">Known presidents</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="51572" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was the president of Panem before President Snow in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Before President Snow, Panem was led by President Ravinstill. His leadership spanned from before the First Rebellion and the Dark Days, and he was instrumental in the creation of the Hunger Games following the districts' defeat and District 13's secession. Coriolanus Snow, the Hunger Games president, succeeded him and held power for a minimum of 25 years, including during the 50th Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51573" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How does the role of the president in Panem differ from that of District 13 in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games series, the president of Panem, including figures like President Ravinstill and Coriolanus Snow, holds all administrative power in a totalitarian dictatorship. Conversely, District 13, under President Alma Coin, operates independently with a president serving as the head of state, government, and armed forces.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51574" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who becomes the president of Panem after the rebellion in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Following the Second Rebellion, President Coriolanus Snow was removed from power and replaced by President Alma Coin of District 13. Coin, however, was assassinated by Katniss Everdeen, triggering an emergency election. The outcome of this election saw Commander Paylor, a rebel leader from District 8, becoming the first democratically elected president of Panem.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51575" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What type of government does Panem have under the president's rule in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Panem, under the Hunger Games President, was a totalitarian dictatorship where the President held most of the governing power. Post the Second Rebellion, Panem transitioned into a constitutional republic, indicating a shift towards representative democracy.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51576" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How old is President Snow during the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the 74th Hunger Games, President Snow, the President of Panem, was 73 years old. This is determined from his age of 5 at the onset of a civil war, which occurred 74 years prior to the original trilogy.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"President","mainEntity":[{"@type":"Question","name":"Who was the president of Panem before President Snow in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Before President Snow, Panem was led by President Ravinstill. His leadership spanned from before the First Rebellion and the Dark Days, and he was instrumental in the creation of the Hunger Games following the districts' defeat and District 13's secession. Coriolanus Snow, the Hunger Games president, succeeded him and held power for a minimum of 25 years, including during the 50th Hunger Games."}},{"@type":"Question","name":"How does the role of the president in Panem differ from that of District 13 in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games series, the president of Panem, including figures like President Ravinstill and Coriolanus Snow, holds all administrative power in a totalitarian dictatorship. Conversely, District 13, under President Alma Coin, operates independently with a president serving as the head of state, government, and armed forces."}},{"@type":"Question","name":"Who becomes the president of Panem after the rebellion in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Following the Second Rebellion, President Coriolanus Snow was removed from power and replaced by President Alma Coin of District 13. Coin, however, was assassinated by Katniss Everdeen, triggering an emergency election. The outcome of this election saw Commander Paylor, a rebel leader from District 8, becoming the first democratically elected president of Panem."}},{"@type":"Question","name":"What type of government does Panem have under the president's rule in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Panem, under the Hunger Games President, was a totalitarian dictatorship where the President held most of the governing power. Post the Second Rebellion, Panem transitioned into a constitutional republic, indicating a shift towards representative democracy."}},{"@type":"Question","name":"How old is President Snow during the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"During the 74th Hunger Games, President Snow, the President of Panem, was 73 years old. This is determined from his age of 5 at the onset of a civil war, which occurred 74 years prior to the original trilogy."}}]}</script>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPresident%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hunger_Games_and_pre-Hunger_Games_era">Hunger Games and pre-Hunger Games era</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPresident%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/President_Ravinstill" class="mw-redirect" title="President Ravinstill">President Ravinstill</a> was the first known president of Panem, having led the country since before the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>. He also oversaw the creation of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> following the districts' defeat and District 13's secession.<sup id="cite_ref-Ballad_2_1-0" class="reference"><a href="#cite_note-Ballad_2-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>The second known president was <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, who led Panem for at least 25 years, given that he was president during the 50th Hunger Games.<sup id="cite_ref-CF_14_2-0" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> His regime was known to be exceptionally harsh and brutal in maintaining law and order in the districts with the Peacekeeping Corps, causing most citizens to live under brutal oppression and abject poverty. He led the Capitol's forces to unsuccessfully suppress the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, and was killed at the age of 84 years after being sentenced to death after the war. Although he was sentenced to be publicly executed by Katniss Everdeen, her last-minute change of mind led to him being lynched by an angry mob. 
+</p><p>It is unknown when and how Alma Coin became president in District 13, but it was definitely well after its surface was <a href="/wiki/Bombings#First_bombing_of_District_13" title="Bombings">bombed</a> during the Dark Days. The exact details of District 13's government is unknown, although given that they were fighting for freedom and republicanism during both rebellions, the district presumably adopted a republican form of government during their seven decades of political independence. Coin led District 13 and the rebels to successfully topple the Capitol during the Second Rebellion, and took charge of Panem shortly after, sending troops to put down the remaining Capitol resistance.<sup id="cite_ref-MJ_25_3-0" class="reference"><a href="#cite_note-MJ_25-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Coin showed autocratic tendencies after the war, being reluctant to organize any elections. She was unexpectedly assassinated by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> during Snow's execution.<sup id="cite_ref-MJ_26_4-0" class="reference"><a href="#cite_note-MJ_26-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Republic_era">Republic era</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPresident%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a> was the leader of the rebels in <a href="/wiki/District_8" title="District 8">District 8</a>. After Coin was killed, Paylor became president in an emergency election. It can be assumed that with the successful foundation of a constitutional republic as well as numerous reforms, the power of the president was significantly diminished and presumably shared and balanced with that of a legislative branch and a judicial branch.<sup id="cite_ref-MJ_27_5-0" class="reference"><a href="#cite_note-MJ_27-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Powers">Powers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPresident%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For much of history, Panem was ruled as a totalitarian dictatorship, a police state in which the president possessed nearly all governing power, delegating some responsibilities to his cabinet as well as the districts' mayors. In both the films and the novels, the president is shown to have the following powers and responsibilities:
+</p>
+<ul><li>Issuing decrees</li>
+<li>Commander-in-chief of the Armed Forces (Peacekeepers)</li>
+<li>Issuing execution (death penalty) orders</li>
+<li>Issuing orders to arrest, detain, imprison, torture, and kill any citizen of Panem</li>
+<li>Organizing and overseeing the annual Hunger Games</li>
+<li>Adjusting production quota requirements for the districts</li>
+<li>Broadcasting and overseeing the broadcasting of Capitol propaganda</li>
+<li>Declaring war</li>
+<li>Serve as the Mayor of the Capitol (according to prop money featuring President Ravinstill)</li></ul>
+<h2><span class="mw-headline" id="Known_presidents">Known presidents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPresident%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/President_Ravinstill" class="mw-redirect" title="President Ravinstill">Ravinstill</a></li>
+<li><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a></li>
+<li><a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a></li>
+<li><a href="/wiki/Commander_Paylor" title="Commander Paylor">Paylor</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPresident%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_2-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_2_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-CF_14-2"><span class="mw-cite-backlink"><a href="#cite_ref-CF_14_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-MJ_25-3"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_25_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-MJ_26-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_26_4-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 26</span>
+</li>
+<li id="cite_note-MJ_27-5"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_27_5-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 27</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251229173721
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.019 seconds
+Real time usage: 0.030 seconds
+Preprocessor visited node count: 104/1000000
+Post‐expand include size: 82/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1799/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    4.471      1 Template:Reflist
+100.00%    4.471      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:5138-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251229173721 and revision id 966057. Rendering was triggered because: page-view
+ -->
+</div>

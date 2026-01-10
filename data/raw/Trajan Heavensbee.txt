@@ -1,0 +1,139 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Trajan Heavensbee</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/77/Trajan.jpeg/revision/latest?cb=20250403004225" class="image image-thumbnail" title="Trajan">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/7/77/Trajan.jpeg/revision/latest?cb=20250403004225" srcset="https://static.wikia.nocookie.net/thehungergames/images/7/77/Trajan.jpeg/revision/latest?cb=20250403004225 1x, https://static.wikia.nocookie.net/thehungergames/images/7/77/Trajan.jpeg/revision/latest?cb=20250403004225 2x" class="pi-image-thumbnail" data-relevant="1" alt="Trajan" width="109" height="159" data-image-key="Trajan.jpeg" data-image-name="Trajan.jpeg" />
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius</a> and <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> <small>(descendants)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="moviemention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Sunrise on the Reaping">"<i>Trajan Heavensbee. I'm his great-, great- —I can never remember how many greats. Anyway, he was one of my grandfathers.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> to <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a><sup class="noprint"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">[src]</a></sup></dd></dl></div>
+<p><b>Trajan Heavensbee</b> is a direct ancestor of <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>. He was mentioned on a monument inside <a href="/wiki/Heavensbee_Hall" title="Heavensbee Hall">Heavensbee Hall</a>, honoring him as the "Father of <a href="/wiki/Panem" title="Panem">Panem</a>".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Legacy"><span class="tocnumber">1</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTrajan_Heavensbee%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Trajan had a grand library in the <a href="/wiki/Heavensbee_mansion" title="Heavensbee mansion">Heavensbee mansion</a> that was still in use during Plutarch's lifetime. Above the fireplace was a portrait of Trajan with a white beard, smiling while holding an open book. Plutarch considered him the only ancestor "<i>who's been of any use"</i>. <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> talked to <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> in the library and when Snow started violently vomiting, Haymitch wondered what Trajan would have thought of that.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTrajan_Heavensbee%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="https://en.wikipedia.org/wiki/Trajan" class="extiw" title="wikipedia:Trajan">Trajan</a> was the name of a Roman emperor who expanded the Roman Empire until it encompassed more territory than it ever had before. "Heavensbee" likely refers to the spiritual domain of <a href="/wiki/Heaven" title="Heaven">Heaven</a>.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTrajan_Heavensbee%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/4f/Trajan_hb.png/revision/latest?cb=20231228100647" class="mw-file-description image"><img alt="Peter Dinklage in front of the plaque." src="https://static.wikia.nocookie.net/thehungergames/images/4/4f/Trajan_hb.png/revision/latest/scale-to-width-down/180?cb=20231228100647" decoding="async" loading="lazy" width="180" height="245" class="thumbimage" data-image-name="Trajan hb.png" data-image-key="Trajan_hb.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Trajan_hb.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Peter_Dinklage" title="Peter Dinklage">Peter Dinklage</a> in front of the plaque.</p> 		 	</figcaption> </figure>
+<ul><li>Trajan Heavensbee was first introduced to the franchise on a monument in Heavensbee Hall, shown briefly in <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a>.</i> He was not mentioned in the books until <a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><i>Sunrise on the Reaping</i></a>, published in 2025.</li>
+<li>His monument was modeled after the face of <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>, who directed the film and three of its four predecessors. Lawrence was embarrassed by how large the monument was, so he tried to block it by putting <a href="/wiki/Peter_Dinklage" title="Peter Dinklage">Peter Dinklage</a> in front of it in the <a href="/wiki/Reaping" title="Reaping">reaping</a> scene.<sup id="cite_ref-commentary_3-0" class="reference"><a href="#cite_note-commentary-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTrajan_Heavensbee%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-commentary-3"><span class="mw-cite-backlink"><a href="#cite_ref-commentary_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> audio commentary by <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a> and <a href="/wiki/Nina_Jacobson" title="Nina Jacobson">Nina Jacobson</a></span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20260104105045
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.052 seconds
+Real time usage: 0.075 seconds
+Preprocessor visited node count: 246/1000000
+Post‐expand include size: 724/2097152 bytes
+Template argument size: 280/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1136/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   46.874      1 -total
+ 74.26%   34.808      1 Template:Character
+ 10.43%    4.890      1 Template:Reflist
+  4.95%    2.321      2 Template:SOTR
+  3.70%    1.736      1 Template:Quote
+  3.21%    1.504      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542511-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104105045 and revision id 966771. Rendering was triggered because: page-view
+ -->
+</div>

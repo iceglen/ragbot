@@ -1,0 +1,38 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 292px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/39/Panem-Rising.png/revision/latest?cb=20141112160040" class="mw-file-description image"><img alt="Panem-Rising" src="https://static.wikia.nocookie.net/thehungergames/images/3/39/Panem-Rising.png/revision/latest/scale-to-width-down/292?cb=20141112160040" decoding="async" loading="lazy" width="292" height="146" class="thumbimage" data-image-name="Panem-Rising.png" data-image-key="Panem-Rising.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Panem-Rising.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<p><b>The Hunger Games: Panem Rising</b> is a game available on iPhone and iPad created by Kabam Beijing Studios to leverage the release of <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i> film.
+</p><p>It is based off another Kabam Beijing Studios game, Heroes of Camelot, where gameplay is almost identical but the graphics and characters have changed to match the movie and book's intellectual property. While you get to battle through the <a href="/wiki/Districts" class="mw-redirect" title="Districts">districts</a> the game does not have an ending. Ultimately it does not allow you to overthrow <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> nor fight <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>.&#160;
+</p><p>It is a CCG (Card Collecting Game)-style game that sets itself in <a href="/wiki/Panem" title="Panem">Panem</a> during the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>. The goal of the game is to collect the rarest and most powerful characters' cards as you explore through the districts. To fully leverage the intellectual property, Kabam released multiple versions of key characters in the game (e.g. there may be at least 4 versions of <a href="/wiki/Katniss" class="mw-redirect mw-disambig" title="Katniss">Katniss</a>' cards in the game).&#160;It was released on Nov 5th, 2014 and is available in English, Chinese, French, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Turkish and German.&#160;
+</p>
+<h2><span class="mw-headline" id="Gameplay">Gameplay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games%3A_Panem_Rising%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Throughout the game, players can unlock characters, called recruits, which include Hunger Games characters such as <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a>, <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> and <a href="/wiki/Beetee" class="mw-redirect" title="Beetee">Beetee</a>, and use them to battle <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a>. Battles in the game are completely automated, meaning you do not have control over how your recruits behave during battles as their behaviors are program-driven by preset odds.
+</p><p>Players can collect free characters via its Basic Recruit feature, which offers medium and low ranking cards (4-star or lower). Players can also collect medium and high ranking cards (3-stars or above) through paying live currency and playing its Star Recruit feature, although the chances of obtaining the highest ranking cards such as a 6-star Katniss or <a href="/wiki/Gale" class="mw-redirect" title="Gale">Gale</a> card could be as low as 0.1% chance per draw. &#160;
+</p><p>Players can use "Endurance Points" to explore different surroundings to gain coins and experience points, and encounter Peacekeepers and other enemies. Exploring is done by tapping an “Explore" button repetitively while the scenery rubber-bands back-and-forth giving the illusion that you are moving forward into the picture. "Explore" button is disabled once you run out of "Endurance Points", which are recharged slowly over time.
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 220px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/fd/2720572-hunger2.png/revision/latest?cb=20150211171259" class="mw-file-description image"><img alt="One of the most powerful cards." src="https://static.wikia.nocookie.net/thehungergames/images/f/fd/2720572-hunger2.png/revision/latest/scale-to-width-down/220?cb=20150211171259" decoding="async" loading="lazy" width="220" height="165" class="thumbimage" data-image-name="2720572-hunger2.png" data-image-key="2720572-hunger2.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:2720572-hunger2.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">One of the most powerful cards.</p> 		 	</figcaption> </figure>
+<p>Players can also upgrade recruits by training them, at the expense of 'absorbing' other recruits. This 'absorbing' is not explained as to how a recruit, such as Katniss, becomes stronger by 'absorbing' another recruit. Nonetheless, you can train recruits that you value by 'absorbing' recruits that you don't value. As a recruit becomes stronger through 'absorbing' other recruits they require exponentially more and more recruits to 'absorb' in order to continue to become stronger. In the end, a recruit may need to 'absorb' well over 200 other recruits in order for it to be fully upgraded/trained.
+</p><p>Ultimately, the most powerful force in the game are card combos. These combos are created by having specific recruits together in a squad to trigger powerful card combos (e.g. +200% attack). In this sense, certain cards are considered the 'missing piece' recruit to trigger several powerful combos (e.g. there may be 3 powerful combos, all needing the same Gale card). These 'missing piece' cards are likely in very high demand and their supply could be extremely low, hence becoming a key motivating factor for players to play and spend. Demand for 'missing piece' cards are further heightened as there is no card trading allowed in the game, hence players cannot swap cards that each other needs.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20251222073421
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.012 seconds
+Real time usage: 0.022 seconds
+Preprocessor visited node count: 14/1000000
+Post‐expand include size: 30/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:508831-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251222073421 and revision id 938216. Rendering was triggered because: page-view
+ -->
+</div>

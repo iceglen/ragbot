@@ -1,0 +1,80 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Jeffrey Hallman</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f0/Jeffrey_Hallman.jpg/revision/latest?cb=20250723022402" class="image image-thumbnail" title="Jeffrey Hallman">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/f/f0/Jeffrey_Hallman.jpg/revision/latest/scale-to-width-down/268?cb=20250723022402" srcset="https://static.wikia.nocookie.net/thehungergames/images/f/f0/Jeffrey_Hallman.jpg/revision/latest/scale-to-width-down/268?cb=20250723022402 1x, https://static.wikia.nocookie.net/thehungergames/images/f/f0/Jeffrey_Hallman.jpg/revision/latest/scale-to-width-down/536?cb=20250723022402 2x" class="pi-image-thumbnail" data-relevant="1" alt="Jeffrey Hallman" width="270" height="405" data-image-key="Jeffrey_Hallman.jpg" data-image-name="Jeffrey Hallman.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth name">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
+	
+	<div class="pi-data-value pi-font">Jeffrey Lee Hallman</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthplace">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthplace</h3>
+	
+	<div class="pi-data-value pi-font">Talladega, Alabama, United States</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i></div>
+</div>
+</aside>
+
+</p><p><b>Jeffrey Lee Hallman</b> is an American actor set to play an adult <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> in <i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FJeffrey_Hallman%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/name/nm2216707" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/name/nm2216707">Jeffrey Hallman</a> at the Internet Movie Database</span></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FJeffrey_Hallman%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://x.com/TheHungerGames/status/1947673010049323189">Post by the official Hunger Games account</a>&#32;(July 22, 2025).</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20260103214750
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.023 seconds
+Real time usage: 0.034 seconds
+Preprocessor visited node count: 170/1000000
+Post‐expand include size: 819/2097152 bytes
+Template argument size: 381/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 583/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   27.194      1 -total
+ 65.83%   17.901      1 Template:Actor
+ 20.86%    5.674      1 Template:Reflist
+ 12.45%    3.386      1 Template:Imdb
+  9.29%    2.527      1 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:545371-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103214750 and revision id 962145. Rendering was triggered because: page-view
+ -->
+</div>

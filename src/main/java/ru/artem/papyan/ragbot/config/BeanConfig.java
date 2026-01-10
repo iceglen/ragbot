@@ -1,0 +1,42 @@
+package ru.artem.papyan.ragbot.config;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
+import okhttp3.OkHttpClient;
+import org.springframework.ai.chat.client.ChatClient;
+import org.springframework.ai.chat.model.ChatModel;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+@Configuration
+public class BeanConfig {
+
+    @Bean
+    public ExecutorService executorService() {
+        return Executors.newVirtualThreadPerTaskExecutor();
+    }
+
+    @Bean
+    public OkHttpClient okHttpClient() {
+        var client = new OkHttpClient();
+
+        client.dispatcher().setMaxRequestsPerHost(5);
+        client.dispatcher().setMaxRequests(5);
+
+        return client;
+    }
+
+    @Bean
+    public ObjectMapper objectMapper() {
+        return new ObjectMapper().registerModule(new JavaTimeModule());
+    }
+
+    @Bean
+    public ChatClient chatClient(ChatModel chatModel) {
+        return ChatClient.builder(chatModel)
+                .build();
+    }
+}

@@ -1,0 +1,132 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">District 6 male victor</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/58/District_6_Reaping-1.jpeg/revision/latest?cb=20200725171713" class="image image-thumbnail" title="District 6 Reaping-1">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/5/58/District_6_Reaping-1.jpeg/revision/latest/scale-to-width-down/267?cb=20200725171713" srcset="https://static.wikia.nocookie.net/thehungergames/images/5/58/District_6_Reaping-1.jpeg/revision/latest/scale-to-width-down/267?cb=20200725171713 1x, https://static.wikia.nocookie.net/thehungergames/images/5/58/District_6_Reaping-1.jpeg/revision/latest?cb=20200725171713 2x" class="pi-image-thumbnail" data-relevant="1" alt="District 6 Reaping-1" width="270" height="368" data-image-key="District_6_Reaping-1.jpeg" data-image-name="District 6 Reaping-1.jpeg" />
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor" title="Victor">Victor</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_6" title="District 6">District 6</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Presumed deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font">Dwight O. Campbell<sup id="cite_ref-imdb_1-0" class="reference"><a href="#cite_note-imdb-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>This <b>District 6 male</b> was the <a href="/wiki/Victor" title="Victor">victor</a> of an unspecified edition of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Death"><span class="tocnumber">1.1</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_male_victor_%28Dwight_Campbell%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Years after his initial victory, <a href="/wiki/President" title="President">President</a> <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> announced that <a href="/wiki/Tribute" title="Tribute">tributes</a> for the third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a> would be <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaped</a> from the existing pool of victors, forcing them to compete in the Games regardless of age. As a result, this victor was present at <a href="/wiki/District_6" title="District 6">District 6</a>'s reaping for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. He did not <a href="/wiki/Volunteer" title="Volunteer">volunteer</a> to go in the <a href="/wiki/Male_morphling" class="mw-redirect" title="Male morphling">male morphling</a>'s place.<sup id="cite_ref-CF_film_2-0" class="reference"><a href="#cite_note-CF_film-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_male_victor_%28Dwight_Campbell%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the end of the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, he was not present at a meeting of the seven surviving victors, so he presumably died in the <a href="/wiki/Victors%27_Purge" title="Victors&#39; Purge">Victors' Purge</a>.<sup id="cite_ref-MJ_26_3-0" class="reference"><a href="#cite_note-MJ_26-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-MJP2_4-0" class="reference"><a href="#cite_note-MJP2-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_male_victor_%28Dwight_Campbell%29%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was an African American man, and at the reaping, he wore a bowler hat.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_male_victor_%28Dwight_Campbell%29%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>He was not seen in <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, but appeared in behind the scenes photos of the reaping in District 6.</li>
+<li>In addition to portraying this victor, Dwight Campbell was one of the film's camera operators.<sup id="cite_ref-imdb_1-1" class="reference"><a href="#cite_note-imdb-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_male_victor_%28Dwight_Campbell%29%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-imdb-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imdb_1-0">1.0</a></sup> <sup><a href="#cite_ref-imdb_1-1">1.1</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.imdb.com/title/tt1951264/fullcredits">https://www.imdb.com/title/tt1951264/fullcredits</a></span>
+</li>
+<li id="cite_note-CF_film-2"><span class="mw-cite-backlink"><a href="#cite_ref-CF_film_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-MJ_26-3"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_26_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-MJP2-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJP2_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260102205427
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.031 seconds
+Real time usage: 0.047 seconds
+Preprocessor visited node count: 165/1000000
+Post‐expand include size: 118/2097152 bytes
+Template argument size: 17/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1833/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   31.831      1 -total
+ 69.48%   22.117      1 Template:Character
+ 18.85%    6.001      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:543628-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102205427 and revision id 960819. Rendering was triggered because: page-view
+ -->
+</div>

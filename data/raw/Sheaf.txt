@@ -1,0 +1,205 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Sheaf</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/49/Sheaf.jpg/revision/latest?cb=20250316062614" class="image image-thumbnail" title="Sheaf">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/4/49/Sheaf.jpg/revision/latest/scale-to-width-down/268?cb=20250316062614" srcset="https://static.wikia.nocookie.net/thehungergames/images/4/49/Sheaf.jpg/revision/latest/scale-to-width-down/268?cb=20250316062614 1x, https://static.wikia.nocookie.net/thehungergames/images/4/49/Sheaf.jpg/revision/latest/scale-to-width-down/536?cb=20250316062614 2x" class="pi-image-thumbnail" data-relevant="1" alt="Sheaf" width="270" height="283" data-image-key="Sheaf.jpg" data-image-name="Sheaf.jpg" />
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">12–18</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_9" title="District 9">District 9</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Jona_Marie_Laux" title="Jona Marie Laux">Jona Marie Laux</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>The tributes began to compete for attention, drawing the cameras to the center of the stage. A limber little girl from District 9 did a back handspring after she received a bread roll.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> describing Sheaf performing for <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> citizens to get food.<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Sheaf</b> was the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_9" title="District 9">District 9</a> in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. She was treated by a veterinarian&#160;after an incident with her district partner, <a href="/wiki/Panlo" title="Panlo">Panlo</a>, and her <a href="/wiki/Mentor" title="Mentor">mentor</a>, <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a>, but eventually succumbed to her wounds.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Death"><span class="tocnumber">1.1</span> <span class="toctext">Death</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Film_adaptation"><span class="tocnumber">1.1.1</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sheaf grew up in District 9 and became her district's female tribute in <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a> for the 10th Hunger Games.<sup id="cite_ref-Ballad_7_1-0" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Along with the other tributes, Sheaf was taken to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in a dirty cattle car. From there, they were dumped into the monkey house at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>.<sup id="cite_ref-Ballad_3_2-0" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> While in the monkey enclosure, it was mentioned that Sheaf was "a limber little girl" and performed a back handspring to receive food from the <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a> citizens that were watching.<sup id="cite_ref-Ballad_6_3-0" class="reference"><a href="#cite_note-Ballad_6-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Before the start of the Games, the tributes and their mentors were taken on a tour of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a>. During the tour, rebel bombs exploded, heavily injuring the District 9 duo and their mentors. Sheaf was denied hospital care, in spite of repeated requests made by the veterinarian. Unlike <a href="/wiki/Otto" title="Otto">Otto</a> and <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a>, the two tributes from <a href="/wiki/District_6" title="District 6">District 6</a>, Sheaf managed to survive a little longer, but eventually succumbed to her wounds. 
+</p><p>Her body was later draped on the back of a horse and paraded down <a href="/wiki/Scholars_Road" title="Scholars Road">Scholars Road</a> during <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo</a> and <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a>'s funeral.<sup id="cite_ref-Ballad_10_4-0" class="reference"><a href="#cite_note-Ballad_10-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest?cb=20250316063242" class="mw-file-description image"><img alt="Otto shooting Sheaf with a crossbow." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="85" class="thumbimage lazyload" data-image-name="BoSaSOttoSheaf.png" data-image-key="BoSaSOttoSheaf.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest/scale-to-width-down/180?cb=20250316063242" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest?cb=20250316063242" class="mw-file-description image"><img alt="Otto shooting Sheaf with a crossbow." src="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest/scale-to-width-down/180?cb=20250316063242" decoding="async" loading="lazy" width="180" height="85" class="thumbimage" data-image-name="BoSaSOttoSheaf.png" data-image-key="BoSaSOttoSheaf.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/8/8f/BoSaSOttoSheaf.png/revision/latest/scale-to-width-down/180?cb=20250316063242" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:BoSaSOttoSheaf.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Otto shooting Sheaf with a crossbow.</p> 		 	</figcaption> </figure>
+<p>Sheaf survived the bombing and was instead killed in the <a href="/wiki/Bloodbath" class="mw-redirect" title="Bloodbath">bloodbath</a> by <a href="/wiki/Otto" title="Otto">Otto</a>. When the gong rang, she initially tried to go to the pile of weapons, but decided to flee in another direction, being chased by Otto. She tried to find a way out, but Otto grabbed a crossbow and shot her in the leg, then the back. Sheaf placed 18th.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A sheaf is a bundle of grains tied together after they are harvested.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a>,</i> Sheaf's odds of winning were 20–1 and she received 107 donations.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="d07dd4c8214b82ad2023c8224a8b5f74" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="D9FSheaf-jpg" style="position: relative; height:129px; width:185px; top:28px;"><a class="image lightbox" href="/wiki/File:D9FSheaf.jpg" title="D9FSheaf.jpg (15 KB)" style="height:129px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/f/f0/D9FSheaf.jpg/revision/latest/scale-to-width-down/185?cb=20250427064500" title="D9FSheaf.jpg (15 KB)" class="thumbimage" alt="Sheaf&#39;s face on the monitors." height="135" width="185" data-image-name="D9FSheaf.jpg" data-image-key="D9FSheaf.jpg" data-relevant="1" data-caption="Sheaf&#39;s face on the monitors."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D9FSheaf.jpg (15 KB)" class="thumbimage lazyload" alt="Sheaf&#39;s face on the monitors." height="135" width="185" data-image-name="D9FSheaf.jpg" data-image-key="D9FSheaf.jpg" data-relevant="1" data-caption="Sheaf&#39;s face on the monitors." data-src="https://static.wikia.nocookie.net/thehungergames/images/f/f0/D9FSheaf.jpg/revision/latest/scale-to-width-down/185?cb=20250427064500" /></a></div></div><div class="lightbox-caption" style="width:185px;">Sheaf's face on the monitors.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sheafpanloconceptart-png" style="position: relative; height:184px; width:134px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Sheafpanloconceptart.png" title="Sheafpanloconceptart.png (154 KB)" style="height:184px; width:134px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/b/bf/Sheafpanloconceptart.png/revision/latest/scale-to-width-down/135?cb=20250427060404" title="Sheafpanloconceptart.png (154 KB)" class="thumbimage" alt="Concept photos of Panlo and Sheaf&#39;s outfits." height="185" width="185" data-image-name="Sheafpanloconceptart.png" data-image-key="Sheafpanloconceptart.png" data-relevant="1" data-caption="Concept photos of Panlo and Sheaf&#39;s outfits."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Sheafpanloconceptart.png (154 KB)" class="thumbimage lazyload" alt="Concept photos of Panlo and Sheaf&#39;s outfits." height="185" width="185" data-image-name="Sheafpanloconceptart.png" data-image-key="Sheafpanloconceptart.png" data-relevant="1" data-caption="Concept photos of Panlo and Sheaf&#39;s outfits." data-src="https://static.wikia.nocookie.net/thehungergames/images/b/bf/Sheafpanloconceptart.png/revision/latest/scale-to-width-down/135?cb=20250427060404" /></a></div></div><div class="lightbox-caption" style="width:185px;">Concept photos of Panlo and Sheaf's outfits.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sheaf_bts_2-jpeg" style="position: relative; height:184px; width:107px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Sheaf_bts_2.jpeg" title="Sheaf bts 2.jpeg (538 KB)" style="height:184px; width:107px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/b/b0/Sheaf_bts_2.jpeg/revision/latest/scale-to-width-down/108?cb=20251010140658" title="Sheaf bts 2.jpeg (538 KB)" class="thumbimage" alt="Sheaf behind the scenes" height="185" width="185" data-image-name="Sheaf bts 2.jpeg" data-image-key="Sheaf_bts_2.jpeg" data-relevant="1" data-caption="Sheaf behind the scenes"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Sheaf bts 2.jpeg (538 KB)" class="thumbimage lazyload" alt="Sheaf behind the scenes" height="185" width="185" data-image-name="Sheaf bts 2.jpeg" data-image-key="Sheaf_bts_2.jpeg" data-relevant="1" data-caption="Sheaf behind the scenes" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/b0/Sheaf_bts_2.jpeg/revision/latest/scale-to-width-down/108?cb=20251010140658" /></a></div></div><div class="lightbox-caption" style="width:185px;">Sheaf behind the scenes</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_7-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_2-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_6-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_6_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_10-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_10_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 10</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma&#39;am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <strong class="mw-selflink selflink">Sheaf</strong> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20260101044242
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.069 seconds
+Real time usage: 0.115 seconds
+Preprocessor visited node count: 221/1000000
+Post‐expand include size: 2949/2097152 bytes
+Template argument size: 417/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6519/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   48.364      1 -total
+ 66.79%   32.302      1 Template:Character
+  9.53%    4.608      1 Template:Reflist
+  3.46%    1.675      1 Template:Quote
+  3.24%    1.568      1 Template:PrequelSeries
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539514-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260101044242 and revision id 966096. Rendering was triggered because: page-view
+ -->
+</div>

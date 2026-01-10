@@ -1,0 +1,360 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Silka Sharp</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/9e/SilkaSOTR.jpeg/revision/latest?cb=20251120143325" class="image image-thumbnail" title="SilkaSOTR">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/9/9e/SilkaSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120143325" srcset="https://static.wikia.nocookie.net/thehungergames/images/9/9e/SilkaSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120143325 1x, https://static.wikia.nocookie.net/thehungergames/images/9/9e/SilkaSOTR.jpeg/revision/latest/scale-to-width-down/536?cb=20251120143325 2x" class="pi-image-thumbnail" data-relevant="1" alt="SilkaSOTR" width="270" height="335" data-image-key="SilkaSOTR.jpeg" data-image-name="SilkaSOTR.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a> (<a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_1" title="District 1">District 1</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Axe" class="mw-redirect" title="Axe">Axe</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">Over 6'0"<sup id="cite_ref-SOTR_13_1-0" class="reference"><a href="#cite_note-SOTR_13-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font">Blue <small>(film)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font">Blonde <small>(film)</small></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Laura_Marcus" title="Laura Marcus">Laura Marcus</a><sup id="cite_ref-Tributes_2-0" class="reference"><a href="#cite_note-Tributes-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Silka Sharp</b> was a <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a> from <a href="/wiki/District_1" title="District 1">District 1</a> who participated in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. She was a part of the Career <a href="/wiki/Alliance" title="Alliance">alliance</a>, and she placed 2nd out of 48 <a href="/wiki/Tribute" title="Tribute">tributes</a>.<sup id="cite_ref-CF_14_3-0" class="reference"><a href="#cite_note-CF_14-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#50th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">50th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Chariot_rides"><span class="tocnumber">1.1.1</span> <span class="toctext">Chariot rides</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Interviews"><span class="tocnumber">1.1.2</span> <span class="toctext">Interviews</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Arena"><span class="tocnumber">1.1.3</span> <span class="toctext">Arena</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Death"><span class="tocnumber">1.1.4</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Personality"><span class="tocnumber">3</span> <span class="toctext">Personality</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Gallery"><span class="tocnumber">6</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="64791" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the District 1 female's ranking in the 50th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 50th Hunger Games, the female tribute from District 1 achieved a commendable 2nd place among 48 contenders. She was allied with the Career group.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64792" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the significance of the Quarter Quell in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The Quarter Quell, held every 25 years, commemorates the districts' defeat by the Capitol during the First Rebellion. This special edition of the Hunger Games features enhanced celebrations and a unique reaping twist, making it more challenging. The Quarter Quell serves to remind the districts of their failed rebellion and impose further punishment.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64793" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the Career alliance in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The Career alliance or Career pack is a strategic group formed by tributes from Districts 1, 2, and 4 before each Hunger Games. They train exclusively together, assess each other's skills, and develop a game strategy. Their traditional approach is to collectively eliminate other tributes, then confront each other. They also typically secure and share the Cornucopia supplies.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64794" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why were twice the number of tributes reaped for the 50th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the second Quarter Quell, also known as the 50th Hunger Games, each district was mandated to send four tributes instead of the usual two. This rule was enforced by the Capitol to symbolize that for every Capitol citizen killed, two rebels lost their lives. Consequently, the arena hosted 48 tributes, doubling the brutality of the games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64795" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did the District 1 female play in the 50th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 50th Hunger Games, the District 1 female was a Career Tribute, part of the Career alliance. Her weapon of choice was an axe. She demonstrated significant prowess, securing the 2nd place among 48 tributes. However, she did not survive the games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Silka Sharp","mainEntity":[{"@type":"Question","name":"What was the District 1 female's ranking in the 50th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 50th Hunger Games, the female tribute from District 1 achieved a commendable 2nd place among 48 contenders. She was allied with the Career group."}},{"@type":"Question","name":"What is the significance of the Quarter Quell in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"The Quarter Quell, held every 25 years, commemorates the districts' defeat by the Capitol during the First Rebellion. This special edition of the Hunger Games features enhanced celebrations and a unique reaping twist, making it more challenging. The Quarter Quell serves to remind the districts of their failed rebellion and impose further punishment."}},{"@type":"Question","name":"What is the Career alliance in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"The Career alliance or Career pack is a strategic group formed by tributes from Districts 1, 2, and 4 before each Hunger Games. They train exclusively together, assess each other's skills, and develop a game strategy. Their traditional approach is to collectively eliminate other tributes, then confront each other. They also typically secure and share the Cornucopia supplies."}},{"@type":"Question","name":"Why were twice the number of tributes reaped for the 50th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"During the second Quarter Quell, also known as the 50th Hunger Games, each district was mandated to send four tributes instead of the usual two. This rule was enforced by the Capitol to symbolize that for every Capitol citizen killed, two rebels lost their lives. Consequently, the arena hosted 48 tributes, doubling the brutality of the games."}},{"@type":"Question","name":"What role did the District 1 female play in the 50th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 50th Hunger Games, the District 1 female was a Career Tribute, part of the Career alliance. Her weapon of choice was an axe. She demonstrated significant prowess, securing the 2nd place among 48 tributes. However, she did not survive the games."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="50th_Hunger_Games">50th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Silka was part of the <a href="/wiki/Career_Tribute" title="Career Tribute">Career</a> pack in these Games.
+</p><p>During the 50th Hunger Games, the Second <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> demanded that twice the number of tributes be <a href="/wiki/Reaping" title="Reaping">reaped</a> for the event.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> This year, Silka Sharp was one of two girls representing District 1, alongside <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a>, <a href="/wiki/Carat" title="Carat">Carat</a>, and <a href="/wiki/Loupe" title="Loupe">Loupe</a>.<sup id="cite_ref-SOTR_6_5-0" class="reference"><a href="#cite_note-SOTR_6-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Chariot_rides">Chariot rides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Silka had gotten along badly with <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> in the locker room before the <a href="/wiki/Chariot_rides" title="Chariot rides">chariot rides</a>, leading Maysilee to insult her outfit in front of the other tributes. Silka made to attack her, but was stopped by a <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a>.<sup id="cite_ref-SOTR_5_6-0" class="reference"><a href="#cite_note-SOTR_5-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> After <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> was killed in the chaos of the chariot parade, Silka dismounted her own chariot. When the horses refused to keep moving despite Panache's insistence, Silka removed one of her shoes and beat the outside horse until she drew blood, then was knocked to the ground by the horse's kick.<sup id="cite_ref-SOTR_6_5-1" class="reference"><a href="#cite_note-SOTR_6-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Interviews">Interviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Silka was the first tribute to be interviewed, wearing a long green dress. She bragged to <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> about her size and strength, her ability with an <a href="/wiki/Weapons#Axe" title="Weapons">axe</a>, and her receiving a <a href="/wiki/Training_score" title="Training score">training score</a> of ten.<sup id="cite_ref-SOTR_13_1-1" class="reference"><a href="#cite_note-SOTR_13-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Silka's podium was directly to the right of Haymitch's podium.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Silka was part of a pack of sixteen Career tributes. This alliance was likely responsible for most of the eighteen <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">bloodbath</a> deaths. They claimed supplies from the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a>, including the only safe <a href="/wiki/Food_and_drink" title="Food and drink">food and drink</a> in the <a href="/wiki/Arena" title="Arena">arena</a>, and for the first three days, they scoured the mountain area for potential victims. During this time, a number of tributes died to the arena's many poisonous substances. On the fourth day, a volcanic eruption killed another dozen tributes, including half the Careers. At this point, Silka was one of thirteen total tributes left alive. The lava flow forced them into the forest, possibly separating her from her four allies. She managed to survive despite the <a href="/wiki/Muttation" title="Muttation">mutts</a> and poisons.<sup id="cite_ref-CF_14_3-1" class="reference"><a href="#cite_note-CF_14-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>On the sixth day, three Gamemakers were mopping and taking care of the oozing slime on the forest floor of the arena. When <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, Maysilee Donner, Silka, and <a href="/wiki/Maritte" title="Maritte">Maritte</a> came across them, the Gamemakers tried to flee to <a href="/wiki/Sub-A" class="mw-redirect" title="Sub-A">Sub-A</a>, but all were killed. One had a <a href="/wiki/Trident" class="mw-redirect" title="Trident">trident</a> thrown at him by Maritte, another was attacked by one of Maysilee's darts, and the third plummeted to her death after she leaped headfirst into Sub-A, cracking her head on the concrete. Silka was shocked when she saw Maysilee and Maritte's actions, and Maysilee criticized her for sucking up to the Capitol in a sad effort to win the Games. She then said she was going to kill Maritte, before a bomb was sent by a <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a> and separated the tributes.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>While Haymitch was taking care of <a href="/wiki/Wellie" title="Wellie">Wellie</a> in a tree, Silka was sobbing at the foot of the tree. Haymitch threw Silka some chocolate that he had received from sponsors. She scampered away in the night, presumably ashamed that she had shown such emotion. Haymitch supposed District 1 didn't reward its tributes for showing humanity. He left Wellie armed with Maysilee's <a href="/wiki/Weapons" title="Weapons">dart gun</a>, loaded with a single poisoned dart. Haymitch returned after receiving a sponsor gift containing what he anticipated to be poisoned milk from <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> (which he discarded), and an ornate picnic basket. He was met with the sight of a decapitated Wellie, whose body lay in a heap - her head in Silka's left hand, dripping blood onto the forest floor. Silka had decapitated her with her axe. When confronted by Haymitch, Silka claimed Wellie attacked her, which was when he noticed a poison blow dart hanging harmlessly from Silka's sleeve.<sup id="cite_ref-:0_9-0" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Silka made it to the final two, at which point she fought <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, one of the male tributes from <a href="/wiki/District_12" title="District 12">District 12</a>, in hand-to-hand axe combat. Both sustained nearly fatal wounds in their battle; Haymitch gouged out her eye with his knife, and she disemboweled him with her <a href="/wiki/Weapons#Axe" title="Weapons">axe</a>. He had to hold his intestines in while he fled. She chased him to a cliff at the edge of the arena, cornering him, and threw her axe. But, just then Haymitch collapsed on the ground, narrowly dodging the attack. Due to the severity of his wounds, she thought she could outlast him even without her weapon, but Haymitch knew the axe would be flung back by the <a href="/wiki/Force_field" title="Force field">force field</a> protecting the arena's generator. It was; the axe lodged itself in her head. She initially refused to die, emitting a "strangled gurgle,"<sup id="cite_ref-:0_9-1" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> but ultimately succumbed to her injuries, leaving Haymitch as the <a href="/wiki/Victor" title="Victor">victor</a>.<sup id="cite_ref-CF_14_3-2" class="reference"><a href="#cite_note-CF_14-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Silka is described as being "bigger than Haymitch and just as fast".<sup id="cite_ref-CF_14_3-3" class="reference"><a href="#cite_note-CF_14-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> She was over 6 feet tall.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p><p>Throughout the <a href="/wiki/Chariot_rides" title="Chariot rides">chariot parade</a>, <a href="/wiki/Training" title="Training">training</a>, and the games themselves, she was primarily dressed in "snot-green," to represent her district.
+</p><p>In the film she has long blonde hair and blue eyes. 
+</p>
+<h2><span class="mw-headline" id="Personality">Personality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She is described to be very confident. Despite still having the basic arrogance and lack of remorse of the typical <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a>, she was devastated at the death of her final ally <a href="/wiki/Maritte" title="Maritte">Maritte</a>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Silka" is a feminisation of <a href="https://en.wikipedia.org/wiki/Silk" class="extiw" title="wikipedia:Silk">silk</a>, a natural fiber and textile, and luxury product. <a href="https://en.wikipedia.org/wiki/Sharp_(surname)" class="extiw" title="wikipedia:Sharp (surname)">Sharp</a> is an English surname,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> which could relate to her ferocity in the Hunger Games. 
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>She was the only known tribute outside of <a href="/wiki/District_7" title="District 7">District 7</a> and <a href="/wiki/District_12" title="District 12">District 12</a> who used an axe in the Games.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="0fbd8161c38d636aa1e8c87c1fe4fa2d" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:97px;"><div class="gallery-image-wrapper accent" id="SOTR_Trailer_8-jpeg" style="position: relative; height:95px; width:185px;"><a class="image lightbox" href="/wiki/File:SOTR_Trailer_8.jpeg" title="SOTR Trailer 8.jpeg (158 KB)" style="height:95px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/a/aa/SOTR_Trailer_8.jpeg/revision/latest/scale-to-width-down/185?cb=20251120165827" title="SOTR Trailer 8.jpeg (158 KB)" class="thumbimage" alt="" height="95" width="185" data-image-name="SOTR Trailer 8.jpeg" data-image-key="SOTR_Trailer_8.jpeg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="SOTR Trailer 8.jpeg (158 KB)" class="thumbimage lazyload" alt="" height="95" width="185" data-image-name="SOTR Trailer 8.jpeg" data-image-key="SOTR_Trailer_8.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/aa/SOTR_Trailer_8.jpeg/revision/latest/scale-to-width-down/185?cb=20251120165827"></a></div></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSilka_Sharp%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-SOTR_13-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR_13_1-0">1.0</a></sup> <sup><a href="#cite_ref-SOTR_13_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-Tributes-2"><span class="mw-cite-backlink"><a href="#cite_ref-Tributes_2-0">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://x.com/thehungergames/status/1936137169560904021?s=51">Post by the official Hunger Games account</a> (June 20, 2025).</span>
+</li>
+<li id="cite_note-CF_14-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_14_3-0">3.0</a></sup> <sup><a href="#cite_ref-CF_14_3-1">3.1</a></sup> <sup><a href="#cite_ref-CF_14_3-2">3.2</a></sup> <sup><a href="#cite_ref-CF_14_3-3">3.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-SOTR_6-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR_6_5-0">5.0</a></sup> <sup><a href="#cite_ref-SOTR_6_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-SOTR_5-6"><span class="mw-cite-backlink"><a href="#cite_ref-SOTR_5_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-:0-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_9-0">9.0</a></sup> <sup><a href="#cite_ref-:0_9-1">9.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://surnames.behindthename.com/name/sharp">Meaning, origin and history of the surname Sharp - Behind the Name</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <strong class="mw-selflink selflink">Silka Sharp</strong> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20251226003144
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.091 seconds
+Real time usage: 0.157 seconds
+Preprocessor visited node count: 777/1000000
+Post‐expand include size: 4205/2097152 bytes
+Template argument size: 436/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7003/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   79.939      1 -total
+ 39.39%   31.489      1 Template:Character
+ 36.29%   29.012      1 Template:Reflist
+  5.69%    4.545      1 Template:Cite_web
+  4.37%    3.496      7 Template:SOTR
+  2.45%    1.955      2 Template:CF
+  1.90%    1.520      2 Template:W
+  1.74%    1.391      1 Template:SOTRNav
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:33985-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251226003144 and revision id 967696. Rendering was triggered because: page-view
+ -->
+</div>

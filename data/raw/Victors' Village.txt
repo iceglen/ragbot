@@ -1,0 +1,153 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Victors' Village</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Victor_Village.png/revision/latest?cb=20130720215754" class="image image-thumbnail" title="Victor Village">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Victor_Village.png/revision/latest/scale-to-width-down/268?cb=20130720215754" srcset="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Victor_Village.png/revision/latest/scale-to-width-down/268?cb=20130720215754 1x, https://static.wikia.nocookie.net/thehungergames/images/c/c3/Victor_Village.png/revision/latest/scale-to-width-down/536?cb=20130720215754 2x" class="pi-image-thumbnail" data-relevant="1" alt="Victor Village" width="270" height="109" data-image-key="Victor_Village.png" data-image-name="Victor Village.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font">Every district (1-12)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor" title="Victor">Victors</a> and their families<ul><li><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a></li><li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> (formerly)</li><li><a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid Everdeen</a> (formerly)</li><li><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a></li><li><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, <i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>Victors' Village</b> is a wealthy neighborhood in every <a href="/wiki/District" class="mw-redirect" title="District">district</a> where past <a href="/wiki/Victors" class="mw-redirect" title="Victors">victors</a> of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> reside. They contain at least twelve luxurious houses which are given to victors as rewards for surviving the Hunger Games. When the victor dies, everyone sharing the house with them must leave and move back to their previous residences.<sup id="cite_ref-CF_1_1-0" class="reference"><a href="#cite_note-CF_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Creation"><span class="tocnumber">1</span> <span class="toctext">Creation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Katniss&#39;s_house_(Victors&#39;_Village)"><span class="tocnumber">2.1</span> <span class="toctext">Katniss's house (Victors' Village)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Haymitch&#39;s_house"><span class="tocnumber">2.2</span> <span class="toctext">Haymitch's house</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Peeta&#39;s_house"><span class="tocnumber">2.3</span> <span class="toctext">Peeta's house</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#The_war_and_beyond"><span class="tocnumber">2.4</span> <span class="toctext">The war and beyond</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Creation">Creation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVictors%2527_Village%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Victors' Village was an idea of <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, created after the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. Accepted as an apprentice <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a> for future Games, he quickly began brainstorming ideas on how to get a better class of <a href="/wiki/Tribute" title="Tribute">tributes</a> to <a href="/wiki/Volunteer" title="Volunteer">volunteer</a>. One of his first suggestions was the creation of the Victors' Village, which would be the envy of everyone else living in the districts' hovels.<sup id="cite_ref-Ballad_Epilogue_2-0" class="reference"><a href="#cite_note-Ballad_Epilogue-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The Victors' Village of District 12 was built following this conception, but <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> never lived there, due to her "death" shortly after her Games. It stood empty until <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>'s victory in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>.<sup id="cite_ref-Sunrise_11_3-0" class="reference"><a href="#cite_note-Sunrise_11-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVictors%2527_Village%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 358px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/15/Victors_village.jpg/revision/latest?cb=20131202055722" class="mw-file-description image"><img alt="Concept art of the Victors&#39; Village for " src="https://static.wikia.nocookie.net/thehungergames/images/1/15/Victors_village.jpg/revision/latest/scale-to-width-down/358?cb=20131202055722" decoding="async" loading="lazy" width="358" height="183" class="thumbimage" data-image-name="Victors village.jpg" data-image-key="Victors_village.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Victors_village.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Concept art of the Victors' Village for <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></p> 		 	</figcaption> </figure>
+<p>In District 12, the Victors' Village was located about a half-mile walk from the town square. There were twelve houses, but nine of them stood empty, since only three victors lived there. The residences were arranged around "a beautiful green, dotted with flowering bushes", and the exteriors were attended to by at least one groundskeeper. The houses were so large that each could hold <a href="/wiki/Katniss_Everdeen%27s_house" title="Katniss Everdeen&#39;s house">Katniss's old home</a> ten times over.<sup id="cite_ref-CF_1_1-1" class="reference"><a href="#cite_note-CF_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/1f/CFIE_Victors_Village.jpg/revision/latest?cb=20251225000125" class="mw-file-description image"><img alt="Victors&#39; Village  in the ." src="https://static.wikia.nocookie.net/thehungergames/images/1/1f/CFIE_Victors_Village.jpg/revision/latest/scale-to-width-down/180?cb=20251225000125" decoding="async" loading="lazy" width="180" height="225" class="thumbimage" data-image-name="CFIE Victors Village.jpg" data-image-key="CFIE_Victors_Village.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:CFIE_Victors_Village.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Victors' Village  in the <i><a href="/wiki/Catching_Fire:_Illustrated_Edition" title="Catching Fire: Illustrated Edition">Catching Fire: Illustrated Edition</a></i>.</p> 		 	</figcaption> </figure>
+<p>One of the empty houses had a glass window in the door that Katniss once broke to get inside, and through the kitchen, she was able to go downstairs into the cellar. Light came in through the window wells, and inside, it had a cement floor and stiff drop cloths lying around.<sup id="cite_ref-CF_13_5-0" class="reference"><a href="#cite_note-CF_13-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> Since Katniss could navigate the unfamiliar house even in a panic, it's likely that each dwelling had a similar (if not identical) layout.
+</p>
+<h3><span id="Katniss.27s_house_.28Victors.27_Village.29"></span><span class="mw-headline" id="Katniss's_house_(Victors'_Village)">Katniss's house (Victors' Village)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVictors%2527_Village%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After winning the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> moved here with <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">her mother</a> and her sister <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose</a>. The house gave off a warm glow of life, with smoke coming from the chimneys and light from the windows. For the <a href="/wiki/District_12#Harvest_Festival" title="District 12">Harvest Festival</a>, they affixed colorful bundles of corn to their door.<sup id="cite_ref-CF_1_1-2" class="reference"><a href="#cite_note-CF_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Downstairs, the Everdeens had a mat at the front door, and through the doorway into the kitchen,<sup id="cite_ref-CF_1_1-3" class="reference"><a href="#cite_note-CF_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> they had a stove,<sup id="cite_ref-MJ_27_6-0" class="reference"><a href="#cite_note-MJ_27-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> a long dining table,<sup id="cite_ref-CF_8_7-0" class="reference"><a href="#cite_note-CF_8-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> a hearth, and matching rocking chairs.<sup id="cite_ref-CF_11_8-0" class="reference"><a href="#cite_note-CF_11-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> There was a small bathroom a few steps off the kitchen,<sup id="cite_ref-MJ_27_6-1" class="reference"><a href="#cite_note-MJ_27-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> and the Everdeens always left a window ajar in the pantry so their cat <a href="/wiki/Buttercup" title="Buttercup">Buttercup</a> could come and go.<sup id="cite_ref-MJ_1_9-0" class="reference"><a href="#cite_note-MJ_1-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> There was also a hallway that led to the study,<sup id="cite_ref-CF_1_1-4" class="reference"><a href="#cite_note-CF_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> which housed their telephone,<sup id="cite_ref-CF_9_10-0" class="reference"><a href="#cite_note-CF_9-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> a polished wooden desk, and several carved, straight-backed chairs.<sup id="cite_ref-CF_2_11-0" class="reference"><a href="#cite_note-CF_2-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> There was a big storage closet downstairs as well,<sup id="cite_ref-MJ_16_12-0" class="reference"><a href="#cite_note-MJ_16-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup> and their television presumably sat in the living room.<sup id="cite_ref-CF_12_13-0" class="reference"><a href="#cite_note-CF_12-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Upstairs, the second floor bathroom had both a bathtub<sup id="cite_ref-CF_3_14-0" class="reference"><a href="#cite_note-CF_3-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> and a shower.<sup id="cite_ref-CF_9_10-1" class="reference"><a href="#cite_note-CF_9-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> In Katniss's bedroom, there was naturally a bed, along with a couple of windows,<sup id="cite_ref-CF_11_8-1" class="reference"><a href="#cite_note-CF_11-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-MJ_27_6-2" class="reference"><a href="#cite_note-MJ_27-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> a chair,<sup id="cite_ref-CF_3_14-1" class="reference"><a href="#cite_note-CF_3-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> a closet,<sup id="cite_ref-CF_9_10-2" class="reference"><a href="#cite_note-CF_9-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> and a dresser with a vase of flowers atop it.<sup id="cite_ref-MJ_1_9-1" class="reference"><a href="#cite_note-MJ_1-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> The house also had a number of extra bedrooms.<sup id="cite_ref-CF_8_7-1" class="reference"><a href="#cite_note-CF_8-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span id="Haymitch.27s_house"></span><span class="mw-headline" id="Haymitch's_house">Haymitch's house</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVictors%2527_Village%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Following the death of <a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">his mother</a> and <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">brother</a>, <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> and <a href="/wiki/Blair" title="Blair">Blair</a> tried to convince Haymitch to stay at one of their places. When they were unable to, Burdock noted that Haymitch had his new house, prompting Haymitch to recall the Victors' Village. Wanting to be alone, he allowed them to take him there, but he instantly hated the place upon arrival.<sup id="cite_ref-Sunrise_26_15-0" class="reference"><a href="#cite_note-Sunrise_26-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> Following his <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>, Haymitch would hole up here, subsuming himself in alcohol, playing the <a href="/wiki/Capitol_News" title="Capitol News">Capitol News</a> 24/7 and seeking the company of no one except <a href="/wiki/Bascom_Pie" title="Bascom Pie">Bascom Pie</a> when his supply of nepenthe ran low.<sup id="cite_ref-Sunrise_27_16-0" class="reference"><a href="#cite_note-Sunrise_27-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Following the 74th Hunger Games, Haymitch Abernathy's house was across the green from Katniss's, and despite the groundskeeper's efforts, it gave off "an air of abandonment of neglect". Inside, mouse droppings and garbage littered the floor, and over the years, it had accumulated a strong odor of liquor, vomit, boiled cabbage, and burned meat. In the kitchen, there was a table, a coal stove, and a sink.<sup id="cite_ref-CF_1_1-5" class="reference"><a href="#cite_note-CF_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Haymitch had also torn the telephone out of his wall years ago.<sup id="cite_ref-CF_3_14-2" class="reference"><a href="#cite_note-CF_3-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> The conditions inside the house improved immensely when Katniss convinced Haymitch to hire <a href="/wiki/Hazelle_Hawthorne" title="Hazelle Hawthorne">Hazelle Hawthorne</a> as a housekeeper.<sup id="cite_ref-CF_9_10-3" class="reference"><a href="#cite_note-CF_9-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span id="Peeta.27s_house"></span><span class="mw-headline" id="Peeta's_house">Peeta's house</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVictors%2527_Village%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After moving out of his family's <a href="/wiki/Bakery" title="Bakery">bakery</a>, <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> lived three houses away from Katniss,<sup id="cite_ref-CF_9_10-4" class="reference"><a href="#cite_note-CF_9-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> and he appeared to live alone. Like Katniss's, his house regularly had smoke coming out the chimney and light from the windows, and it was decorated for the Harvest Festival.<sup id="cite_ref-CF_1_1-6" class="reference"><a href="#cite_note-CF_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> He was known to sleep with his windows open.<sup id="cite_ref-MJ_19_17-0" class="reference"><a href="#cite_note-MJ_19-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_war_and_beyond">The war and beyond</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVictors%2527_Village%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Victors' Village was left standing after the <a href="/wiki/Bombing_of_District_12" class="mw-redirect" title="Bombing of District 12">bombing of District 12</a>. Katniss believed that it was left either as a warning, a message, or a place for <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a> officials to stay when they visited the district.<sup id="cite_ref-MJ_1_9-2" class="reference"><a href="#cite_note-MJ_1-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> After the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a> ended, other people involved in rebuilding District 12 took up residence in several of the once-empty houses. When Peeta returned to District 12, he planted primroses in front of Katniss's house, in honor of her late sister.<sup id="cite_ref-MJ_27_6-3" class="reference"><a href="#cite_note-MJ_27-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVictors%2527_Village%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-CF_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-CF_1_1-1">1.1</a></sup> <sup><a href="#cite_ref-CF_1_1-2">1.2</a></sup> <sup><a href="#cite_ref-CF_1_1-3">1.3</a></sup> <sup><a href="#cite_ref-CF_1_1-4">1.4</a></sup> <sup><a href="#cite_ref-CF_1_1-5">1.5</a></sup> <sup><a href="#cite_ref-CF_1_1-6">1.6</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_Epilogue-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Epilogue_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-Sunrise_11-3"><span class="mw-cite-backlink"><a href="#cite_ref-Sunrise_11_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.comicbookmovie.com/fansites/nailbiter111/news/?a=90576">Peeta's Mural of Rue Featured In HUNGER GAMES: CATCHING FIRE Concept Art</a></span>
+</li>
+<li id="cite_note-CF_13-5"><span class="mw-cite-backlink"><a href="#cite_ref-CF_13_5-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 13</span>
+</li>
+<li id="cite_note-MJ_27-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_27_6-0">6.0</a></sup> <sup><a href="#cite_ref-MJ_27_6-1">6.1</a></sup> <sup><a href="#cite_ref-MJ_27_6-2">6.2</a></sup> <sup><a href="#cite_ref-MJ_27_6-3">6.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-CF_8-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_8_7-0">7.0</a></sup> <sup><a href="#cite_ref-CF_8_7-1">7.1</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 8</span>
+</li>
+<li id="cite_note-CF_11-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_11_8-0">8.0</a></sup> <sup><a href="#cite_ref-CF_11_8-1">8.1</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 11</span>
+</li>
+<li id="cite_note-MJ_1-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_1_9-0">9.0</a></sup> <sup><a href="#cite_ref-MJ_1_9-1">9.1</a></sup> <sup><a href="#cite_ref-MJ_1_9-2">9.2</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 1</span>
+</li>
+<li id="cite_note-CF_9-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_9_10-0">10.0</a></sup> <sup><a href="#cite_ref-CF_9_10-1">10.1</a></sup> <sup><a href="#cite_ref-CF_9_10-2">10.2</a></sup> <sup><a href="#cite_ref-CF_9_10-3">10.3</a></sup> <sup><a href="#cite_ref-CF_9_10-4">10.4</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 9</span>
+</li>
+<li id="cite_note-CF_2-11"><span class="mw-cite-backlink"><a href="#cite_ref-CF_2_11-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 2</span>
+</li>
+<li id="cite_note-MJ_16-12"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_16_12-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 16</span>
+</li>
+<li id="cite_note-CF_12-13"><span class="mw-cite-backlink"><a href="#cite_ref-CF_12_13-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 12</span>
+</li>
+<li id="cite_note-CF_3-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_3_14-0">14.0</a></sup> <sup><a href="#cite_ref-CF_3_14-1">14.1</a></sup> <sup><a href="#cite_ref-CF_3_14-2">14.2</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Sunrise_26-15"><span class="mw-cite-backlink"><a href="#cite_ref-Sunrise_26_15-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-Sunrise_27-16"><span class="mw-cite-backlink"><a href="#cite_ref-Sunrise_27_16-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-MJ_19-17"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_19_17-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 19</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251225001058
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.072 seconds
+Real time usage: 0.148 seconds
+Preprocessor visited node count: 572/1000000
+Post‐expand include size: 566/2097152 bytes
+Template argument size: 16/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10400/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   70.277      1 -total
+ 31.49%   22.131      1 Template:Location
+ 28.54%   20.055      1 Template:Reflist
+  2.28%    1.604      3 Template:SOTR
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2298-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225001058 and revision id 966787. Rendering was triggered because: page-view
+ -->
+</div>

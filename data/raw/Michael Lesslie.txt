@@ -1,0 +1,60 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Michael Lesslie</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e7/Michael_Lesslie.jpeg/revision/latest?cb=20231218231523" class="image image-thumbnail" title="Michael Lesslie">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/e/e7/Michael_Lesslie.jpeg/revision/latest?cb=20231218231523" srcset="https://static.wikia.nocookie.net/thehungergames/images/e/e7/Michael_Lesslie.jpeg/revision/latest?cb=20231218231523 1x, https://static.wikia.nocookie.net/thehungergames/images/e/e7/Michael_Lesslie.jpeg/revision/latest?cb=20231218231523 2x" class="pi-image-thumbnail" data-relevant="1" alt="Michael Lesslie" width="139" height="186" data-image-key="Michael_Lesslie.jpeg" data-image-name="Michael Lesslie.jpeg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthday">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthday</h3>
+	
+	<div class="pi-data-value pi-font">November 1983</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthplace">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthplace</h3>
+	
+	<div class="pi-data-value pi-font">England, United Kingdom</div>
+</div>
+</aside>
+
+</p><p><b>Michael Lesslie</b> is a British writer and producer who wrote the screenplay for <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> with <a href="/wiki/Michael_Arndt" title="Michael Arndt">Michael Arndt</a>. He is also known for writing a TV adaptation of <i>The Little Drummer Girl</i>, as well as the 2016 film <i>Assassin's Creed</i>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMichael_Lesslie%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span typeof="mw:File"><a href="https://en.wikipedia.org/wiki/Michael_Lesslie" title="wikipedia:Michael Lesslie"><img alt="WP favicon" src="https://static.wikia.nocookie.net/thehungergames/images/7/7c/WP_favicon.PNG/revision/latest/scale-to-width-down/20?cb=20231115025850" decoding="async" loading="lazy" width="20" height="20" class="mw-file-element" data-image-name="WP favicon.PNG" data-image-key="WP_favicon.PNG" data-relevant="0" /></a></span> <a href="https://en.wikipedia.org/wiki/Michael_Lesslie" class="extiw" title="wikipedia:Michael Lesslie">Michael Lesslie</a> on Wikipedia</li>
+<li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/name/nm2078681" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/name/nm2078681">Michael Lesslie</a> at the Internet Movie Database</span></li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20260105153946
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.022 seconds
+Real time usage: 0.028 seconds
+Preprocessor visited node count: 57/1000000
+Post‐expand include size: 395/2097152 bytes
+Template argument size: 28/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   12.828      1 -total
+ 74.02%    9.496      1 Template:Actor
+ 13.38%    1.717      1 Template:Wp
+ 10.39%    1.333      1 Template:Imdb
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542930-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105153946 and revision id 954277. Rendering was triggered because: api-parse
+ -->
+</div>

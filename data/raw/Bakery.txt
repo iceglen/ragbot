@@ -1,0 +1,142 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Bakery</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/4c/Peeta%27s_house-bakery.png/revision/latest?cb=20120703193315" class="image image-thumbnail" title="Peeta&#39;s house-bakery">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/4/4c/Peeta%27s_house-bakery.png/revision/latest?cb=20120703193315" srcset="https://static.wikia.nocookie.net/thehungergames/images/4/4c/Peeta%27s_house-bakery.png/revision/latest?cb=20120703193315 1x, https://static.wikia.nocookie.net/thehungergames/images/4/4c/Peeta%27s_house-bakery.png/revision/latest?cb=20120703193315 2x" class="pi-image-thumbnail" data-relevant="1" alt="Peeta&#39;s house-bakery" width="260" height="194" data-image-key="Peeta%27s_house-bakery.png" data-image-name="Peeta&#39;s house-bakery.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font">Town square of <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Mr._Mellark" class="mw-redirect" title="Mr. Mellark">Mr. Mellark</a></li><li><a href="/wiki/Mrs._Mellark" title="Mrs. Mellark">Mrs. Mellark</a></li><li><a href="/wiki/First_Mellark_son" title="First Mellark son">First Mellark son</a></li><li><a href="/wiki/Second_Mellark_son" title="Second Mellark son">Second Mellark son</a></li><li><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>bakery</b> was a business in <a href="/wiki/District_12" title="District 12">District 12</a>'s town square, in the <a href="/wiki/Merchant" title="Merchant">merchant</a> section of town. It was run by the <a href="/wiki/Baker" title="Baker">baker</a>, <a href="/wiki/Mr._Mellark" class="mw-redirect" title="Mr. Mellark">Mr. Mellark</a>, who lived there with <a href="/wiki/Mrs._Mellark" title="Mrs. Mellark">his wife</a> and three sons, most notably <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Products"><span class="tocnumber">1.1</span> <span class="toctext">Products</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#The_Ballad_of_Songbirds_and_Snakes"><span class="tocnumber">2.1</span> <span class="toctext"><i>The Ballad of Songbirds and Snakes</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#The_Hunger_Games_trilogy"><span class="tocnumber">2.2</span> <span class="toctext"><i>The Hunger Games</i> trilogy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBakery%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, the bakery was described as "small".<sup id="cite_ref-:5_1-0" class="reference"><a href="#cite_note-:5-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Merchants lived above their businesses, so by the time of the trilogy, this was the Mellark family's home. The kitchen and its ovens were in the back, radiating heat and the scent of baked goods. A trash bin sat behind the bakery, along with a pen that held the Mellarks' pig, and behind that, an apple tree.<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBakery%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The bakery naturally sold a variety of <a href="/wiki/Bread" title="Bread">breads</a>, and it offered other baked goods that most people in District 12 couldn't afford, like cookies<sup id="cite_ref-:2_3-0" class="reference"><a href="#cite_note-:2-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> and cakes for special occasions, which Peeta decorated.<sup id="cite_ref-:3_4-0" class="reference"><a href="#cite_note-:3-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> They also made a goat cheese and apple tart<sup id="cite_ref-:4_5-0" class="reference"><a href="#cite_note-:4-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> and buns with cheese baked into the top, which were <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>'s favorite.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBakery%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_Ballad_of_Songbirds_and_Snakes"><i>The Ballad of Songbirds and Snakes</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBakery%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The bakery was once owned by an unknown "beet-faced woman" who had "little interest in providing directions to nonpaying customers", so <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> and <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> traded for a loaf, which they shared with the <a href="/wiki/Covey" title="Covey">Covey</a>.<sup id="cite_ref-:5_1-1" class="reference"><a href="#cite_note-:5-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Hunger_Games_trilogy"><i>The Hunger Games</i> trilogy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBakery%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/bf/Peeta_the_boy_with_the_bread.JPG/revision/latest?cb=20110807123742" class="mw-file-description image"><img alt="Peeta in front of the bakery" src="https://static.wikia.nocookie.net/thehungergames/images/b/bf/Peeta_the_boy_with_the_bread.JPG/revision/latest/scale-to-width-down/180?cb=20110807123742" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Peeta the boy with the bread.JPG" data-image-key="Peeta_the_boy_with_the_bread.JPG" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Peeta_the_boy_with_the_bread.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Peeta in front of the bakery</p> 		 	</figcaption> </figure>
+<p>When Katniss was eleven, her family starving after the loss of <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">her father</a>, Mrs. Mellark shouted at her for searching through their trash bin. Seeing this, Peeta intentionally dropped two large loaves of bread into the fire, and after feeding the burnt parts to the pig as instructed, he tossed the rest out into the rain for Katniss to take home.<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>On the morning of the <a href="/wiki/Reaping" title="Reaping">reaping</a>, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> traded a squirrel for a loaf of bakery bread, which he and Katniss ate at their meeting place in the <a href="/wiki/Woods" title="Woods">woods</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> Mr. Mellark gave Katniss cookies at the <a href="/wiki/Justice_Building" title="Justice Building">Justice Building</a> after the ceremony.<sup id="cite_ref-:2_3-1" class="reference"><a href="#cite_note-:2-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>After winning the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>, Peeta left the bakery and moved into a new house of his own in the <a href="/wiki/Victors%27_Village" title="Victors&#39; Village">Victors' Village</a>, bringing Katniss and <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch</a> baked goods<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> that likely came from the bakery. He was also known to go into town to eat dinner with his family.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The bakery was eventually destroyed in the <a href="/wiki/Bombing_of_District_12" class="mw-redirect" title="Bombing of District 12">bombing of District 12</a>, leaving nothing behind but a melted lump of metal from an oven.<sup id="cite_ref-:0_10-0" class="reference"><a href="#cite_note-:0-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBakery%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="https://en.wikipedia.org/wiki/Henry_River_Mill_Village" class="extiw" title="wikipedia:Henry River Mill Village">Henry River Mill Village</a> in <a href="https://en.wikipedia.org/wiki/Hickory,_North_Carolina" class="extiw" title="wikipedia:Hickory, North Carolina">Hickory, North Carolina</a> was used as a filming location for a number of District 12 scenes in <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">the first film</a>, including the <a href="/wiki/Katniss_Everdeen%27s_house" title="Katniss Everdeen&#39;s house">Everdeen house</a> and the Mellark bakery.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> The village's onscreen fame later led to its purchase and use in tours, both for fans of the film and those interested in the place's history.
+<ul><li>The building used for the bakery used to be the company store of the Henry River Manufacturing Company.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup></li></ul></li>
+<li>Peeta and his family usually ate stale bread, as they couldn't afford the things they made themselves.<sup id="cite_ref-:4_5-1" class="reference"><a href="#cite_note-:4-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Prim" class="mw-redirect" title="Prim">Prim</a> would sometimes drag Katniss over to admire the cakes in the shop window.<sup id="cite_ref-:3_4-1" class="reference"><a href="#cite_note-:3-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBakery%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:5-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:5_1-0">1.0</a></sup> <sup><a href="#cite_ref-:5_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-:1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_2-0">2.0</a></sup> <sup><a href="#cite_ref-:1_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-:2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_3-0">3.0</a></sup> <sup><a href="#cite_ref-:2_3-1">3.1</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 3</span>
+</li>
+<li id="cite_note-:3-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_4-0">4.0</a></sup> <sup><a href="#cite_ref-:3_4-1">4.1</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 7</span>
+</li>
+<li id="cite_note-:4-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:4_5-0">5.0</a></sup> <sup><a href="#cite_ref-:4_5-1">5.1</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 23</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 1</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 1</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 7</span>
+</li>
+<li id="cite_note-:0-10"><span class="mw-cite-backlink"><a href="#cite_ref-:0_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.imdb.com/title/tt1392170/locations/?item=lc2220133">https://www.imdb.com/title/tt1392170/locations/?item=lc2220133</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://henryrivermillvillage.com/history/">https://henryrivermillvillage.com/history/</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251224102115
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.061 seconds
+Real time usage: 0.094 seconds
+Preprocessor visited node count: 302/1000000
+Post‐expand include size: 248/2097152 bytes
+Template argument size: 94/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5452/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   64.397      1 -total
+ 35.50%   22.864      1 Template:Location
+ 29.75%   19.156      1 Template:Reflist
+  1.88%    1.211      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542038-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251224102115 and revision id 962739. Rendering was triggered because: page-view
+ -->
+</div>

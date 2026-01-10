@@ -1,0 +1,161 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Capitol Arena</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/9c/Capitol_Arena_exterior.png/revision/latest?cb=20230427235043" class="image image-thumbnail" title="Capitol Arena exterior">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/9/9c/Capitol_Arena_exterior.png/revision/latest/scale-to-width-down/267?cb=20230427235043" srcset="https://static.wikia.nocookie.net/thehungergames/images/9/9c/Capitol_Arena_exterior.png/revision/latest/scale-to-width-down/267?cb=20230427235043 1x, https://static.wikia.nocookie.net/thehungergames/images/9/9c/Capitol_Arena_exterior.png/revision/latest/scale-to-width-down/536?cb=20230427235043 2x" class="pi-image-thumbnail" data-relevant="1" alt="Capitol Arena exterior" width="270" height="183" data-image-key="Capitol_Arena_exterior.png" data-image-name="Capitol Arena exterior.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="yearsinservice">
+	
+		<h3 class="pi-data-label pi-secondary-font">Years in Service</h3>
+	
+	<div class="pi-data-value pi-font">Before the <a href="/wiki/1st_Hunger_Games" class="mw-redirect" title="1st Hunger Games">1st Hunger Games</a> - <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Destroyed</div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>Capitol Arena</b> was a dilapidated amphitheater in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> that was later appropriated as the first <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> <a href="/wiki/Arena" title="Arena">arena</a>. The 1st through <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> were held there.<sup id="cite_ref-Ballad_9_1-0" class="reference"><a href="#cite_note-Ballad_9-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> After the 10th Hunger Games, the arena was abandoned and the Gamemakers began using existing settings in the wild or bombed-out towns and such before building separate <a href="/wiki/Arena" title="Arena">arenas</a> for each game.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#10th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">10th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Bombing_of_the_Capitol_Arena"><span class="tocnumber">1.1.1</span> <span class="toctext">Bombing of the Capitol Arena</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#The_Games"><span class="tocnumber">1.1.2</span> <span class="toctext">The Games</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Terrain"><span class="tocnumber">2</span> <span class="toctext">Terrain</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Layout"><span class="tocnumber">2.1</span> <span class="toctext">Layout</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Muttations"><span class="tocnumber">3</span> <span class="toctext">Muttations</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Food_and_water_sources"><span class="tocnumber">4</span> <span class="toctext">Food and water sources</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The arena was once a "state-of-the-art" amphitheater used for various sporting, entertainment, and military events. It had been built across the river to prevent crowds from swamping the downtown. Its richest guests came through an entrance marked with velvet rope, and they viewed the festivities from private boxes, some of which even sported retractable roofs, air-conditioning, and <a href="/wiki/Avox" title="Avox">Avox</a> servants. Those who were not as rich had to enter via turnstiles using Capitol tokens.<sup id="cite_ref-Ballad_9_1-1" class="reference"><a href="#cite_note-Ballad_9-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/99/Capitol_Arena_interior_tour.webp/revision/latest?cb=20240306002945" class="mw-file-description image"><img alt="Interior of the Capitol Arena." src="https://static.wikia.nocookie.net/thehungergames/images/9/99/Capitol_Arena_interior_tour.webp/revision/latest/scale-to-width-down/180?cb=20240306002945" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="Capitol Arena interior tour.webp" data-image-key="Capitol_Arena_interior_tour.webp" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Capitol_Arena_interior_tour.webp" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Interior of the Capitol Arena.</p> 		 	</figcaption> </figure>
+<p>During the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, high-profile executions were staged there, making it a prime target for rebel bombers. Once it became the first Hunger Games arena, <a href="/wiki/Tribute" title="Tribute">tributes</a> were locked in with nothing but <a href="/wiki/Weapons" title="Weapons">weapons</a> while the audience watched from the comfort of their own homes. At the conclusion of each competition, the bodies would be removed and the doors locked until the next year with no further fanfare.<sup id="cite_ref-Ballad_9_1-2" class="reference"><a href="#cite_note-Ballad_9-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Bombing_of_the_Capitol_Arena">Bombing of the Capitol Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Bombing_of_the_Capitol_Arena" class="mw-redirect" title="Bombing of the Capitol Arena">Bombing of the Capitol Arena</a></i></center></div><p>
+On Saturday, July 9th, the Capitol Arena suffered a major bombing prior to the Games. The explosion had blown the arena apart, leaving a hole in the floor where <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> hid for most of the games. Most people in attendance were injured, and <a href="/wiki/Otto" title="Otto">Otto</a>, <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a>, and <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo</a> and <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> died in the bombing itself. <a href="/wiki/Facet" title="Facet">Facet</a>, <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a>, and <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> died staging an escape attempt amid the chaos, and <a href="/wiki/Panlo" title="Panlo">Panlo</a> and <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> succumbed to their injuries<sup id="cite_ref-Ballad_10_3-0" class="reference"><a href="#cite_note-Ballad_10-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> before <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> met the same fate.<sup id="cite_ref-Ballad_19_4-0" class="reference"><a href="#cite_note-Ballad_19-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 250px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3a/Capitol_Arena_interior.png/revision/latest?cb=20230427235227" class="mw-file-description image"><img alt="The interior of the Capitol Arena after the bombing" src="https://static.wikia.nocookie.net/thehungergames/images/3/3a/Capitol_Arena_interior.png/revision/latest/scale-to-width-down/250?cb=20230427235227" decoding="async" loading="lazy" width="250" height="165" class="thumbimage" data-image-name="Capitol Arena interior.png" data-image-key="Capitol_Arena_interior.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Capitol_Arena_interior.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The interior of the Capitol Arena after the bombing</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>After the bombing, the <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> pressed on with plans to hold the Games there. <a href="/wiki/Betting" title="Betting">Betting</a>, <a href="/wiki/Sponsorship" title="Sponsorship">sponsorship</a>, and sponsor gifts were introduced for the first time this year, which would provide tributes with food and water to keep them going for longer.<sup id="cite_ref-Ballad_6_5-0" class="reference"><a href="#cite_note-Ballad_6-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Terrain">Terrain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The arena itself was shaped like an oval. Bombings during the Dark Days left the ground littered with craters and rubble, and the once-lush grass had died from lack of maintenance. There was a high wall separating the field from the stands; however, wartime bombings created handholds that allowed tributes to climb up into the bleachers and concession stands.<sup id="cite_ref-Ballad_9_1-3" class="reference"><a href="#cite_note-Ballad_9-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The bombing shortly before the 10th Hunger Games created new debris and blew open several gates. This allowed tributes to access tunnels in the arena's walls where they could hide from their competitors.<sup id="cite_ref-Ballad_13_6-0" class="reference"><a href="#cite_note-Ballad_13-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> In the film adaptation, the tunnels were underneath the arena, and the bombing blew open a hole in the ground.<sup id="cite_ref-Ballad_film_7-0" class="reference"><a href="#cite_note-Ballad_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The Capitol Arena was not particularly secure; it was left unguarded in between the annual Games,<sup id="cite_ref-Ballad_10_3-1" class="reference"><a href="#cite_note-Ballad_10-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> and even when the 10th Hunger Games were underway, <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> was able to infiltrate the arena on the first night.<sup id="cite_ref-Ballad_15_8-0" class="reference"><a href="#cite_note-Ballad_15-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Layout">Layout</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The lobby was outside the tributes' regular area of play. It held boarded-up booths, turnstiles, and hallways with openings to the arena's different levels of seating. Past the turnstiles was the main gate, which a large scoreboard hung over.<sup id="cite_ref-Ballad_9_1-4" class="reference"><a href="#cite_note-Ballad_9-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> The main gate had been blown open by the bombing, completely removing one of its doors, so a barricade was erected with "multiple layers of concrete slabs, wooden planks, and barbed wire".<sup id="cite_ref-Ballad_14_9-0" class="reference"><a href="#cite_note-Ballad_14-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> However, this barricade was more for show than security. Its main purpose was to block the audience's view of the lobby and the street outside, so tributes could easily get around it. The first actual fortification was set up at the turnstiles: a temporary set of bars encased in barbed wire.<sup id="cite_ref-Ballad_15_8-1" class="reference"><a href="#cite_note-Ballad_15-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>For the 10th Hunger Games, a pair of 20-foot steel poles were set up on the field near the entrance, joined by a wooden crossbeam of about the same length.<sup id="cite_ref-Ballad_13_6-1" class="reference"><a href="#cite_note-Ballad_13-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> However, the beam was no more than six inches wide.<sup id="cite_ref-Ballad_14_9-1" class="reference"><a href="#cite_note-Ballad_14-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> Many tributes' deaths took place on or around this structure.
+</p>
+<h2><span class="mw-headline" id="Muttations">Muttations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On the fourth day, Head Gamemaker Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> unleashed a tank of <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a> as retaliation for Gaius Breen's death. They were brightly colored, and they heavily relied on their sense of smell because their hearing and sight were horrible. If they smelled an unfamiliar scent, they attacked it, and they killed two tributes. <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> had exposed them to <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>'s scent,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> so she was able to make a show of charming them. Once a storm rolled around, most of the snakes died because they drowned or could not regulate their temperature, but Lucy Gray was able to keep one alive in her pocket to set upon <a href="/wiki/Treech" title="Treech">Treech</a>.<sup id="cite_ref-Ballad_20_11-0" class="reference"><a href="#cite_note-Ballad_20-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Food_and_water_sources">Food and water sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There was no access to food and water in the arena itself, leaving tributes to die of dehydration, starve, or get killed by better-fed competitors during the 1st-9th Hunger Games. The introduction of sponsors in the 10th Hunger Games allowed audiences to pay to provide for their favorite tributes.<sup id="cite_ref-Ballad_6_5-1" class="reference"><a href="#cite_note-Ballad_6-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>For the <a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">film adaptation</a>, the exterior of the arena was made by digitally combining the <a href="https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)" class="extiw" title="wikipedia:Olympiastadion (Berlin)">Olympiastadion</a> in <a href="https://en.wikipedia.org/wiki/Berlin" class="extiw" title="wikipedia:Berlin">Berlin, Germany</a> with <a href="https://en.wikipedia.org/wiki/Centennial_Hall_(Wroc%C5%82aw)" class="extiw" title="wikipedia:Centennial Hall (Wrocław)">Centennial Hall</a> in <a href="https://en.wikipedia.org/wiki/Wroc%C5%82aw" class="extiw" title="wikipedia:Wrocław">Wrocław, Poland</a>, where interior scenes were filmed. The Olympiastadion was built by the Nazis for the <a href="https://en.wikipedia.org/wiki/1936_Summer_Olympics" class="extiw" title="wikipedia:1936 Summer Olympics">1936 Summer Olympics</a>,<sup id="cite_ref-audiocom_12-0" class="reference"><a href="#cite_note-audiocom-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup> which was similar to the Hunger Games in terms of its purpose as a propaganda event.</li>
+<li>Assuming it wasn't already demolished, the Capitol Arena would have been destroyed alongside all other arenas and replaced with a memorial following the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCapitol_Arena%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_9-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_9_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_9_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_9_1-2">1.2</a></sup> <sup><a href="#cite_ref-Ballad_9_1-3">1.3</a></sup> <sup><a href="#cite_ref-Ballad_9_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_10-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_10_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_10_3-1">3.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_19-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_19_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 19</span>
+</li>
+<li id="cite_note-Ballad_6-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_6_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ballad_6_5-1">5.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_13-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_13_6-0">6.0</a></sup> <sup><a href="#cite_ref-Ballad_13_6-1">6.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_film-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_film_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-Ballad_15-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_15_8-0">8.0</a></sup> <sup><a href="#cite_ref-Ballad_15_8-1">8.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 15</span>
+</li>
+<li id="cite_note-Ballad_14-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_14_9-0">9.0</a></sup> <sup><a href="#cite_ref-Ballad_14_9-1">9.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 18</span>
+</li>
+<li id="cite_note-Ballad_20-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_20_11-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 20</span>
+</li>
+<li id="cite_note-audiocom-12"><span class="mw-cite-backlink"><a href="#cite_ref-audiocom_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> audio commentary by <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a> and <a href="/wiki/Nina_Jacobson" title="Nina Jacobson">Nina Jacobson</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Epilogue</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251225184729
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.071 seconds
+Real time usage: 0.119 seconds
+Preprocessor visited node count: 429/1000000
+Post‐expand include size: 572/2097152 bytes
+Template argument size: 195/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6998/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   72.949      1 -total
+ 30.86%   22.515      1 Template:Reflist
+ 24.98%   18.224      1 Template:Location
+  3.42%    2.497      5 Template:W
+  2.33%    1.696      1 Template:Main
+  2.09%    1.528      1 Template:SOTR
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539634-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225184729 and revision id 966310. Rendering was triggered because: page-view
+ -->
+</div>

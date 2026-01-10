@@ -1,0 +1,208 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Satyria Click</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Communications professor</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Satyria Click</b> was <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>'s communications professor at the <a href="/wiki/Academy" title="Academy">Academy</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="67222" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Satyria Click play in Coriolanus Snow's life?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Satyria Click, Coriolanus Snow's communications professor at the Academy, played a pivotal role in his life. She championed his selection as a mentor for the 10th Hunger Games. As her favored student and teaching aide, Snow enjoyed her substantial support. Satyria was also present in his life beyond academia, visiting him after an injury during a Capitol Arena tour.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67223" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why was Coriolanus Snow afraid of disappointing Satyria Click?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Coriolanus Snow, an exceptional student at the Academy, feared disappointing Satyria Click because of her high expectations. Satyria questioned Coriolanus about his tribute, Lucy Gray Baird, and voiced her displeasure about the tributes' lack of food. She also asked Coriolanus to perform the anthem at Arachne's funeral after his rescue attempts. Coriolanus felt the pressure to meet these expectations and avoid letting Satyria down.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67224" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Satyria Click influence the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Satyria Click was instrumental in transforming the 10th Hunger Games. She introduced mentors, interviews, betting, and sponsorship, turning the Games from a district punishment into Capitol entertainment. She familiarized mentors with the Capitol News station machinery, managed the mentor area as tributes died, and directed Coriolanus to the high biology lab post Lucy Gray's victory.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67225" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Satyria Click's personality like?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						As a communications professor at the Academy in The Capitol, Satyria Click demonstrated advocacy skills, notably when she campaigned for her favorite student, Coriolanus Snow, to secure a mentor position in the 10th Hunger Games. She also selected Coriolanus as her teaching aide, indicating her trust in his abilities.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67226" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Satyria Click's position at the Academy?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						At the Academy in The Capitol, Satyria Click held the position of a communications professor. She played a significant role in mentoring Coriolanus Snow and advocated for his inclusion as a mentor in the 10th Hunger Games. She also functioned as a teaching aide, particularly for her favorite student, Snow.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Satyria Click","mainEntity":[{"@type":"Question","name":"What role did Satyria Click play in Coriolanus Snow's life?","acceptedAnswer":{"@type":"Answer","text":"Satyria Click, Coriolanus Snow's communications professor at the Academy, played a pivotal role in his life. She championed his selection as a mentor for the 10th Hunger Games. As her favored student and teaching aide, Snow enjoyed her substantial support. Satyria was also present in his life beyond academia, visiting him after an injury during a Capitol Arena tour."}},{"@type":"Question","name":"Why was Coriolanus Snow afraid of disappointing Satyria Click?","acceptedAnswer":{"@type":"Answer","text":"Coriolanus Snow, an exceptional student at the Academy, feared disappointing Satyria Click because of her high expectations. Satyria questioned Coriolanus about his tribute, Lucy Gray Baird, and voiced her displeasure about the tributes' lack of food. She also asked Coriolanus to perform the anthem at Arachne's funeral after his rescue attempts. Coriolanus felt the pressure to meet these expectations and avoid letting Satyria down."}},{"@type":"Question","name":"How did Satyria Click influence the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Satyria Click was instrumental in transforming the 10th Hunger Games. She introduced mentors, interviews, betting, and sponsorship, turning the Games from a district punishment into Capitol entertainment. She familiarized mentors with the Capitol News station machinery, managed the mentor area as tributes died, and directed Coriolanus to the high biology lab post Lucy Gray's victory."}},{"@type":"Question","name":"What was Satyria Click's personality like?","acceptedAnswer":{"@type":"Answer","text":"As a communications professor at the Academy in The Capitol, Satyria Click demonstrated advocacy skills, notably when she campaigned for her favorite student, Coriolanus Snow, to secure a mentor position in the 10th Hunger Games. She also selected Coriolanus as her teaching aide, indicating her trust in his abilities."}},{"@type":"Question","name":"What was Satyria Click's position at the Academy?","acceptedAnswer":{"@type":"Answer","text":"At the Academy in The Capitol, Satyria Click held the position of a communications professor. She played a significant role in mentoring Coriolanus Snow and advocated for his inclusion as a mentor in the 10th Hunger Games. She also functioned as a teaching aide, particularly for her favorite student, Snow."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSatyria_Click%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Click campaigned for Coriolanus to receive one of the 24 slots as a <a href="/wiki/Mentor" title="Mentor">mentor</a> in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. He was her favorite student and her teaching aide. She was known to be unpredictable, and could be even more so if she had too much to drink. Coriolanus was deeply afraid of disappointing her. He also worried that if he let her down, she might have the power to remove him from his mentor position and replace him with someone else.
+</p><p>The day of <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a> of the 10th Hunger Games, Satyria was seen telling a wild story to a group of Academy professors and Games officials. When Coriolanus arrived, she waved him over and complimented his shirt, receiving a compliment about her own gown in return. She then shook hands with Professor <a href="/wiki/Agrippina_Sickle" title="Agrippina Sickle">Agrippina Sickle</a> and complimented <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>.<sup id="cite_ref-Ballad_1_1-0" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Before the <a href="/wiki/Tribute" title="Tribute">tributes</a> arrived for the Games, Satyria led a mentor meeting where she detailed their first assignment.<sup id="cite_ref-Ballad_3_2-0" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Later, she congratulated Coriolanus on having pleased Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>, and was shocked upon hearing that Sejanus had offered to trade tributes with him earlier. After <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a>'s death, Satyria spoke at a schoolwide assembly, speaking of Arachne's personality in glowing terms. She also announced that Arachne's official funeral would be held the following day, broadcast live to all of <a href="/wiki/Panem" title="Panem">Panem</a>.<sup id="cite_ref-Ballad_7_3-0" class="reference"><a href="#cite_note-Ballad_7-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>Satyria called the Snows three times while Coriolanus was taking a nap after having visited the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>. When she called again, she requested him to sing the <a href="/wiki/Gem_of_Panem" title="Gem of Panem">anthem</a> at Arachne's funeral, due to his attempts to save her after she was attacked. She then questioned Coriolanus about his assigned tribute, <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, and found it unfair that the tributes had remained unfed.<sup id="cite_ref-Ballad_9_4-0" class="reference"><a href="#cite_note-Ballad_9-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>When rebel bombs exploded during a tour of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> and Coriolanus was injured, Satyria popped in to visit with some bakery cookies, giving him well-wishes and telling him that, while unfortunate, the incident could improve his chances for a prize. The next day, she called him to encourage him to attend school if he could manage, as there would be another mentor-tribute meeting.<sup id="cite_ref-Ballad_10_5-0" class="reference"><a href="#cite_note-Ballad_10-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>Satyria helped with small tasks during the 10th Hunger Games, such as taking the mentors to the Capitol News station to familiarize themselves with the machinery<sup id="cite_ref-Ballad_12_6-0" class="reference"><a href="#cite_note-Ballad_12-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>, rearranging chairs as more tributes died in the arena and their mentors left, and releasing the mentors when they were done for the night.<sup id="cite_ref-Ballad_18_7-0" class="reference"><a href="#cite_note-Ballad_18-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> She also directed Coriolanus to the high biology lab after Lucy Gray won the Games.<sup id="cite_ref-Ballad_20_8-0" class="reference"><a href="#cite_note-Ballad_20-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSatyria_Click%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Satyria was amusing and not overly uptight, as she was one of the few professors at the Academy that allowed students to call her by her first name. However, she had a habit of drinking excessively, not unlike many other adults at <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>. Satyria was often unpredictable, a trait that could be heightened with more drink.<sup id="cite_ref-Ballad_1_1-1" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSatyria_Click%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i><a href="https://en.wikipedia.org/wiki/Satyria" class="extiw" title="wikipedia:Satyria">Satyria</a></i> is a genus of flowering plants. Her name may also refer to <a href="https://en.wikipedia.org/wiki/Satyrion" class="extiw" title="wikipedia:Satyrion">Satyrion</a> or Satyria, a nymph in Greek mythology.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSatyria_Click%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_1_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_3-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_2-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_7-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_9-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_9_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 9</span>
+</li>
+<li id="cite_note-Ballad_10-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_10_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_12-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_12_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_18-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_18_7-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 18</span>
+</li>
+<li id="cite_note-Ballad_20-8"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_20_8-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 20</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20260101010910
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.036 seconds
+Real time usage: 0.055 seconds
+Preprocessor visited node count: 221/1000000
+Post‐expand include size: 178/2097152 bytes
+Template argument size: 30/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3336/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   33.440      1 -total
+ 46.09%   15.413      1 Template:Character
+ 22.12%    7.397      1 Template:Reflist
+  6.46%    2.160      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539343-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260101010910 and revision id 945674. Rendering was triggered because: page-view
+ -->
+</div>

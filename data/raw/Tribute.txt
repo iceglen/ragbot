@@ -1,0 +1,758 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><figure class="thumb mw-halign-right show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/97/Tributes_of_74th_hungergames.jpg/revision/latest?cb=20120418194250" class="mw-file-description image"><img alt="The tributes of the ." src="https://static.wikia.nocookie.net/thehungergames/images/9/97/Tributes_of_74th_hungergames.jpg/revision/latest/scale-to-width-down/200?cb=20120418194250" decoding="async" loading="lazy" width="200" height="123" class="thumbimage" data-image-name="Tributes of 74th hungergames.jpg" data-image-key="Tributes_of_74th_hungergames.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tributes_of_74th_hungergames.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The tributes of the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>.</p> 		 	</figcaption> </figure>
+<p><b>Tributes</b> were residents of <a href="/wiki/Panem" title="Panem">Panem</a>'s twelve <a href="/wiki/District" class="mw-redirect" title="District">districts</a> who were <a href="/wiki/Reaping" title="Reaping">reaped</a> or <a href="/wiki/Volunteer" title="Volunteer">volunteered</a> to participate in the annual <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>. Except in special cases such as <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quells</a>, 24 children between the ages of 12 and 18 were chosen at random to participate. Every district had to send one girl and one boy to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, who then fought to the death in an <a href="/wiki/Arena" title="Arena">arena</a> until only one <a href="/wiki/Victor" title="Victor">victor</a> remained.<sup id="cite_ref-THG_1_1-0" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Choosing_the_tributes"><span class="tocnumber">1</span> <span class="toctext">Choosing the tributes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Volunteering"><span class="tocnumber">1.1</span> <span class="toctext">Volunteering</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Quarter_Quells"><span class="tocnumber">1.2</span> <span class="toctext">Quarter Quells</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Known_tributes"><span class="tocnumber">2</span> <span class="toctext">Known tributes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Tributes_in_the_10th_Hunger_Games"><span class="tocnumber">2.1</span> <span class="toctext">Tributes in the 10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Tributes_in_the_50th_Hunger_Games"><span class="tocnumber">2.2</span> <span class="toctext">Tributes in the 50th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Tributes_in_the_74th_Hunger_Games"><span class="tocnumber">2.3</span> <span class="toctext">Tributes in the 74th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Volunteers"><span class="tocnumber">2.3.1</span> <span class="toctext">Volunteers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Tributes_in_the_75th_Hunger_Games"><span class="tocnumber">2.4</span> <span class="toctext">Tributes in the 75th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Volunteers_2"><span class="tocnumber">2.4.1</span> <span class="toctext">Volunteers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Other_Games"><span class="tocnumber">2.5</span> <span class="toctext">Other Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Choosing_the_tributes">Choosing the tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Reaping" title="Reaping">Reaping</a></i></center></div>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Effie-Reaping-Bowl-The-Hunger-Games.jpg/revision/latest?cb=20130420112448" class="mw-file-description image"><img alt=" during the " src="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Effie-Reaping-Bowl-The-Hunger-Games.jpg/revision/latest/scale-to-width-down/200?cb=20130420112448" decoding="async" loading="lazy" width="200" height="151" class="thumbimage" data-image-name="Effie-Reaping-Bowl-The-Hunger-Games.jpg" data-image-key="Effie-Reaping-Bowl-The-Hunger-Games.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Effie-Reaping-Bowl-The-Hunger-Games.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> during the <a href="/wiki/Reaping" title="Reaping">reaping</a></p> 		 	</figcaption> </figure>
+<p>Each year, all children aged twelve to eighteen were separated into their respective age groups and designated to different areas. There were two glass <a href="/wiki/Reaping_balls" title="Reaping balls">reaping balls</a>, one for the boys and one for the girls. Each one contained slips of paper with the names of the district's children. The district's <a href="/wiki/Escort" title="Escort">escort</a> picked one name out of each, and the two children they selected became that year's tributes.<sup id="cite_ref-THG_1_1-1" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>However, not everyone's chances of being reaped were equal; children who were twelve were entered once, thirteen-year-olds twice, and so on until they were eighteen with at least seven entries. A child's name could also be entered more times if they opted to receive <a href="/wiki/Tessera" title="Tessera">tesserae</a>. For each tessera taken by a child (with a maximum of however many people were in their family), their name was added an extra time in exchange for a year's supply of grain and oil for one person. However, these entries were cumulative, so all entries were rolled over to the next year. For example, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> took tesserae for five family members since he was first entered into the reaping, and so had his name entered forty-two times by the 74th Hunger Games. <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> had her name entered twenty times, while her twelve-year-old sister's name was entered only once.<sup id="cite_ref-THG_1_1-2" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Volunteering">Volunteering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Volunteer" title="Volunteer">Volunteer</a></i></center></div>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Hungergames_00498.jpg/revision/latest?cb=20130706162037" class="mw-file-description image"><img alt="Katniss Everdeen volunteering for her sister." src="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Hungergames_00498.jpg/revision/latest/scale-to-width-down/180?cb=20130706162037" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="Hungergames 00498.jpg" data-image-key="Hungergames_00498.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Hungergames_00498.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> volunteering for her sister.</p> 		 	</figcaption> </figure><p>
+By rule, once a person's name had been chosen to become a tribute, another eligible boy or girl could volunteer to take their place. Normally volunteers were asked for after the chosen person is introduced, but Katniss Everdeen volunteered spontaneously before her sister <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> could mount the stage. This marked the first time in decades that a person had volunteered in District 12.<sup id="cite_ref-THG_2_2-0" class="reference"><a href="#cite_note-THG_2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></p><figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Career-Tributes.png/revision/latest?cb=20140318020704" class="mw-file-description image"><img alt="Several  training for the 74th Hunger Games." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="200" height="134" class="thumbimage lazyload" data-image-name="Career-Tributes.png" data-image-key="Career-Tributes.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Career-Tributes.png/revision/latest/scale-to-width-down/200?cb=20140318020704" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Career-Tributes.png/revision/latest?cb=20140318020704" class="mw-file-description image"><img alt="Several  training for the 74th Hunger Games." src="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Career-Tributes.png/revision/latest/scale-to-width-down/200?cb=20140318020704" decoding="async" loading="lazy" width="200" height="134" class="thumbimage" data-image-name="Career-Tributes.png" data-image-key="Career-Tributes.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Career-Tributes.png/revision/latest/scale-to-width-down/200?cb=20140318020704" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Career-Tributes.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Several <a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> training for the 74th Hunger Games.</p> 		 	</figcaption> </figure><p>In Districts <a href="/wiki/District_1" title="District 1">1</a>, <a href="/wiki/District_2" title="District 2">2</a> and <a href="/wiki/District_4" title="District 4">4</a>— in the films, only 1 and 2— <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tributes</a> trained all their lives to participate in the Games so they could volunteer for a chance at fame and glory. As a result, the volunteering protocols were different there. However, in poorer districts like 12, participating in the Hunger Games was equivalent to a death sentence, so volunteering regulations were rarely used.<sup id="cite_ref-THG_2_2-1" class="reference"><a href="#cite_note-THG_2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><h3><span class="mw-headline" id="Quarter_Quells">Quarter Quells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a></i></center></div>
+<p><a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quells</a> were special editions of the Hunger Games that were held every 25 years: a quarter of a century, hence the name "Quarter Quell." Each one had a cruel twist that would remind the districts of their failed <a href="/wiki/Dark_Days" title="Dark Days">rebellion</a>, further punishing them for it and keeping the memory fresh.<sup id="cite_ref-CF_12_3-0" class="reference"><a href="#cite_note-CF_12-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th><b>Quarter Quell</b>
+</th>
+<th><b>Hunger Games</b>
+</th>
+<th><b>Twist</b>
+</th></tr>
+<tr>
+<td>1st
+</td>
+<td><a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th</a>
+</td>
+<td>To remind the <a href="/wiki/Rebels" title="Rebels">rebels</a> that their children were dying because of their choice to initiate violence, each district had to hold an <a href="/wiki/Elections" title="Elections">election</a> and vote in their two tributes.<sup id="cite_ref-CF_12_3-1" class="reference"><a href="#cite_note-CF_12-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>2nd
+</td>
+<td><a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th</a>
+</td>
+<td>To remind them that two rebels died for every  Capitol citizen, the districts were required to send twice as many tributes.<sup id="cite_ref-CF_12_3-2" class="reference"><a href="#cite_note-CF_12-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> This meant that each district had to send four tributes, two male and two female, for a total of 48 tributes across the twelve districts.
+</td></tr>
+<tr>
+<td>3rd
+</td>
+<td><a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th</a>
+</td>
+<td>To remind the districts that even the strongest among them could not overcome the Capitol, each district's tributes were reaped from their existing pool of victors.<sup id="cite_ref-CF_12_3-3" class="reference"><a href="#cite_note-CF_12-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> As a result, the 12-18 age range was ignored, and victors could be reaped regardless of their age or physical condition.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Known_tributes">Known tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Tributes_in_the_10th_Hunger_Games">Tributes in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This is the first Hunger Games for which all twenty-four tributes have been named.<sup id="cite_ref-Ballad_7_4-0" class="reference"><a href="#cite_note-Ballad_7-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Lucy_Gray_rainbow_dress.jpg/revision/latest?cb=20231229072052" class="mw-file-description image"><img alt="Lucy Gray Baird, District 12&#39;s female tribute and first victor." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="263" class="thumbimage lazyload" data-image-name="Lucy Gray rainbow dress.jpg" data-image-key="Lucy_Gray_rainbow_dress.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Lucy_Gray_rainbow_dress.jpg/revision/latest/scale-to-width-down/180?cb=20231229072052" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Lucy_Gray_rainbow_dress.jpg/revision/latest?cb=20231229072052" class="mw-file-description image"><img alt="Lucy Gray Baird, District 12&#39;s female tribute and first victor." src="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Lucy_Gray_rainbow_dress.jpg/revision/latest/scale-to-width-down/180?cb=20231229072052" decoding="async" loading="lazy" width="180" height="263" class="thumbimage" data-image-name="Lucy Gray rainbow dress.jpg" data-image-key="Lucy_Gray_rainbow_dress.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Lucy_Gray_rainbow_dress.jpg/revision/latest/scale-to-width-down/180?cb=20231229072052" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Lucy_Gray_rainbow_dress.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, <a href="/wiki/District_12" title="District 12">District 12</a>'s female tribute.</p> 		 	</figcaption> </figure>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th><b>District</b>
+</th>
+<th><b>Male Tribute</b>
+</th>
+<th><b>Female Tribute</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/District_1" title="District 1">District 1</a>
+</td>
+<td><a href="/wiki/Facet" title="Facet">Facet</a>
+</td>
+<td><a href="/wiki/Velvereen" title="Velvereen">Velvereen</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_2" title="District 2">District 2</a>
+</td>
+<td><a href="/wiki/Marcus" title="Marcus">Marcus</a>
+</td>
+<td><a href="/wiki/Sabyn" title="Sabyn">Sabyn</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_3" title="District 3">District 3</a>
+</td>
+<td><a href="/wiki/Circ" title="Circ">Circ</a>
+</td>
+<td><a href="/wiki/Teslee" title="Teslee">Teslee</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_4" title="District 4">District 4</a>
+</td>
+<td><a href="/wiki/Mizzen" title="Mizzen">Mizzen</a>
+</td>
+<td><a href="/wiki/Coral" title="Coral">Coral</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_5" title="District 5">District 5</a>
+</td>
+<td><a href="/wiki/Hy" title="Hy">Hy</a>
+</td>
+<td><a href="/wiki/Sol" title="Sol">Sol</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_6" title="District 6">District 6</a>
+</td>
+<td><a href="/wiki/Otto" title="Otto">Otto</a>
+</td>
+<td><a href="/wiki/Ginnee" title="Ginnee">Ginnee</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_7" title="District 7">District 7</a>
+</td>
+<td><a href="/wiki/Treech" title="Treech">Treech</a>
+</td>
+<td><a href="/wiki/Lamina" title="Lamina">Lamina</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_8" title="District 8">District 8</a>
+</td>
+<td><a href="/wiki/Bobbin" title="Bobbin">Bobbin</a>
+</td>
+<td><a href="/wiki/Wovey" title="Wovey">Wovey</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_9" title="District 9">District 9</a>
+</td>
+<td><a href="/wiki/Panlo" title="Panlo">Panlo</a>
+</td>
+<td><a href="/wiki/Sheaf" title="Sheaf">Sheaf</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_10" title="District 10">District 10</a>
+</td>
+<td><a href="/wiki/Tanner" title="Tanner">Tanner</a>
+</td>
+<td><a href="/wiki/Brandy" title="Brandy">Brandy</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_11" title="District 11">District 11</a>
+</td>
+<td><a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a>
+</td>
+<td><a href="/wiki/Dill" title="Dill">Dill</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_12" title="District 12">District 12</a>
+</td>
+<td><a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a>
+</td>
+<td><a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>
+</td></tr></tbody></table>
+<hr />
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Mainpage-Haymitch.png/revision/latest?cb=20200610092221" class="mw-file-description image"><img alt="Haymitch Abernathy, victor of the second Quarter Quell." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="180" class="thumbimage lazyload" data-image-name="Mainpage-Haymitch.png" data-image-key="Mainpage-Haymitch.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Mainpage-Haymitch.png/revision/latest/scale-to-width-down/180?cb=20200610092221" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Mainpage-Haymitch.png/revision/latest?cb=20200610092221" class="mw-file-description image"><img alt="Haymitch Abernathy, victor of the second Quarter Quell." src="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Mainpage-Haymitch.png/revision/latest/scale-to-width-down/180?cb=20200610092221" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-image-name="Mainpage-Haymitch.png" data-image-key="Mainpage-Haymitch.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Mainpage-Haymitch.png/revision/latest/scale-to-width-down/180?cb=20200610092221" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mainpage-Haymitch.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Haymitch Abernathy, victor of the second Quarter Quell.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Tributes_in_the_50th_Hunger_Games">Tributes in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since twice as many tributes were sent into the arena for the second Quarter Quell, there were forty-eight tributes this year.<sup id="cite_ref-CF_12_3-4" class="reference"><a href="#cite_note-CF_12-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-CF_14_5-0" class="reference"><a href="#cite_note-CF_14-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> They have all been named.
+</p>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th><b>District</b>
+</th>
+<th><b>Male tributes</b>
+</th>
+<th><b>Female tributes</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/District_1" title="District 1">District 1</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a></li>
+<li><a href="/wiki/Loupe" title="Loupe">Loupe</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a></li>
+<li><a href="/wiki/Carat" title="Carat">Carat</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_2" title="District 2">District 2</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Alpheus" title="Alpheus">Alpheus</a></li>
+<li><a href="/wiki/Janus" title="Janus">Janus</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Camilla" title="Camilla">Camilla</a></li>
+<li><a href="/wiki/Nona" title="Nona">Nona</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_3" title="District 3">District 3</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a></li>
+<li><a href="/wiki/Lect" title="Lect">Lect</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Dio" title="Dio">Dio</a></li>
+<li><a href="/wiki/Coil" title="Coil">Coil</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_4" title="District 4">District 4</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Urchin" title="Urchin">Urchin</a></li>
+<li><a href="/wiki/Angler" title="Angler">Angler</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Barba" title="Barba">Barba</a></li>
+<li><a href="/wiki/Maritte" title="Maritte">Maritte</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_5" title="District 5">District 5</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Hychel" title="Hychel">Hychel</a></li>
+<li><a href="/wiki/Fisser" title="Fisser">Fisser</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Anion" title="Anion">Anion</a></li>
+<li><a href="/wiki/Potena" title="Potena">Potena</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_6" title="District 6">District 6</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Miles" title="Miles">Miles</a></li>
+<li><a href="/wiki/Atread" title="Atread">Atread</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Wellie" title="Wellie">Wellie</a></li>
+<li><a href="/wiki/Velo" title="Velo">Velo</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_7" title="District 7">District 7</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Bircher" title="Bircher">Bircher</a></li>
+<li><a href="/wiki/Heartwood" title="Heartwood">Heartwood</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Autumn" title="Autumn">Autumn</a></li>
+<li><a href="/wiki/Ringina" title="Ringina">Ringina</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_8" title="District 8">District 8</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Wefton" title="Wefton">Wefton</a></li>
+<li><a href="/wiki/Ripman" title="Ripman">Ripman</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Notion" title="Notion">Notion</a></li>
+<li><a href="/wiki/Alawna" title="Alawna">Alawna</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_9" title="District 9">District 9</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Ryan" title="Ryan">Ryan</a></li>
+<li><a href="/wiki/Clayton" title="Clayton">Clayton</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Kerna" title="Kerna">Kerna</a></li>
+<li><a href="/wiki/Midge" title="Midge">Midge</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_10" title="District 10">District 10</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Buck" title="Buck">Buck</a></li>
+<li><a href="/wiki/Stamp" title="Stamp">Stamp</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Lannie" title="Lannie">Lannie</a></li>
+<li><a href="/wiki/Peeler" title="Peeler">Peeler</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_11" title="District 11">District 11</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Hull" title="Hull">Hull</a></li>
+<li><a href="/wiki/Tile" title="Tile">Tile</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Chicory" title="Chicory">Chicory</a></li>
+<li><a href="/wiki/Blossom" title="Blossom">Blossom</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_12" title="District 12">District 12</a>
+</td>
+<td>
+<ul><li><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a></li>
+<li><a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a></li>
+<li><a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a></li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Tributes_in_the_74th_Hunger_Games">Tributes in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 352px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Tributes-xlarge.jpg/revision/latest?cb=20210707171656" class="mw-file-description image"><img alt="From left to right, Thresh (11), Glimmer (1), &quot;Foxface&quot;(5)" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="352" height="198" class="thumbimage lazyload" data-image-name="Tributes-xlarge.jpg" data-image-key="Tributes-xlarge.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Tributes-xlarge.jpg/revision/latest/scale-to-width-down/352?cb=20210707171656" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Tributes-xlarge.jpg/revision/latest?cb=20210707171656" class="mw-file-description image"><img alt="From left to right, Thresh (11), Glimmer (1), &quot;Foxface&quot;(5)" src="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Tributes-xlarge.jpg/revision/latest/scale-to-width-down/352?cb=20210707171656" decoding="async" loading="lazy" width="352" height="198" class="thumbimage" data-image-name="Tributes-xlarge.jpg" data-image-key="Tributes-xlarge.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Tributes-xlarge.jpg/revision/latest/scale-to-width-down/352?cb=20210707171656" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tributes-xlarge.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">From left to right, <a href="/wiki/Thresh" title="Thresh">Thresh</a> (District 11), <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> (District 1), and <a href="/wiki/%22Foxface%22" title="&quot;Foxface&quot;">"Foxface"</a> (District 5)</p> 		 	</figcaption> </figure>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th><b>District</b>
+</th>
+<th><b>Male Tribute</b>
+</th>
+<th><b>Female Tribute</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/District_1" title="District 1">District 1</a>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a>
+</td>
+<td><a href="/wiki/Glimmer" title="Glimmer">Glimmer</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_2" title="District 2">District 2</a>
+</td>
+<td><a href="/wiki/Cato" title="Cato">Cato</a>
+</td>
+<td><a href="/wiki/Clove" title="Clove">Clove</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_3" title="District 3">District 3</a>
+</td>
+<td><a href="/wiki/District_3_male_(74th_HG)" class="mw-redirect" title="District 3 male (74th HG)">Fila</a>
+</td>
+<td><a href="/wiki/District_3_female_(74th_HG)" title="District 3 female (74th HG)">Unnamed</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_4" title="District 4">District 4</a>
+</td>
+<td><a href="/wiki/District_4_male_(74th_HG)" class="mw-redirect" title="District 4 male (74th HG)">Bravura</a>
+</td>
+<td><a href="/wiki/District_4_female_(74th_HG)" class="mw-redirect" title="District 4 female (74th HG)">Marina</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_5" title="District 5">District 5</a>
+</td>
+<td><a href="/wiki/District_5_male_(74th_HG)" title="District 5 male (74th HG)">Unnamed</a>
+</td>
+<td><a href="/wiki/Foxface" class="mw-redirect" title="Foxface">"Foxface"</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_6" title="District 6">District 6</a>
+</td>
+<td><a href="/wiki/District_6_male_(74th_HG)" class="mw-redirect" title="District 6 male (74th HG)">Unnamed</a>
+</td>
+<td><a href="/wiki/District_6_female_(74th_HG)" title="District 6 female (74th HG)">Unnamed</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_7" title="District 7">District 7</a>
+</td>
+<td><a href="/wiki/District_7_male_(74th_HG)" class="mw-redirect" title="District 7 male (74th HG)">Unnamed</a>
+</td>
+<td><a href="/wiki/District_7_female_(74th_HG)" title="District 7 female (74th HG)">Unnamed</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_8" title="District 8">District 8</a>
+</td>
+<td><a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">Unnamed</a>
+</td>
+<td><a href="/wiki/District_8_female_(74th_HG)" class="mw-redirect" title="District 8 female (74th HG)">Unnamed</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_9" title="District 9">District 9</a>
+</td>
+<td><a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">Unnamed</a>
+</td>
+<td><a href="/wiki/District_9_female_(74th_HG)" title="District 9 female (74th HG)">Unnamed</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_10" title="District 10">District 10</a>
+</td>
+<td><a href="/wiki/District_10_male_(74th_HG)" class="mw-redirect" title="District 10 male (74th HG)">Unnamed</a>
+</td>
+<td><a href="/wiki/District_10_female_(74th_HG)" title="District 10 female (74th HG)">Unnamed</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_11" title="District 11">District 11</a>
+</td>
+<td><a href="/wiki/Thresh" title="Thresh">Thresh</a>
+</td>
+<td><a href="/wiki/Rue" title="Rue">Rue</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_12" title="District 12">District 12</a>
+</td>
+<td><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Volunteers">Volunteers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Cato<sup id="cite_ref-THG_3_6-0" class="reference"><a href="#cite_note-THG_3-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Any combination of Marvel, Glimmer, Clove, Marina, and/or the unnamed District 4 male (presumed)</li>
+<li>Katniss Everdeen - volunteered in place of her sister, Prim<sup id="cite_ref-THG_2_2-2" class="reference"><a href="#cite_note-THG_2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<hr />
+<h3><span class="mw-headline" id="Tributes_in_the_75th_Hunger_Games">Tributes in the 75th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Due to the twist of the third Quarter Quell, this would be each tribute's second time competing in the Hunger Games.<sup id="cite_ref-CF_14_5-1" class="reference"><a href="#cite_note-CF_14-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 300px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Victors_%3B%29.jpg/revision/latest?cb=20131123004557" class="mw-file-description image"><img alt="The third Quarter Quell&#39;s tributes holding hands during interviews." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="300" height="200" class="thumbimage lazyload" data-image-name="Victors ;).jpg" data-image-key="Victors_%3B%29.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Victors_%3B%29.jpg/revision/latest/scale-to-width-down/300?cb=20131123004557" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Victors_%3B%29.jpg/revision/latest?cb=20131123004557" class="mw-file-description image"><img alt="The third Quarter Quell&#39;s tributes holding hands during interviews." src="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Victors_%3B%29.jpg/revision/latest/scale-to-width-down/300?cb=20131123004557" decoding="async" loading="lazy" width="300" height="200" class="thumbimage" data-image-name="Victors ;).jpg" data-image-key="Victors_%3B%29.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d4/Victors_%3B%29.jpg/revision/latest/scale-to-width-down/300?cb=20131123004557" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Victors_;).jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The third Quarter Quell's tributes holding hands during <a href="/wiki/Interviews" title="Interviews">interviews</a>.</p> 		 	</figcaption> </figure>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th><b>District</b>
+</th>
+<th><b>Male Tribute</b>
+</th>
+<th><b>Female Tribute</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/District_1" title="District 1">District 1</a>
+</td>
+<td><a href="/wiki/Gloss" title="Gloss">Gloss</a>
+</td>
+<td><a href="/wiki/Cashmere" title="Cashmere">Cashmere</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_2" title="District 2">District 2</a>
+</td>
+<td><a href="/wiki/Brutus" title="Brutus">Brutus</a>
+</td>
+<td><a href="/wiki/Enobaria" title="Enobaria">Enobaria</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_3" title="District 3">District 3</a>
+</td>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>
+</td>
+<td><a href="/wiki/Wiress" title="Wiress">Wiress</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_4" title="District 4">District 4</a>
+</td>
+<td><a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a>
+</td>
+<td><a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_5" title="District 5">District 5</a>
+</td>
+<td><a href="/wiki/District_5_male_(75th_HG)" title="District 5 male (75th HG)">Unnamed</a>
+</td>
+<td><a href="/wiki/District_5_female_(75th_HG)" title="District 5 female (75th HG)">Unnamed</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_6" title="District 6">District 6</a>
+</td>
+<td><a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">Male morphling</a>
+</td>
+<td><a href="/wiki/District_6_female_(75th_HG)" title="District 6 female (75th HG)">Female morphling</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_7" title="District 7">District 7</a>
+</td>
+<td><a href="/wiki/Blight" title="Blight">Blight</a>
+</td>
+<td><a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_8" title="District 8">District 8</a>
+</td>
+<td><a href="/wiki/Woof" title="Woof">Woof</a>
+</td>
+<td><a href="/wiki/Cecelia" title="Cecelia">Cecelia</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_9" title="District 9">District 9</a>
+</td>
+<td><a href="/wiki/District_9_male_(75th_HG)" title="District 9 male (75th HG)">Unnamed</a>
+</td>
+<td><a href="/wiki/District_9_female_(75th_HG)" class="mw-redirect" title="District 9 female (75th HG)">Unnamed</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_10" title="District 10">District 10</a>
+</td>
+<td><a href="/wiki/District_10_male_(75th_HG)" title="District 10 male (75th HG)">Unnamed</a>
+</td>
+<td><a href="/wiki/District_10_female_(75th_HG)" title="District 10 female (75th HG)">Unnamed</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_11" title="District 11">District 11</a>
+</td>
+<td><a href="/wiki/Chaff" title="Chaff">Chaff</a>
+</td>
+<td><a href="/wiki/Seeder" title="Seeder">Seeder</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_12" title="District 12">District 12</a>
+</td>
+<td>Peeta Mellark
+</td>
+<td>Katniss Everdeen
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Volunteers_2">Volunteers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Brutus<sup id="cite_ref-CF_14_5-2" class="reference"><a href="#cite_note-CF_14-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Enobaria<sup id="cite_ref-CF_film_7-0" class="reference"><a href="#cite_note-CF_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Mags Flanagan - volunteered for <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a><sup id="cite_ref-CF_14_5-3" class="reference"><a href="#cite_note-CF_14-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Chaff (possible)<sup id="cite_ref-CF_14_5-4" class="reference"><a href="#cite_note-CF_14-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Peeta Mellark - volunteered for Haymitch Abernathy<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<hr />
+<h3><span class="mw-headline" id="Other_Games">Other Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Victors have been omitted from the following table because they and their Games are covered more comprehensively in their own article. However, all 75 victors were at one point tributes.
+</p>
+<dl><dd><i>See also: <a href="/wiki/Victor" title="Victor">Victor</a></i></dd></dl>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th><b>Hunger Games</b>
+</th>
+<th><b>Known tributes</b>
+</th>
+<th><b>Additional notes</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/34th_Hunger_Games" title="34th Hunger Games">34th</a>
+</td>
+<td>Six unnamed tributes
+</td>
+<td>In <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, Haymitch Abernathy said that Beetee Latier won his Games by electrocuting six tributes at once.<sup id="cite_ref-CF_Film_9-0" class="reference"><a href="#cite_note-CF_Film-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+
+<tr>
+<td>At some point between the <a href="/wiki/34th_Hunger_Games" title="34th Hunger Games">34th</a> and <a href="/wiki/49th_Hunger_Games" title="49th Hunger Games">49th Hunger Games</a>.<sup id="cite_ref-SoTR_2_10-0" class="reference"><a href="#cite_note-SoTR_2-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td><a href="/wiki/Sharshee_Whitcomb" class="mw-redirect" title="Sharshee Whitcomb">Sharshee Whitcomb</a> (District 12)
+</td>
+<td>Sarshee was the daughter of Lyle, the boss of <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>'s <a href="/wiki/Haymitch_Abernathy%27s_father" title="Haymitch Abernathy&#39;s father">father</a>. With no living family, Haymitch, his father and his mother pretended to be her kin so that she had someone to say goodbye to. His father told her not to let the Capitol use her.<sup id="cite_ref-SoTR_2_10-1" class="reference"><a href="#cite_note-SoTR_2-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/49th_Hunger_Games" title="49th Hunger Games">49th</a>
+</td>
+<td><a href="/wiki/District_6_male_(49th_HG)" title="District 6 male (49th HG)">District 6 male</a>
+</td>
+<td>He and <a href="/wiki/Wiress" title="Wiress">Wiress</a> were the last two surviving tributes. When he leaped at Wiress trying to attack, he had misjudged her location due to the nature of the <a href="/wiki/Nest_of_Mirrors" title="Nest of Mirrors">reflective arena</a>, so he cracked his head on the surface and drowned in the lake instead.<sup id="cite_ref-SoTR_6_11-0" class="reference"><a href="#cite_note-SoTR_6-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/62nd_Hunger_Games" title="62nd Hunger Games">62nd</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td>Unnamed male
+</td>
+<td>Enobaria tore his throat open with her teeth.<sup id="cite_ref-CF_16_13-0" class="reference"><a href="#cite_note-CF_16-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/70th_Hunger_Games" title="70th Hunger Games">70th</a>
+</td>
+<td><a href="/wiki/District_4_male_(70th_HG)" title="District 4 male (70th HG)">District 4 male</a>
+</td>
+<td>Beheaded in front of his <a href="/wiki/District_partner" title="District partner">district partner</a>, Annie Cresta.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td rowspan="4"><a href="/wiki/73rd_Hunger_Games" title="73rd Hunger Games">73rd</a>
+</td>
+<td><a href="/wiki/District_3_male_(73rd_HG)" class="mw-redirect" title="District 3 male (73rd HG)">District 3 male</a>
+</td>
+<td>Named Prospero in an early draft of <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a> script, where he killed the District 12 male with a <a href="/wiki/Weapons#Mace" title="Weapons">mace</a>.<sup id="cite_ref-script_15-0" class="reference"><a href="#cite_note-script-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_10_male_(73rd_HG)" title="District 10 male (73rd HG)">District 10 male</a>
+</td>
+<td>Seen on television in the first film. He was killed with a brick by the <a href="/wiki/District_2_male_(73rd_HG)" title="District 2 male (73rd HG)">District 2 male</a>, placing second.<sup id="cite_ref-THG_film_16-0" class="reference"><a href="#cite_note-THG_film-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_12_male_(73rd_HG)" class="mw-redirect" title="District 12 male (73rd HG)">District 12 male</a>
+</td>
+<td>Starving resident of <a href="/wiki/The_Seam" title="The Seam">the Seam</a>.<sup id="cite_ref-THG_3_6-1" class="reference"><a href="#cite_note-THG_3-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> Referred to as Sage Blanken in an early draft of the script.<sup id="cite_ref-script_15-1" class="reference"><a href="#cite_note-script-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_12_female_(73rd_HG)" title="District 12 female (73rd HG)">District 12 female</a>
+</td>
+<td>Starving resident of the Seam.<sup id="cite_ref-THG_3_6-2" class="reference"><a href="#cite_note-THG_3-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td rowspan="6">Unknown
+</td>
+<td>Unnamed District 5 female
+</td>
+<td>Was attacked in the face by weasel mutts around the 46th Hunger Games.
+</td></tr>
+<tr>
+<td><a href="/wiki/Titus" title="Titus">Titus</a> (District 6)
+</td>
+<td>Competed a few years prior to the 74th Hunger Games. He tried to cannibalize the tributes he killed, but he was taken out by an avalanche thought to be the work of <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>.<sup id="cite_ref-THG_10_17-0" class="reference"><a href="#cite_note-THG_10-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>Unnamed female
+</td>
+<td>Dropped her <a href="/wiki/Tribute_token" title="Tribute token">tribute token</a> before the sixty-second countdown ended, setting off the land mines around her platform. She was blown apart and had to be collected in pieces.<sup id="cite_ref-THG_11_18-0" class="reference"><a href="#cite_note-THG_11-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>24 tributes
+</td>
+<td>One year, the tributes had to bludgeon each other to death with spiked maces, the only available weapons.<sup id="cite_ref-THG_3_6-3" class="reference"><a href="#cite_note-THG_3-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>"Many tributes"
+</td>
+<td>Bitten by venomous snakes or "went insane from thirst" in "a landscape of boulders, sand, and scruffy bushes."<sup id="cite_ref-THG_3_6-4" class="reference"><a href="#cite_note-THG_3-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>Around 12 tributes
+</td>
+<td>Froze to death at night because they had no firewood.<sup id="cite_ref-THG_3_6-5" class="reference"><a href="#cite_note-THG_3-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="https://en.wikipedia.org/wiki/Tribute" class="extiw" title="wikipedia:Tribute">Tribute</a> is wealth, often in the kind that one party gives to another as a sign of respect or, as was often the case in historical contexts, of submission or allegiance. Failure to pay tribute constituted an act of rebellion. <a href="https://en.wikipedia.org/wiki/Ancient_Rome" class="extiw" title="wikipedia:Ancient Rome">Ancient Rome</a> extracted tribute from its provinces and subject kingdoms, whereas the Capitol demanded tribute from the districts in the form of competitors for the Games.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>At the start of <i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, there had been 1,776 tributes in the history of the event.
+<ul><li><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i> revealed that the annual reaping was held on July 4th.<sup id="cite_ref-Ballad_1_19-0" class="reference"><a href="#cite_note-Ballad_1-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> This coincides with the United States' <a href="https://en.wikipedia.org/wiki/Independence_Day_(United_States)" class="extiw" title="wikipedia:Independence Day (United States)">Independence Day</a>, which commemorates the signing of the <a href="https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence" class="extiw" title="wikipedia:United States Declaration of Independence">Declaration of Independence</a> on July 4th, 1776.</li></ul></li>
+<li>Over all 75 years of the Hunger Games, there were 1,800 unique tributes. There were also 75 victors,<sup id="cite_ref-CF_14_5-5" class="reference"><a href="#cite_note-CF_14-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> but eighteen died in the 75th Hunger Games,<sup id="cite_ref-CF_27_20-0" class="reference"><a href="#cite_note-CF_27-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup> so the annual event ultimately claimed 1,743 lives.
+<ul><li>However, only seven victors survived the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a> and <a href="/wiki/Victors%27_Purge" title="Victors&#39; Purge">Victors' Purge</a>,<sup id="cite_ref-MJ_26_21-0" class="reference"><a href="#cite_note-MJ_26-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup> so 1,793 tributes had died by the end of the war— a 99% mortality rate.</li></ul></li>
+<li>The word "tribute" is also the official name for fans of the film franchise. It was primarily chosen after numerous fan sites conducted a survey on which names should be chosen; some of the names included in the survey were <a href="/wiki/Mockingjay_(bird)" title="Mockingjay (bird)">mockingjays</a>, rebels, and several other names, such as <a href="/wiki/Jabberjay" title="Jabberjay">jabberjays</a>.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-THG_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_1_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_1_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-THG_2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_2_2-0">2.0</a></sup> <sup><a href="#cite_ref-THG_2_2-1">2.1</a></sup> <sup><a href="#cite_ref-THG_2_2-2">2.2</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 2</span>
+</li>
+<li id="cite_note-CF_12-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_12_3-0">3.0</a></sup> <sup><a href="#cite_ref-CF_12_3-1">3.1</a></sup> <sup><a href="#cite_ref-CF_12_3-2">3.2</a></sup> <sup><a href="#cite_ref-CF_12_3-3">3.3</a></sup> <sup><a href="#cite_ref-CF_12_3-4">3.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_7-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-CF_14-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_14_5-0">5.0</a></sup> <sup><a href="#cite_ref-CF_14_5-1">5.1</a></sup> <sup><a href="#cite_ref-CF_14_5-2">5.2</a></sup> <sup><a href="#cite_ref-CF_14_5-3">5.3</a></sup> <sup><a href="#cite_ref-CF_14_5-4">5.4</a></sup> <sup><a href="#cite_ref-CF_14_5-5">5.5</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 14</span>
+</li>
+<li id="cite_note-THG_3-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_3_6-0">6.0</a></sup> <sup><a href="#cite_ref-THG_3_6-1">6.1</a></sup> <sup><a href="#cite_ref-THG_3_6-2">6.2</a></sup> <sup><a href="#cite_ref-THG_3_6-3">6.3</a></sup> <sup><a href="#cite_ref-THG_3_6-4">6.4</a></sup> <sup><a href="#cite_ref-THG_3_6-5">6.5</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 3</span>
+</li>
+<li id="cite_note-CF_film-7"><span class="mw-cite-backlink"><a href="#cite_ref-CF_film_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 13</span>
+</li>
+<li id="cite_note-CF_Film-9"><span class="mw-cite-backlink"><a href="#cite_ref-CF_Film_9-0">↑</a></span> <span class="reference-text"><i>The Hunger Games: Catching Fire</i></span>
+</li>
+<li id="cite_note-SoTR_2-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SoTR_2_10-0">10.0</a></sup> <sup><a href="#cite_ref-SoTR_2_10-1">10.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>, Chapter 2</i></span>
+</li>
+<li id="cite_note-SoTR_6-11"><span class="mw-cite-backlink"><a href="#cite_ref-SoTR_6_11-0">↑</a></span> <span class="reference-text"><i>Sunrise on the Reaping</i>, Chapter 6</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://capitolcouture.tumblr.com/post/61062352046">Game Faces: District 2’s Enobaria - Capitol Couture</a></span>
+</li>
+<li id="cite_note-CF_16-13"><span class="mw-cite-backlink"><a href="#cite_ref-CF_16_13-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 16</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 24</span>
+</li>
+<li id="cite_note-script-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-script_15-0">15.0</a></sup> <sup><a href="#cite_ref-script_15-1">15.1</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.scriptslug.com/assets/uploads/scripts/the-hunger-games-2012.pdf">https://www.scriptslug.com/assets/uploads/scripts/the-hunger-games-2012.pdf</a></span>
+</li>
+<li id="cite_note-THG_film-16"><span class="mw-cite-backlink"><a href="#cite_ref-THG_film_16-0">↑</a></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-THG_10-17"><span class="mw-cite-backlink"><a href="#cite_ref-THG_10_17-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 10</span>
+</li>
+<li id="cite_note-THG_11-18"><span class="mw-cite-backlink"><a href="#cite_ref-THG_11_18-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_1-19"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_1_19-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 1</span>
+</li>
+<li id="cite_note-CF_27-20"><span class="mw-cite-backlink"><a href="#cite_ref-CF_27_20-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 27</span>
+</li>
+<li id="cite_note-MJ_26-21"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_26_21-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 26</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <strong class="mw-selflink selflink">Tributes</strong> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20260104230435
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.081 seconds
+Real time usage: 0.104 seconds
+Preprocessor visited node count: 759/1000000
+Post‐expand include size: 3212/2097152 bytes
+Template argument size: 189/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12139/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   29.310      1 -total
+ 35.03%   10.268      1 Template:Reflist
+  6.18%    1.810      1 Template:SeriesTP
+  5.79%    1.697      4 Template:W
+  5.30%    1.553      3 Template:Main
+  4.48%    1.314      1 Template:See_also
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2101-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104230436 and revision id 968097. Rendering was triggered because: edit-page
+ -->
+</div>

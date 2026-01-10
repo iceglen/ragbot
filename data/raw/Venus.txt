@@ -1,0 +1,113 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Venus</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/29/Venus_%28TBOSAS%29.jpg/revision/latest?cb=20231222172041" class="image image-thumbnail" title="Venus (TBOSAS)">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/2/29/Venus_%28TBOSAS%29.jpg/revision/latest/scale-to-width-down/268?cb=20231222172041" srcset="https://static.wikia.nocookie.net/thehungergames/images/2/29/Venus_%28TBOSAS%29.jpg/revision/latest/scale-to-width-down/268?cb=20231222172041 1x, https://static.wikia.nocookie.net/thehungergames/images/2/29/Venus_%28TBOSAS%29.jpg/revision/latest/scale-to-width-down/536?cb=20231222172041 2x" class="pi-image-thumbnail" data-relevant="1" alt="Venus (TBOSAS)" width="270" height="203" data-image-key="Venus_%28TBOSAS%29.jpg" data-image-name="Venus (TBOSAS).jpg" />
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">4</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Riley_Chung" title="Riley Chung">Riley Chung</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The Ballad of Songbirds and Snakes"><b>Lucy Gray Baird</b>: <i>"So nice to meet you. Is this your sister?"</i><br /><b>Pontius</b>: <i>"That's Venus. She's only four."</i><br /><b>Lucy Gray Baird</b>: <i>"Well, I think four is a very smart age to be. Nice to meet you, Venus."</i></span></dd>
+<dd>&#8212;Pontius introducing his sister to Lucy Gray<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Venus</b> was a four-year-old girl who talked to <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> when she was in the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>. She had an older brother named <a href="/wiki/Pontius" title="Pontius">Pontius</a>.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenus%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Venus was among a group of small children clustered near the bars of the monkey house, where the <a href="/wiki/Tribute" title="Tribute">tributes</a> of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> were located. Prompted by <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> walked over and shook hands with Pontius, then asked him about Venus, who stood next to him. Venus complimented Lucy Gray's <a href="/wiki/Songs" title="Songs">song</a> and nodded when Lucy Gray said she would try to sing another. She also asked Lucy Gray about the snake and told her she had a fish named Bub. After this exchange, Venus buried her face in her mother's skirt, garnering laughter from the crowd.<sup id="cite_ref-Ballad_4_1-0" class="reference"><a href="#cite_note-Ballad_4-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenus%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Roman mythology, <a href="https://en.wikipedia.org/wiki/Venus_(mythology)" class="extiw" title="wikipedia:Venus (mythology)">Venus</a> was the goddess of love and beauty.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenus%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_4-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_4_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 4</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251231002919
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.028 seconds
+Real time usage: 0.043 seconds
+Preprocessor visited node count: 161/1000000
+Post‐expand include size: 729/2097152 bytes
+Template argument size: 379/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 453/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   29.786      1 -total
+ 68.06%   20.272      1 Template:Character
+ 10.29%    3.066      1 Template:Dialogue2
+ 10.09%    3.006      1 Template:Reflist
+  5.45%    1.624      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:541834-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231002919 and revision id 965563. Rendering was triggered because: page-view
+ -->
+</div>

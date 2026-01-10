@@ -1,0 +1,105 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Remus Dolittle</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a>-in-Training</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Remus had recently graduated from the University, and his family had pulled in every favor they had to get him the position, which paid just enough and provided a stepping-stone to the future.</i>"</span></dd>
+<dd>&#8212;Description of Remus's actions to become Gamemaker-in-Training<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Remus Dolittle</b> was a <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a>-in-training and resident of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>. He was a downstairs neighbor of the Snow family, which comprised of <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, <a href="/wiki/Tigris" title="Tigris">Tigris</a>, and their <a href="/wiki/Grandma%27am" title="Grandma&#39;am">grandmother</a>. 
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRemus_Dolittle%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Shortly after Remus had graduated the <a href="/wiki/University" title="University">University</a>, his family pulled in every favor they had to get him the position of Gamemaker-in-Training, hoping that it would provide a stepping stone to the future.<sup id="cite_ref-Ballad_3_1-0" class="reference"><a href="#cite_note-Ballad_3-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Before the reaping of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, <a href="/wiki/Tigris" title="Tigris">Tigris</a> ran down to the Dolittle's so she could have a proper iron to use with the shirt Coriolanus would wear later that day.<sup id="cite_ref-Ballad_1_2-0" class="reference"><a href="#cite_note-Ballad_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> Tigris later stated that she knew the Dolittles would consider selling their home for the right price; they had claimed their apartment was too big for them, although they mainly planned on selling it due to the new taxes.<sup id="cite_ref-Ballad_12_3-0" class="reference"><a href="#cite_note-Ballad_12-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>On the morning of the 10th Hunger Games, Remus appeared at the <a href="/wiki/Academy" title="Academy">Academy</a> to inform the staff there that the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_5" title="District 5">District 5</a>, <a href="/wiki/Hy" title="Hy">Hy</a>, had passed away due to complications from asthma and couldn't be saved. Because of this, <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> and <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>'s conversation with <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> had to be halted for them to address the new loss.<sup id="cite_ref-Ballad_13_4-0" class="reference"><a href="#cite_note-Ballad_13-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>After the taxes were implemented and Coriolanus was sent to <a href="/wiki/District_12" title="District 12">District 12</a> to become a <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a>, the Dolittles helped Tigris and her grandmother put their apartment on the market.<sup id="cite_ref-Ballad_21_5-0" class="reference"><a href="#cite_note-Ballad_21-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> His family later sold their apartment to <a href="/wiki/Strabo_Plinth" title="Strabo Plinth">Strabo Plinth</a>, who began living there with his wife, <a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">Mrs. Plinth</a>, so they could be closer to the Snows.<sup id="cite_ref-Ballad_Epilogue_6-0" class="reference"><a href="#cite_note-Ballad_Epilogue-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRemus_Dolittle%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Roman mythology, <a href="https://en.wikipedia.org/wiki/Remus" class="extiw" title="wikipedia:Remus">Remus</a> was the twin brother of Romulus, who went on to found and rule Rome. Remus was killed either by his brother or one of his brother's supporters for criticizing the city. The surname Dolittle is rather literal and befitting of the Capitol's upper class: one who does little, an idler.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FRemus_Dolittle%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_3-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_1-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_1_2-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_12-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_12_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_13-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_13_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_21-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_21_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 21</span>
+</li>
+<li id="cite_note-Ballad_Epilogue-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Epilogue_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Epilogue</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20260102093205
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.030 seconds
+Real time usage: 0.055 seconds
+Preprocessor visited node count: 201/1000000
+Post‐expand include size: 695/2097152 bytes
+Template argument size: 400/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2370/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   30.735      1 -total
+ 50.29%   15.456      1 Template:Character
+ 20.73%    6.371      1 Template:Reflist
+  5.46%    1.677      1 Template:Quote
+  4.90%    1.505      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539464-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102093205 and revision id 941315. Rendering was triggered because: page-view
+ -->
+</div>

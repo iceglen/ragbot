@@ -1,0 +1,317 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Lamina</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Lamina.jpg/revision/latest?cb=20231102210111" class="image image-thumbnail" title="Lamina">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Lamina.jpg/revision/latest/scale-to-width-down/267?cb=20231102210111" srcset="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Lamina.jpg/revision/latest/scale-to-width-down/267?cb=20231102210111 1x, https://static.wikia.nocookie.net/thehungergames/images/a/a3/Lamina.jpg/revision/latest/scale-to-width-down/536?cb=20231102210111 2x" class="pi-image-thumbnail" data-relevant="1" alt="Lamina" width="270" height="180" data-image-key="Lamina.jpg" data-image-name="Lamina.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">15<sup id="cite_ref-Ballad_14_1-0" class="reference"><a href="#cite_note-Ballad_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_7" title="District 7">District 7</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Weapons#Axe" title="Weapons">Axe</a><p><a href="/wiki/Weapons#Knife" title="Weapons">Knife</a></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font">Brown (Film)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font">Blonde (Book)<br>Red (Film)</div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Irene_Boehm" title="Irene Boehm">Irene Boehm</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Her eyes, puffy and exhausted, were reddened but tearless. In fact, she seemed strangely calm for her circumstances.</i>"</span></dd>
+<dd>—<a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> describing Lamina at the start of the games.<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Lamina</b> was the female <a href="/wiki/Tribute" title="Tribute">tribute</a> <a href="/wiki/Reaping" title="Reaping">reaped</a> from <a href="/wiki/District_7" title="District 7">District 7</a> during the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. She died on the third day of the Games and finished in 10th place of the 24 tributes (though only 15 tributes made it to the start of Day 1 of these Games). She was one of the few tributes to not be in a known direct <a href="/wiki/Alliance" title="Alliance">alliance</a> with their fellow reaped district partner (in her case, <a href="/wiki/Treech" title="Treech">Treech</a>). She was preceded in death by <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a>, the male tribute from <a href="/wiki/District_12" title="District 12">District 12</a>, and succeeded by <a href="/wiki/Tanner" title="Tanner">Tanner</a>, the <a href="/wiki/District_10" title="District 10">District 10</a> male. Her <a href="/wiki/Mentor" title="Mentor">mentor</a> was <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a>, nicknamed Pup.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#10th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Death"><span class="tocnumber">1.2</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Film_adaptation"><span class="tocnumber">1.3</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37527" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who portrayed Lamina in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Irene Boehm played the role of Lamina in the Hunger Games series. Lamina was the female tribute from District 7 during the 10th Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37528" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Lamina fare in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Lamina, a tribute from District 7, demonstrated her skills with an ax and knife. She mercifully killed Marcus, a fellow tribute. Despite her efforts, she died on the third day, securing the 10th position among 24 tributes.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37529" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who were the tributes that died before and after Lamina in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Treech, bitten by a venomous snake mutt, died before Lamina and placed 3rd. Following Lamina's death, who secured the 10th position, Marcus was the next tribute to die, placing 15th after being mercy killed by Lamina.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37530" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why didn't Lamina form an alliance with her fellow district partner, Treech?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Treech was invited by Coral to join an alliance that already included Mizzen and Tanner. Coral explicitly stated that the invitation was only for Treech, excluding Lamina. Despite his initial reluctance, Treech eventually joined the alliance, leaving Lamina on her own.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Lamina","mainEntity":[{"@type":"Question","name":"Who portrayed Lamina in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Irene Boehm played the role of Lamina in the Hunger Games series. Lamina was the female tribute from District 7 during the 10th Hunger Games."}},{"@type":"Question","name":"How did Lamina fare in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Lamina, a tribute from District 7, demonstrated her skills with an ax and knife. She mercifully killed Marcus, a fellow tribute. Despite her efforts, she died on the third day, securing the 10th position among 24 tributes."}},{"@type":"Question","name":"Who were the tributes that died before and after Lamina in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Treech, bitten by a venomous snake mutt, died before Lamina and placed 3rd. Following Lamina's death, who secured the 10th position, Marcus was the next tribute to die, placing 15th after being mercy killed by Lamina."}},{"@type":"Question","name":"Why didn't Lamina form an alliance with her fellow district partner, Treech?","acceptedAnswer":{"@type":"Answer","text":"Treech was invited by Coral to join an alliance that already included Mizzen and Tanner. Coral explicitly stated that the invitation was only for Treech, excluding Lamina. Despite his initial reluctance, Treech eventually joined the alliance, leaving Lamina on her own."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Lamina_reaping.jpg/revision/latest?cb=20240215040037" class="mw-file-description image"><img alt="Lamina crying at the reaping." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="244" class="thumbimage lazyload" data-image-name="Lamina reaping.jpg" data-image-key="Lamina_reaping.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Lamina_reaping.jpg/revision/latest/scale-to-width-down/180?cb=20240215040037"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Lamina_reaping.jpg/revision/latest?cb=20240215040037" class="mw-file-description image"><img alt="Lamina crying at the reaping." src="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Lamina_reaping.jpg/revision/latest/scale-to-width-down/180?cb=20240215040037" decoding="async" loading="lazy" width="180" height="244" class="thumbimage" data-image-name="Lamina reaping.jpg" data-image-key="Lamina_reaping.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Lamina_reaping.jpg/revision/latest/scale-to-width-down/180?cb=20240215040037"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Lamina_reaping.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Lamina crying at the reaping.</p> 		 	</figcaption> </figure>
+<p>Lamina grew up in District 7, likely becoming familiar with how to effectively use an ax, and became her district's female tribute in the reaping for the 10th Hunger Games.<sup id="cite_ref-Ballad_7_2-0" class="reference"><a href="#cite_note-Ballad_7-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Along with the other tributes, Lamina was taken to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in the back of a cattle car train. From there, she was dumped into the monkey house at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>.<sup id="cite_ref-Ballad_3_3-0" class="reference"><a href="#cite_note-Ballad_3-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>At the first mentor-tribute meeting, Lamina had been unable to stop crying. Later, her mentor, Pliny Harrington, failed to prepare her for the interviews, giving up his chance to promote her.<sup id="cite_ref-Ballad_14_1-1" class="reference"><a href="#cite_note-Ballad_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When the gong rang signaling the start of the Games, Lamina was perceived as one of the weaker tributes. She expectedly ran straight into the <a href="/wiki/Capitol_Arena" title="Capitol Arena">arena's</a> tunnels and forwent weapons in favor of hiding to avoid the assumed <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">bloodbath</a> over supplies that traditionally occurred. Later that day, she surprised everyone by appearing from the tunnels when she viewed it had been cleared of danger. She made way to the pile of remaining weapons and picked out a small <a href="/wiki/Weapons#Ax" title="Weapons">axe</a> and <a href="/wiki/Weapons#Knife" title="Weapons">knife</a>. Being from the lumber district, she quickly showed her fluidity with these specific tools while heading towards the two 20 foot vertical poles that connected a horizontal wooden beam. Here is where the <a href="/wiki/District_2" title="District 2">District 2</a> male tribute, <a href="/wiki/Marcus" title="Marcus">Marcus</a>, was left hanging near death after being strung up pre-games by <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>. Lamina, showing impressive skill in climbing, scurried up one of the poles and gracefully walked the beam towards Marcus' mangled form, delivering a <i>coup de grâce</i> on the 3rd strike of her axe and claiming the first official arena kill of the Games.<sup id="cite_ref-Ballad_14_1-2" class="reference"><a href="#cite_note-Ballad_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Lamina then staked claim of the beam as part of a thought-out strategy that she created without the help of her mentor, shown by Harrington being as shocked as everyone else at her prowess. Her strategy was most likely to take the offense and preemptively use her advantages and strengths learned from her district rather than being hunted or the hunter, and stay on the beam indefinitely. She could use her strength and balance on the beam. 
+</p><p>Soon after, she got a <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gift</a> of water from her mentor, Pliny Harrington, but the <a href="/wiki/Drone" title="Drone">drone</a> crashed and the bottle was cracked on the ground. Another drone appeared, and Lamina grabbed the water before the drone crashed as well. She also cut the restraints that secured Marcus to the beam and received a slice of bread for it, which she molded into tiny balls and ate. She then buckled herself and took a nap. When the <a href="/wiki/District_3" title="District 3">District 3</a> tributes, <a href="/wiki/Circ" title="Circ">Circ</a> and <a href="/wiki/Teslee" title="Teslee">Teslee</a>,  appeared, she opened her eye to determine their threat level, and decided they were not strong enough, adjusting her position to be more comfortable.
+</p><p>The next day, she stayed where she was, but was sunburned due to no cover, and received a lot of food.
+</p><p><a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a> from <a href="/wiki/District_11" title="District 11">District 11</a> noticed her discomfort and negotiated with her, promising her cover for food. She relented, and he cut off a piece of flag. On the count of three, he tossed up the flag, and she tossed down food. The flag didn't make it, however. They negotiated, and Reaper threw the flag up and she caught it, rewarding him with more food. He sat down to eat, and when the <a href="/wiki/District_4" title="District 4">District 4</a> tributes, <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> and <a href="/wiki/Coral" title="Coral">Coral</a>, and <a href="/wiki/Tanner" title="Tanner">Tanner</a> from <a href="/wiki/District_10" title="District 10">10</a> appeared, she warned him.
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The trio made their way to under Lamina's beam and got her attention by banging a sword on one of the poles. The District 4 tributes started to climb, and she was put on the defensive for the first time since the initial gong. Each climbed up on the two poles on opposite ends, with Tanner protecting the ground exit underneath with the weapons. This forced her to deal with them simultaneously while balancing on a narrow beam, exposing the one big fault in her strategy.
+</p><p>She targeted Coral first, swinging her axe at Coral's head and shearing off some hair before moving across to face Mizzen, who had mounted the beam. She used the flat side of the axe head to hit and injure his knee, knocking both off balance and causing him to fall off the beam. Unfortunately for Lamina, Mizzen caught himself instead of falling off and was left precariously dangling by one arm, causing her to take an extra moment to assess the chances of him pulling himself back up or whether she needed to finish him off. Meanwhile, Coral had reached the beam and charged at her with a war cry, catching the trident Tanner threw. The two sparred for a brief period of time before Coral moved her trident in a way that distracted the eye and plunged it into Lamina's abdomen. Lamina tottered before falling off the beam and dying on impact. She placed 10th out of 24 tributes.
+</p>
+<h3><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When the tributes entered the arena with their mentors to devise a strategy prior to the Games, Lamina and Treech initially stayed together and surveyed the arena as district partners. However, <a href="/wiki/Coral" title="Coral">Coral</a> called out to Treech to join her, <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a>, and <a href="/wiki/Tanner" title="Tanner">Tanner</a>. Realizing that this was an invitation to a large alliance, Treech asked Lamina to come with him, but Coral made it clear that only he was invited. While hesitant to leave Lamina, Treech eventually joined Coral's alliance without her. 
+</p><p>When the arena horn went off, Lamina was shoved to the ground by <a href="/wiki/Tanner" title="Tanner">Tanner</a> and took a few seconds to recover. After the fighting began, Lamina decided to move and stuck to the outer edges of the bloodbath, grabbing an ax and tying it to her belt when she saw an opportunity. Lamina was then spotted and chased by Hy, who was being chased by <a href="/wiki/Circ" title="Circ">Circ</a>, up the cornucopia were she then dropped down between two blocks at the top of the makeshift structure, losing Hy who was spotted by <a href="/wiki/Otto" title="Otto">Otto</a> behind the structure, and hiding in the cornucopia until the bloodbath ended. In the afternoon when the place was cleared of tributes, she left the hiding place with her ax and climbed up the beam <a href="/wiki/Marcus" title="Marcus">Marcus</a> hung from. Marcus asked her for help after she verified that he was alive. Lamina then decided to put him out of his misery and killed him with her ax, then cutting the ropes that held him by the wrists and letting him fall to the ground.
+</p><p>Her mentor tried to send her water, but the drone crashed. She spent the entire first day and part of the second on the beam, watching the events happening around her. At one point, Lamina saw <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> and <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> below her, but did not pay them any mind. On the second day, she was attacked by the alliance, trying to hurt <a href="/wiki/Coral" title="Coral">Coral</a> without success. Lamina then fought <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a>, but stumbled and was stabbed in the back by Coral's trident. She tried to defend herself, but Coral stabbed her in the stomach after a few seconds and threw Lamina down from the beam. She placed 9th.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lamina had a blonde halo of hair accompanied by puffy, exhausted eyes, with insect bites dotting her bare feet and legs. She was skinny, long-limbed and possessed a spindly frame.<sup id="cite_ref-Ballad_14_1-3" class="reference"><a href="#cite_note-Ballad_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> After spending long hours in the sun, Lamina became badly sunburned.<sup id="cite_ref-Ballad_18_5-0" class="reference"><a href="#cite_note-Ballad_18-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Her reaping attire, which she wore into the arena, was a <a href="https://en.wikipedia.org/wiki/Feed_sack_dress" class="extiw" title="wikipedia:Feed sack dress">flour sack dress</a> belted with a piece of rope.<sup id="cite_ref-Ballad_14_1-4" class="reference"><a href="#cite_note-Ballad_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>In the film adaption, she had red shoulder-length hair pulled out of her face by a purple cloth and wore a gray-purple flannel shirt with a black vest patterned with dull purple leaves.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Lamina" refers to the main blade of a leaf.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Lamina was the recipient of the first ever sponsor gift delivered during the history of the Hunger Games.</li>
+<li>She dies in a similar fashion to that in which Mizzen met his end, falling to her death after struggling with a threat directly in front of her.</li>
+<li><a href="/wiki/Marcus" title="Marcus">Marcus</a>, <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a>, Lamina, <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a>, and <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> are the only tributes in the 10th Hunger Games to have their ages confirmed, being 18, 13, 15, 18, and 16 respectively.</li>
+<li>In the 71st Hunger Games, <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> used the same tactic as Lamina, both appearing innocent and later revealing themselves as skilled killers.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="fe307cecfdb1e411cacb67fe99120186" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Lamina-and-treech-in-the-zoo-tbosas-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:Lamina%2Band%2Btreech%2Bin%2Bthe%2Bzoo%2Btbosas.jpg" title="Lamina+and+treech+in+the+zoo+tbosas.jpg (286 KB)" style="height:104px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/7/77/Lamina%2Band%2Btreech%2Bin%2Bthe%2Bzoo%2Btbosas.jpg/revision/latest/scale-to-width-down/185?cb=20250427062915" title="Lamina+and+treech+in+the+zoo+tbosas.jpg (286 KB)" class="thumbimage" alt="Treech and Lamina in the Capitol Zoo." height="185" width="185" data-image-name="Lamina+and+treech+in+the+zoo+tbosas.jpg" data-image-key="Lamina%2Band%2Btreech%2Bin%2Bthe%2Bzoo%2Btbosas.jpg" data-relevant="1" data-caption="Treech and Lamina in the Capitol Zoo."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Lamina+and+treech+in+the+zoo+tbosas.jpg (286 KB)" class="thumbimage lazyload" alt="Treech and Lamina in the Capitol Zoo." height="185" width="185" data-image-name="Lamina+and+treech+in+the+zoo+tbosas.jpg" data-image-key="Lamina%2Band%2Btreech%2Bin%2Bthe%2Bzoo%2Btbosas.jpg" data-relevant="1" data-caption="Treech and Lamina in the Capitol Zoo." data-src="https://static.wikia.nocookie.net/thehungergames/images/7/77/Lamina%2Band%2Btreech%2Bin%2Bthe%2Bzoo%2Btbosas.jpg/revision/latest/scale-to-width-down/185?cb=20250427062915"></a></div></div><div class="lightbox-caption" style="width:185px;">Treech and Lamina in the Capitol Zoo.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="D7FLamina-jpg" style="position: relative; height:184px; width:174px; top:0.5px;"><a class="image lightbox" href="/wiki/File:D7FLamina.jpg" title="D7FLamina.jpg (55 KB)" style="height:184px; width:174px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/3/3e/D7FLamina.jpg/revision/latest/scale-to-width-down/174?cb=20250427062907" title="D7FLamina.jpg (55 KB)" class="thumbimage" alt="Lamina's face on the monitors." height="185" width="185" data-image-name="D7FLamina.jpg" data-image-key="D7FLamina.jpg" data-relevant="1" data-caption="Lamina's face on the monitors."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D7FLamina.jpg (55 KB)" class="thumbimage lazyload" alt="Lamina's face on the monitors." height="185" width="185" data-image-name="D7FLamina.jpg" data-image-key="D7FLamina.jpg" data-relevant="1" data-caption="Lamina's face on the monitors." data-src="https://static.wikia.nocookie.net/thehungergames/images/3/3e/D7FLamina.jpg/revision/latest/scale-to-width-down/174?cb=20250427062907"></a></div></div><div class="lightbox-caption" style="width:185px;">Lamina's face on the monitors.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Laminatreechconceptart-png" style="position: relative; height:148px; width:185px; top:18.5px;"><a class="image lightbox" href="/wiki/File:Laminatreechconceptart.png" title="Laminatreechconceptart.png (564 KB)" style="height:148px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/9/91/Laminatreechconceptart.png/revision/latest/scale-to-width-down/185?cb=20250427060255" title="Laminatreechconceptart.png (564 KB)" class="thumbimage" alt="Concept art of Treech and Lamina's costumes." height="185" width="185" data-image-name="Laminatreechconceptart.png" data-image-key="Laminatreechconceptart.png" data-relevant="1" data-caption="Concept art of Treech and Lamina's costumes."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Laminatreechconceptart.png (564 KB)" class="thumbimage lazyload" alt="Concept art of Treech and Lamina's costumes." height="185" width="185" data-image-name="Laminatreechconceptart.png" data-image-key="Laminatreechconceptart.png" data-relevant="1" data-caption="Concept art of Treech and Lamina's costumes." data-src="https://static.wikia.nocookie.net/thehungergames/images/9/91/Laminatreechconceptart.png/revision/latest/scale-to-width-down/185?cb=20250427060255"></a></div></div><div class="lightbox-caption" style="width:185px;">Concept art of Treech and Lamina's costumes.</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_14-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_14_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_14_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_14_1-2">1.2</a></sup> <sup><a href="#cite_ref-Ballad_14_1-3">1.3</a></sup> <sup><a href="#cite_ref-Ballad_14_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_7-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_2-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-Ballad_18-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_18_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 18</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <strong class="mw-selflink selflink">Lamina</strong> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251224041232
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.089 seconds
+Real time usage: 0.152 seconds
+Preprocessor visited node count: 305/1000000
+Post‐expand include size: 2897/2097152 bytes
+Template argument size: 355/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7867/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   62.969      1 -total
+ 53.86%   33.914      1 Template:Character
+ 14.02%    8.828      1 Template:Reflist
+  3.02%    1.899      1 Template:Quote
+  2.61%    1.643      1 Template:W
+  2.51%    1.580      1 Template:PrequelSeries
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539479-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251224041232 and revision id 964029. Rendering was triggered because: page-view
+ -->
+</div>

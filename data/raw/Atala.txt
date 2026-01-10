@@ -1,0 +1,234 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Atala</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c8/Atala.jpg/revision/latest?cb=20120208235030" class="image image-thumbnail" title="Atala">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/c/c8/Atala.jpg/revision/latest/scale-to-width-down/268?cb=20120208235030" srcset="https://static.wikia.nocookie.net/thehungergames/images/c/c8/Atala.jpg/revision/latest/scale-to-width-down/268?cb=20120208235030 1x, https://static.wikia.nocookie.net/thehungergames/images/c/c8/Atala.jpg/revision/latest?cb=20120208235030 2x" class="pi-image-thumbnail" data-relevant="1" alt="Atala" width="270" height="227" data-image-key="Atala.jpg" data-image-name="Atala.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Head trainer</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Unknown</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Karan_Kendrick" title="Karan Kendrick">Karan Kendrick</a></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Atala</b> was the head trainer for <a href="/wiki/The_Hunger_Games_(event)" class="mw-redirect" title="The Hunger Games (event)">the Hunger Games</a>. Her job was to explain the point of each station and the possible ways to die in the <a href="/wiki/Arena" title="Arena">arena</a>, as well as to get the <a href="/wiki/Tribute" title="Tribute">tributes</a> in shape to compete. It is said in the <i><a href="/wiki/Tribute_Guide" class="mw-redirect" title="Tribute Guide">Tribute Guide</a></i> that Atala can whip even the weakest tribute into shape.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext"><i>The Hunger Games</i></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Catching_Fire"><span class="tocnumber">1.2</span> <span class="toctext"><i>Catching Fire</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="88498" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Atala's role in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games universe, Atala served as the head trainer. Her duties included briefing tributes on each station's purpose and potential dangers in the arena. She was known for her ability to prepare even the weakest tribute for the competition. Atala stressed the importance of survival skills alongside combat abilities. She also maintained order during training sessions, intervening in disputes, like the conflict between Cato and the District 6 male over a stolen knife.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="88499" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Atala train the tributes for the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Atala, the head trainer in the Hunger Games, conducted a three-day training for the tributes. She outlined the gymnasium rules and training stations, stressing the significance of survival skills in addition to weapons training. Atala highlighted that disease and exposure could be equally deadly as combat. Post-training, each tribute had a private session with the Gamemakers to showcase a specific skill, followed by a training score assignment ranging from 1–12.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="88500" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Atala's strategy to whip the weakest tribute into shape?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games universe, Atala honed even the weakest tribute through a strategy that prioritized survival skills over combat. She introduced compulsory exercises and individual training, and stressed the importance of survival skills, noting that many tributes perish from natural causes like infection, dehydration, and exposure. She also oversaw the training sessions, maintaining focus on training rather than inter-tribute conflict.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="88501" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the importance of Atala's advice to the tributes in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games universe, Atala, the head trainer, stressed the importance of survival skills to the tributes. She advised them not to overlook these skills, as they were as vital as combat abilities. She noted that many tributes perish from natural causes like infection, dehydration, and exposure, which can be as deadly as a weapon. Her counsel aimed to prepare the tributes for the Arena's harsh conditions, not just the battles.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="88502" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Atala influence the outcome of the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						As the head trainer in the Hunger Games, Atala played a crucial role in shaping the competition's outcome. She prepared the tributes for the arena, explaining potential threats and the importance of each training station. Atala stressed the significance of survival skills alongside combat abilities. She also mediated disputes during training, including a conflict between Cato and the District 6 male over a purloined knife.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Atala","mainEntity":[{"@type":"Question","name":"What was Atala's role in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games universe, Atala served as the head trainer. Her duties included briefing tributes on each station's purpose and potential dangers in the arena. She was known for her ability to prepare even the weakest tribute for the competition. Atala stressed the importance of survival skills alongside combat abilities. She also maintained order during training sessions, intervening in disputes, like the conflict between Cato and the District 6 male over a stolen knife."}},{"@type":"Question","name":"How did Atala train the tributes for the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Atala, the head trainer in the Hunger Games, conducted a three-day training for the tributes. She outlined the gymnasium rules and training stations, stressing the significance of survival skills in addition to weapons training. Atala highlighted that disease and exposure could be equally deadly as combat. Post-training, each tribute had a private session with the Gamemakers to showcase a specific skill, followed by a training score assignment ranging from 1\u201312."}},{"@type":"Question","name":"What was Atala's strategy to whip the weakest tribute into shape?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games universe, Atala honed even the weakest tribute through a strategy that prioritized survival skills over combat. She introduced compulsory exercises and individual training, and stressed the importance of survival skills, noting that many tributes perish from natural causes like infection, dehydration, and exposure. She also oversaw the training sessions, maintaining focus on training rather than inter-tribute conflict."}},{"@type":"Question","name":"What was the importance of Atala's advice to the tributes in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games universe, Atala, the head trainer, stressed the importance of survival skills to the tributes. She advised them not to overlook these skills, as they were as vital as combat abilities. She noted that many tributes perish from natural causes like infection, dehydration, and exposure, which can be as deadly as a weapon. Her counsel aimed to prepare the tributes for the Arena's harsh conditions, not just the battles."}},{"@type":"Question","name":"How did Atala influence the outcome of the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"As the head trainer in the Hunger Games, Atala played a crucial role in shaping the competition's outcome. She prepared the tributes for the arena, explaining potential threats and the importance of each training station. Atala stressed the significance of survival skills alongside combat abilities. She also mediated disputes during training, including a conflict between Cato and the District 6 male over a purloined knife."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAtala%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_Hunger_Games"><i>The Hunger Games</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAtala%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games (film)">"<i>In two weeks, 23 of you will be dead. One of you will be alive. Who that is depends on how well you pay attention over the next four days, particularly to what I'm about to say. First, no fighting with the other tributes. You'll have plenty of time for that in the Arena. There are four compulsory exercises, and then the rest will be individual training. My advice is don't ignore the survival skills. Everybody wants to grab a sword, but most of you will die from natural causes. 10% from infection, 20% from dehydration. Exposure can kill as easily as a knife.</i>"</span></dd>
+<dd>—Atala introducing the tributes to the Training Center<sup class="noprint"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">[src]</a></sup></dd></dl></div>
+<p>Atala was first seen when <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> joined the other tributes for training. They stood in front of her in a semi-circle. She welcomed the 24 tributes and then explained to them about the <a href="/wiki/Training_stations" title="Training stations">different stations</a> set up around the <a href="/wiki/Training_Center" title="Training Center">Training Center</a>. As usual, she read through the list of stations, explained there was no <a href="/wiki/Combat" class="mw-redirect" title="Combat">combat</a> allowed with other tributes, and that survival skills were just as important as fighting skills. She then released the tributes to train.<sup id="cite_ref-THG_7_1-0" class="reference"><a href="#cite_note-THG_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> While training, <a href="/wiki/Cato" title="Cato">Cato</a> and the <a href="/wiki/District_6_male_(74th_HG)" class="mw-redirect" title="District 6 male (74th HG)">District 6 male</a> got into a fight over Cato's stolen knife, which was actually taken by <a href="/wiki/Rue" title="Rue">Rue</a>. Atala blew her whistle to get their attention and told them to get back to training.<sup id="cite_ref-THG_film_2-0" class="reference"><a href="#cite_note-THG_film-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Catching_Fire"><i>Catching Fire</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAtala%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Atala reappeared in <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> when Katniss and Peeta returned for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">third Quarter Quell</a>. Although only half of the tributes had arrived by ten, she was unfazed by the poor attendance. Again, Atala welcomed the tributes and directed them in their training, reading through the list of stations before letting them train.<sup id="cite_ref-CF_16_3-0" class="reference"><a href="#cite_note-CF_16-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAtala%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Atala was tall and athletic.<sup id="cite_ref-THG_7_1-1" class="reference"><a href="#cite_note-THG_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> In the film, she was portrayed as being dark-skinned with black hair tied back in a loose ponytail and dark eyes. Atala's training outfit had <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> seal visible. Unlike most Capitol citizens, she looked pretty normal to a modern or district-oriented perspective. Presumably, as she was in official uniform designed for practicality when seen, this was not her usual form of dress.<sup id="cite_ref-THG_film_2-1" class="reference"><a href="#cite_note-THG_film-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAtala%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Atala shares a name with the titular heroine of the novella <i><a href="https://en.wikipedia.org/wiki/Atala_(novella)" class="extiw" title="wikipedia:Atala (novella)">Atala</a></i> by François-René de Chateaubriand. However, some fans have theorized that Atala's name may be a short form of <a href="https://en.wikipedia.org/wiki/Atalanta" class="extiw" title="wikipedia:Atalanta">Atalanta</a>, a heroine in ancient Greek mythology who lived in the wilderness and was renowned for her swiftness and strength, as well as being the only female member of the Argonauts in some interpretations. The latter interpretation aligns with Atala's role as someone who helps tributes prepare for the Hunger Games, as well as the recurring trend of Capitol citizens being named after ancient Greco-Roman figures.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAtala%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-THG_7-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_7_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_7_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-THG_film-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_film_2-0">2.0</a></sup> <sup><a href="#cite_ref-THG_film_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></span>
+</li>
+<li id="cite_note-CF_16-3"><span class="mw-cite-backlink"><a href="#cite_ref-CF_16_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 16</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251223024517
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.045 seconds
+Real time usage: 0.066 seconds
+Preprocessor visited node count: 219/1000000
+Post‐expand include size: 1059/2097152 bytes
+Template argument size: 751/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1595/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   37.309      1 -total
+ 57.72%   21.534      1 Template:Character
+ 15.53%    5.793      1 Template:Reflist
+  5.84%    2.177      1 Template:Quote
+  4.12%    1.536      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2412-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251223024517 and revision id 948871. Rendering was triggered because: page-view
+ -->
+</div>

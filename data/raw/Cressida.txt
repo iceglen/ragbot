@@ -1,0 +1,260 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Cressida</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/1b/CressidaD13Portrait.jpg/revision/latest?cb=20190306042857" class="image image-thumbnail" title="CressidaD13Portrait">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/1/1b/CressidaD13Portrait.jpg/revision/latest/scale-to-width-down/267?cb=20190306042857" srcset="https://static.wikia.nocookie.net/thehungergames/images/1/1b/CressidaD13Portrait.jpg/revision/latest/scale-to-width-down/267?cb=20190306042857 1x, https://static.wikia.nocookie.net/thehungergames/images/1/1b/CressidaD13Portrait.jpg/revision/latest/scale-to-width-down/535?cb=20190306042857 2x" class="pi-image-thumbnail" data-relevant="1" alt="CressidaD13Portrait" width="270" height="479" data-image-key="CressidaD13Portrait.jpg" data-image-name="CressidaD13Portrait.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">20s</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Film director<p><a href="/wiki/Rebel" class="mw-redirect" title="Rebel">Rebel</a></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a><br><a href="/wiki/District_13" title="District 13">District 13</a> (briefly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gun" class="mw-redirect" title="Gun">Gun</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a><br><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Natalie_Dormer" title="Natalie Dormer">Natalie Dormer</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Mockingjay - Part 1">"<i>Don't expect much chitchat from him. <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> cut his tongue out years ago. And no, it wasn't any sort of rescue, if that's what you mean. We all fled on our own⁠—for this. For you.</i>"</span></dd>
+<dd>—Cressida to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, on why her team joined the rebels.<sup class="noprint"><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">[src]</a></sup></dd></dl></div>
+<p><b>Cressida </b> is a resident of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> and a film director who defected to the <a href="/wiki/Rebellion" title="Rebellion">rebellion</a> along with her camera crew (<a href="/wiki/Castor" title="Castor">Castor</a> and <a href="/wiki/Pollux" title="Pollux">Pollux</a>), and her assistant <a href="/wiki/Messalla" title="Messalla">Messalla</a>. They headed to <a href="/wiki/District_13" title="District 13">District 13</a> when they fled the Capitol. Cressida was tasked by <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> with following Katniss Everdeen throughout her journeys in the rebellion so they could make numerous <a href="/wiki/Propo" title="Propo">propos</a> across <a href="/wiki/Panem" title="Panem">Panem</a> in order to encourage strength and morale in the rebels.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#The_Hunger_Games:_Mockingjay_-_Part_2"><span class="tocnumber">3.1</span> <span class="toctext"><i>The Hunger Games: Mockingjay - Part 2</i></span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Promotional"><span class="tocnumber">3.1.1</span> <span class="toctext">Promotional</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Stills"><span class="tocnumber">3.1.2</span> <span class="toctext">Stills</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37429" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role does Cressida play in the rebellion in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Cressida, played by Natalie Dormer, is an influential film director from the Capitol who becomes a key figure in the rebellion. She, along with her crew members Castor, Pollux, and assistant Messalla, escape to District 13. Tasked by Plutarch Heavensbee, they document Katniss Everdeen's role in the rebellion, producing numerous propaganda films or 'propos' to inspire the rebels across Panem.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37430" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who portrays the character Cressida in the Hunger Games films?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Natalie Dormer, an English actress, plays the role of Cressida in 'The Hunger Games: Mockingjay - Part 1' and 'Part 2'.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37431" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why does Cressida choose to leave the Capitol and join the rebellion?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Cressida, an acclaimed film director from the Capitol, decided to join the rebellion with her camera crew and assistant. They escaped the Capitol for District 13. Under Plutarch Heavensbee's guidance, they followed Katniss Everdeen, documenting her rebellion journey to boost the morale and strength of the rebels across Panem.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37432" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who are the members of Cressida's film crew in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Cressida, an emerging film director from the Capitol, joins the rebellion with her film crew. Her crew includes assistants Castor, Pollux, and Messalla. They voluntarily leave the Capitol to support the Mockingjay in District 13, creating various propos throughout Panem to boost rebel morale.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37433" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the purpose of the 'propos' that Cressida and her crew create in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Cressida and her team produce 'propos' or propaganda spots. These are televised materials aimed at promoting the rebel cause during the Second Rebellion's Airtime Assault. The propos are designed to boost the rebels' morale and strength across Panem, featuring key individuals like Katniss and conveying messages of resistance and independence against the Capitol.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Cressida","mainEntity":[{"@type":"Question","name":"What role does Cressida play in the rebellion in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Cressida, played by Natalie Dormer, is an influential film director from the Capitol who becomes a key figure in the rebellion. She, along with her crew members Castor, Pollux, and assistant Messalla, escape to District 13. Tasked by Plutarch Heavensbee, they document Katniss Everdeen's role in the rebellion, producing numerous propaganda films or 'propos' to inspire the rebels across Panem."}},{"@type":"Question","name":"Who portrays the character Cressida in the Hunger Games films?","acceptedAnswer":{"@type":"Answer","text":"Natalie Dormer, an English actress, plays the role of Cressida in 'The Hunger Games: Mockingjay - Part 1' and 'Part 2'."}},{"@type":"Question","name":"Why does Cressida choose to leave the Capitol and join the rebellion?","acceptedAnswer":{"@type":"Answer","text":"Cressida, an acclaimed film director from the Capitol, decided to join the rebellion with her camera crew and assistant. They escaped the Capitol for District 13. Under Plutarch Heavensbee's guidance, they followed Katniss Everdeen, documenting her rebellion journey to boost the morale and strength of the rebels across Panem."}},{"@type":"Question","name":"Who are the members of Cressida's film crew in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Cressida, an emerging film director from the Capitol, joins the rebellion with her film crew. Her crew includes assistants Castor, Pollux, and Messalla. They voluntarily leave the Capitol to support the Mockingjay in District 13, creating various propos throughout Panem to boost rebel morale."}},{"@type":"Question","name":"What is the purpose of the 'propos' that Cressida and her crew create in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Cressida and her team produce 'propos' or propaganda spots. These are televised materials aimed at promoting the rebel cause during the Second Rebellion's Airtime Assault. The propos are designed to boost the rebels' morale and strength across Panem, featuring key individuals like Katniss and conveying messages of resistance and independence against the Capitol."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCressida%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cressida is introduced as one of the most up-and-coming film directors in the Capitol, before she up and left. She along with her assistants Castor, Pollux, and Messalla, are introduced with her.<sup id="cite_ref-MJ_7_1-0" class="reference"><a href="#cite_note-MJ_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> The four of them tell Katniss that they left the Capitol by choice to join the Mockingjay in District 13.
+</p><p>Cressida was first by Katniss's side when she ventured to <a href="/wiki/District_8" title="District 8">District 8</a> and led her camera crew through the chaos of an unexpected <a href="/wiki/Bombings" title="Bombings">bombing</a> by the Capitol. They followed Katniss to the roof of a building where she, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> and <a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a> helped shoot down the Capitol's bombing <a href="/wiki/Hovercrafts" class="mw-redirect" title="Hovercrafts">hovercrafts</a>. She also made sure to get Katniss' threat to the Capitol as well as footage of the Hospital the Capitol had just destroyed filled with unarmed, wounded District 8 residents. Cressida, unlike many of the other Capitol-born rebels, is unfazed by the poor living conditions of District 13 and the devastation of the war, which makes her a good film director.<sup id="cite_ref-MJ_7_1-1" class="reference"><a href="#cite_note-MJ_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Katniss herself was impressed by the fearlessness of Cressida and her team in making sure to get top-quality footage of the Mockingjay despite the danger; she says that, like her stylist Cinna, they don't just do their work, they take pride in it. Less than a day after the bombing in District 8, Cressida and her team had put together the first Mockingjay propo and aired it multiple times; the before/after results were dramatic, with the rebels rallying in all the districts and taking total control of Districts 11 and 3.
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 242px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/68/Cressida_death_p.png/revision/latest?cb=20160924220631" class="mw-file-description image"><img alt="Cressida's portrait" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="242" height="152" class="thumbimage lazyload" data-image-name="Cressida death p.png" data-image-key="Cressida_death_p.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/68/Cressida_death_p.png/revision/latest?cb=20160924220631"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/6/68/Cressida_death_p.png/revision/latest?cb=20160924220631" class="mw-file-description image"><img alt="Cressida's portrait" src="https://static.wikia.nocookie.net/thehungergames/images/6/68/Cressida_death_p.png/revision/latest?cb=20160924220631" decoding="async" loading="lazy" width="242" height="152" class="thumbimage" data-image-name="Cressida death p.png" data-image-key="Cressida_death_p.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/68/Cressida_death_p.png/revision/latest?cb=20160924220631"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Cressida_death_p.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Cressida's portrait. </p> 		 	</figcaption> </figure>
+<p>Cressida continued to get footage of Katniss here and there, but her next biggest propo was during the team's visit to the remains of District 12; she took footage of Gale, who had helped evacuate the survivors, and of Katniss singing <i>The Hanging Tree</i>. Later, after the bombing of 13, the crew also got footage of all the white roses that <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> had made sure to drop for Katniss. Cressida, seeing Katniss was losing control of her emotions, tried to make it easier for her by giving her specific lines, but Katniss eventually burst into tears over Peeta being tortured to break her.  
+</p><p>After a mission to rescue Peeta was made, Cressida coaxed Katniss back into another propo, asking her about her past experiences with Peeta, which seemed to comfort and strengthen Katniss. She firmly stated to the camera that if the districts all declared their independence from the Capitol, it would be unable to survive, so she was declaring her independence then and there; Cressida and her crew were pleased. The rest of the propo was of <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> explaining how the President got into power by poisoning threatening competition, even going as far as to take some himself to avoid suspicion, which is what caused the sores in his mouth which always bleed. Finnick also explained how he and all the other <a href="/wiki/Victors" class="mw-redirect" title="Victors">victors</a>, before Katniss and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta</a>, were exploited, threatened and bought by the Capitol to make sure they were kept in place. Finnick let out his payment of secrets in this propo about every one and spread the word all across Panem, severely discrediting Snow. Even Cressida was shocked by Finnick's stories.
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 280px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/23/Mockingjay-cressidacastor.jpg/revision/latest?cb=20141015230659" class="mw-file-description image"><img alt="Mockingjay-cressidacastor" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="280" height="187" class="thumbimage lazyload" data-image-name="Mockingjay-cressidacastor.jpg" data-image-key="Mockingjay-cressidacastor.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/23/Mockingjay-cressidacastor.jpg/revision/latest/scale-to-width-down/280?cb=20141015230659"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/2/23/Mockingjay-cressidacastor.jpg/revision/latest?cb=20141015230659" class="mw-file-description image"><img alt="Mockingjay-cressidacastor" src="https://static.wikia.nocookie.net/thehungergames/images/2/23/Mockingjay-cressidacastor.jpg/revision/latest/scale-to-width-down/280?cb=20141015230659" decoding="async" loading="lazy" width="280" height="187" class="thumbimage" data-image-name="Mockingjay-cressidacastor.jpg" data-image-key="Mockingjay-cressidacastor.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/23/Mockingjay-cressidacastor.jpg/revision/latest/scale-to-width-down/280?cb=20141015230659"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mockingjay-cressidacastor.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<p>Cressida also created a propo at the suggestion of <a href="/wiki/Fulvia_Cardew" title="Fulvia Cardew">Fulvia Cardew</a> which contained a video memorial to all the fallen tributes who could be remembered and recognized by the surviving victors.  
+</p><p>Cressida and her crew also accompanied <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a> into the Capitol. She got footage of their training for battle as well as the death of <a href="/wiki/Leeg_2" title="Leeg 2">Leeg 2</a> for her next propo. The propo was officially stopped by Cressida as their mission got much more serious with <a href="/wiki/Boggs" title="Boggs">Boggs</a> losing his legs to a <a href="/wiki/Pod" title="Pod">pod</a> and Peeta throwing <a href="/wiki/Mitchell" title="Mitchell">Mitchell</a> into a pod in an act of rage, this pod was a barbed wire net. While trapped in the net he was killed as a wave of a black tar-like substance engulfed him. Before Boggs died he gave the <a href="/wiki/Holo" title="Holo">Holo</a> to Katniss and Cressida supported a lie that <a href="/wiki/Alma_Coin" title="Alma Coin">Coin</a> had wanted Katniss to specifically kill Snow when <a href="/wiki/Jackson" title="Jackson">Jackson</a> started to question Boggs intentions. Katniss is confused as to why Cressida continually supports her decisions over the more logical and safe options.
+</p><p>Katniss led the Squad through the streets of the Capitol and then into the house of a resident when they came to the area where the pods stopped being activated after the explosion Boggs triggered. There they find that on TV, Snow believes them all to be dead as he sent <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> to shoot through the house they originally took refuge in, where they left Boggs' body, and he had them set it on fire once all was cleared, he planed on having their bodies fished out by morning. This gave Katniss some time to lead Cressida, Pollux, Castor, Messalla, Peeta, Finnick, Gale, <a href="/wiki/Homes" title="Homes">Homes</a>, Jackson and <a href="/wiki/Leeg_1" title="Leeg 1">Leeg 1</a> down to the bowels of the Capitol.
+</p><p>They made it through quite a bit of the Capitol this way until Snow discovered that they had not been killed in his attack and he sent <a href="/wiki/Lizard_mutt" title="Lizard mutt">lizard mutts</a> after the group. Despite the fact that the camera team didn't have military training, Katniss, Peeta and Gale gave Cressida, Pollux and Castor their guns to defend themselves, as Katniss and Gale had bows and Peeta was restrained.  When running, Cressida's assistant, Messalla, activated a pod that melted his skin like candle wax. They carried on until they came to a pod called the Meat Grinder. Leeg 1 and Jackson stayed behind to stop any mutts from coming through the Meat Grinder, but they were unsuccessful and died. Cressida, Pollux, Gale, Katniss and Peeta managed to make it above ground when Finnick, Castor, and Homes died holding back the mutts. Cressida stoically continued to show Katniss loyalty, but she was visibly upset over the deaths of all her crew members (except Pollux, who survived).
+</p><p>Cressida then led the remaining 5 members of Squad 451 to an old friend of hers and ex-stylist of the Hunger Games, <a href="/wiki/Tigris" title="Tigris">Tigris</a>, who was also a part of the rebellion. Tigris housed them for a while until the rebels started moving into the Capitol and caused many residents to go homeless, the refugees were forced into Tigris' shop after Squad 451 escaped. Cressida and Pollux split from Katniss and Gale and would meet up with them at the President's mansion while Peeta caused a distraction. Though when the Capitol activated pods and the rebels killed residents along the streets somewhere along the lines, Cressida and Pollux were thought to be killed in the turmoil. However, they survived, as it is shown that, in the end, they go around districts to film the war damage.
+</p><p>Cressida's final appearance in the films is at Snow's execution, which she and Pollux are filming.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCressida%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cressida is described in the book as a young woman whose head is shaved bald and tattooed with vivid green vines.<sup id="cite_ref-MJ_7_1-2" class="reference"><a href="#cite_note-MJ_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> In the film, only the left half of her head is shaved and tattooed, and the vine tattoos extend down her neck and along her left arm as well.
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCressida%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_Hunger_Games:_Mockingjay_-_Part_2"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCressida%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Promotional">Promotional</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCressida%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div id="gallery-0" hash="71d859f42e55a5e9a9a666157bf7a37f" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Cressida-MJ2-jpg" style="position: relative; height:199px; width:129px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Cressida-MJ2.jpg" title="Cressida-MJ2.jpg (281 KB)" style="height:199px; width:129px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/c/c8/Cressida-MJ2.jpg/revision/latest/scale-to-width-down/130?cb=20150706180200" title="Cressida-MJ2.jpg (281 KB)" class="thumbimage" alt="" height="200" width="200" data-image-name="Cressida-MJ2.jpg" data-image-key="Cressida-MJ2.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Cressida-MJ2.jpg (281 KB)" class="thumbimage lazyload" alt="" height="200" width="200" data-image-name="Cressida-MJ2.jpg" data-image-key="Cressida-MJ2.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c8/Cressida-MJ2.jpg/revision/latest/scale-to-width-down/130?cb=20150706180200"></a></div></div></div></div>
+<h4><span class="mw-headline" id="Stills">Stills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCressida%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div id="gallery-1" hash="c57d2c84848772849d30e55f8520b1ac" data-seq-no="1" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:169px;"><div class="gallery-image-wrapper accent" id="Cressida_death_p-png" style="position: relative; height:116px; width:185px; top:25.5px;"><a class="image lightbox" href="/wiki/File:Cressida_death_p.png" title="Cressida death p.png (68 KB)" style="height:116px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/6/68/Cressida_death_p.png/revision/latest/scale-to-width-down/185?cb=20160924220631" title="Cressida death p.png (68 KB)" class="thumbimage" alt="Cressida's portrait." height="152" width="185" data-image-name="Cressida death p.png" data-image-key="Cressida_death_p.png" data-relevant="1" data-caption="Cressida's portrait."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Cressida death p.png (68 KB)" class="thumbimage lazyload" alt="Cressida's portrait." height="152" width="185" data-image-name="Cressida death p.png" data-image-key="Cressida_death_p.png" data-relevant="1" data-caption="Cressida's portrait." data-src="https://static.wikia.nocookie.net/thehungergames/images/6/68/Cressida_death_p.png/revision/latest/scale-to-width-down/185?cb=20160924220631"></a></div></div><div class="lightbox-caption" style="width:185px;">Cressida's portrait.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:169px;"><div class="gallery-image-wrapper accent" id="https---thehungergames-wikia-com-wiki-Cressida" style="position: relative; height:167px; width:185px;"><a class="image link-external" href="https://thehungergames.wikia.com/wiki/Cressida" title="https://thehungergames.wikia.com/wiki/Cressida (5 KB)" style="height:167px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/6/6e/Th_%288%29.jpg/revision/latest/scale-to-width-down/185?cb=20181119185325" title="https://thehungergames.wikia.com/wiki/Cressida (5 KB)" class="thumbimage" alt="" height="167" width="185" data-image-name="Th (8).jpg" data-image-key="Th_%288%29.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="https://thehungergames.wikia.com/wiki/Cressida (5 KB)" class="thumbimage lazyload" alt="" height="167" width="185" data-image-name="Th (8).jpg" data-image-key="Th_%288%29.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/6e/Th_%288%29.jpg/revision/latest/scale-to-width-down/185?cb=20181119185325"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:169px;"><div class="gallery-image-wrapper accent" id="A79CE36A-E2CF-470F-979B-A10755591272-jpeg" style="position: relative; height:116px; width:185px; top:25.5px;"><a class="image lightbox" href="/wiki/File:A79CE36A-E2CF-470F-979B-A10755591272.jpeg" title="A79CE36A-E2CF-470F-979B-A10755591272.jpeg (35 KB)" style="height:116px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/9/9e/A79CE36A-E2CF-470F-979B-A10755591272.jpeg/revision/latest/scale-to-width-down/185?cb=20210402134815" title="A79CE36A-E2CF-470F-979B-A10755591272.jpeg (35 KB)" class="thumbimage" alt="" height="167" width="185" data-image-name="A79CE36A-E2CF-470F-979B-A10755591272.jpeg" data-image-key="A79CE36A-E2CF-470F-979B-A10755591272.jpeg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="A79CE36A-E2CF-470F-979B-A10755591272.jpeg (35 KB)" class="thumbimage lazyload" alt="" height="167" width="185" data-image-name="A79CE36A-E2CF-470F-979B-A10755591272.jpeg" data-image-key="A79CE36A-E2CF-470F-979B-A10755591272.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/9/9e/A79CE36A-E2CF-470F-979B-A10755591272.jpeg/revision/latest/scale-to-width-down/185?cb=20210402134815"></a></div></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCressida%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MJ_7-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_7_1-0">1.0</a></sup> <sup><a href="#cite_ref-MJ_7_1-1">1.1</a></sup> <sup><a href="#cite_ref-MJ_7_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 7</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260104071129
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.051 seconds
+Real time usage: 0.061 seconds
+Preprocessor visited node count: 210/1000000
+Post‐expand include size: 696/2097152 bytes
+Template argument size: 413/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6790/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   41.208      1 -total
+ 68.11%   28.067      1 Template:Character
+  6.00%    2.471      1 Template:Reflist
+  4.58%    1.889      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3383-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104071129 and revision id 953930. Rendering was triggered because: page-view
+ -->
+</div>

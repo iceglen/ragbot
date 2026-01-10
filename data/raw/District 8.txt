@@ -1,0 +1,285 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">District 8</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c8/District_8_Seal.png/revision/latest?cb=20250622180413" class="image image-thumbnail" title="District 8 Seal">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/c/c8/District_8_Seal.png/revision/latest/scale-to-width-down/268?cb=20250622180413" srcset="https://static.wikia.nocookie.net/thehungergames/images/c/c8/District_8_Seal.png/revision/latest/scale-to-width-down/268?cb=20250622180413 1x, https://static.wikia.nocookie.net/thehungergames/images/c/c8/District_8_Seal.png/revision/latest/scale-to-width-down/536?cb=20250622180413 2x" class="pi-image-thumbnail" data-relevant="1" alt="District 8 Seal" width="270" height="321" data-image-key="District_8_Seal.png" data-image-name="District 8 Seal.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="industry">
+	
+		<h3 class="pi-data-label pi-secondary-font">Industry</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/Textiles" class="extiw" title="wikipedia:Textiles">Textiles</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victors">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victors</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Woof" title="Woof">Woof</a></li><li><a href="/wiki/Cecelia" title="Cecelia">Cecelia</a></li><li>Implied Female Victor(s)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rebels">
+	
+		<h3 class="pi-data-label pi-secondary-font">Rebels</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bonnie" title="Bonnie">Bonnie</a><br /><a href="/wiki/Cecelia" title="Cecelia">Cecelia</a><br /><a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a><br /><a href="/wiki/Eddy" title="Eddy">Eddy</a><br /><a href="/wiki/Eddy%27s_sister" title="Eddy&#39;s sister">Eddy's sister</a><br /><a href="/wiki/Twill" title="Twill">Twill</a><br /><a href="/wiki/Woof" title="Woof">Woof</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="population">
+	
+		<h3 class="pi-data-label pi-secondary-font">Population</h3>
+	
+	<div class="pi-data-value pi-font">122,134</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="tesserae">
+	
+		<h3 class="pi-data-label pi-secondary-font">Tesserae</h3>
+	
+	<div class="pi-data-value pi-font">69,892</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Color</h3>
+	
+	<div class="pi-data-value pi-font"><span style="background-color:#9ACD32; color:black; border:1px solid darkgray;">&#160;Yellow Green&#160;</span> (10th HG)<br /><p><span style="background-color:#FFE5B4; color:black; border:1px solid darkgray;">&#160;Peach&#160;</span> (50th HG)<br /><span style="background-color:#835c27; color:white; border:1px solid darkgray;">&#160;Dark Buff Leather Brown&#160;</span> (74th HG)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="present_location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Present-day location</h3>
+	
+	<div class="pi-data-value pi-font"><b>Illinois</b>, <b>Kansas</b>, <b>Missouri</b>, <b>Tennessee</b>, Arkansas, Kentucky, Oklahoma</div>
+</div>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Tribute Guide">"<i>From the simple, lovely fabrics of the districts to the brocades favoured in the Capitol, District 8 makes it all.</i>"</span></dd>
+<dd>&#8212;Description from <i><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">The Hunger Games: Tribute Guide</a></i><sup class="noprint"><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">[src]</a></sup></dd></dl></div>
+<p><b>District 8</b> is one of the thirteen <a href="/wiki/Panem#Districts" title="Panem">districts</a> of <a href="/wiki/Panem" title="Panem">Panem</a>. Its main industry is textile production. They have at least one factory that is used for making <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeeper</a> uniforms.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Relationship_with_the_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">Relationship with the Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Aftermath_of_the_74th_Hunger_Games"><span class="tocnumber">1.1.1</span> <span class="toctext">Aftermath of the 74th Hunger Games</span></a>
+<ul>
+<li class="toclevel-4 tocsection-4"><a href="#Uprising_of_District_8"><span class="tocnumber">1.1.1.1</span> <span class="toctext">Uprising of District 8</span></a>
+<ul>
+<li class="toclevel-5 tocsection-5"><a href="#Refugees"><span class="tocnumber">1.1.1.1.1</span> <span class="toctext">Refugees</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-6"><a href="#75th_Hunger_Games"><span class="tocnumber">1.1.2</span> <span class="toctext">75th Hunger Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Second_Rebellion"><span class="tocnumber">1.2</span> <span class="toctext">Second Rebellion</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Bombing_of_District_8"><span class="tocnumber">1.2.1</span> <span class="toctext">Bombing of District 8</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Reconstruction"><span class="tocnumber">1.3</span> <span class="toctext">Reconstruction</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Culture"><span class="tocnumber">2</span> <span class="toctext">Culture</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Known_tributes"><span class="tocnumber">3</span> <span class="toctext">Known tributes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Tributes"><span class="tocnumber">3.1</span> <span class="toctext">Tributes</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Victors"><span class="tocnumber">3.2</span> <span class="toctext">Victors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Location_and_geography"><span class="tocnumber">4</span> <span class="toctext">Location and geography</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Relationship_with_the_Hunger_Games">Relationship with the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Due to District 8's urban environment, its people knew very little of the natural world, putting its <a href="/wiki/Tribute" title="Tribute">tributes</a> at a serious disadvantage in outdoor <a href="/wiki/Arena" title="Arena">arenas</a>.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Aftermath_of_the_74th_Hunger_Games">Aftermath of the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During the <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>, the people of Districts <a href="/wiki/District_3" title="District 3">3</a>, <a href="/wiki/District_4" title="District 4">4</a>, and 8 expressed "genuine elation" at the sight of <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>, "and under the elation, fury," crying out for vengeance.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h5><span class="mw-headline" id="Uprising_of_District_8">Uprising of District 8</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h5>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Uprising_of_District_8" title="Uprising of District 8">Uprising of District 8</a></i></center></div>
+<p>District 8 was the first known district to carry out a full-scale uprising against <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> since the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>. The plan was enacted the night of Katniss and Peeta's televised proposal in the Capitol, but despite its initial success, the movement was put down within forty-eight hours. After a weeklong lockdown, regular work operations resumed, and the Capitol bombed the factory where plans for the uprising began.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h6><span class="mw-headline" id="Refugees">Refugees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h6>
+<p>A District 8 schoolteacher, <a href="/wiki/Twill" title="Twill">Twill</a>, had been planning to escape the district with her husband in Peacekeepers' uniforms she took from the factory where she worked. She and one of her students, <a href="/wiki/Bonnie" title="Bonnie">Bonnie</a>, were late coming to the factory one day after school, and they narrowly avoided being caught in the factory bombing. With their families dead, and being presumed dead themselves, they escaped in the Peacekeepers' uniforms with a stolen rifle. They eventually made it to the <a href="/wiki/Woods" title="Woods">woods</a> outside <a href="/wiki/District_12" title="District 12">District 12</a> on their way to <a href="/wiki/District_13" title="District 13">District 13</a>. After Katniss stumbled upon the two of them at the <a href="/wiki/Lake" title="Lake">lake</a>, she shared a meal with them, and they told her what had transpired.<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="75th_Hunger_Games"><a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, the tributes from Districts 3, 4, <a href="/wiki/District_6" title="District 6">6</a>, <a href="/wiki/District_7" title="District 7">7</a>, 8, and <a href="/wiki/District_11" title="District 11">11</a> were all involved in a rebel plan to protect Katniss and break out of the <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">75th Hunger Games arena</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion"><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 350px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/43/MfilmDistrict8.jpg/revision/latest?cb=20140915160343" class="mw-file-description image"><img alt="Katniss during her visit to District 8, shortly before the hospital bombing." src="https://static.wikia.nocookie.net/thehungergames/images/4/43/MfilmDistrict8.jpg/revision/latest/scale-to-width-down/350?cb=20140915160343" decoding="async" loading="lazy" width="350" height="152" class="thumbimage" data-image-name="MfilmDistrict8.jpg" data-image-key="MfilmDistrict8.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:MfilmDistrict8.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss during her visit to District 8, shortly before the hospital bombing.</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Bombing_of_District_8">Bombing of District 8</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Bombing_of_District_8" class="mw-redirect" title="Bombing of District 8">Bombing of District 8</a></i></center></div>
+<p>About a month into the war, District 8 was heavily bombed one morning, and later that same day, a second wave of Capitol bombers came in to kill the patients and medics at a <a href="/wiki/District_8_hospital" title="District 8 hospital">field hospital</a>.<sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Reconstruction">Reconstruction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Following the execution of <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> and assassination of <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a>, an emergency election was held, and District 8's <a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a> became the new President of Panem.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2><p>
+When explaining her background to Katniss, Twill mentions that she put in a four-hour shift at a Peacekeeper uniform factory after her full-time job as a teacher.<sup id="cite_ref-:0_1-4" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> This could indicate either that all citizens are required to participate in the industry— since Bonnie, a child, also worked a four-hour shift after school— or that the average income from a single job was not enough to live on.</p><figure class="thumb mw-halign-right show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/36/District_8_Tributes.png/revision/latest?cb=20111120053107" class="mw-file-description image"><img alt="District 8 tributes, 74th Hunger Games" src="https://static.wikia.nocookie.net/thehungergames/images/3/36/District_8_Tributes.png/revision/latest/scale-to-width-down/180?cb=20111120053107" decoding="async" loading="lazy" width="180" height="204" class="thumbimage" data-image-name="District 8 Tributes.png" data-image-key="District_8_Tributes.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_8_Tributes.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">District 8 tributes, 74th Hunger Games</p> 		 	</figcaption> </figure>
+<h2><span class="mw-headline" id="Known_tributes">Known tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Tributes">Tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> - Male tribute in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. Beaten to death with a wooden board by <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>. Placed 13th.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Wovey" title="Wovey">Wovey</a> - Female tribute in the 10th Hunger Games. Poisoned by <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>. Placed 8th.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Wefton" title="Wefton">Wefton</a> - Male tribute in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. Killed in the bloodbath on the first day.</li>
+<li><a href="/wiki/Notion" title="Notion">Notion</a> - Female tribute in the 50th Hunger Games. Killed in the bloodbath on the first day.</li>
+<li><a href="/wiki/Ripman" title="Ripman">Ripman</a> - Male tribute in the 50th Hunger Games. Killed in the bloodbath on the first day.</li>
+<li><a href="/wiki/Alawna" title="Alawna">Alawna</a> - Female tribute in the 50th Hunger Games. Killed in the bloodbath on the first day.</li>
+<li><a href="/wiki/District_8_female_(74th_HG)" class="mw-redirect" title="District 8 female (74th HG)">District 8 female (74th HG)</a> - Injured by the <a href="/wiki/Careers" class="mw-redirect" title="Careers">Careers</a><sup id="cite_ref-:2_8-0" class="reference"><a href="#cite_note-:2-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> and killed by <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> on the first night/second day of the Games. She placed 13th in the book<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> and 12th in the film.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">District 8 male (74th HG)</a> - Killed in the <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>.<sup id="cite_ref-:2_8-1" class="reference"><a href="#cite_note-:2-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/1c/D8VictorssPortraits.jpg/revision/latest?cb=20140323190331" class="mw-file-description image"><img alt="District 8 Tributes:  (left) and  (right)" src="https://static.wikia.nocookie.net/thehungergames/images/1/1c/D8VictorssPortraits.jpg/revision/latest/scale-to-width-down/180?cb=20140323190331" decoding="async" loading="lazy" width="180" height="158" class="thumbimage" data-image-name="D8VictorssPortraits.jpg" data-image-key="D8VictorssPortraits.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:D8VictorssPortraits.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">District 8 Tributes: <a href="/wiki/Woof" title="Woof">Woof</a> (left) and <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> (right)</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Victors"><a href="/wiki/Victor" title="Victor">Victors</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> - Victor of an unknown Hunger Games and tribute in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. Died in the bloodbath.<sup id="cite_ref-:3_11-0" class="reference"><a href="#cite_note-:3-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Woof" title="Woof">Woof</a> - Victor of an unknown Games, tribute in the 75th. Died in the bloodbath.<sup id="cite_ref-:3_11-1" class="reference"><a href="#cite_note-:3-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 340px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/ed/Screen_Shot_2014-04-04_at_9.45.51_PM.png/revision/latest?cb=20140405044903" class="mw-file-description image"><img alt="Victory Tour train ride To District 8." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="340" height="153" class="thumbimage lazyload" data-image-name="Screen Shot 2014-04-04 at 9.45.51 PM.png" data-image-key="Screen_Shot_2014-04-04_at_9.45.51_PM.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/ed/Screen_Shot_2014-04-04_at_9.45.51_PM.png/revision/latest/scale-to-width-down/340?cb=20140405044903" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/e/ed/Screen_Shot_2014-04-04_at_9.45.51_PM.png/revision/latest?cb=20140405044903" class="mw-file-description image"><img alt="Victory Tour train ride To District 8." src="https://static.wikia.nocookie.net/thehungergames/images/e/ed/Screen_Shot_2014-04-04_at_9.45.51_PM.png/revision/latest/scale-to-width-down/340?cb=20140405044903" decoding="async" loading="lazy" width="340" height="153" class="thumbimage" data-image-name="Screen Shot 2014-04-04 at 9.45.51 PM.png" data-image-key="Screen_Shot_2014-04-04_at_9.45.51_PM.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/ed/Screen_Shot_2014-04-04_at_9.45.51_PM.png/revision/latest/scale-to-width-down/340?cb=20140405044903" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Screen_Shot_2014-04-04_at_9.45.51_PM.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Victory Tour train ride To District 8.</p> 		 	</figcaption> </figure>
+<h2><span class="mw-headline" id="Location_and_geography">Location and geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the map of Panem featured in <i><a href="/wiki/The_Hunger_Games_Adventures" title="The Hunger Games Adventures">The Hunger Games Adventures</a></i>, District 8's territory corresponds to a long, narrow region in the northern part of southeast North America. Its territory is primarily centered on the U.S. states of Kansas, Missouri, southern Illinois, and Tennessee. District 8 borders five other districts: District 12 (to the east and northeast), District 11 (to the south), <a href="/wiki/District_2" title="District 2">District 2</a> (to the west), <a href="/wiki/District_9" title="District 9">District 9</a> (to the northwest), and <a href="/wiki/District_3" title="District 3">District 3</a> (to the north).
+</p><p>
+District 8 is described in <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i> as the second district from the east, between Districts 12 and 6.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> describes District 8 as "an urban place stinking of industrial fumes, the people housed in run-down tenements. Barely a blade of grass in sight."<sup id="cite_ref-:0_1-5" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/1b/District8-victory-tour.jpg/revision/latest?cb=20140124055153" class="mw-file-description image"><img alt="Katniss Everdeen and Peeta Mellark in District 8." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="101" class="thumbimage lazyload" data-image-name="District8-victory-tour.jpg" data-image-key="District8-victory-tour.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/1b/District8-victory-tour.jpg/revision/latest/scale-to-width-down/180?cb=20140124055153" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/1/1b/District8-victory-tour.jpg/revision/latest?cb=20140124055153" class="mw-file-description image"><img alt="Katniss Everdeen and Peeta Mellark in District 8." src="https://static.wikia.nocookie.net/thehungergames/images/1/1b/District8-victory-tour.jpg/revision/latest/scale-to-width-down/180?cb=20140124055153" decoding="async" loading="lazy" width="180" height="101" class="thumbimage" data-image-name="District8-victory-tour.jpg" data-image-key="District8-victory-tour.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/1b/District8-victory-tour.jpg/revision/latest/scale-to-width-down/180?cb=20140124055153" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District8-victory-tour.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss Everdeen and Peeta Mellark in District 8.</p> 		 	</figcaption> </figure>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>According to <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, as well as a pre-production sketch from the illustrated movie companion book, District 8 has at least six functional textile factories. Other features include a river traversed by a bridge, and a clock tower extending into the sky.
+<ul><li>The citizens are seen to be clothed in a palette of vibrant and brighter colors than other districts, considering that District 8's primary focus is that of textile production. Their physical attire resembles that of an urban American 1960s get-up.</li>
+<li>It was also located near a shore in the film.</li>
+<li>During Katniss and Peeta's stop in 8 on the Victory Tour, the tributes' jackets on the holograms are maroon red, but in the <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">previous film</a>, they wore golden jackets.</li></ul></li>
+<li>The first official rebel <a href="/wiki/Propo" title="Propo">propo</a> was shot in District 8.<sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>According to the <i>Mockingjay</i> film, bombers from the north were being deployed from the southern border of District 11, during the time Katniss was visiting District 8 to film the first prop. This suggests that District 8 may actually be located around the deep south, specifically south of present-day Atlanta, Georgia, where District 11 is believed to be situated.
+<ul><li>The map from <a href="/wiki/The_Hunger_Games_Adventures" title="The Hunger Games Adventures">The Hunger Games Adventures</a> shows that District 8 is located in the southeast of Panem, between District 12 (to the north) and District 11 (to the south).</li></ul></li>
+<li>According to the Capitol.PN, District 8 has 43 factories in operation with a population of 122,134,&#160;making it the sixth largest district, in terms of population.</li>
+<li>According to the Capitol.PN, District 8 claims 69,892 in tesserae, making it the fifth most impoverished district.&#160;
+<ul><li>If the population is 122,134 and they claim 69,892 tesserae, that would equal to 0.572 tesserae per person, making it the 7th richest district.</li></ul></li>
+<li>The inspiration for District 8 in the films came from the mill town of <a href="https://en.wikipedia.org/wiki/Lawrence,_Massachusetts" class="extiw" title="wikipedia:Lawrence, Massachusetts">Lawrence, Massachusetts</a>, which was well cemented in the textile industry at the turn of the 20th century.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>It is considered a lower-middle class district.</li>
+<li>Based on the <a href="/wiki/Arena_wear" title="Arena wear">arena wear</a> for the 74th Hunger Games, the district's color seems to be dark buff leather brown (#835c27 – <span style="background-color:#835c27; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>Although the final cut of <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> changed all the District banner colors to red, pre-release materials show District 8's color for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> appears to be yellow green (#9ACD32 - <span style="background-color:#9ACD32; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The arena wear for the 50th Hunger Games was peach (FFE5B4 - <span style="background-color:#FFE5B4; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_8%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup> <sup><a href="#cite_ref-:0_1-3">1.3</a></sup> <sup><a href="#cite_ref-:0_1-4">1.4</a></sup> <sup><a href="#cite_ref-:0_1-5">1.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-:1-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_4-0">4.0</a></sup> <sup><a href="#cite_ref-:1_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-:2-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_8-0">8.0</a></sup> <sup><a href="#cite_ref-:2_8-1">8.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-:3-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_11-0">11.0</a></sup> <sup><a href="#cite_ref-:3_11-1">11.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i>The Hunger Games: The Exhibition</i> - <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://youtu.be/ZwCVO69_acg?t=753">Walkthrough Tour of Hunger Games Exhibit at MGM Grand Las Vegas</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a href="/wiki/File:Anatomy_of_an_arena_costume.jpg" title="File:Anatomy of an arena costume.jpg">File:Anatomy of an arena costume.jpg</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a href="/wiki/File:TBOSASScreensRight.jpg" title="File:TBOSASScreensRight.jpg">File:TBOSASScreensRight.jpg</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <strong class="mw-selflink selflink">District 8</strong> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251227222035
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.126 seconds
+Real time usage: 0.198 seconds
+Preprocessor visited node count: 560/1000000
+Post‐expand include size: 4408/2097152 bytes
+Template argument size: 540/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7060/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   96.863      1 -total
+ 32.20%   31.186      1 Template:District
+ 27.28%   26.425      1 Template:Reflist
+  2.30%    2.229      6 Template:Colorbox
+  1.93%    1.866      2 Template:W
+  1.89%    1.833      1 Template:Quote
+  1.61%    1.563      2 Template:Main
+  1.38%    1.340      1 Template:SeriesTP
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2226-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227222035 and revision id 967820. Rendering was triggered because: unknown
+ -->
+</div>

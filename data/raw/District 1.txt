@@ -1,0 +1,296 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">District 1</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e7/District_1_Seal.png/revision/latest?cb=20250622175620" class="image image-thumbnail" title="District 1 Seal">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/e/e7/District_1_Seal.png/revision/latest/scale-to-width-down/268?cb=20250622175620" srcset="https://static.wikia.nocookie.net/thehungergames/images/e/e7/District_1_Seal.png/revision/latest/scale-to-width-down/268?cb=20250622175620 1x, https://static.wikia.nocookie.net/thehungergames/images/e/e7/District_1_Seal.png/revision/latest/scale-to-width-down/536?cb=20250622175620 2x" class="pi-image-thumbnail" data-relevant="1" alt="District 1 Seal" width="270" height="321" data-image-key="District_1_Seal.png" data-image-name="District 1 Seal.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="industry">
+	
+		<h3 class="pi-data-label pi-secondary-font">Industry</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/Luxury" class="extiw" title="wikipedia:Luxury">Luxury</a> items</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victors">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victors</h3>
+	
+	<div class="pi-data-value pi-font"><ol><li><a href="/wiki/Palladium_Barker" title="Palladium Barker">Palladium Barker</a> (46th)</li><li><a href="/wiki/Gloss" title="Gloss">Gloss</a> (63rd)</li><li><a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> (64th)</li><li><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> (67th)</li></ol></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mayor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Leader(s)</h3>
+	
+	<div class="pi-data-value pi-font">Unknown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rebels">
+	
+		<h3 class="pi-data-label pi-secondary-font">Rebels</h3>
+	
+	<div class="pi-data-value pi-font">Unknown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="population">
+	
+		<h3 class="pi-data-label pi-secondary-font">Population</h3>
+	
+	<div class="pi-data-value pi-font">24,315</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="tesserae">
+	
+		<h3 class="pi-data-label pi-secondary-font">Tesserae</h3>
+	
+	<div class="pi-data-value pi-font">1,693</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Color</h3>
+	
+	<div class="pi-data-value pi-font"><span style="background-color:#1E90FF; color:white; border:1px solid darkgray;">&#160;Dodger Blue&#160;</span> (10th HG)<br /><p><span style="background-color:#B4C424; color:white; border:1px solid darkgray;">&#160;Peridot&#160;</span> (50th HG)<br /><span style="background-color:#888844; color:white; border:1px solid darkgray;">&#160;Overgrown Citadel Green&#160;</span> (74th HG)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="present_location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Present-day location</h3>
+	
+	<div class="pi-data-value pi-font"><b>Montana</b>, <b>Idaho</b>, <b>Utah</b>, <b>Wyoming</b>, Nevada, North Dakota, South Dakota</div>
+</div>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Tribute Guide">"<i>District 1 makes the luxury goods that decorate and beautify our great Capitol. Its excellent taste and  craftsmanship keep Capitol residents bewigged and bedazzled year-round.</i>"</span></dd>
+<dd>&#8212;Description of District 1 from <i><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">The Hunger Games: Tribute Guide</a></i><sup class="noprint"><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">[src]</a></sup></dd></dl></div>
+<p><b>District 1</b> is the wealthiest <a href="/wiki/District" class="mw-redirect" title="District">district</a> in <a href="/wiki/Panem" title="Panem">Panem</a>, whose primary industry is the manufacture of luxury items for <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>. As a result, District 1 has a generally favorable relationship with the Capitol, although they are still forced to participate in the annual <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> like all the other districts. However, their money and privilege allow them to train their <a href="/wiki/Tribute" title="Tribute">tributes</a> for the Games without punishment.  
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Relationship_with_the_Games"><span class="tocnumber">1.1</span> <span class="toctext">Relationship with the Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#1st-10th_Hunger_Games"><span class="tocnumber">1.1.1</span> <span class="toctext">1st-10th Hunger Games</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Career_district"><span class="tocnumber">1.1.2</span> <span class="toctext">Career district</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Second_Rebellion"><span class="tocnumber">1.2</span> <span class="toctext">Second Rebellion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Culture"><span class="tocnumber">2</span> <span class="toctext">Culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Industry"><span class="tocnumber">2.1</span> <span class="toctext">Industry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Known_tributes"><span class="tocnumber">3</span> <span class="toctext">Known tributes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Tributes"><span class="tocnumber">3.1</span> <span class="toctext">Tributes</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Victors"><span class="tocnumber">3.2</span> <span class="toctext">Victors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Other_residents"><span class="tocnumber">4</span> <span class="toctext">Other residents</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Location_and_geography"><span class="tocnumber">5</span> <span class="toctext">Location and geography</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Relationship_with_the_Games">Relationship with the Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="1st-10th_Hunger_Games">1st-10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the first ten Hunger Games, District 1 and <a href="/wiki/District_2" title="District 2">District 2</a> were noted as being "more Capitol-friendly" and turning out "better-fed" tributes, resulting in more <a href="/wiki/Victor" title="Victor">victors</a>; this implies that District 1 had already won more than once in the earliest years of the Games. Districts <a href="/wiki/District_4" title="District 4">4</a> and <a href="/wiki/District_11" title="District 11">11</a> were also "contenders", though, so 1 and 2 had not won them all.<sup id="cite_ref-:2_1-0" class="reference"><a href="#cite_note-:2-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Despite this, District 1's tributes did not fare well in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>; both <a href="/wiki/Facet" title="Facet">Facet</a> and <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> were shot dead by <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> in an attempt to escape before the Games began.<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Career_district">Career district</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Eventually, alongside District 2 and District 4, District 1 began to train <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tributes</a>. Although technically against the rules, their children were trained to prepare them for <a href="/wiki/Combat" class="mw-redirect" title="Combat">combat</a> inside the <a href="/wiki/Arena" title="Arena">arena</a>.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> Career training made District 1 tributes popular <a href="/wiki/Betting" title="Betting">bets</a> among <a href="/wiki/Sponsorship" title="Sponsorship">sponsors</a>. Despite their success in the Games and outward loyalty to the Capitol, some in District 1 secretly resented their arrangement, and they sided with the rebels faster than their counterparts in District 2.
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion"><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite District 1’s close relations with the Capitol, they still rebelled against the Capitol in the Second Rebellion, being the second district to do so, and being the fourth to pry from their rule. As a Career district, Districts 1, 2, and 4 had the largest pool of victors;<sup id="cite_ref-:3_4-0" class="reference"><a href="#cite_note-:3-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> however, none of the victors from 1 survived the war, and all were killed in the ensuing war or during the <a href="/wiki/Victors%27_Purge" title="Victors&#39; Purge">Victors' Purge</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All known characters from District 1 had luxurious or lofty-sounding names, tying in with the luxuries they sell to the Capitol. The one exception is "Augustus"; however, this the name of ancient Rome's first emperor, and <a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> has mentioned that in creating Panem and the Capitol, she drew heavily on Roman history and culture.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> His name could be a reflection of District 1's close relationship with the Capitol— a phenomenon also seen in names from District 2.
+</p><p>Tributes from District 1, especially <a href="/wiki/Marvel" title="Marvel">Marvel</a> and <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a>, are known to have started training for the Hunger Games from a very young age. The victors from District 1 are known to have continued training even after winning. <sup id="cite_ref-Cashmere_CC_7-0" class="reference"><a href="#cite_note-Cashmere_CC-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Industry">Industry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>They were in charge of producing luxury items for the Capitol. Katniss heard that District 1 had a machine that could turn graphite into diamonds.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> Around the time of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, they produced items such as decent liquor, makeup, and tobacco, though they were often hard to get ahold of and very expensive, which made the black market in the Capitol flourish.<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_tributes">Known tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Career tributes from 1, like all other Careers, were strong and well-prepared. However, they were often overconfident or even arrogant. From the tributes we've seen, on average, the female tributes placed 9th and the male tributes placed 8th.
+</p>
+<h3><span class="mw-headline" id="Tributes">Tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> - Female tribute in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. Shot dead by Peacekeepers in an attempt to escape the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> before the Games began. Placed 20th-21st out of 24.<sup id="cite_ref-:1_2-2" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Facet" title="Facet">Facet</a> - Male tribute in the 10th Hunger Games. Shot dead while attempting to escape the arena. Placed 20th-21st.<sup id="cite_ref-:1_2-3" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> - Female tribute in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. Killed by her own <a href="/wiki/Weapons#Axe" title="Weapons">axe</a> when it rebounded off the arena's <a href="/wiki/Force_field" title="Force field">force field</a>, lodging in her skull. Placed 2nd out of 48.<sup id="cite_ref-:3_4-1" class="reference"><a href="#cite_note-:3-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> - Male tribute in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. Killed by <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> with a poison dart. Placed 11th out of 48.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Carat" title="Carat">Carat</a> - Female tribute in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. Killed after consuming poisonous fruit and water on the first day. Placed 29st-30th out of 48.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Loupe" title="Loupe">Loupe</a> - Male tribute in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. Killed by <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> with a poison dart. Placed 28th out of 48.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> - Female tribute in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>. Killed by <a href="/wiki/Tracker_jacker" title="Tracker jacker">tracker jacker</a> stings after <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> dropped a nest on Day 5. She placed 12th in the <a href="/wiki/The_Hunger_Games" title="The Hunger Games">novel</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup> and 11th in the <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">movie</a>.<sup id="cite_ref-:4_13-0" class="reference"><a href="#cite_note-:4-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Marvel" title="Marvel">Marvel</a> - Male tribute in the 74th Hunger Games. Shot by Katniss with an <a href="/wiki/Bow_and_arrow" title="Bow and arrow">arrow</a> to the neck (book)<sup id="cite_ref-:5_14-0" class="reference"><a href="#cite_note-:5-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> or heart (movie)<sup id="cite_ref-:4_13-1" class="reference"><a href="#cite_note-:4-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> on Day 9, placing 8th.</li></ul>
+<h3><span class="mw-headline" id="Victors">Victors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Palladium_Barker" title="Palladium Barker">Palladium Barker</a> - Victor of the 46th Hunger Games, older relative of <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a>, a tribute in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>.</li>
+<li><a href="/wiki/Gloss" title="Gloss">Gloss</a> - Victor of the <a href="/wiki/63rd_Hunger_Games" title="63rd Hunger Games">63rd Hunger Games</a>, and male tribute in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th</a>. Killed by Katniss with an arrow to the temple on Day 2, placing 11th out of 24.<sup id="cite_ref-:6_15-0" class="reference"><a href="#cite_note-:6-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> - Victor of the <a href="/wiki/64th_Hunger_Games" title="64th Hunger Games">64th Hunger Games</a>,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup> and female tribute in the 75th. Killed by <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> on Day 2 with an axe to the chest, placing 10th.<sup id="cite_ref-:6_15-1" class="reference"><a href="#cite_note-:6-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> - Victor of the <a href="/wiki/67th_Hunger_Games" title="67th Hunger Games">67th Hunger Games</a>, per <a href="/wiki/Capitol_Couture" title="Capitol Couture">Capitol Couture</a>. He was known as the "Cavalier Career" and was very popular during his Victory Tour, where the Capitol sang his praises as "Panem's Favorite Son" and a figure of reconciliation.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<p>In <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, at the time of <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, District 1 is together with <a href="/wiki/District_2" title="District 2">2</a>, <a href="/wiki/District_4" title="District 4">4</a> and <a href="/wiki/District_11" title="District 11">11</a> mentioned to be "contenders" for success in the games. Presumably, this means District 1 produced one or more victors during the first decade of the games.
+</p>
+<h2><span class="mw-headline" id="Other_residents">Other residents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Marvel's father - not much is known about him, other than the fact that he was a hunter<sup id="cite_ref-interview_deleted_scene_18-0" class="reference"><a href="#cite_note-interview_deleted_scene-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Glimmer's father - not much is known about her, other than the fact that he made flowers (namely tulips) out of finely-wrought crystal.</li></ul>
+<h2><span class="mw-headline" id="Location_and_geography">Location and geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 330px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/00/District1HGA.png/revision/latest?cb=20210214191314" class="mw-file-description image"><img alt="Location of District 1 in Panem; Right above the Capitol&#39;s northern border." src="https://static.wikia.nocookie.net/thehungergames/images/0/00/District1HGA.png/revision/latest/scale-to-width-down/330?cb=20210214191314" decoding="async" loading="lazy" width="330" height="244" class="thumbimage" data-image-name="District1HGA.png" data-image-key="District1HGA.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District1HGA.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Location of District 1 in Panem; Right above the Capitol's northern border.</p> 		 	</figcaption> </figure>
+<p>According to the map of Panem featured in <a href="/wiki/The_Hunger_Games_Adventures" title="The Hunger Games Adventures">The Hunger Games Adventures</a>, District 1 is located in western North America, to the northwest of Panem along the Rocky Mountains. Geographically, District 1's territory is primarily centered around the U.S. states of Montana, Idaho, Utah, and Wyoming. The geographical area of the district makes sense, as these states - particularly Montana - are known sources of gemstones, which fits in with the district's industry of luxury items. District 1 is also one of the closest districts to the Capitol, being directly north and west of the city, which ties into the two's close relationship.
+</p><p>District 1 borders four districts as well as the Capitol: <a href="/wiki/District_4" title="District 4">District 4</a> (to the west), <a href="/wiki/District_7" title="District 7">District 7</a> (to the north), <a href="/wiki/District_9" title="District 9">District 9</a> (to the east), the Capitol (to the southeast), and <a href="/wiki/District_5" title="District 5">District 5</a> (to the south).
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Districts 1, 2, 5, 9, and <a href="/wiki/District_10" title="District 10">10</a> were not involved in the rebel plot during the third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>District 1, District 5, and District 9 are the only districts without a known rebel.</li></ul></li>
+<li>In her two Games, Katniss killed both of District 1's male tributes after they killed one of her allies: Marvel killed <a href="/wiki/Rue" title="Rue">Rue</a><sup id="cite_ref-:5_14-1" class="reference"><a href="#cite_note-:5-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> and Gloss killed <a href="/wiki/Wiress" title="Wiress">Wiress</a>.<sup id="cite_ref-:6_15-2" class="reference"><a href="#cite_note-:6-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>Cashmere was the only tribute from District 1 in Katniss's two Games that she didn't kill.</li>
+<li>Cashmere and Carat are the only known tributes from District 1 not to be killed by a District 12 tribute in the arena. Maysilee Donner killed Loupe and Panache Barker, Haymitch Abernathy killed Silka Sharp, and Katniss Everdeen killed Marvel and Gloss and indirectly killed Glimmer. Facet and Velvereen were killed by Peacekeepers and never made it to the arena.</li>
+<li>Facet is the only known District 1 male tribute not to be killed by a District 12 female tribute.</li></ul></li>
+<li>Cashmere and Gloss were siblings that won in consecutive years.<sup id="cite_ref-:3_4-2" class="reference"><a href="#cite_note-:3-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Katniss considers District 1 names "ridiculous".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>District 1 had the highest number of confirmed kills in the 74th Hunger Games, with a total of 6.</li>
+<li>According to the CapitolPN, District 1 has 82 factories in operation with a population of 24,315, making it the ninth largest district, in terms of population.</li>
+<li>According to the Capitol.PN, District 1 claims 1,693 in tesserae, less than any other district, making it the richest in Panem.
+<ul><li>If the population is 24,315 and they claim 1,693 tesserae that would equal to 0.069 tesserae per person, making it the 3rd richest District.</li></ul></li>
+<li>For the 10th Hunger Games, it seems all children within the ages of 12-18 were required to wear matching outfits to the Reaping, as shown by Facet and Velvereen, District 1's tributes for the 10th Hunger Games, wore matching white tops and long pants.</li>
+<li>Based on the <a href="/wiki/Arena_wear" title="Arena wear">arena wear</a> for the 74th Hunger Games, the district's color seems to be overgrown citadel green (#888844 – <span style="background-color:#888844; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>Although the final cut of <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> changed all the District banner colors to red, pre-release materials show District 1's color for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> appears to be dodger blue (#1E90FF - <span style="background-color:#1E90FF; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The arena wear for the 50th Hunger Games was peridot or as <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> and <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> called it, "snot green" (#B4C424 - <span style="background-color:#B4C424; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_1%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:2-1"><span class="mw-cite-backlink"><a href="#cite_ref-:2_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-:1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_2-0">2.0</a></sup> <sup><a href="#cite_ref-:1_2-1">2.1</a></sup> <sup><a href="#cite_ref-:1_2-2">2.2</a></sup> <sup><a href="#cite_ref-:1_2-3">2.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink"><a href="#cite_ref-:0_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-:3-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_4-0">4.0</a></sup> <sup><a href="#cite_ref-:3_4-1">4.1</a></sup> <sup><a href="#cite_ref-:3_4-2">4.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.slj.com/story/a-killer-story-an-interview-with-suzanne-collins-author-of-the-hunger-games">https://www.slj.com/story/a-killer-story-an-interview-with-suzanne-collins-author-of-the-hunger-games</a></span>
+</li>
+<li id="cite_note-Cashmere_CC-7"><span class="mw-cite-backlink"><a href="#cite_ref-Cashmere_CC_7-0">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.tumblr.com/capitolcouture/62941926908/game-faces-district-1s-cashmere-d1f-cashmere">https://www.tumblr.com/capitolcouture/62941926908/game-faces-district-1s-cashmere-d1f-cashmere</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 16 &amp; 20</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-:4-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:4_13-0">13.0</a></sup> <sup><a href="#cite_ref-:4_13-1">13.1</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-:5-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:5_14-0">14.0</a></sup> <sup><a href="#cite_ref-:5_14-1">14.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-:6-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:6_15-0">15.0</a></sup> <sup><a href="#cite_ref-:6_15-1">15.1</a></sup> <sup><a href="#cite_ref-:6_15-2">15.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://capitolcouture.tumblr.com/post/62941926908">https://capitolcouture.tumblr.com/post/62941926908</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://capitolcouture.tumblr.com/post/133139605007">https://capitolcouture.tumblr.com/post/133139605007</a></span>
+</li>
+<li id="cite_note-interview_deleted_scene-18"><span class="mw-cite-backlink"><a href="#cite_ref-interview_deleted_scene_18-0">↑</a></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i></a> interviews deleted scene (<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://youtu.be/Cinpd3zlqjU?t=145">https://youtu.be/Cinpd3zlqjU?t=145</a> this video)</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><a href="/wiki/File:Anatomy_of_an_arena_costume.jpg" title="File:Anatomy of an arena costume.jpg">File:Anatomy of an arena costume.jpg</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><a href="/wiki/File:TBOSASScreensLeft.jpg" title="File:TBOSASScreensLeft.jpg">File:TBOSASScreensLeft.jpg</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <strong class="mw-selflink selflink">District 1</strong> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251231223742
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.125 seconds
+Real time usage: 0.205 seconds
+Preprocessor visited node count: 644/1000000
+Post‐expand include size: 4171/2097152 bytes
+Template argument size: 525/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10551/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  106.313      1 -total
+ 38.25%   40.662      1 Template:Reflist
+ 21.53%   22.888      1 Template:District
+  1.63%    1.728      1 Template:Quote
+  1.60%    1.699      6 Template:Colorbox
+  1.51%    1.604      1 Template:SeriesTP
+  1.09%    1.154      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2120-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231223742 and revision id 967847. Rendering was triggered because: page-view
+ -->
+</div>

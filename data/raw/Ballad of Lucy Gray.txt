@@ -1,0 +1,36 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><b>This article is a disambiguation page for Ballad of Lucy Gray</b>
+<p>The following is a list of links to pages that might share the same title.<br />
+</p>
+Please follow one of the disambiguation links below or <a href="/wiki/Special:Search" title="Special:Search">search</a> to find the page you were looking for if it is not listed. If an <a href="/wiki/Special:WhatLinksHere/Ballad_of_Lucy_Gray" title="Special:WhatLinksHere/Ballad of Lucy Gray">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</center></div>
+<p><br />
+<b>Ballad of Lucy Gray</b> may refer to:
+</p>
+<ul><li>"<a href="/wiki/The_Ballad_of_Lucy_Gray_Baird" class="mw-redirect" title="The Ballad of Lucy Gray Baird">The Ballad of Lucy Gray Baird</a>" - a song written and performed by <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> during her <a href="/wiki/Interview" class="mw-redirect" title="Interview">interview</a> for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>.</li>
+<li><a href="/wiki/Songs#&quot;Lucy_Gray&quot;" title="Songs">"Lucy Gray"</a> - the <a href="https://en.wikipedia.org/wiki/William_Wordsworth" class="extiw" title="wikipedia:William Wordsworth">William Wordsworth</a> poem that Lucy Gray Baird was named after, set to music by the <a href="/wiki/Covey" title="Covey">Covey</a>.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20251230201756
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.011 seconds
+Real time usage: 0.017 seconds
+Preprocessor visited node count: 12/1000000
+Post‐expand include size: 636/2097152 bytes
+Template argument size: 36/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    3.545      1 -total
+ 53.20%    1.886      1 Template:Disambig
+ 44.15%    1.565      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542946-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230201756 and revision id 941555. Rendering was triggered because: page-view
+ -->
+</div>

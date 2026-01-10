@@ -1,0 +1,225 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>An <b>escort</b> was a citizen of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> who selected and accompanied the <a href="/wiki/Tribute" title="Tribute">tributes</a> and <a href="/wiki/Mentor" title="Mentor">mentors</a> from their assigned <a href="/wiki/District" class="mw-redirect" title="District">district</a> leading up to the annual <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tasks"><span class="tocnumber">1</span> <span class="toctext">Tasks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Reapings"><span class="tocnumber">1.1</span> <span class="toctext">Reapings</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#The_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">The Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Victory_Tour"><span class="tocnumber">1.3</span> <span class="toctext">Victory Tour</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Known_escorts"><span class="tocnumber">3</span> <span class="toctext">Known escorts</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="64786" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the role of an escort in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, an escort is a citizen from the Capitol who is responsible for selecting and accompanying the tributes and mentors from their designated district. The escort draws the names of one boy and one girl from the reaping balls to participate in the Hunger Games. Following the selection, the escort accompanies the tributes to the Capitol and assists in arranging sponsor gifts during the games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64787" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How are the tributes selected by the escorts for the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, escorts, citizens of the Capitol, select and accompany tributes and mentors from their respective districts. The selection involves drawing one boy and one girl's names from reaping balls. Although the order of selection is uncertain, in several instances, female tributes were chosen first. The escort announces the selected tribute's name, who is then introduced to the district.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64788" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the relationship between escorts and mentors in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Escorts in the Hunger Games are responsible for selecting and accompanying tributes and mentors from their districts to the games. They also coordinate sponsor gifts. Mentors, who are previous victors, train the tributes, manage their sponsors, and oversee the presentation of gifts. The interaction between mentors and escorts is a cooperative one, as they both aim to support the tributes.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64789" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How do escorts view the Hunger Games compared to the districts?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Escorts in the Hunger Games, often women, hail from the Capitol. They select tributes and mentors for the annual event, viewing it as a celebration, unaware of the districts' suffering. The role was introduced post the 10th Hunger Games to avoid district citizens' interference. Escorts ensure tributes and mentors follow the schedule leading up to the event.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64790" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What responsibilities do escorts have after the reaping in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Escorts in the Hunger Games select one boy and one girl from their assigned district by drawing names from reaping balls. Post-reaping, they ensure tributes and mentors follow the schedule up to the Games, including travel to the Capitol and arena transport.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Escort","mainEntity":[{"@type":"Question","name":"What is the role of an escort in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, an escort is a citizen from the Capitol who is responsible for selecting and accompanying the tributes and mentors from their designated district. The escort draws the names of one boy and one girl from the reaping balls to participate in the Hunger Games. Following the selection, the escort accompanies the tributes to the Capitol and assists in arranging sponsor gifts during the games."}},{"@type":"Question","name":"How are the tributes selected by the escorts for the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, escorts, citizens of the Capitol, select and accompany tributes and mentors from their respective districts. The selection involves drawing one boy and one girl's names from reaping balls. Although the order of selection is uncertain, in several instances, female tributes were chosen first. The escort announces the selected tribute's name, who is then introduced to the district."}},{"@type":"Question","name":"What is the relationship between escorts and mentors in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Escorts in the Hunger Games are responsible for selecting and accompanying tributes and mentors from their districts to the games. They also coordinate sponsor gifts. Mentors, who are previous victors, train the tributes, manage their sponsors, and oversee the presentation of gifts. The interaction between mentors and escorts is a cooperative one, as they both aim to support the tributes."}},{"@type":"Question","name":"How do escorts view the Hunger Games compared to the districts?","acceptedAnswer":{"@type":"Answer","text":"Escorts in the Hunger Games, often women, hail from the Capitol. They select tributes and mentors for the annual event, viewing it as a celebration, unaware of the districts' suffering. The role was introduced post the 10th Hunger Games to avoid district citizens' interference. Escorts ensure tributes and mentors follow the schedule leading up to the event."}},{"@type":"Question","name":"What responsibilities do escorts have after the reaping in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Escorts in the Hunger Games select one boy and one girl from their assigned district by drawing names from reaping balls. Post-reaping, they ensure tributes and mentors follow the schedule up to the Games, including travel to the Capitol and arena transport."}}]}</script>
+<h2><span class="mw-headline" id="Tasks">Tasks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEscort%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Reapings">Reapings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEscort%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Reaping" title="Reaping">Reaping</a></i></center></div>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/13/Effie_%26_Katniss_at_reaping.jpg/revision/latest?cb=20120324215355" class="mw-file-description image"><img alt="Effie &amp; Katniss at reaping" src="https://static.wikia.nocookie.net/thehungergames/images/1/13/Effie_%26_Katniss_at_reaping.jpg/revision/latest/scale-to-width-down/180?cb=20120324215355" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Effie &amp; Katniss at reaping.jpg" data-image-key="Effie_%26_Katniss_at_reaping.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Effie_%26_Katniss_at_reaping.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<p>Every year, a district's escort selected one boy and one girl to participate in the Hunger Games by pulling their names from the <a href="/wiki/Reaping_balls" title="Reaping balls">reaping balls</a>. Due to their Capitol upbringing, they saw these occasions as celebrations and were typically oblivious to the districts' suffering.<sup id="cite_ref-THG_1_1-0" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Hunger_Games">The Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEscort%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the reaping, escorts were responsible for making sure that tributes and mentors kept to the schedule throughout the week leading up to the Hunger Games. This began on the <a href="/wiki/Train" title="Train">train</a> to the Capitol and ran up to the tributes' transport to the <a href="/wiki/Arena" title="Arena">arena</a>.<sup id="cite_ref-THG_6_2-0" class="reference"><a href="#cite_note-THG_6-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> In the <a href="/wiki/Training_Center" title="Training Center">Training Center</a>, they took their tributes down to the gymnasium,<sup id="cite_ref-THG_7_3-0" class="reference"><a href="#cite_note-THG_7-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> and the day before the tributes' <a href="/wiki/Interviews" title="Interviews">interviews</a>, the escort had four hours of time allotted to help each tribute present themselves onstage.<sup id="cite_ref-THG_9_4-0" class="reference"><a href="#cite_note-THG_9-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> They were also known to talk to <a href="/wiki/Sponsorship" title="Sponsorship">sponsors</a>, but only mentors could seal sponsor deals.<sup id="cite_ref-THG_6_2-1" class="reference"><a href="#cite_note-THG_6-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>If one of the escort's tributes survived the Games and became a <a href="/wiki/Victor" title="Victor">victor</a>, they would greet the victor in the hospital upon their recovery. Later that evening, the victor's support team would rise up from beneath the stage for the closing ceremonies. The escort would be the second one introduced, following the <a href="/wiki/Prep_team" title="Prep team">prep team</a>.<sup id="cite_ref-THG_26_5-0" class="reference"><a href="#cite_note-THG_26-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Victory_Tour">Victory Tour</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEscort%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a></i></center></div>
+<p>The escort's job also included escorting any new victors from their district on that year's Victory Tour.<sup id="cite_ref-CF_1_6-0" class="reference"><a href="#cite_note-CF_1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> After this, the escort could be promoted to a higher-ranking district for the next year's Games, or they could choose to stay with the district that they were with previously.<sup id="cite_ref-THG_10_7-0" class="reference"><a href="#cite_note-THG_10-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEscort%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At the time of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, the position of an escort had not yet been created. Instead, tributes were chosen by their district's <a href="/wiki/Mayor" title="Mayor">mayor</a>, when their names were pulled out of sacks.<sup id="cite_ref-Ballad_2_8-0" class="reference"><a href="#cite_note-Ballad_2-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>
+From the <a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th Hunger Games</a> to the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, <a href="/wiki/District_12" title="District 12">District 12</a> had a female escort named <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a>. The 50th Games was the second <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, so the twist was that twice the number of tributes would be reaped that year: two male and two female from each district. As a result, escorts each called out four names.<sup id="cite_ref-CF_14_9-0" class="reference"><a href="#cite_note-CF_14-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e7/028.png/revision/latest?cb=20120328232740" class="mw-file-description image"><img alt="Effie Trinket" src="https://static.wikia.nocookie.net/thehungergames/images/e/e7/028.png/revision/latest/scale-to-width-down/180?cb=20120328232740" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="028.png" data-image-key="028.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:028.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Effie Trinket</p> 		 	</figcaption> </figure>
+<p>Drusilla was succeeded as escort by <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>, who worked as District 12's escort starting during 50th Hunger Games <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a> due to Drusilla breaking her hip falling down an escalator.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> Effie was the escort for the 51st Hunger Games up to the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>,<sup id="cite_ref-THG_1_1-1" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>,<sup id="cite_ref-CF_1_6-1" class="reference"><a href="#cite_note-CF_1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> and <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>.<sup id="cite_ref-CF_13_11-0" class="reference"><a href="#cite_note-CF_13-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_escorts">Known escorts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEscort%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align: center;">
+<tbody><tr>
+<th><b>Hunger Games</b>
+</th>
+<th><b>Escort</b>
+</th>
+<th><b>District</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25</a>-<a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50</a>
+</td>
+<td><a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a>
+</td>
+<td><a href="/wiki/District_12" title="District 12">District 12</a>
+</td></tr>
+<tr>
+<td><small>fl.</small> <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50</a>
+</td>
+<td><a href="/wiki/Juvenia" title="Juvenia">Juvenia</a>
+</td>
+<td><a href="/wiki/District_1" title="District 1">District 1</a>
+</td></tr>
+<tr>
+<td>51-<a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75</a>
+</td>
+<td><a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td>
+<td><a href="/wiki/District_12" title="District 12">District 12</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEscort%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Each district had their own escort. However, only District 12's escorts— Effie Trinket and her predecessor, Drusilla Sickle, as well as District 1's Juvenia — were named within the series.
+<ul><li>All of these escorts were female. This has led some to speculate that it was an exclusively female profession.</li></ul></li>
+<li>Some speculate that the escort position was introduced after the 10th Hunger Games' reaping in order to prevent interference from district citizens with personal investment, goals and vendettas not part of <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a>’s desires.
+<ul><li><a href="/wiki/Mayfair_Lipp" title="Mayfair Lipp">Mayfair Lipp</a>, the daughter of District 12's then-<a href="/wiki/Mayor_Lipp" title="Mayor Lipp">mayor</a>, had her father purposefully call <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> as tribute due to a personal feud.<sup id="cite_ref-Ballad_2_8-1" class="reference"><a href="#cite_note-Ballad_2-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>, a former native of <a href="/wiki/District_2" title="District 2">District 2</a>, suspected that <a href="/wiki/Strabo_Plinth" title="Strabo Plinth">his father</a> had requested for him to mentor the District 2 male.<sup id="cite_ref-Ballad_2_8-2" class="reference"><a href="#cite_note-Ballad_2-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> He said that his father "bought [his] mentorship" to show Sejanus that he couldn't return to district life.<sup id="cite_ref-Ballad_15_12-0" class="reference"><a href="#cite_note-Ballad_15-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> It is unknown, but commonly speculated, that "buying" Sejanus's mentorship also entailed a bribe to District 2's mayor, ensuring Sejanus's old classmate <a href="/wiki/Marcus" title="Marcus">Marcus</a> would be reaped.</li>
+<li><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> noticed how often the children of <a href="/wiki/Victor" title="Victor">victors</a> were reaped, theorizing that the Capitol was likely manipulating the reapings to threaten or punish victors. Given how escorts are in charge of selecting <a href="/wiki/Tribute" title="Tribute">tributes</a> from the reaping balls, it's likely that they play an active part in these plots.
+<ul><li>This indicates that the escort position may have been implemented as a way for the Capitol to deliberately manipulate the reaping to control the victors.</li>
+<li>Given that happened to <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> during the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, its possible that this theory is correct. In punishment for trying to sabotage the Capitol's communication system, Beetee's son, <a href="/wiki/Ampert_Latier" title="Ampert Latier">Ampert Latier</a>, was purposefully reaped to participate in the 50th Hunger Games. Beetee was then forced to <a href="/wiki/Mentor" title="Mentor">mentor</a> his own son and essentially oversee his death, as Ampert was subsequently killed in the arena.</li></ul></li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FEscort%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-THG_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_1_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-THG_6-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_6_2-0">2.0</a></sup> <sup><a href="#cite_ref-THG_6_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-THG_7-3"><span class="mw-cite-backlink"><a href="#cite_ref-THG_7_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-THG_9-4"><span class="mw-cite-backlink"><a href="#cite_ref-THG_9_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-THG_26-5"><span class="mw-cite-backlink"><a href="#cite_ref-THG_26_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-CF_1-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_1_6-0">6.0</a></sup> <sup><a href="#cite_ref-CF_1_6-1">6.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-THG_10-7"><span class="mw-cite-backlink"><a href="#cite_ref-THG_10_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_2-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_2_8-0">8.0</a></sup> <sup><a href="#cite_ref-Ballad_2_8-1">8.1</a></sup> <sup><a href="#cite_ref-Ballad_2_8-2">8.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-CF_14-9"><span class="mw-cite-backlink"><a href="#cite_ref-CF_14_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-CF_13-11"><span class="mw-cite-backlink"><a href="#cite_ref-CF_13_11-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_15-12"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_15_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 15</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251224232511
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.049 seconds
+Real time usage: 0.079 seconds
+Preprocessor visited node count: 704/1000000
+Post‐expand include size: 1423/2097152 bytes
+Template argument size: 59/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5413/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   35.462      1 -total
+ 48.52%   17.207      1 Template:Reflist
+  5.69%    2.019      6 Template:THG
+  4.38%    1.552      3 Template:CF
+  4.06%    1.441      2 Template:BSS
+  3.91%    1.385      2 Template:Main
+  3.62%    1.282      1 Template:SOTR
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2317-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251224232511 and revision id 960323. Rendering was triggered because: page-view
+ -->
+</div>

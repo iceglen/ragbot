@@ -1,0 +1,298 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Lavinia</h2>
+
+	<div class="pi-image-collection wds-tabber" data-source="image">
+		<div class="wds-tabs__wrapper">
+			<ul class="wds-tabs">
+				
+					<li class="wds-tabs__tab wds-is-current">
+						<span class="wds-tabs__tab-label">
+							Film
+							
+						</span>
+					</li>
+				
+					<li class="wds-tabs__tab">
+						<span class="wds-tabs__tab-label">
+							Illustrated Edition
+							
+						</span>
+					</li>
+				
+			</ul>
+		</div>
+		
+			<div class="wds-tab__content wds-is-current">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/1/17/UntitledAvox.png/revision/latest?cb=20151114192013" class="image image-thumbnail" title="Film">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/1/17/UntitledAvox.png/revision/latest?cb=20151114192013" srcset="https://static.wikia.nocookie.net/thehungergames/images/1/17/UntitledAvox.png/revision/latest?cb=20151114192013 1x, https://static.wikia.nocookie.net/thehungergames/images/1/17/UntitledAvox.png/revision/latest?cb=20151114192013 2x" data-relevant="1" class="pi-image-thumbnail" alt="Film" width="167" height="299" data-image-key="UntitledAvox.png" data-image-name="UntitledAvox.png">
+						
+					</a>
+				</figure>
+			</div>
+		
+			<div class="wds-tab__content">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/8/88/THG_IE_Lavinia_cropped.png/revision/latest?cb=20250315225734" class="image image-thumbnail" title="Illustrated Edition">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/8/88/THG_IE_Lavinia_cropped.png/revision/latest/scale-to-width-down/268?cb=20250315225734" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/88/THG_IE_Lavinia_cropped.png/revision/latest/scale-to-width-down/268?cb=20250315225734 1x, https://static.wikia.nocookie.net/thehungergames/images/8/88/THG_IE_Lavinia_cropped.png/revision/latest?cb=20250315225734 2x" data-relevant="1" class="pi-image-thumbnail" alt="Illustrated Edition" width="270" height="345" data-image-key="THG IE Lavinia cropped.png" data-image-name="THG IE Lavinia cropped.png">
+						
+					</a>
+				</figure>
+			</div>
+		
+	</div>
+
+
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">20s</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Redheaded Avox girl (by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Avox" title="Avox">Avox</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">None</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a>,<br><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games (film)</a><br><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Amber_Chaney" title="Amber Chaney">Amber Chaney</a></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Lavinia</b> was an <a href="/wiki/Avox" title="Avox">Avox</a> girl who worked as a <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a> servant for <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> throughout the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th</a><sup id="cite_ref-THG_6_1-0" class="reference"><a href="#cite_note-THG_6-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> and <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a><sup id="cite_ref-CF_15_2-0" class="reference"><a href="#cite_note-CF_15-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. Throughout <i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> and <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, she is known simply as the "Avox girl". Her name was revealed in <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, when <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> recounted his experience in Capitol imprisonment<sup id="cite_ref-MJ_19_3-0" class="reference"><a href="#cite_note-MJ_19-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Death"><span class="tocnumber">2</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37414" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Lavinia before she became an Avox in The Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Lavinia, prior to becoming an Avox, was spotted in the woods by Katniss and Gale with an unidentified male, speculated to be her brother or lover. She was later seized and served as a servant in the Capitol for Katniss Everdeen in the 74th and 75th Hunger Games. Her distinctive appearance included dark red hair and porcelain-like skin.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37415" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Katniss Everdeen come to know Lavinia, the Avox girl?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						While hunting outside District 12 with Gale Hawthorne, Katniss Everdeen witnessed the capture of Lavinia and an unknown boy. Lavinia later served Katniss as a Capitol servant during the 74th and 75th Hunger Games. Her identity was disclosed to Katniss by Peeta Mellark in Mockingjay.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37416" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role does Lavinia play in the 74th and 75th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th and 75th Hunger Games, Lavinia functioned as a mute Capitol servant for Katniss Everdeen, due to her status as an Avox, a result of her tongue being cut out. Following the 75th Hunger Games, she was held captive and subsequently executed by electrocution.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37417" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How is Lavinia's identity revealed in Mockingjay?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In Mockingjay, Lavinia is identified as the red-haired Avox, recognized by Katniss, who had her tongue cut out for crimes against the Capitol. After the 75th Hunger Games, she is taken hostage and ultimately tortured and killed by electrocution in Peeta's presence.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37418" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the significance of Lavinia's tongue being cut out in The Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Lavinia's tongue removal in The Hunger Games signifies her punishment for crimes against the Capitol, marking her as an Avox and silencing her. Her red hair might reference another Lavinia in the Aeneid's Book 7, whose hair ignites at a sacrificial altar. Furthermore, she is tortured and executed by electrocution before Peeta.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Lavinia","mainEntity":[{"@type":"Question","name":"Who was Lavinia before she became an Avox in The Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Lavinia, prior to becoming an Avox, was spotted in the woods by Katniss and Gale with an unidentified male, speculated to be her brother or lover. She was later seized and served as a servant in the Capitol for Katniss Everdeen in the 74th and 75th Hunger Games. Her distinctive appearance included dark red hair and porcelain-like skin."}},{"@type":"Question","name":"How did Katniss Everdeen come to know Lavinia, the Avox girl?","acceptedAnswer":{"@type":"Answer","text":"While hunting outside District 12 with Gale Hawthorne, Katniss Everdeen witnessed the capture of Lavinia and an unknown boy. Lavinia later served Katniss as a Capitol servant during the 74th and 75th Hunger Games. Her identity was disclosed to Katniss by Peeta Mellark in Mockingjay."}},{"@type":"Question","name":"What role does Lavinia play in the 74th and 75th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 74th and 75th Hunger Games, Lavinia functioned as a mute Capitol servant for Katniss Everdeen, due to her status as an Avox, a result of her tongue being cut out. Following the 75th Hunger Games, she was held captive and subsequently executed by electrocution."}},{"@type":"Question","name":"How is Lavinia's identity revealed in Mockingjay?","acceptedAnswer":{"@type":"Answer","text":"In Mockingjay, Lavinia is identified as the red-haired Avox, recognized by Katniss, who had her tongue cut out for crimes against the Capitol. After the 75th Hunger Games, she is taken hostage and ultimately tortured and killed by electrocution in Peeta's presence."}},{"@type":"Question","name":"What is the significance of Lavinia's tongue being cut out in The Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Lavinia's tongue removal in The Hunger Games signifies her punishment for crimes against the Capitol, marking her as an Avox and silencing her. Her red hair might reference another Lavinia in the Aeneid's Book 7, whose hair ignites at a sacrificial altar. Furthermore, she is tortured and executed by electrocution before Peeta."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLavinia%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Before she became an Avox, Lavinia and an unknown boy, whom Katniss believed was her brother or lover, were seen by Katniss and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale</a> while they were out hunting in the <a href="/wiki/Woods" title="Woods">woods</a> outside of <a href="/wiki/District_12" title="District 12">District 12</a>. They appeared to be escaping from the Capitol to District 13 for unknown reasons, and Katniss noted that the two had a "Capitol look" to them. A Capitol <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a> appeared; the boy was struck with a <a href="/wiki/Weapons#Spear" title="Weapons">spear</a> that was shot from the hovercraft and was killed instantly, then was lifted up to the hovercraft, not to be mentioned again in the series. Lavinia, however, was scooped up by a net and taken into the hovercraft, and she briefly locked eyes with Katniss and Gale. When the boy was killed, she screamed what sounded like a name, and Katniss wondered if it was the name of the boy.
+</p><p>Years later, Lavinia waited on Katniss as an Avox whose tongue had been cut out for committing crimes against the Capitol. Katniss said she knew Lavinia, but at that time did not know her name or where she remembered her from. This worried the residents from the Capitol, so Peeta stepped in and claimed that Lavinia looked like <a href="/wiki/Delly_Cartwright" title="Delly Cartwright">Delly Cartwright</a> - a girl from District 12 who went to school with them. As an Avox, she could not publicly acknowledge anything that was not a direct order, so Katniss' initial attempt at conversation was ignored.<sup id="cite_ref-THG_6_1-1" class="reference"><a href="#cite_note-THG_6-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> However, when she later walks in on the mess Katniss has made in her room prior to interview night she shows some response to Katniss' attempted apology, indicating by gestures that Katniss did not need to be sorry, and that there was nothing she could have done, otherwise she too, would have been an Avox.<sup id="cite_ref-THG_9_4-0" class="reference"><a href="#cite_note-THG_9-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLavinia%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, Lavinia was once again Katniss and Peeta's Avox, along with former Peacekeeper <a href="/wiki/Darius" title="Darius">Darius</a>, who was sent in to scare and make Katniss discontented<sup id="cite_ref-CF_15_2-1" class="reference"><a href="#cite_note-CF_15-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. After the 75th Hunger Games, Darius and Lavinia were taken hostage, and she was tortured and killed immediately by painful electrocution in front of Peeta<sup id="cite_ref-MJ_19_3-1" class="reference"><a href="#cite_note-MJ_19-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLavinia%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lavinia has dark red hair, striking features, and porcelain white skin. Being an <a href="/wiki/Avox" title="Avox">Avox</a>, her tongue was cut out and she is therefore mute. Katniss said that Lavinia had a "Capitol" look to her. She is also subject to a lifetime of servitude to the Capitol. As an Avox, she is of <a href="/wiki/Panem" title="Panem">Panem</a>'s lowest social class, essentially a slave.
+</p><p>She is said to resemble <a href="/wiki/Delly_Cartwright" title="Delly Cartwright">Delly Cartwright</a>, according to Peeta, however, this was simply an excuse to cover for Katniss' accidentally letting the slip that she recognized the Avox. Although Katniss recalls that they look nothing alike, she immediately pretends otherwise to protect herself and Peeta from her earlier mistake. While Katniss recalls Delly to be friendly, she contrasts it with the fact that she had never seen Lavinia smile.<sup id="cite_ref-THG_6_1-2" class="reference"><a href="#cite_note-THG_6-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Delly was blond and outgoing, the exact opposite to redheaded and sad Lavinia.
+</p><p>
+Lavinia is described as a matching set with Darius by <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> in <i>Catching Fire</i>, for their similarly red hair<sup id="cite_ref-CF_15_2-2" class="reference"><a href="#cite_note-CF_15-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>.</p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 139px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/23/AvoxCatchingFire.jpg/revision/latest?cb=20140323224423" class="mw-file-description image"><img alt="Lavinia in Catching Fire" src="https://static.wikia.nocookie.net/thehungergames/images/2/23/AvoxCatchingFire.jpg/revision/latest/scale-to-width-down/139?cb=20140323224423" decoding="async" loading="lazy" width="139" height="341" class="thumbimage" data-image-name="AvoxCatchingFire.jpg" data-image-key="AvoxCatchingFire.jpg" data-relevant="0"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:AvoxCatchingFire.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Lavinia in Catching Fire</p> 		 	</figcaption> </figure>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLavinia%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lavinia is the name of a character in <a href="https://en.wikipedia.org/wiki/William_Shakespeare" class="extiw" title="wikipedia:William Shakespeare">William Shakespeare</a>'s play <i><a href="https://en.wikipedia.org/wiki/Titus_Andronicus" class="extiw" title="wikipedia:Titus Andronicus">Titus Andronicus</a></i>, the daughter of the titular Titus. Her tongue and hands were cut off after she was assaulted so she could not reveal who attacked her.
+</p><p>Another notable <a href="https://en.wikipedia.org/wiki/Lavinia" class="extiw" title="wikipedia:Lavinia">Lavinia</a> appears in Book 7 of the <i><a href="https://en.wikipedia.org/wiki/Aeneid" class="extiw" title="wikipedia:Aeneid">Aeneid</a></i>, when her hair catches <a href="/wiki/Fire" title="Fire">fire</a> at the sacrificial altar for the gods. Lavinia's red hair in <i>The Hunger Games</i> could be a reference to that moment.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLavinia%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>She is the only known Capitol citizen who attempted to escape for unknown reasons.</li>
+<li>Lavinia is not mentioned in <i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a>'</i>s film. She only appears as a background character.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLavinia%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-THG_6-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_6_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_6_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_6_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-CF_15-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_15_2-0">2.0</a></sup> <sup><a href="#cite_ref-CF_15_2-1">2.1</a></sup> <sup><a href="#cite_ref-CF_15_2-2">2.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-MJ_19-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_19_3-0">3.0</a></sup> <sup><a href="#cite_ref-MJ_19_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-THG_9-4"><span class="mw-cite-backlink"><a href="#cite_ref-THG_9_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 9</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260104222021
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.061 seconds
+Real time usage: 0.085 seconds
+Preprocessor visited node count: 266/1000000
+Post‐expand include size: 281/2097152 bytes
+Template argument size: 104/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2599/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   56.675      1 -total
+ 68.44%   38.787      1 Template:Character
+ 11.80%    6.689      1 Template:Reflist
+  2.78%    1.578      4 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2873-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104222021 and revision id 954710. Rendering was triggered because: page-view
+ -->
+</div>

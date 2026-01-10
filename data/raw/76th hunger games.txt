@@ -1,0 +1,233 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">76th Hunger Games</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+	
+		<h3 class="pi-data-label pi-secondary-font">Type</h3>
+	
+	<div class="pi-data-value pi-font">Official (cancelled)<br /><p>Unofficial</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arena">
+	
+		<h3 class="pi-data-label pi-secondary-font">Arena</h3>
+	
+	<div class="pi-data-value pi-font">Unknown arena (cancelled edition)<br /><p><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> (unofficial edition)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="duration">
+	
+		<h3 class="pi-data-label pi-secondary-font">Duration</h3>
+	
+	<div class="pi-data-value pi-font">3 days</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i><br /><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a><br />(3rd <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font">Abolition of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a></div>
+</div>
+</aside>
+
+</p><p>The <b>76th Hunger Games</b> was not an official <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> installment. Instead, it is associated with three distinct events: the cancelled regular edition of the Hunger Games, the <a href="/wiki/Battle_of_the_Capitol" title="Battle of the Capitol">Battle of the Capitol</a>,<sup id="cite_ref-MJ_18_1-0" class="reference"><a href="#cite_note-MJ_18-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> and a proposal introduced at the conclusion of the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.<sup id="cite_ref-MJ_26_2-0" class="reference"><a href="#cite_note-MJ_26-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Cancelled_Regular_Edition"><span class="tocnumber">1</span> <span class="toctext">Cancelled Regular Edition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Battle_of_the_Capitol"><span class="tocnumber">2</span> <span class="toctext">Battle of the Capitol</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Known_&quot;tributes&quot;"><span class="tocnumber">2.1</span> <span class="toctext">Known "tributes"</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Survivors"><span class="tocnumber">2.1.1</span> <span class="toctext">Survivors</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Casualties"><span class="tocnumber">2.1.2</span> <span class="toctext">Casualties</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Proposed_Capitol_Edition"><span class="tocnumber">3</span> <span class="toctext">Proposed Capitol Edition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Voting_breakdown"><span class="tocnumber">3.1</span> <span class="toctext">Voting breakdown</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Sequence_of_events"><span class="tocnumber">3.1.1</span> <span class="toctext">Sequence of events</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Aftermath"><span class="tocnumber">3.2</span> <span class="toctext">Aftermath</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Cancelled_Regular_Edition">Cancelled Regular Edition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Had the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> concluded normally with a victor, the 76th Hunger Games would have been the next regular edition of the Games following the Third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a> and its associated <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>, scheduled to begin on <a href="/wiki/Reaping" title="Reaping">Reaping Day</a>, July 4th, 76 ADD. However, due to the outbreak of the Second Rebellion - which intensified through the summer and into the fall and winter of 75 ADD - the Games are presumed to have been postponed pending the outcome of the conflict. With multiple districts in open revolt and the Capitol directing all of its resources toward the war effort, the government lacked the capacity to prepare for the next Hunger Games, including construction of the arena that would have been used. Following the Rebel victory in the civil war and overthrow of the Snow regime, the Hunger Games were abolished by the new democratic administration, and the 76th Hunger Games (both the planned regular edition and proposed Capitol edition) were officially cancelled.
+</p>
+<h2><span class="mw-headline" id="Battle_of_the_Capitol">Battle of the Capitol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Battle_of_the_Capitol" title="Battle of the Capitol">Battle of the Capitol</a></i></center></div>
+<div class="quote">
+<dl><dd><span><b>Finnick Odair</b>: <i>"Ladies and gentlemen..."</i><br /><b>Katniss Everdeen</b>: <i>"Let the Seventy-sixth Hunger Games begin!"</i></span></dd>
+<dd>&#8212;<i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 18</dd></dl>
+</div>
+<p>After passing their exams, rebel soldiers assigned to <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a> were immediately directed to Command in <a href="/wiki/District_13" title="District 13">District 13</a>. There, they received a mission briefing from <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> on what to expect in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>. Upon seeing a holographic map of the city marked with <a href="/wiki/Pod" title="Pod">pods</a>, <a href="/wiki/Victor" title="Victor">victors</a> <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> immediately recognized its similarity to a Hunger Games <a href="/wiki/Arena" title="Arena">arena</a>, and they compared the upcoming battle to a 76th Hunger Games.<sup id="cite_ref-MJ_18_1-1" class="reference"><a href="#cite_note-MJ_18-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The conflict continued to bring back memories of the Games for Katniss and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>.<sup id="cite_ref-MJ_19_3-0" class="reference"><a href="#cite_note-MJ_19-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-MJ_20_4-0" class="reference"><a href="#cite_note-MJ_20-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> Even Capitol media drew on the comparison: they showed images of the presumed-dead Squad 451 on television over the sounds of the <a href="/wiki/Horn_of_Plenty" title="Horn of Plenty">anthem</a>,<sup id="cite_ref-MJ_21_5-0" class="reference"><a href="#cite_note-MJ_21-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> as was the practice with each day's dead <a href="/wiki/Tribute" title="Tribute">tributes</a> every evening inside the arena.<sup id="cite_ref-THG_11_6-0" class="reference"><a href="#cite_note-THG_11-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span id="Known_.22tributes.22"></span><span class="mw-headline" id="Known_&quot;tributes&quot;">Known "tributes"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/36/Hunger_games-0.jpg/revision/latest?cb=20171103212926" class="mw-file-description image"><img alt="Squad 451" src="https://static.wikia.nocookie.net/thehungergames/images/3/36/Hunger_games-0.jpg/revision/latest/scale-to-width-down/180?cb=20171103212926" decoding="async" loading="lazy" width="180" height="137" class="thumbimage" data-image-name="Hunger games-0.jpg" data-image-key="Hunger_games-0.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Hunger_games-0.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Squad 451</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>This time Snow will be a player, too.</i>"</span></dd>
+<dd>&#8212;Katniss to Finnick<sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div>
+<p>"Tributes" are listed from the latest known death to the earliest, mimicking the placing of a typical Hunger Games. Members of Squad 451 are marked with an asterisk (*).
+</p>
+<h4><span class="mw-headline" id="Survivors">Survivors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Katniss Everdeen,* <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>,* and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a>* - <a href="/wiki/District_12" title="District 12">District 12</a></li>
+<li><a href="/wiki/Pollux" title="Pollux">Pollux</a>* and <a href="/wiki/Cressida" title="Cressida">Cressida</a>* - The Capitol</li></ul>
+<h4><span class="mw-headline" id="Casualties">Casualties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> - The Capitol - Either choked on his own blood, or was trampled/lynched by the crowd.<sup id="cite_ref-MJ_27_7-0" class="reference"><a href="#cite_note-MJ_27-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a> - District 13 - Shot with an arrow in the chest by Katniss during Snow's public execution<sup id="cite_ref-MJ_26_2-1" class="reference"><a href="#cite_note-MJ_26-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> - District 12 - Killed coming to the aid of the wounded in the <a href="/wiki/City_Circle_bombing" class="mw-redirect" title="City Circle bombing">City Circle bombing</a><sup id="cite_ref-MJ_25_8-0" class="reference"><a href="#cite_note-MJ_25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Numerous Capitol children, <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>, and District 13 medics - Incinerated by the City Circle bombing.<sup id="cite_ref-MJ_25_8-1" class="reference"><a href="#cite_note-MJ_25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-MJ_24_9-0" class="reference"><a href="#cite_note-MJ_24-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Numerous Capitol refugees - Shot by either by rebels, collateral bombings, or killed by a number of different pods<sup id="cite_ref-MJ_24_9-1" class="reference"><a href="#cite_note-MJ_24-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Unidentified Capitol woman - Shot by Katniss with an arrow in her home.<sup id="cite_ref-MJ_22_10-0" class="reference"><a href="#cite_note-MJ_22-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a>* - <a href="/wiki/District_4" title="District 4">District 4</a> - Decapitated by <a href="/wiki/Lizard_mutt" title="Lizard mutt">lizard mutts</a>.<sup id="cite_ref-MJ_22_10-1" class="reference"><a href="#cite_note-MJ_22-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Homes" title="Homes">Homes</a>* (District 13) - Killed by mutts.<sup id="cite_ref-MJ_22_10-2" class="reference"><a href="#cite_note-MJ_22-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Castor" title="Castor">Castor</a>* (The Capitol) - Killed by mutts.<sup id="cite_ref-MJ_22_10-3" class="reference"><a href="#cite_note-MJ_22-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Jackson" title="Jackson">Jackson</a>* and <a href="/wiki/Leeg_1" title="Leeg 1">Leeg 1</a>* - District 13 - Died trying to hold off mutts at the Meat Grinder<sup id="cite_ref-MJ_22_10-4" class="reference"><a href="#cite_note-MJ_22-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Messalla" title="Messalla">Messalla</a>* - The Capitol - Killed by a pod; immobilized by a beam that melted off his flesh<sup id="cite_ref-MJ_22_10-5" class="reference"><a href="#cite_note-MJ_22-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Mitchell" title="Mitchell">Mitchell</a>* - District 13 - Killed when Peeta pushed him on top of a pod; caught and speared in a net of barbed wire<sup id="cite_ref-MJ_20_4-1" class="reference"><a href="#cite_note-MJ_20-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Boggs" title="Boggs">Boggs</a>* - District 13 - Legs blown off by an explosive pod;<sup id="cite_ref-MJ_19_3-1" class="reference"><a href="#cite_note-MJ_19-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> died moments later from blood loss.<sup id="cite_ref-MJ_20_4-2" class="reference"><a href="#cite_note-MJ_20-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Leeg_2" title="Leeg 2">Leeg 2</a>* - District 13 - Killed by a mislabeled pod that sent out a "sunburst of metal darts", with one shooting through her head.<sup id="cite_ref-MJ_18_1-2" class="reference"><a href="#cite_note-MJ_18-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Proposed_Capitol_Edition">Proposed Capitol Edition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After the end of the civil war, there were calls amongst the victorious rebels for the "complete annihilation" of Capitol citizens. The interim government of <a href="/wiki/Panem" title="Panem">Panem</a> opposed this idea, not on moral grounds, but in order to maintain a sustainable population. District 13's President <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a>, who had assumed the post of interim President for the whole country, put forward a proposal. However, she and her "colleagues" could not come to a consensus, so it was instead put to a vote among the seven known surviving victors.<sup id="cite_ref-MJ_26_2-2" class="reference"><a href="#cite_note-MJ_26-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/92/Coin_calling_victors_to_a_vote.png/revision/latest?cb=20230705191330" class="mw-file-description image"><img alt="Coin calling the victors to a vote in The Hunger Games: Mockingjay - Part 2." src="https://static.wikia.nocookie.net/thehungergames/images/9/92/Coin_calling_victors_to_a_vote.png/revision/latest/scale-to-width-down/180?cb=20230705191330" decoding="async" loading="lazy" width="180" height="73" class="thumbimage" data-image-name="Coin calling victors to a vote.png" data-image-key="Coin_calling_victors_to_a_vote.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Coin_calling_victors_to_a_vote.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coin calling the victors to a vote in <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a>.</i></p> 		 	</figcaption> </figure>
+<p>During a meeting with the victors, Coin proposed a "final, symbolic" Hunger Games, where tributes would be reaped from the children of the Capitol's highest officials and those associated with the Hunger Games. If it was approved, the new Games would be announced with the support of the victors, but their votes would remain anonymous for their own security.<sup id="cite_ref-MJ_26_2-3" class="reference"><a href="#cite_note-MJ_26-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Voting_breakdown">Voting breakdown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Below is a table illustrating the division of votes.
+</p>
+<table class="wikitable" style="width:100%;text-align:center;">
+<tbody><tr>
+<th>
+</th>
+<th><b>For</b>
+</th>
+<th><b>Against</b>
+</th></tr>
+<tr>
+<th rowspan="4"><b>Victors</b>
+</th>
+<td><a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a>
+</td>
+<td><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Enobaria" title="Enobaria">Enobaria</a>
+</td>
+<td><a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>
+</td>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b>Total</b>
+</th>
+<td><b>4</b>
+</td>
+<td>3
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Sequence_of_events">Sequence of events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Peeta initially questioned whether the proposal was a joke, and then immediately rejected it. He was rebuffed by Johanna, who said it seemed "fair", and even put in that President Snow had a <a href="/wiki/Coriolanus_Snow%27s_granddaughter" title="Coriolanus Snow&#39;s granddaughter">granddaughter</a>. Enobaria also voted in favor, saying to "Let them have a taste of their own medicine."<sup id="cite_ref-MJ_26_2-4" class="reference"><a href="#cite_note-MJ_26-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>When Peeta appealed to the other victors, stating that this was the reason they rebelled, Annie voted no with him. She also put in that Finnick would have voted against it too. Johanna replied that Finnick couldn't because "Snow's mutts killed him." Next, Beetee cast a third vote against the proposal. He said that it would "set a bad precedent", and he emphasized the necessity of unity and not seeing each other as enemies.<sup id="cite_ref-MJ_26_2-5" class="reference"><a href="#cite_note-MJ_26-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Internally, Katniss was revolted; she took the idea as a sign that Coin would continue the same evils of Snow's regime. She voted in favor, though, in order to gain Coin's trust, and she claimed it was "for Prim". Furious, Peeta rounded on Haymitch with an impassioned plea about the atrocity they would be party to if they approved of this. However, Haymitch caught onto Katniss' line of thinking and finally voted in favor of another Hunger Games.<sup id="cite_ref-MJ_26_2-6" class="reference"><a href="#cite_note-MJ_26-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Once all the votes were cast, the proposal was approved by a narrow 4-3 majority. However, the approved Games were never carried out when Katniss assassinated Coin later that day, at what would have been the <a href="/wiki/Execution_of_President_Snow" class="mw-redirect" title="Execution of President Snow">execution of President Snow</a>.<sup id="cite_ref-MJ_26_2-7" class="reference"><a href="#cite_note-MJ_26-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> After an emergency election, <a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a> became Panem's new president,<sup id="cite_ref-MJ_27_7-1" class="reference"><a href="#cite_note-MJ_27-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> and the plan for the Capitol Hunger Games were presumably scrapped and all previous arenas were destroyed to make way for memorials.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Most known casualties of the Battle of the Capitol were from District 13 or the Capitol itself.
+<ul><li>Nine out of fourteen members of Squad 451 died: seven soldiers— six of them from District 13— and two members of the <a href="/wiki/Propo" title="Propo">propaganda</a> film crew, both from the Capitol.</li></ul></li>
+<li>Snow's granddaughter was only mentioned once in <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>,<sup id="cite_ref-MJ_26_2-8" class="reference"><a href="#cite_note-MJ_26-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> but she appeared in a minor role in the films as an apparent fan of Katniss and Peeta.<sup id="cite_ref-CF_film_12-0" class="reference"><a href="#cite_note-CF_film-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-MJ_P1_13-0" class="reference"><a href="#cite_note-MJ_P1-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-MJ_18-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_18_1-0">1.0</a></sup> <sup><a href="#cite_ref-MJ_18_1-1">1.1</a></sup> <sup><a href="#cite_ref-MJ_18_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-MJ_26-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_26_2-0">2.0</a></sup> <sup><a href="#cite_ref-MJ_26_2-1">2.1</a></sup> <sup><a href="#cite_ref-MJ_26_2-2">2.2</a></sup> <sup><a href="#cite_ref-MJ_26_2-3">2.3</a></sup> <sup><a href="#cite_ref-MJ_26_2-4">2.4</a></sup> <sup><a href="#cite_ref-MJ_26_2-5">2.5</a></sup> <sup><a href="#cite_ref-MJ_26_2-6">2.6</a></sup> <sup><a href="#cite_ref-MJ_26_2-7">2.7</a></sup> <sup><a href="#cite_ref-MJ_26_2-8">2.8</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-MJ_19-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_19_3-0">3.0</a></sup> <sup><a href="#cite_ref-MJ_19_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-MJ_20-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_20_4-0">4.0</a></sup> <sup><a href="#cite_ref-MJ_20_4-1">4.1</a></sup> <sup><a href="#cite_ref-MJ_20_4-2">4.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-MJ_21-5"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_21_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-THG_11-6"><span class="mw-cite-backlink"><a href="#cite_ref-THG_11_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-MJ_27-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_27_7-0">7.0</a></sup> <sup><a href="#cite_ref-MJ_27_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-MJ_25-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_25_8-0">8.0</a></sup> <sup><a href="#cite_ref-MJ_25_8-1">8.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-MJ_24-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_24_9-0">9.0</a></sup> <sup><a href="#cite_ref-MJ_24_9-1">9.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-MJ_22-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_22_10-0">10.0</a></sup> <sup><a href="#cite_ref-MJ_22_10-1">10.1</a></sup> <sup><a href="#cite_ref-MJ_22_10-2">10.2</a></sup> <sup><a href="#cite_ref-MJ_22_10-3">10.3</a></sup> <sup><a href="#cite_ref-MJ_22_10-4">10.4</a></sup> <sup><a href="#cite_ref-MJ_22_10-5">10.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-CF_film-12"><span class="mw-cite-backlink"><a href="#cite_ref-CF_film_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-MJ_P1-13"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_P1_13-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251225231013
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.078 seconds
+Real time usage: 0.126 seconds
+Preprocessor visited node count: 896/1000000
+Post‐expand include size: 1487/2097152 bytes
+Template argument size: 279/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9255/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   75.009      1 -total
+ 31.55%   23.663      1 Template:Reflist
+ 23.15%   17.368      1 Template:Games
+  4.25%    3.191      1 Template:Dialogue
+  3.33%    2.499     11 Template:MJ
+  1.85%    1.389      1 Template:Quote
+  1.75%    1.311      1 Template:CF
+  1.65%    1.237      1 Template:Main
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3364-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225231013 and revision id 967793. Rendering was triggered because: page-view
+ -->
+</div>

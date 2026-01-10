@@ -1,0 +1,265 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Pollux</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/8c/PolluxD13Portrait.jpg/revision/latest?cb=20190306042858" class="image image-thumbnail" title="PolluxD13Portrait">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/8/8c/PolluxD13Portrait.jpg/revision/latest/scale-to-width-down/267?cb=20190306042858" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/8c/PolluxD13Portrait.jpg/revision/latest/scale-to-width-down/267?cb=20190306042858 1x, https://static.wikia.nocookie.net/thehungergames/images/8/8c/PolluxD13Portrait.jpg/revision/latest/scale-to-width-down/535?cb=20190306042858 2x" class="pi-image-thumbnail" data-relevant="1" alt="PolluxD13Portrait" width="270" height="479" data-image-key="PolluxD13Portrait.jpg" data-image-name="PolluxD13Portrait.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Cameraman<br><a href="/wiki/Avox" title="Avox">Avox</a> (formerly)<br> <a href="/wiki/Rebel" class="mw-redirect" title="Rebel">Rebel</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a><br><a href="/wiki/District_13" title="District 13">District 13</a> (briefly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Castor" title="Castor">Castor</a> <small>(brother)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gun" class="mw-redirect" title="Gun">Gun</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a><br><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Elden_Henson" title="Elden Henson">Elden Henson</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Mockingjay - Part 1">"<i>Don't expect much chitchat from him. <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> cut his tongue out years ago. And no, it wasn't any sort of rescue, if that's what you mean. We all fled on our own⁠—for this. For you.</i>"</span></dd>
+<dd>—Cressida to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, on why her team joined the rebels.<sup class="noprint"><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">[src]</a></sup></dd></dl></div>
+<p><b>Pollux</b> is an <a href="/wiki/Avox" title="Avox">Avox</a>, who escaped his slavery and joined the rebels as a cameraman, filming <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> in <a href="/wiki/District_13" title="District 13">District 13</a>'s <a href="/wiki/Propo" title="Propo">propos</a>.<sup id="cite_ref-MJ_7_1-0" class="reference"><a href="#cite_note-MJ_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-MJ_8_2-0" class="reference"><a href="#cite_note-MJ_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37365" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why was Pollux made an Avox in the Hunger Games series?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games series, Pollux was transformed into an Avox by the Capitol as punishment. He was enslaved and compelled to labor in the city's subterranean utility corridors and the Transfer. An Avox is an individual whose tongue has been removed, making them mute, as a penalty for rebellion, treason, desertion, or criminal behavior. Typically, Peacekeepers would apprehend such individuals, who would then live as Panem's lowest class, serving as slaves to the Capitol.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37366" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Pollux communicate with Katniss Everdeen?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Pollux, a mute Avox, communicated with Katniss Everdeen through various non-verbal methods. At a lake outside District 12, they whistled tunes and birdcalls to mockingjays. He wrote 'SING?' in the dirt, requesting Katniss to sing, a request he also conveyed in 'The Hunger Games: Mockingjay - Part 1' by tapping his lips and pointing at her. Pollux also used American Sign Language with his brother, Castor.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37367" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Pollux play in District 13's propaganda?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In District 13's propaganda, Pollux functioned as an Avox cameraman, capturing footage of Katniss Everdeen. Previously enslaved by the Capitol, his knowledge of the city's underground corridors proved valuable to Squad 451.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37368" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Pollux manage to escape from the underground utility corridors?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Pollux, enslaved as an Avox, escaped the underground utility corridors when his brother Castor paid for his aboveground work. During the Battle of the Capitol, Squad 451 traveled through the Transfer, a less guarded route, to avoid detection.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37369" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the relationship between Pollux and his brother Castor?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Brothers Pollux and Castor were cameramen collaborators. Pollux, enslaved as an Avox, was rescued by Castor from the Capitol's underground. Their names, borrowed from Greek and Roman mythology, signify their contrasting fates: mortal Castor dies, while 'immortal' Pollux survives.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Pollux","mainEntity":[{"@type":"Question","name":"Why was Pollux made an Avox in the Hunger Games series?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games series, Pollux was transformed into an Avox by the Capitol as punishment. He was enslaved and compelled to labor in the city's subterranean utility corridors and the Transfer. An Avox is an individual whose tongue has been removed, making them mute, as a penalty for rebellion, treason, desertion, or criminal behavior. Typically, Peacekeepers would apprehend such individuals, who would then live as Panem's lowest class, serving as slaves to the Capitol."}},{"@type":"Question","name":"How did Pollux communicate with Katniss Everdeen?","acceptedAnswer":{"@type":"Answer","text":"Pollux, a mute Avox, communicated with Katniss Everdeen through various non-verbal methods. At a lake outside District 12, they whistled tunes and birdcalls to mockingjays. He wrote 'SING?' in the dirt, requesting Katniss to sing, a request he also conveyed in 'The Hunger Games: Mockingjay - Part 1' by tapping his lips and pointing at her. Pollux also used American Sign Language with his brother, Castor."}},{"@type":"Question","name":"What role did Pollux play in District 13's propaganda?","acceptedAnswer":{"@type":"Answer","text":"In District 13's propaganda, Pollux functioned as an Avox cameraman, capturing footage of Katniss Everdeen. Previously enslaved by the Capitol, his knowledge of the city's underground corridors proved valuable to Squad 451."}},{"@type":"Question","name":"How did Pollux manage to escape from the underground utility corridors?","acceptedAnswer":{"@type":"Answer","text":"Pollux, enslaved as an Avox, escaped the underground utility corridors when his brother Castor paid for his aboveground work. During the Battle of the Capitol, Squad 451 traveled through the Transfer, a less guarded route, to avoid detection."}},{"@type":"Question","name":"What was the relationship between Pollux and his brother Castor?","acceptedAnswer":{"@type":"Answer","text":"Brothers Pollux and Castor were cameramen collaborators. Pollux, enslaved as an Avox, was rescued by Castor from the Capitol's underground. Their names, borrowed from Greek and Roman mythology, signify their contrasting fates: mortal Castor dies, while 'immortal' Pollux survives."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPollux%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Prior to his appearance in <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Pollux was made an Avox by <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>. He was forced to work in the city's underground utility corridors and the <a href="/wiki/Transfer" title="Transfer">Transfer</a>. His brother, <a href="/wiki/Castor" title="Castor">Castor</a>, eventually bought Pollux's way aboveground after five long years.<sup id="cite_ref-MJ_21_3-0" class="reference"><a href="#cite_note-MJ_21-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>At some point after his liberation, Pollux began to work as a cameraman. Katniss described him and his brother as looking like insects because of the heavy mobile cameras that usually encased their bodies.<sup id="cite_ref-MJ_7_1-1" class="reference"><a href="#cite_note-MJ_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>When Katniss and her filming group were at the <a href="/wiki/Lake" title="Lake">lake</a> outside <a href="/wiki/District_12" title="District 12">District 12</a>, Katniss sat next to Pollux during a break. They started whistling tunes and birdcalls to <a href="/wiki/Mockingjay_(bird)" title="Mockingjay (bird)">mockingjays</a> and wait for their return whistles. Pollux then wrote the word "<i>SING?</i>" in the dirt, asking Katniss to sing. She sang "<a href="/wiki/The_Hanging_Tree_(song)" title="The Hanging Tree (song)">The Hanging Tree</a>" for him, which made him very emotional.<sup id="cite_ref-MJ_9_4-0" class="reference"><a href="#cite_note-MJ_9-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> In <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i>, he instead tapped his lips and pointed to Katniss to convey the same idea.<sup id="cite_ref-MJ_P1_5-0" class="reference"><a href="#cite_note-MJ_P1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b1/Pollux.PNG/revision/latest?cb=20140514032508" class="mw-file-description image"><img alt="Pollux" src="https://static.wikia.nocookie.net/thehungergames/images/b/b1/Pollux.PNG/revision/latest/scale-to-width-down/180?cb=20140514032508" decoding="async" loading="lazy" width="180" height="171" class="thumbimage" data-image-name="Pollux.PNG" data-image-key="Pollux.PNG" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Pollux.PNG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<p>His experience working underground made him very knowledgeable about the Capitol's underground, so he was able to guide <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a> through the passages towards <a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">President Snow</a>'s <a href="/wiki/President%27s_mansion" title="President's mansion">mansion</a>.<sup id="cite_ref-MJ_21_3-1" class="reference"><a href="#cite_note-MJ_21-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> After his brother and much of the squad were killed by <a href="/wiki/Lizard_mutt" title="Lizard mutt">lizard mutts</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> Pollux hid out with the other survivors at <a href="/wiki/Tigris" title="Tigris">Tigris</a>'s shop and grieved.<sup id="cite_ref-MJ_23_7-0" class="reference"><a href="#cite_note-MJ_23-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> He and <a href="/wiki/Cressida" title="Cressida">Cressida</a> eventually set out on the mission with the others, but Katniss and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> lost sight of them in the crowd of refugees.<sup id="cite_ref-MJ_24_8-0" class="reference"><a href="#cite_note-MJ_24-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> He survived the war, and as the only surviving member of Cressida's team, Pollux joined her again in the postwar period, filming war damage in the other districts.<sup id="cite_ref-MJ_25_9-0" class="reference"><a href="#cite_note-MJ_25-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPollux%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 176px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/bb/Pollux_death_p.png/revision/latest?cb=20160924220655" class="mw-file-description image"><img alt="Pollux's portrait." src="https://static.wikia.nocookie.net/thehungergames/images/b/bb/Pollux_death_p.png/revision/latest/scale-to-width-down/176?cb=20160924220655" decoding="async" loading="lazy" width="176" height="81" class="thumbimage" data-image-name="Pollux death p.png" data-image-key="Pollux_death_p.png" data-relevant="0"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Pollux_death_p.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Pollux's portrait.</p> 		 	</figcaption> </figure>
+<p>Pollux is described as a burly man<sup id="cite_ref-MJ_7_1-2" class="reference"><a href="#cite_note-MJ_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> with sandy hair, a red beard, and deep blue eyes. He resembles his brother, Castor. He has no tongue, as it was cut off when he became an Avox.<sup id="cite_ref-MJ_8_2-1" class="reference"><a href="#cite_note-MJ_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPollux%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Castor and Pollux owe their names to twin brothers in Greek and Roman mythology. The myth states they had the same mother, <a href="https://en.wikipedia.org/wiki/Leda_(mythology)" class="extiw" title="wikipedia:Leda (mythology)">Leda</a>, but different fathers (<a href="https://en.wikipedia.org/wiki/Tyndareus" class="extiw" title="wikipedia:Tyndareus">Tyndareus</a> and <a href="https://en.wikipedia.org/wiki/Zeus" class="extiw" title="wikipedia:Zeus">Zeus</a>, respectively). This made Castor mortal and Pollux immortal, which is fitting because <i>Mockingjay</i>'s Pollux lives and Castor dies.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPollux%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Pollux is the only known Avox to survive the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.<sup id="cite_ref-MJ_25_9-1" class="reference"><a href="#cite_note-MJ_25-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> He is also the only known Avox to regain social standing.</li>
+<li>In <i>Mockingjay - Part 1</i>, when Katniss first met Pollux and the rest of the crew, he could be seen in the background using <a href="https://en.wikipedia.org/wiki/American_Sign_Language" class="extiw" title="wikipedia:American Sign Language">American Sign Language</a> with his brother. Pollux asked if he thought Katniss was beautiful, and Castor responded with a simple "yes".<sup id="cite_ref-MJ_P1_5-1" class="reference"><a href="#cite_note-MJ_P1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+<ul><li>In <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i>, while they were in the sewers, Pollux signed to his brother "Home sweet home."<sup id="cite_ref-MJ_P2_10-0" class="reference"><a href="#cite_note-MJ_P2-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup></li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPollux%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MJ_7-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_7_1-0">1.0</a></sup> <sup><a href="#cite_ref-MJ_7_1-1">1.1</a></sup> <sup><a href="#cite_ref-MJ_7_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-MJ_8-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_8_2-0">2.0</a></sup> <sup><a href="#cite_ref-MJ_8_2-1">2.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 8</span>
+</li>
+<li id="cite_note-MJ_21-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_21_3-0">3.0</a></sup> <sup><a href="#cite_ref-MJ_21_3-1">3.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 21</span>
+</li>
+<li id="cite_note-MJ_9-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_9_4-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 9</span>
+</li>
+<li id="cite_note-MJ_P1-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_P1_5-0">5.0</a></sup> <sup><a href="#cite_ref-MJ_P1_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 22</span>
+</li>
+<li id="cite_note-MJ_23-7"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_23_7-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 23</span>
+</li>
+<li id="cite_note-MJ_24-8"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_24_8-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 24</span>
+</li>
+<li id="cite_note-MJ_25-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_25_9-0">9.0</a></sup> <sup><a href="#cite_ref-MJ_25_9-1">9.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 25</span>
+</li>
+<li id="cite_note-MJ_P2-10"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_P2_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251231191328
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.072 seconds
+Real time usage: 0.107 seconds
+Preprocessor visited node count: 359/1000000
+Post‐expand include size: 844/2097152 bytes
+Template argument size: 503/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4807/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   65.149      1 -total
+ 47.54%   30.971      1 Template:Character
+ 17.68%   11.518      1 Template:Reflist
+  3.03%    1.973      4 Template:W
+  2.84%    1.849      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3399-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231191328 and revision id 966104. Rendering was triggered because: page-view
+ -->
+</div>

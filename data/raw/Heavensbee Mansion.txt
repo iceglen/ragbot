@@ -1,0 +1,110 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Heavensbee mansion</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Capitol_families#Heavensbee_family" title="Capitol families">Heavensbee family</a><ul><li><a href="/wiki/Trajan_Heavensbee" title="Trajan Heavensbee">Trajan Heavensbee</a></li><li><a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a></li><li><a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a></li></ul></li><li>Several <a href="/wiki/Avox" title="Avox">Avoxes</a></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Sunrise on the Reaping">"<i>I think about how many people spent their lives building this place, how many died before its completion, so that the Heavensbees could have somewhere to hang their pictures. Their smug, satisfied, ridiculous pictures. Well, the joke's on the Heavensbees. Now they're dead, too.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>'s impression of the mansion<sup class="noprint"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">[src]</a></sup></dd></dl></div>
+<p>The <b>Heavensbee mansion</b> was a large mansion in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> that took up a whole block and was owned by the <a href="/wiki/Capitol_families#Heavensbee_family" title="Capitol families">Heavensbee family</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Known_objects_held_in_Heavensbee_portraits"><span class="tocnumber">2.1</span> <span class="toctext">Known objects held in Heavensbee portraits</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FHeavensbee_mansion%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A year or two prior to the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, a committee of <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> toured the conservatory and gardens, focusing on the flowering plants as inspiration for the arena. They discussed opening the berms.<sup id="cite_ref-SOTR_13_1-0" class="reference"><a href="#cite_note-SOTR_13-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> was taken to the mansion following his first day of training, having specially been ordered there by <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> following his actions during the <a href="/wiki/Chariot_rides" title="Chariot rides">chariot rides</a>.<sup id="cite_ref-SOTR_8_2-0" class="reference"><a href="#cite_note-SOTR_8-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> greeted him and showed him to the library and the conservatory, the latter of which held hints to the poisonous beauty of the <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">50th Hunger Games arena</a>.<sup id="cite_ref-SOTR_9_3-0" class="reference"><a href="#cite_note-SOTR_9-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Noticing Snow's ill pallor, Plutarch offered him a chair, but Snow simply vomited into the fountain. Plutarch and Haymitch then took him into the library. After being sent to retrieve milk from the fridge, Haymitch surreptitiously drank the milk, holding out the empty pitcher. He was then left alone to talk with a violently ill Snow while Plutarch went to retrieve more milk. Snow inspected Haymitch's <a href="/wiki/Flint_striker" title="Flint striker">flint striker</a> and asked about his <a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">girlfriend</a> before calling in <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>, the replacement of <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a>, who had died during the Tribute Parade.<sup id="cite_ref-SOTR_9_3-1" class="reference"><a href="#cite_note-SOTR_9-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Following the <a href="/wiki/Interviews" title="Interviews">interviews</a>, Plutarch invited the <a href="/wiki/District_12" title="District 12">District 12</a> tributes, <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a>, and <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> to his mansion under the guise of taking photos. He took Haymitch to the conservatory and gave him the telephone, which he used to talk to <a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove</a>.<sup id="cite_ref-SOTR_13_1-1" class="reference"><a href="#cite_note-SOTR_13-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Plutarch then gave Haymitch tips about the arena. Back in the library, the tributes posed for shots and discussed techniques to get <a href="/wiki/Sponsorship" title="Sponsorship">sponsors</a>.<sup id="cite_ref-SOTR_14_4-0" class="reference"><a href="#cite_note-SOTR_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FHeavensbee_mansion%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The mansion was a block wide and made of white marble. A pair of large wooden doors inlaid with golden stars faced the street, with two men in violet uniforms acting as doormen.<sup id="cite_ref-SOTR_8_2-1" class="reference"><a href="#cite_note-SOTR_8-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> The entryway had a high ceiling and a soft carpet, along with giant urns filled with flowers. Following the entrance was a long hallway, lined with life-sized paintings of deceased Heavensbees holding a unique object. Along the way were several rooms full of elegant furniture and crystal lights.<sup id="cite_ref-SOTR_9_3-2" class="reference"><a href="#cite_note-SOTR_9-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p><a href="/wiki/Trajan_Heavensbee" title="Trajan Heavensbee">Trajan Heavensbee</a>'s portrait oversaw the library, which was lined with floor-to-ceiling shelves carrying thousands of books. A golden spiral staircase led to a balcony that ran around the room, with a gold eagle positioned on the railing at the top of the stairs. A desk built into the bookshelves had a hidden layer with drinks underneath, which could be accessed by turning a knob shaped like a goat's head. The library also contained an embroidered couch, as well as a bar with a refrigerator.<sup id="cite_ref-SOTR_9_3-3" class="reference"><a href="#cite_note-SOTR_9-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> It was lit by candles.<sup id="cite_ref-SOTR_14_4-1" class="reference"><a href="#cite_note-SOTR_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The conservatory could be reached via a narrow hallway. It had a domed glass ceiling, as well as glass walls, a fountain, and several tables and chairs covered in curlicues. One of these tables featured a telephone shaped like a sleeping swan. Although the garden outside was filled with flowers, the room itself housed many birds and plants, including a <a href="https://en.wikipedia.org/wiki/pitcher_plant" class="extiw" title="wikipedia:pitcher plant">pitcher plant</a> labeled <small><i>NEPENTHES</i></small>. There was a powder room nearby.<sup id="cite_ref-SOTR_9_3-4" class="reference"><a href="#cite_note-SOTR_9-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Several <a href="/wiki/Avox" title="Avox">Avoxes</a> were employed to take care of the building.<sup id="cite_ref-SOTR_9_3-5" class="reference"><a href="#cite_note-SOTR_9-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Known_objects_held_in_Heavensbee_portraits">Known objects held in Heavensbee portraits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FHeavensbee_mansion%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>A scale</li>
+<li>A harp</li>
+<li>A ruby-studded cup</li>
+<li>A leafy branch</li>
+<li>A glossy white bird</li>
+<li>A sword</li>
+<li>A turkey leg</li>
+<li>An open book (<a href="/wiki/Trajan_Heavensbee" title="Trajan Heavensbee">Trajan Heavensbee</a>)<sup id="cite_ref-SOTR_9_3-6" class="reference"><a href="#cite_note-SOTR_9-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FHeavensbee_mansion%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-SOTR_13-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR_13_1-0">1.0</a></sup> <sup><a href="#cite_ref-SOTR_13_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-SOTR_8-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR_8_2-0">2.0</a></sup> <sup><a href="#cite_ref-SOTR_8_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-SOTR_9-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR_9_3-0">3.0</a></sup> <sup><a href="#cite_ref-SOTR_9_3-1">3.1</a></sup> <sup><a href="#cite_ref-SOTR_9_3-2">3.2</a></sup> <sup><a href="#cite_ref-SOTR_9_3-3">3.3</a></sup> <sup><a href="#cite_ref-SOTR_9_3-4">3.4</a></sup> <sup><a href="#cite_ref-SOTR_9_3-5">3.5</a></sup> <sup><a href="#cite_ref-SOTR_9_3-6">3.6</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-SOTR_14-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR_14_4-0">4.0</a></sup> <sup><a href="#cite_ref-SOTR_14_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 14</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251225233304
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.062 seconds
+Real time usage: 0.099 seconds
+Preprocessor visited node count: 376/1000000
+Post‐expand include size: 1069/2097152 bytes
+Template argument size: 454/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3525/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   61.602      1 -total
+ 38.87%   23.943      1 Template:Location
+ 29.22%   18.003      1 Template:Reflist
+  4.61%    2.838      4 Template:SOTR
+  3.33%    2.054      1 Template:Quote
+  2.58%    1.588      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:544327-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225233304 and revision id 966793. Rendering was triggered because: page-view
+ -->
+</div>

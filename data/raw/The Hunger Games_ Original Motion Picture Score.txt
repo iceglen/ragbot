@@ -1,0 +1,111 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><i>The Hunger Games: Original Motion Picture Score</i></h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/80/The_Hunger_Games_Original_Motion_Picture_Score_cover.jpg/revision/latest?cb=20120315131004" class="image image-thumbnail" title="The Hunger Games Original Motion Picture Score cover">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/8/80/The_Hunger_Games_Original_Motion_Picture_Score_cover.jpg/revision/latest/scale-to-width-down/268?cb=20120315131004" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/80/The_Hunger_Games_Original_Motion_Picture_Score_cover.jpg/revision/latest/scale-to-width-down/268?cb=20120315131004 1x, https://static.wikia.nocookie.net/thehungergames/images/8/80/The_Hunger_Games_Original_Motion_Picture_Score_cover.jpg/revision/latest?cb=20120315131004 2x" class="pi-image-thumbnail" data-relevant="1" alt="The Hunger Games Original Motion Picture Score cover" width="270" height="270" data-image-key="The_Hunger_Games_Original_Motion_Picture_Score_cover.jpg" data-image-name="The Hunger Games Original Motion Picture Score cover.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="producers">
+	
+		<h3 class="pi-data-label pi-secondary-font">Producer(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/T._Bone_Burnett" class="extiw" title="wikipedia:T. Bone Burnett">T. Bone Burnett</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="publisher">
+	
+		<h3 class="pi-data-label pi-secondary-font">Publisher</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/Universal_Republic_Records" class="extiw" title="wikipedia:Universal Republic Records">Universal Republic Records</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
+	
+		<h3 class="pi-data-label pi-secondary-font">Artist</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/James_Newton_Howard" title="James Newton Howard">James Newton Howard</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="info">
+	
+		<h3 class="pi-data-label pi-secondary-font">CD info</h3>
+	
+	<div class="pi-data-value pi-font">Soundtrack for <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="singles">
+	
+		<h3 class="pi-data-label pi-secondary-font">Single(s)</h3>
+	
+	<div class="pi-data-value pi-font">N/A</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
+	
+		<h3 class="pi-data-label pi-secondary-font">Length</h3>
+	
+	<div class="pi-data-value pi-font">40:14</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="releasedate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Release date</h3>
+	
+	<div class="pi-data-value pi-font">March 26, 2012</div>
+</div>
+</aside>
+
+</p><p><i><b>The Hunger Games: Original Motion Picture Score</b></i> is the official soundtrack for <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>. It was produced by <a href="https://en.wikipedia.org/wiki/T-Bone_Burnett" class="extiw" title="wikipedia:T-Bone Burnett">T-Bone Burnett</a>, who was also acting as the film's executive music producer. <a href="https://en.wikipedia.org/wiki/Arcade_Fire" class="extiw" title="wikipedia:Arcade Fire">Arcade Fire</a> wrote the <a href="/wiki/Panem" title="Panem">Panem</a> national <a href="/wiki/Anthem" class="mw-redirect" title="Anthem">anthem</a> for the score called "<a href="/wiki/Horn_of_Plenty" title="Horn of Plenty">Horn of Plenty</a>".
+</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games%3A_Original_Motion_Picture_Score%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"<a href="/wiki/The_Hunger_Games_(score)" title="The Hunger Games (score)">The Hunger Games</a>" - 1:10</li>
+<li>"Katniss Afoot" - 1:49</li>
+<li>"Reaping Day" - 1:35</li>
+<li>"The Train" - 1:27</li>
+<li>"Entering the Capitol" - 2:28</li>
+<li>"Preparing the Chariots" - 1:05</li>
+<li>"Horn of Plenty" - 1:59</li>
+<li>"Penthouse/Training" - 3:36</li>
+<li>"Learning the Skills" - 1:41</li>
+<li>"The Countdown" - 1:58</li>
+<li>"Booby Trap" - 2:37</li>
+<li>"Healing Katniss" - 3:04</li>
+<li>"Rue's Farewell" - 5:00</li>
+<li>"We Could Go Home" - 1:15</li>
+<li>"Searching For Peeta" - 1:27</li>
+<li>"The Cave" - 3:13</li>
+<li>"Muttations" - 4:45</li>
+<li>"Tenuous Winners/Returning Home" - 3:25</li></ol>
+<p>The track list was revealed on the <a href="https://en.wikipedia.org/wiki/Barnes_%26_Noble" class="extiw" title="wikipedia:Barnes &amp; Noble">Barnes &amp; Noble</a> site, where the soundtrack was also made available for pre-order.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20260104024347
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.027 seconds
+Real time usage: 0.039 seconds
+Preprocessor visited node count: 93/1000000
+Post‐expand include size: 318/2097152 bytes
+Template argument size: 160/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   25.984      1 -total
+ 98.21%   25.519      1 Template:Soundtrack
+  6.62%    1.720      5 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:119648-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104024347 and revision id 954507. Rendering was triggered because: page-view
+ -->
+</div>

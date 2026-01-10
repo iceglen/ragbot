@@ -1,0 +1,201 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><i>The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1</i></h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/d8/The_mockingjay_lives_MJ1_documentary.jpg/revision/latest?cb=20231229195201" class="image image-thumbnail" title="The mockingjay lives MJ1 documentary">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/d/d8/The_mockingjay_lives_MJ1_documentary.jpg/revision/latest/scale-to-width-down/268?cb=20231229195201" srcset="https://static.wikia.nocookie.net/thehungergames/images/d/d8/The_mockingjay_lives_MJ1_documentary.jpg/revision/latest/scale-to-width-down/268?cb=20231229195201 1x, https://static.wikia.nocookie.net/thehungergames/images/d/d8/The_mockingjay_lives_MJ1_documentary.jpg/revision/latest?cb=20231229195201 2x" class="pi-image-thumbnail" data-relevant="1" alt="The mockingjay lives MJ1 documentary" width="270" height="383" data-image-key="The_mockingjay_lives_MJ1_documentary.jpg" data-image-name="The mockingjay lives MJ1 documentary.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="director">
+	
+		<h3 class="pi-data-label pi-secondary-font">Director</h3>
+	
+	<div class="pi-data-value pi-font">Jon Mefford</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="producer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Producer</h3>
+	
+	<div class="pi-data-value pi-font">Jon Mefford<p>Lisa Stephenson</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="based on">
+	
+		<h3 class="pi-data-label pi-secondary-font">Based on</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="starring">
+	
+		<h3 class="pi-data-label pi-secondary-font">Starring</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="https://en.wikipedia.org/wiki/Nina_Jacobson" class="extiw" title="wikipedia:Nina Jacobson">Nina Jacobson</a></li><li><a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a></li><li><a href="/wiki/Jennifer_Lawrence" title="Jennifer Lawrence">Jennifer Lawrence</a></li></ul><p><small><a class="mw-selflink-fragment" href="#Cast">more...</a></small></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="studio">
+	
+		<h3 class="pi-data-label pi-secondary-font">Studio</h3>
+	
+	<div class="pi-data-value pi-font">Five by Five</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
+	
+		<h3 class="pi-data-label pi-secondary-font">Length</h3>
+	
+	<div class="pi-data-value pi-font">2h 14m</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+	
+		<h3 class="pi-data-label pi-secondary-font">Date(s)</h3>
+	
+	<div class="pi-data-value pi-font">February 1, 2015</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="country">
+	
+		<h3 class="pi-data-label pi-secondary-font">Country</h3>
+	
+	<div class="pi-data-value pi-font">United States</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Surviving_the_Game_-_Making_the_Hunger_Games:_Catching_Fire" title="Surviving the Game - Making the Hunger Games: Catching Fire">Surviving the Game - Making the Hunger Games: Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Pawns_No_More:_Making_the_Hunger_Games:_Mockingjay_Part_2" title="Pawns No More: Making the Hunger Games: Mockingjay Part 2">Pawns No More: Making the Hunger Games: Mockingjay Part 2</a></i></div>
+</div>
+</aside>
+
+</p><p><i><b>The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1</b></i> is a feature-length documentary film about the making of <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i>. It was included as a featurette on DVD releases.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Summary"><span class="tocnumber">1</span> <span class="toctext">Summary</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cast"><span class="tocnumber">2</span> <span class="toctext">Cast</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Mockingjay_Lives%3A_The_Making_of_the_Hunger_Games%3A_Mockingjay_Part_1%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The documentary is organized into eight sections:
+</p>
+<ol><li>Hope and Rebellion: Continuing the Saga</li>
+<li>Designing Dystopia: Visual Aesthetic</li>
+<li>Rebels and Warriors: The Cast</li>
+<li>Fusing Form and Function: Costume, Make-up &amp; Hair</li>
+<li>Fighting the System: Shooting on Location</li>
+<li>D13: Rebellion Tactics</li>
+<li>Perfecting Panem: The Post-Production Process</li>
+<li>Taking Back Our Future: Reflections &amp; Looking Forward</li></ol>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Mockingjay_Lives%3A_The_Making_of_the_Hunger_Games%3A_Mockingjay_Part_1%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="center">
+<tbody><tr>
+<td valign="top" width="50%">
+<ul><li><a href="https://en.wikipedia.org/wiki/Nina_Jacobson" class="extiw" title="wikipedia:Nina Jacobson">Nina Jacobson</a></li>
+<li><a href="/wiki/Jennifer_Lawrence" title="Jennifer Lawrence">Jennifer Lawrence</a></li>
+<li><a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a></li>
+<li><a href="/wiki/Josh_Hutcherson" title="Josh Hutcherson">Josh Hutcherson</a></li>
+<li><a href="https://en.wikipedia.org/wiki/David_Levithan" class="extiw" title="wikipedia:David Levithan">David Levithan</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jon_Kilik" class="extiw" title="wikipedia:Jon Kilik">Jon Kilik</a></li>
+<li><a href="/wiki/Elizabeth_Banks" title="Elizabeth Banks">Elizabeth Banks</a></li>
+<li><a href="/wiki/Julianne_Moore" title="Julianne Moore">Julianne Moore</a></li>
+<li>Philip Messina</li>
+<li><a href="https://en.wikipedia.org/wiki/Jo_Willems" class="extiw" title="wikipedia:Jo Willems">Jo Willems</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Larry_Dias" class="extiw" title="wikipedia:Larry Dias">Larry Dias</a></li>
+<li>Brandon K. McLaughlin</li>
+<li>Steve Cremin</li>
+<li><a href="https://en.wikipedia.org/wiki/Charles_Gibson_(special_effects_artist)" class="extiw" title="wikipedia:Charles Gibson (special effects artist)">Charles Gibson</a></li>
+<li>Jessica Echols</li>
+<li><a href="/wiki/Jeffrey_Wright" title="Jeffrey Wright">Jeffrey Wright</a></li>
+<li><a href="/wiki/Woody_Harrelson" title="Woody Harrelson">Woody Harrelson</a></li>
+<li><a href="/wiki/Liam_Hemsworth" title="Liam Hemsworth">Liam Hemsworth</a></li>
+<li><a href="/wiki/Stanley_Tucci" title="Stanley Tucci">Stanley Tucci</a></li>
+<li><a href="/wiki/Willow_Shields" title="Willow Shields">Willow Shields</a></li>
+<li><a href="/wiki/Donald_Sutherland" title="Donald Sutherland">Donald Sutherland</a></li>
+<li><a href="/wiki/Sam_Claflin" title="Sam Claflin">Sam Claflin</a></li>
+<li><a href="/wiki/Paula_Malcomson" title="Paula Malcomson">Paula Malcomson</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Debra_Zane" class="extiw" title="wikipedia:Debra Zane">Debra Zane</a></li>
+<li><a href="/wiki/Jena_Malone" title="Jena Malone">Jena Malone</a></li>
+<li><a href="/wiki/Mahershala_Ali" title="Mahershala Ali">Mahershala Ali</a></li>
+<li><a href="/wiki/Natalie_Dormer" title="Natalie Dormer">Natalie Dormer</a></li>
+<li><a href="/wiki/Evan_Ross" title="Evan Ross">Evan Ross</a></li>
+<li><a href="/wiki/Elden_Henson" title="Elden Henson">Elden Henson</a></li></ul>
+</td>
+<td valign="top" width="50%">
+<ul><li><a href="/wiki/Wes_Chatham" title="Wes Chatham">Wes Chatham</a></li>
+<li><a href="/wiki/Patina_Miller" title="Patina Miller">Patina Miller</a></li>
+<li><a href="/wiki/Sarita_Choudhury" title="Sarita Choudhury">Sarita Choudhury</a></li>
+<li><a href="/wiki/Robert_Knepper" title="Robert Knepper">Robert Knepper</a></li>
+<li><a href="/wiki/Stef_Dawson" title="Stef Dawson">Stef Dawson</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ve_Neill" class="extiw" title="wikipedia:Ve Neill">Ve Neill</a></li>
+<li>Nikoletta Skarlatos</li>
+<li>Kurt and Bart</li>
+<li>Camille Friend</li>
+<li><a href="https://en.wikipedia.org/wiki/Glenn_Hetrick" class="extiw" title="wikipedia:Glenn Hetrick">Glenn Hetrick</a></li>
+<li>Greg Tresan</li>
+<li>Jeffrey DeBell</li>
+<li><a href="https://en.wikipedia.org/wiki/Sam_Hargrave" class="extiw" title="wikipedia:Sam Hargrave">Sam Hargrave</a></li>
+<li>Daniel Hargrave</li>
+<li>Pat Daily</li>
+<li>Mark Yoshikawa</li>
+<li>Melinka Thompson-Godoy</li>
+<li><a href="https://en.wikipedia.org/wiki/Alan_Edward_Bell" class="extiw" title="wikipedia:Alan Edward Bell">Alan Edward Bell</a></li>
+<li>Adrian De Wet</li>
+<li>Benjamin Huber</li>
+<li><a href="/wiki/James_Newton_Howard" title="James Newton Howard">James Newton Howard</a></li>
+<li>Jeremy Peirson</li>
+<li>Walter Gilbert</li>
+<li>Remi Cauzid</li>
+<li>Ben Goerlach</li>
+<li>Maung Maung Hla Win</li>
+<li>Leah Low</li>
+<li>David Man</li>
+<li>Patric Roos</li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Mockingjay_Lives%3A_The_Making_of_the_Hunger_Games%3A_Mockingjay_Part_1%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Mockingjay_Lives%3A_The_Making_of_the_Hunger_Games%3A_Mockingjay_Part_1%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/title/tt4026144/" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/title/tt4026144/">The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1</a> at the Internet Movie Database</span></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20251223121731
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.035 seconds
+Real time usage: 0.063 seconds
+Preprocessor visited node count: 209/1000000
+Post‐expand include size: 979/2097152 bytes
+Template argument size: 341/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   31.974      1 -total
+ 93.11%   29.771      1 Template:Film
+  4.67%    1.493     12 Template:W
+  4.18%    1.336      1 Template:Imdb
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:543018-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251223121731 and revision id 944712. Rendering was triggered because: page-view
+ -->
+</div>

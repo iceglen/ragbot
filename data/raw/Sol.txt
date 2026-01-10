@@ -1,0 +1,307 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Sol</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Sol_%28TBOSAS%29.jpg/revision/latest?cb=20250310040625" class="image image-thumbnail" title="Sol (TBOSAS)">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Sol_%28TBOSAS%29.jpg/revision/latest/scale-to-width-down/268?cb=20250310040625" srcset="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Sol_%28TBOSAS%29.jpg/revision/latest/scale-to-width-down/268?cb=20250310040625 1x, https://static.wikia.nocookie.net/thehungergames/images/3/3b/Sol_%28TBOSAS%29.jpg/revision/latest/scale-to-width-down/535?cb=20250310040625 2x" class="pi-image-thumbnail" data-relevant="1" alt="Sol (TBOSAS)" width="270" height="371" data-image-key="Sol_%28TBOSAS%29.jpg" data-image-name="Sol (TBOSAS).jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">12–18</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_5" title="District 5">District 5</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Knife (film)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Samia_Hofmann" title="Samia Hofmann">Samia Hofmann</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Her name was Sol, or maybe Sal. She had a funny accent. Not much more to tell.</i>"</span></dd>
+<dd>—<a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> describing Sol.<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Sol</b> was the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_5" title="District 5">District 5</a> during the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. Her <a href="/wiki/Mentor" title="Mentor">mentor</a> was <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Death"><span class="tocnumber">1.1</span> <span class="toctext">Death</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Film_adaptation"><span class="tocnumber">1.1.1</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="51614" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Sol play in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Sol represented District 5 as a female tribute. Her mentor was Iphigenia Moss. On the second day of the games, she was pursued by an alliance of tributes - Coral and Mizzen from District 4, and Tanner from District 10. Her life was ended by Coral, who used a trident to spear her in the throat.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51615" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Sol's mentor during the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Sol, the tribute from District 5 in the 10th Hunger Games, was guided by her mentor, Iphigenia Moss. Moss offered crucial support to Sol, notably by supplying her with food during the competition.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51616" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How was Sol chosen as the female tribute from District 5?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Sol was chosen as District 5's female tribute through the Reaping. She was transported to the Capitol in unsanitary conditions and kept at the Capitol Zoo. Her mentor was Iphigenia Moss.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51617" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Sol's experience like in the Capitol before the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Before the 10th Hunger Games, Sol was transported from District 5 to the Capitol in unsanitary conditions. She was placed in the monkey house at the Capitol Zoo, a harsh environment. Iphigenia Moss, her mentor, provided her with food. Sol faced adversity and fear as she was targeted by an alliance of other tributes.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51618" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What strategies did Sol use during the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Sol's strategy involved ascending the bleachers in the Capitol Arena, while receiving food from her mentor, Iphigenia Moss. Despite this, she was pursued and eventually caught by an alliance comprising tributes from District 4 and District 10, leading to her demise at the hands of Coral.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Sol","mainEntity":[{"@type":"Question","name":"What role did Sol play in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Sol represented District 5 as a female tribute. Her mentor was Iphigenia Moss. On the second day of the games, she was pursued by an alliance of tributes - Coral and Mizzen from District 4, and Tanner from District 10. Her life was ended by Coral, who used a trident to spear her in the throat."}},{"@type":"Question","name":"Who was Sol's mentor during the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Sol, the tribute from District 5 in the 10th Hunger Games, was guided by her mentor, Iphigenia Moss. Moss offered crucial support to Sol, notably by supplying her with food during the competition."}},{"@type":"Question","name":"How was Sol chosen as the female tribute from District 5?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Sol was chosen as District 5's female tribute through the Reaping. She was transported to the Capitol in unsanitary conditions and kept at the Capitol Zoo. Her mentor was Iphigenia Moss."}},{"@type":"Question","name":"What was Sol's experience like in the Capitol before the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Before the 10th Hunger Games, Sol was transported from District 5 to the Capitol in unsanitary conditions. She was placed in the monkey house at the Capitol Zoo, a harsh environment. Iphigenia Moss, her mentor, provided her with food. Sol faced adversity and fear as she was targeted by an alliance of other tributes."}},{"@type":"Question","name":"What strategies did Sol use during the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Sol's strategy involved ascending the bleachers in the Capitol Arena, while receiving food from her mentor, Iphigenia Moss. Despite this, she was pursued and eventually caught by an alliance comprising tributes from District 4 and District 10, leading to her demise at the hands of Coral."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/2a/BoSaSHyAndSol.png/revision/latest?cb=20250309101330" class="mw-file-description image"><img alt="Hy and Sol chasing Lucy Gray and Jessup Diggs." src="https://static.wikia.nocookie.net/thehungergames/images/2/2a/BoSaSHyAndSol.png/revision/latest/scale-to-width-down/180?cb=20250309101330" decoding="async" loading="lazy" width="180" height="157" class="thumbimage" data-image-name="BoSaSHyAndSol.png" data-image-key="BoSaSHyAndSol.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:BoSaSHyAndSol.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Hy and Sol chasing Lucy Gray and Jessup Diggs.</p> 		 	</figcaption> </figure>
+<p>Sol grew up in District 5 and became her district's female tribute in <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a> for the 10th Hunger Games.<sup id="cite_ref-Ballad_7_1-0" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Along with the other tributes, Sol was taken to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in a dirty cattle car. From there, they were dumped into the monkey house at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>.<sup id="cite_ref-Ballad_3_2-0" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On the afternoon of the second day, Sol began to climb the bleachers at the furthest end of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a>. As her mentor, <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a>, sent her food, an alliance comprised of <a href="/wiki/Coral" title="Coral">Coral</a> and <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a>, the two tributes from <a href="/wiki/District_4" title="District 4">District 4</a>, and <a href="/wiki/Tanner" title="Tanner">Tanner</a>, the male tribute from <a href="/wiki/District_10" title="District 10">District 10</a>, chased her down. After a brief chase, they caught up with her, and Coral speared Sol through the throat with a trident.<sup id="cite_ref-Ballad_16_3-0" class="reference"><a href="#cite_note-Ballad_16-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/25/BoSaSSol.png/revision/latest?cb=20250309101509" class="mw-file-description image"><img alt="Sol yelling at Lucy Gray and Jessup Diggs." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="179" class="thumbimage lazyload" data-image-name="BoSaSSol.png" data-image-key="BoSaSSol.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/25/BoSaSSol.png/revision/latest/scale-to-width-down/180?cb=20250309101509"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/2/25/BoSaSSol.png/revision/latest?cb=20250309101509" class="mw-file-description image"><img alt="Sol yelling at Lucy Gray and Jessup Diggs." src="https://static.wikia.nocookie.net/thehungergames/images/2/25/BoSaSSol.png/revision/latest/scale-to-width-down/180?cb=20250309101509" decoding="async" loading="lazy" width="180" height="179" class="thumbimage" data-image-name="BoSaSSol.png" data-image-key="BoSaSSol.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/25/BoSaSSol.png/revision/latest/scale-to-width-down/180?cb=20250309101509"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:BoSaSSol.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Sol yelling at Lucy Gray and Jessup Diggs.</p> 		 	</figcaption> </figure>
+<p>Sol was killed in the <a href="/wiki/Bloodbath" class="mw-redirect" title="Bloodbath">bloodbath</a> by <a href="/wiki/Coral" title="Coral">Coral</a>. When the gong rang, she ran to the pile of weapons and grabbed a knife. Sol was trying to avoid the other tributes' weapons when she saw <a href="/wiki/Treech" title="Treech">Treech</a> trying to kill <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>. She threw a knife that wounded Treech in the arm and another at Lucy Gray, who dodged it. Sol then attempted to leave, but saw <a href="/wiki/Hy" title="Hy">Hy</a> being chased by <a href="/wiki/Otto" title="Otto">Otto</a>, and they escaped to the tunnels. When they were further inside, they saw Lucy Gray and <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a>, but the tributes managed to get behind a door before Sol and Hy could kill them. <a href="/wiki/Coral" title="Coral">Coral</a>'s alliance then appeared. <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> killed Hy. Sol, who was shouting at Lucy Gray, was impaled by Coral's trident and dragged back through the door. She placed 14th.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> described Sol as a rickety little thing. Sol also had what her mentor thought was a "funny accent", making her speech harder to comprehend.<sup id="cite_ref-Ballad_16_3-1" class="reference"><a href="#cite_note-Ballad_16-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>“Sol”</i> translates to the word <i>sun</i> in Latin. As such, her name may come from the term <a href="https://en.wikipedia.org/wiki/solar_power" class="extiw" title="wikipedia:solar power">solar power</a>, referring to her district's industry.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Sol is the only tribute who survived to see the Games who did not receive a <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gift</a> besides <a href="/wiki/Marcus" title="Marcus">Marcus</a>, who died thirty minutes within the Games start.</li>
+<li>Sol was described by her mentor as having a "funny accent" and that her name was either "Sol" or "Sal."</li>
+<li>Sol is the third female tribute from District 5 in the series to outlive her <a href="/wiki/Hy" title="Hy">male counterpart</a>, similar to <a href="/wiki/%22Foxface%22" title='"Foxface"'>Foxface</a> and the <a href="/wiki/District_5_female_(75th_HG)" title="District 5 female (75th HG)">District 5 female</a> from the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="a967d7586f7336c1094b480dd052e53c" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:157px;"><div class="gallery-image-wrapper accent" id="D5FSol-jpg" style="position: relative; height:155px; width:185px;"><a class="image lightbox" href="/wiki/File:D5FSol.jpg" title="D5FSol.jpg (27 KB)" style="height:155px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/7/7b/D5FSol.jpg/revision/latest/scale-to-width-down/185?cb=20250427062125" title="D5FSol.jpg (27 KB)" class="thumbimage" alt="Sol's face on the monitor." height="155" width="185" data-image-name="D5FSol.jpg" data-image-key="D5FSol.jpg" data-relevant="1" data-caption="Sol's face on the monitor."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D5FSol.jpg (27 KB)" class="thumbimage lazyload" alt="Sol's face on the monitor." height="155" width="185" data-image-name="D5FSol.jpg" data-image-key="D5FSol.jpg" data-relevant="1" data-caption="Sol's face on the monitor." data-src="https://static.wikia.nocookie.net/thehungergames/images/7/7b/D5FSol.jpg/revision/latest/scale-to-width-down/185?cb=20250427062125"></a></div></div><div class="lightbox-caption" style="width:185px;">Sol's face on the monitor.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:157px;"><div class="gallery-image-wrapper accent" id="HySolConcepts-png" style="position: relative; height:154px; width:185px; top:0.5px;"><a class="image lightbox" href="/wiki/File:HySolConcepts.png" title="HySolConcepts.png (198 KB)" style="height:154px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/c/c4/HySolConcepts.png/revision/latest/scale-to-width-down/185?cb=20250427062025" title="HySolConcepts.png (198 KB)" class="thumbimage" alt="Concept photos of Hy and Sol's outfits." height="155" width="185" data-image-name="HySolConcepts.png" data-image-key="HySolConcepts.png" data-relevant="1" data-caption="Concept photos of Hy and Sol's outfits."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="HySolConcepts.png (198 KB)" class="thumbimage lazyload" alt="Concept photos of Hy and Sol's outfits." height="155" width="185" data-image-name="HySolConcepts.png" data-image-key="HySolConcepts.png" data-relevant="1" data-caption="Concept photos of Hy and Sol's outfits." data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c4/HySolConcepts.png/revision/latest/scale-to-width-down/185?cb=20250427062025"></a></div></div><div class="lightbox-caption" style="width:185px;">Concept photos of Hy and Sol's outfits.</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_7-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_2-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_16-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_16_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_16_3-1">3.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 16</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <strong class="mw-selflink selflink">Sol</strong> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20260102204224
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.085 seconds
+Real time usage: 0.138 seconds
+Preprocessor visited node count: 242/1000000
+Post‐expand include size: 2823/2097152 bytes
+Template argument size: 278/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4871/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   46.763      1 -total
+ 58.97%   27.576      1 Template:Character
+ 11.58%    5.413      1 Template:Reflist
+  4.34%    2.030      1 Template:PrequelSeries
+  3.68%    1.721      1 Template:W
+  3.42%    1.601      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539475-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102204224 and revision id 959106. Rendering was triggered because: page-view
+ -->
+</div>

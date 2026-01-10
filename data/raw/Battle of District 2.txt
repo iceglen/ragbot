@@ -1,0 +1,194 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Battle of District 2</h2>
+
+<figure class="pi-item pi-image" data-source="image1">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/14/District2.png/revision/latest?cb=20241217044838" class="image image-thumbnail" title="District2">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/1/14/District2.png/revision/latest/scale-to-width-down/267?cb=20241217044838" srcset="https://static.wikia.nocookie.net/thehungergames/images/1/14/District2.png/revision/latest/scale-to-width-down/267?cb=20241217044838 1x, https://static.wikia.nocookie.net/thehungergames/images/1/14/District2.png/revision/latest/scale-to-width-down/536?cb=20241217044838 2x" class="pi-image-thumbnail" data-relevant="1" alt="District2" width="270" height="111" data-image-key="District2.png" data-image-name="District2.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="conflict">
+	
+		<h3 class="pi-data-label pi-secondary-font">Conflict</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+	
+		<h3 class="pi-data-label pi-secondary-font">Date</h3>
+	
+	<div class="pi-data-value pi-font">Late July-September, 75 ADD</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="place">
+	
+		<h3 class="pi-data-label pi-secondary-font">Place</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_2" title="District 2">District 2</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="outcome">
+	
+		<h3 class="pi-data-label pi-secondary-font">Outcome</h3>
+	
+	<div class="pi-data-value pi-font"><b>Rebel victory</b><ul><li>Destruction of <a href="/wiki/The_Nut" title="The Nut">the Nut</a>, the Capitol's principal military headquarters</li><li>Attempted assassination of <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> failed</li><li>District 2 freed from <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a> control</li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Combatants</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row6">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b> <ul><li><a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a></li><li>District 2 loyalists</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row7">
+	
+	<div class="pi-data-value pi-font"><b><a href="/wiki/The_Rebels" class="mw-redirect" title="The Rebels">Rebels</a></b><ul><li><a href="/wiki/District_13" title="District 13">District 13</a></li><li>Various district rebels</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Commanders</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row8">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li>Unknown</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row9">
+	
+	<div class="pi-data-value pi-font"><b>Rebels</b> <ul><li><a href="/wiki/Lyme" title="Lyme">Commander Lyme</a></li><li><a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a> (films)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Casualties</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row12">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li>Peacekeepers</li><li>Personnel inside the Nut</li><li>Katniss's attempted assassin</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row13">
+	
+	<div class="pi-data-value pi-font"><b>Rebels</b><ul><li>Commander Lyme (presumed)</li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The<b> Battle of District 2</b> is an unofficial term referring to a pivotal <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a> battle. In this conflict, district <a href="/wiki/The_Rebels" class="mw-redirect" title="The Rebels">rebels</a>, supported by military forces from <a href="/wiki/District_13" title="District 13">District 13</a>, clashed with <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> loyalists for control of <a href="/wiki/District_2" title="District 2">District 2</a>. 
+</p><p>This was the final district to fall under rebel control and a most crucial conflict, as this battle all but decimated the Capitol's military, leaving them with little capability to resist the subsequent invasion. 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Second_Rebellion"><span class="tocnumber">1.2</span> <span class="toctext">Second Rebellion</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Bombing_of_the_Nut"><span class="tocnumber">1.2.1</span> <span class="toctext">Bombing of the Nut</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Aftermath_of_the_bombing"><span class="tocnumber">1.2.2</span> <span class="toctext">Aftermath of the bombing</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Notable_persons_involved"><span class="tocnumber">2</span> <span class="toctext">Notable persons involved</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Rebels"><span class="tocnumber">2.1</span> <span class="toctext">Rebels</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_2%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_2%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the end of the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, the rebel war effort collapsed following the alleged loss of District 13,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> and the seat of the Capitol's military power moved to District 2.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> Directly after the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, the Capitol established a military compound inside a mountain, later nicknamed <a href="/wiki/The_Nut" title="The Nut">the Nut</a> during the Second Rebellion.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> District 2's citizens were generally better-fed than in other districts,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> but their children were still <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaped</a> to participate in the annual <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> with no apparent preferential treatment.
+</p><p>However, over time, District 2 curried enough favor and privilege to be able to train <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tributes</a> for the event without consequences,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> and the district became the Capitol's main source of <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> District 2's close association with the Capitol offered citizens education and employment opportunities, and Capitol propaganda nurtured an image of the Hunger Games as a unique opportunity to earn untold wealth and glory.<sup id="cite_ref-:0_3-2" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> As a result of these factors, District 2 had a strong loyalist contingent.
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion">Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_2%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></i></center></div>
+<p>When war broke out in the other districts, there was mixed support for the uprising in District 2. Nevertheless, the rebels, led in part by former <a href="/wiki/Victor" title="Victor">victor</a> <a href="/wiki/Lyme" title="Lyme">Lyme</a>, eventually managed to capture the outer villages. However, the town center was divided, and the Nut remained under loyalist control.<sup id="cite_ref-:0_3-3" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Bombing_of_the_Nut">Bombing of the Nut</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_2%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Two weeks after the arrival of <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and District 13's soldiers, a meeting was held to tackle the issue of the Nut. Lyme guided those assembled through a virtual tour of its interior and fortifications, and walked them through previous failed attempts to claim it. At the end of Lyme's presentation, strategists debated for hours; <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> suggested that he might be able to override computer systems, and others contemplated using several spies they had on the inside. Throughout the afternoon, people kept coming back to the failed strategy of storming the entrances, frustrating Lyme.<sup id="cite_ref-:0_3-4" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>Eventually, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> put the idea forth that rather than taking the Nut, they ought to disable it. He and Beetee pointed out avalanche paths that they could strategically bomb, burying the entrances and all the people inside.<sup id="cite_ref-:0_3-5" class="reference"><a href="#cite_note-:0-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> It was ultimately decided that they would leave a <a href="/wiki/Train" title="Train">train</a> tunnel into the square open to give evacuees a chance at surrender. The plan proceeded, and the Nut's survivors fled to the city center, where the rebels were waiting for them.<sup id="cite_ref-:1_6-0" class="reference"><a href="#cite_note-:1-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>With prompting from <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> over an earpiece, Katniss was poised to give a speech to the Nut personnel when she suddenly rushed to the aid of a wounded man, shouting for rebels to hold their fire. He pulled a gun on her and demanded that she give him a reason not to shoot her. She replied that she couldn't, confusing him enough to make him pause. Despairing over all the pain the rebels and Capitol had caused each other, she lowered and even dropped her <a href="/wiki/Bow_and_arrow" title="Bow and arrow">bow</a> as she told him to shoot her. Continued prompting from Haymitch allowed her to turn her statement back around into a compelling speech about district unity against the Capitol. However, this ended when an unknown man in the crowd shot her.<sup id="cite_ref-:1_6-1" class="reference"><a href="#cite_note-:1-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<h4><span class="mw-headline" id="Aftermath_of_the_bombing">Aftermath of the bombing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_2%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss survived, but she suffered a ruptured spleen and her ribs were badly bruised. She was transported back to District 13 to recover. Meanwhile, District 2 became the last district to ally with the rebels.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> The destruction of the Nut knocked out much of the Capitol's air force and logistical capabilities, dealing a crushing blow to its war effort.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> This was the point where the war turned in favor of the rebels and set the stage for the rebels' <a href="/wiki/Battle_of_the_Capitol" title="Battle of the Capitol">final assault</a> on the Capitol itself.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<h2><span class="mw-headline" id="Notable_persons_involved">Notable persons involved</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_2%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Rebels">Rebels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_2%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Lyme - District 2</li>
+<li><a href="/wiki/Commander_Paylor" title="Commander Paylor">Paylor</a> (films) - <a href="/wiki/District_8" title="District 8">District 8</a></li>
+<li><a href="/wiki/Boggs" title="Boggs">Boggs</a> - District 13</li>
+<li>Katniss Everdeen - <a href="/wiki/District_12" title="District 12">District 12</a></li>
+<li>Gale Hawthorne - District 12</li>
+<li>Beetee Latier - <a href="/wiki/District_3" title="District 3">District 3</a></li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_2%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i>, Paylor from District 8 also served as a commander in the mission to seize the Nut.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Lyme is thought to have died either in the last stages of this battle, during the Battle of the Capitol, or as a victim of the <a href="/wiki/Victors%27_Purge" title="Victors&#39; Purge">Victors' Purge</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="https://en.wikipedia.org/wiki/Berlin_Tempelhof_Airport" class="extiw" title="wikipedia:Berlin Tempelhof Airport">Berlin Tempelhof Airport</a> served as the <a href="/wiki/Filming_locations" title="Filming locations">filming location</a> for District 2's rebel encampment, Lyme's control center, and the train station.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBattle_of_District_2%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_3-0">3.0</a></sup> <sup><a href="#cite_ref-:0_3-1">3.1</a></sup> <sup><a href="#cite_ref-:0_3-2">3.2</a></sup> <sup><a href="#cite_ref-:0_3-3">3.3</a></sup> <sup><a href="#cite_ref-:0_3-4">3.4</a></sup> <sup><a href="#cite_ref-:0_3-5">3.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 2</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 7</span>
+</li>
+<li id="cite_note-:1-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_6-0">6.0</a></sup> <sup><a href="#cite_ref-:1_6-1">6.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 15</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 16</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 18</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 17</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 26</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.motionpictures.org/2015/11/real-locations-used-bring-hunger-games-mockingjay-part-2-life/">https://www.motionpictures.org/2015/11/real-locations-used-bring-hunger-games-mockingjay-part-2-life/</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.mtv.com/news/4qgg0q/hunger-games-mockingjay-set-berlin">https://www.mtv.com/news/4qgg0q/hunger-games-mockingjay-set-berlin</a></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20251227094539
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.068 seconds
+Real time usage: 0.170 seconds
+Preprocessor visited node count: 353/1000000
+Post‐expand include size: 219/2097152 bytes
+Template argument size: 64/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5983/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   84.815      1 -total
+ 33.90%   28.752      1 Template:Battle
+  1.56%    1.326      1 Template:W
+  1.56%    1.324      1 Template:Main
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:68323-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227094539 and revision id 961745. Rendering was triggered because: page-view
+ -->
+</div>

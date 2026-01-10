@@ -1,0 +1,290 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Festus Creed</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Festus_Creed.jpg/revision/latest?cb=20240803205552" class="image image-thumbnail" title="Festus Creed">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Festus_Creed.jpg/revision/latest/scale-to-width-down/268?cb=20240803205552" srcset="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Festus_Creed.jpg/revision/latest/scale-to-width-down/268?cb=20240803205552 1x, https://static.wikia.nocookie.net/thehungergames/images/0/0e/Festus_Creed.jpg/revision/latest/scale-to-width-down/536?cb=20240803205552 2x" class="pi-image-thumbnail" data-relevant="1" alt="Festus Creed" width="270" height="204" data-image-key="Festus_Creed.jpg" data-image-name="Festus Creed.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Academy" title="Academy">Academy</a> student<p><a href="/wiki/Mentor" title="Mentor">Mentor</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Max_Raphael" title="Max Raphael">Max Raphael</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Simple. We go straight to the punitive. Instead of suggesting people watch, we make it the law.</i>"</span></dd>
+<dd>—Festus on how to get people to watch the Hunger Games<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Festus Creed</b> was a male resident of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> and a student of the <a href="/wiki/Academy" title="Academy">Academy</a>. He was one of 24 top-performing seniors at the Academy selected to be a <a href="/wiki/Mentor" title="Mentor">mentor</a> for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. He was assigned the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_4" title="District 4">District 4</a>, <a href="/wiki/Coral" title="Coral">Coral</a>.<sup id="cite_ref-Ballad_7_1-0" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#10th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">10th Hunger Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37310" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Festus Creed play in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Festus Creed served as a mentor. He was a top-performing senior at the Academy in the Capitol. His mentee was Coral, a strong female tribute from District 4. Festus was a close associate of Coriolanus Snow and belonged to an old Capitol family. He expressed dissatisfaction with the lack of food during the Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37311" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was the female tribute from District 4 that Festus Creed mentored?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Festus Creed, an accomplished student from the Capitol's Academy, mentored Coral, the female tribute from District 4, during the 10th Hunger Games. Their mentor-tribute relationship was notable for their active participation in interviews. Festus also advocated for Coral's competitive abilities against male tributes.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37312" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How is Festus Creed connected to Coriolanus Snow?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Festus Creed belonged to Coriolanus Snow's close-knit group since their early years. He hailed from a wealthy family in the Capitol, with significant earnings from District 7's timber industry. Snow viewed Festus as a dependable ally, inviting him to a celebratory event for Sejanus Plinth's would-be 19th birthday. They were academic peers under Dr. Volumnia Gaul at the University, collaborating on a project to devise a severe punishment for adversaries.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37313" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the significance of Festus Creed's family background in the Capitol?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Festus Creed, an Academy student from the Capitol, hails from a wealthy family with roots in District 7 timber. Despite a setback during the First Rebellion, the family regained their wealth in the post-rebellion reconstruction. Festus was part of Coriolanus Snow's inner circle from birth, reflecting his family's influence, which included overseeing District 7's timber production.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Festus Creed","mainEntity":[{"@type":"Question","name":"What role did Festus Creed play in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Festus Creed served as a mentor. He was a top-performing senior at the Academy in the Capitol. His mentee was Coral, a strong female tribute from District 4. Festus was a close associate of Coriolanus Snow and belonged to an old Capitol family. He expressed dissatisfaction with the lack of food during the Games."}},{"@type":"Question","name":"Who was the female tribute from District 4 that Festus Creed mentored?","acceptedAnswer":{"@type":"Answer","text":"Festus Creed, an accomplished student from the Capitol's Academy, mentored Coral, the female tribute from District 4, during the 10th Hunger Games. Their mentor-tribute relationship was notable for their active participation in interviews. Festus also advocated for Coral's competitive abilities against male tributes."}},{"@type":"Question","name":"How is Festus Creed connected to Coriolanus Snow?","acceptedAnswer":{"@type":"Answer","text":"Festus Creed belonged to Coriolanus Snow's close-knit group since their early years. He hailed from a wealthy family in the Capitol, with significant earnings from District 7's timber industry. Snow viewed Festus as a dependable ally, inviting him to a celebratory event for Sejanus Plinth's would-be 19th birthday. They were academic peers under Dr. Volumnia Gaul at the University, collaborating on a project to devise a severe punishment for adversaries."}},{"@type":"Question","name":"What is the significance of Festus Creed's family background in the Capitol?","acceptedAnswer":{"@type":"Answer","text":"Festus Creed, an Academy student from the Capitol, hails from a wealthy family with roots in District 7 timber. Despite a setback during the First Rebellion, the family regained their wealth in the post-rebellion reconstruction. Festus was part of Coriolanus Snow's inner circle from birth, reflecting his family's influence, which included overseeing District 7's timber production."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFestus_Creed%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Festus was a part of <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>'s inner circle since birth. His family came from old <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> money, largely from <a href="/wiki/District_7" title="District 7">District 7</a> timber. It took a hit during the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, but rebounded nicely in the reconstruction effort.<sup id="cite_ref-Ballad_6_2-0" class="reference"><a href="#cite_note-Ballad_6-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>During a session with Professor <a href="/wiki/Crispus_Demigloss" title="Crispus Demigloss">Crispus Demigloss</a>, Demigloss asked the mentors to brainstorm ways to encourage people to watch the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, which were considered grim viewing at the time. Festus's suggestion was to execute anyone in the <a href="/wiki/District" class="mw-redirect" title="District">districts</a> who did not watch and to banish anyone in the Capitol that did not watch to the districts, executing them the next year if they messed up again. The class then began debating the idea, considering it unenforceable because you couldn't send <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> to everyone's door. They also discussed Coriolanus's idea of having the Capitol citizens bet on the tributes, which Festus believed would liven things up.<sup id="cite_ref-Ballad_6_2-1" class="reference"><a href="#cite_note-Ballad_6-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Festus was present at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>, presumably to meet with his tribute, Coral. However, as <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne</a>'s throat was slit by her <a href="/wiki/Brandy" title="Brandy">own tribute</a>, Festus stood next to her and Coriolanus and they exchanged helpless, worried looks. After Arachne died and was transported away by medics, <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> managed to join the pair. As the three of them walked home, Festus proposed that they come back to his apartment. However, as they reached his apartment complex he burst into tears, leaving Snow and Clemensia to bid him goodnight.<sup id="cite_ref-Ballad_7_1-1" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Festus only received minor injuries from the arena <a href="/wiki/Bombings" title="Bombings">bombing</a>, sporting a sling on his arm and stitches on his cheek. He visited Snow when he was in the hospital, telling him that the Academy had canceled classes, and choked up upon explaining the deaths of <a href="/wiki/Diana_Ring" title="Diana Ring">Diana</a> and <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a>.<sup id="cite_ref-Ballad_10_3-0" class="reference"><a href="#cite_note-Ballad_10-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>Festus and <a href="/wiki/Coral" title="Coral">Coral</a> were one of the few mentor-tribute pairs who had something to participate with during the interviews.<sup id="cite_ref-Ballad_11_4-0" class="reference"><a href="#cite_note-Ballad_11-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> After the class with <a href="/wiki/Dr._Gaul" class="mw-redirect" title="Dr. Gaul">Dr. Gaul</a>, Festus and <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> discussed strategies to use for female tributes. Festus rebuked Hilarius' claim that girls didn't fight the same way as boys by arguing that Coral could compete well against the male tributes.<sup id="cite_ref-Ballad_12_5-0" class="reference"><a href="#cite_note-Ballad_12-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFestus_Creed%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Festus arrived at <a href="/wiki/Heavensbee_Hall" title="Heavensbee Hall">Heavensbee Hall</a> just as Clemensia argued with Lysistrata and Coriolanus. As Festus rebutted Clemensia's anger, she told him to shut up. After she left, Festus took a seat beside Snow and Lysistrata while questioning her hostility toward Coriolanus for her sickness, believing it odd.<sup id="cite_ref-Ballad_13_6-0" class="reference"><a href="#cite_note-Ballad_13-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>On the morning of the second day of the Games, Festus showed discontent at not being fed. However, Coriolanus gifted him a bag of bread rolls, proud that he gave something for a change, as he owed the Creeds a lot in return. Later that day, Festus worked with <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> to coordinate strategies, and Coriolanus could tell Festus was falling for her.<sup id="cite_ref-Ballad_16_7-0" class="reference"><a href="#cite_note-Ballad_16-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Coriolanus also gave Festus lima beans further into the Games for breakfast, as he had lost his appetite. He swapped Festus' empty bowl with his own to avoid reprimands.<sup id="cite_ref-Ballad_19_8-0" class="reference"><a href="#cite_note-Ballad_19-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>When Clemensia refused to feed her tribute, <a href="/wiki/Reaper" class="mw-redirect" title="Reaper">Reaper</a>, Festus told her to give him food and called her heartless when she responded, asking him to mind his own business.<sup id="cite_ref-Ballad_18_9-0" class="reference"><a href="#cite_note-Ballad_18-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> Later, he apologized when he saw Reaper taking <a href="/wiki/Wovey" title="Wovey">Wovey</a>'s dead body to his makeshift morgue.<sup id="cite_ref-Ballad_19_8-1" class="reference"><a href="#cite_note-Ballad_19-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>Festus's tribute, Coral, was killed by <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a> released into the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> by Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>. As he was dismissed from the proceedings, Snow gave him a bear hug, emotional at his reliable friend being out of the running.<sup id="cite_ref-Ballad_20_10-0" class="reference"><a href="#cite_note-Ballad_20-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p><p><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> considered Creed, along with <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a>, to be someone who liked <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> better most of his other classmates at the Academy and someone who could be counted on to say nice things about him. He thus invited him, along with Vickers, to a party to celebrate what would have been Plinth's 19th birthday.<sup id="cite_ref-Ballad_Epilogue_11-0" class="reference"><a href="#cite_note-Ballad_Epilogue-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFestus_Creed%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He had once dared Snow to have a one night stand with a girl in an alleyway.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> He was also entertained by dogfights.<sup id="cite_ref-Ballad_6_2-2" class="reference"><a href="#cite_note-Ballad_6-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> He could be sympathetic to a degree, as he demanded for Clemensia to feed her tribute, <a href="/wiki/Reaper" class="mw-redirect" title="Reaper">Reaper</a>, during the Games.<sup id="cite_ref-Ballad_18_9-1" class="reference"><a href="#cite_note-Ballad_18-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> Festus also had a big appetite, as he quickly ate Snow's bread rolls and lima beans.<sup id="cite_ref-Ballad_16_7-1" class="reference"><a href="#cite_note-Ballad_16-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFestus_Creed%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Festus was bigger and burlier than most boys his age.<sup id="cite_ref-Ballad_6_2-3" class="reference"><a href="#cite_note-Ballad_6-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFestus_Creed%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://en.wiktionary.org/wiki/festus">Festus</a> is a Latin word for "festive" or "joyful". It was also the surname of several notable Roman historical figures, such as Judean governor <a href="https://en.wikipedia.org/wiki/Porcius_Festus" class="extiw" title="wikipedia:Porcius Festus">Porcius Festus</a>, grammarian <a href="https://en.wikipedia.org/wiki/Sextus_Pompeius_Festus" class="extiw" title="wikipedia:Sextus Pompeius Festus">Sextus Pompeius Festus</a>, and a <a href="https://en.wikipedia.org/wiki/Festus_(historian)" class="extiw" title="wikipedia:Festus (historian)">historian</a>. His surname, <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://en.wiktionary.org/wiki/creed">Creed</a>, is an English word referring to a doctrine or set of beliefs.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFestus_Creed%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span>"<i>Four hours of <a href="/wiki/Jason_Schwartzman" title="Jason Schwartzman">Jason</a> just bullying me exists somewhere in a vault at Lionsgate.</i>"</span></dd>
+<dd>—<a href="/wiki/Max_Raphael" title="Max Raphael">Max Raphael</a></dd></dl></div>
+<ul><li>During the filming of <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>, <a href="/wiki/Jason_Schwartzman" title="Jason Schwartzman">Jason Schwartzman</a> decided that <a href="/wiki/Lucky_Flickerman" class="mw-redirect" title="Lucky Flickerman">Lucky Flickerman</a> needed a "nemesis", so with permission from Festus's actor <a href="/wiki/Max_Raphael" title="Max Raphael">Max Raphael</a>, he singled out Festus to pick on. According to Raphael, "We've got a whole backstory here. Festus, maybe he wants a career in broadcasting. Maybe Lucky babysat him when he was a kid, and he's just never gotten over how annoying he was. I don't know. That's for the fans to decide.”<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFestus_Creed%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_7-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_7_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_7_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_6-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_6_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_6_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_6_2-2">2.2</a></sup> <sup><a href="#cite_ref-Ballad_6_2-3">2.3</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_10-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_10_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_11-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_11_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_12-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_12_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_13-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_13_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_16-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_16_7-0">7.0</a></sup> <sup><a href="#cite_ref-Ballad_16_7-1">7.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 16</span>
+</li>
+<li id="cite_note-Ballad_19-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_19_8-0">8.0</a></sup> <sup><a href="#cite_ref-Ballad_19_8-1">8.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 19</span>
+</li>
+<li id="cite_note-Ballad_18-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_18_9-0">9.0</a></sup> <sup><a href="#cite_ref-Ballad_18_9-1">9.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 18</span>
+</li>
+<li id="cite_note-Ballad_20-10"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_20_10-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 20</span>
+</li>
+<li id="cite_note-Ballad_Epilogue-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Epilogue_11-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Epilogue</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 13</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://x.com/panempropaganda/status/1757109429932024259">https://x.com/panempropaganda/status/1757109429932024259</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <strong class="mw-selflink selflink">Festus Creed</strong>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20260101190250
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.076 seconds
+Real time usage: 0.168 seconds
+Preprocessor visited node count: 422/1000000
+Post‐expand include size: 3146/2097152 bytes
+Template argument size: 498/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6776/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   70.565      1 -total
+ 35.87%   25.314      1 Template:Character
+ 24.97%   17.621      1 Template:Reflist
+  4.90%    3.457      3 Template:W
+  2.64%    1.863      2 Template:Quote
+  2.57%    1.812      1 Template:PrequelSeries
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539450-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260101190250 and revision id 958268. Rendering was triggered because: page-view
+ -->
+</div>

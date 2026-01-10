@@ -1,0 +1,142 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">49th Hunger Games</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+	
+		<h3 class="pi-data-label pi-secondary-font">Type</h3>
+	
+	<div class="pi-data-value pi-font">Regular</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wiress" title="Wiress">Wiress</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="district">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor's home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_3" title="District 3">District 3</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arena">
+	
+		<h3 class="pi-data-label pi-secondary-font">Arena</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Nest_of_Mirrors" title="Nest of Mirrors">Nest of Mirrors</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/48th_Hunger_Games" class="mw-redirect" title="48th Hunger Games">48th Hunger Games</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a></div>
+</div>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Sunrise on the Reaping">"<i>Most of the tributes went nuts, but not Wiress.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> describing Wiress's Hunger Games<sup class="noprint"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">[src]</a></sup></dd></dl></div>
+<p>The <b>49th Hunger Games</b>&#160;took place twenty-five years before the events of <i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>. The <a href="/wiki/Victor" title="Victor">victor</a> this year was <a href="/wiki/Wiress" title="Wiress">Wiress</a>, the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_3" title="District 3">District 3</a>.<sup id="cite_ref-SR6_1-0" class="reference"><a href="#cite_note-SR6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Summary"><span class="tocnumber">1</span> <span class="toctext">Summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Known_tributes"><span class="tocnumber">1.1</span> <span class="toctext">Known tributes</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Known_Mentors"><span class="tocnumber">1.2</span> <span class="toctext">Known Mentors</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Pre-Games"><span class="tocnumber">1.3</span> <span class="toctext">Pre-Games</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Arena"><span class="tocnumber">1.4</span> <span class="toctext">Arena</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Known_muttations"><span class="tocnumber">1.5</span> <span class="toctext">Known muttations</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#The_Games"><span class="tocnumber">1.6</span> <span class="toctext">The Games</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Aftermath"><span class="tocnumber">1.7</span> <span class="toctext">Aftermath</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F49th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Known_tributes">Known tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F49th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wiress" title="Wiress">Wiress</a> - <a href="/wiki/District_3" title="District 3">District 3</a> (victor)</li>
+<li><a href="/wiki/District_6_male_(49th_HG)" title="District 6 male (49th HG)">District 6 male</a> - <a href="/wiki/District_6" title="District 6">District 6</a> (2nd place)</li></ul>
+<h3><span class="mw-headline" id="Known_Mentors">Known Mentors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F49th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> - <a href="/wiki/District_3" title="District 3">District 3</a><sup id="cite_ref-SR8_2-0" class="reference"><a href="#cite_note-SR8-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h3><span class="mw-headline" id="Pre-Games">Pre-Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F49th_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After being transported to the <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a>, the tributes were kept in barracks.<sup id="cite_ref-SR7_3-0" class="reference"><a href="#cite_note-SR7-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> During the training period, <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> set up <a href="/wiki/Training_stations" title="Training stations">survival skill stations</a> with items hinting at the <a href="/wiki/Arena" title="Arena">arena</a> they had built for that year. These included foil blankets, metal bowls, and a little round mirror at the fire station, although the tributes didn't make the connection before entering the arena themselves.
+</p><p>For the interviews, <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> sent the <a href="/wiki/District_12" title="District 12">District 12</a> tributes out in their training outfits, which he was later put on probation for.
+</p>
+<h3><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F49th_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Nest_of_Mirrors" title="Nest of Mirrors">Nest of Mirrors</a></i></center></div><div class="quote">
+<dl><dd><span title="Source: Sunrise on the Reaping">"<i>I can't hardly look at this. Makes my eyes cross.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> on the arena<sup class="noprint"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">[src]</a></sup></dd></dl></div>
+<p>The arena was called "The Nest Of Mirrors", and was themed around reflective surfaces, meant to disorient the tributes and mess with them mentally. The lakes reflected the sky, and the boulders, caves and cliffs were overlaid with mirrors. Even the clouds were reflective.<sup id="cite_ref-SR6_1-1" class="reference"><a href="#cite_note-SR6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Known_muttations">Known muttations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F49th_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Shiny silver beetles that swarmed and suffocated the tributes.<sup id="cite_ref-SR6_1-2" class="reference"><a href="#cite_note-SR6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h3><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F49th_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wearing shimmering tunics, the tributes were immediately overwhelmed by the reflections and couldn't find their bearings. The <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> was difficult to reach and tributes struggled to navigate their way over to it. Many would reach for a weapon and only grasp air, or leap and hit a wall. When they tried to dodge their attacker, they would unwittingly run right into them and their weapon.<sup id="cite_ref-SR6_1-3" class="reference"><a href="#cite_note-SR6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Most of the tributes were driven insane by the arena, but <a href="/wiki/Wiress" title="Wiress">Wiress</a> outwitted it and the Gamemakers by following "the light beams", moving away from the Cornucopia and finding a pack of supplies. While exploring, she then discovered a rock over the lake that was a blind spot, where she hid for the rest of the Games. She had access to water, but the Gamemakers failed to deliver her <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gifts</a> because they were just as blind to her location.<sup id="cite_ref-SR6_1-4" class="reference"><a href="#cite_note-SR6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In the end, Wiress reappeared when there was just herself and the <a href="/wiki/District_6_male_(49th_HG)" title="District 6 male (49th HG)">District 6 male</a> left. He leaped for her but misjudged the reflection, instead cracking his head on the surface and drowning in the lake. The hovercraft had to fly around for an hour trying to pick up their victor as they could not locate her. They eventually got her when she walked back to the Cornucopia.<sup id="cite_ref-SR6_1-5" class="reference"><a href="#cite_note-SR6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F49th_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Gamemakers tried to make a joke out of Wiress' ability to hide from them, but they were visibly embarrassed that they were outsmarted by a tribute. Wiress claimed in her final interview that she just "followed the light beams", but did not say anything beyond that.<sup id="cite_ref-SR6_1-6" class="reference"><a href="#cite_note-SR6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F49th_Hunger_Games%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-SR6-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR6_1-0">1.0</a></sup> <sup><a href="#cite_ref-SR6_1-1">1.1</a></sup> <sup><a href="#cite_ref-SR6_1-2">1.2</a></sup> <sup><a href="#cite_ref-SR6_1-3">1.3</a></sup> <sup><a href="#cite_ref-SR6_1-4">1.4</a></sup> <sup><a href="#cite_ref-SR6_1-5">1.5</a></sup> <sup><a href="#cite_ref-SR6_1-6">1.6</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-SR8-2"><span class="mw-cite-backlink"><a href="#cite_ref-SR8_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-SR7-3"><span class="mw-cite-backlink"><a href="#cite_ref-SR7_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 7</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251228041345
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.043 seconds
+Real time usage: 0.068 seconds
+Preprocessor visited node count: 345/1000000
+Post‐expand include size: 1181/2097152 bytes
+Template argument size: 378/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2372/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   39.689      1 -total
+ 54.07%   21.460      1 Template:Games
+ 19.15%    7.600      1 Template:Reflist
+  4.03%    1.600      3 Template:SOTR
+  3.82%    1.517      2 Template:Quote
+  3.16%    1.254      1 Template:Main
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:544204-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228041345 and revision id 966348. Rendering was triggered because: page-view
+ -->
+</div>

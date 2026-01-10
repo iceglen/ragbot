@@ -1,0 +1,182 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><i>The Hunger Games: The Ballad of Songbirds &amp; Snakes (Original Motion Picture Score)</i></h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/73/Hunger_Games_Ballad_of_Songbirds_and_Snakes_score_cover.jpg/revision/latest?cb=20231110201158" class="image image-thumbnail" title="Hunger Games Ballad of Songbirds and Snakes score cover">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/7/73/Hunger_Games_Ballad_of_Songbirds_and_Snakes_score_cover.jpg/revision/latest?cb=20231110201158" srcset="https://static.wikia.nocookie.net/thehungergames/images/7/73/Hunger_Games_Ballad_of_Songbirds_and_Snakes_score_cover.jpg/revision/latest?cb=20231110201158 1x, https://static.wikia.nocookie.net/thehungergames/images/7/73/Hunger_Games_Ballad_of_Songbirds_and_Snakes_score_cover.jpg/revision/latest?cb=20231110201158 2x" class="pi-image-thumbnail" data-relevant="1" alt="Hunger Games Ballad of Songbirds and Snakes score cover" width="250" height="250" data-image-key="Hunger_Games_Ballad_of_Songbirds_and_Snakes_score_cover.jpg" data-image-name="Hunger Games Ballad of Songbirds and Snakes score cover.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="producers">
+	
+		<h3 class="pi-data-label pi-secondary-font">Producer(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/James_Newton_Howard" title="James Newton Howard">James Newton Howard</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="publisher">
+	
+		<h3 class="pi-data-label pi-secondary-font">Publisher</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/Sony_Masterworks" class="extiw" title="wikipedia:Sony Masterworks">Sony Masterworks</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
+	
+		<h3 class="pi-data-label pi-secondary-font">Artist</h3>
+	
+	<div class="pi-data-value pi-font">James Newton Howard<p><a href="https://en.wikipedia.org/wiki/Yuja_Wang" class="extiw" title="wikipedia:Yuja Wang">Yuja Wang</a></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="info">
+	
+		<h3 class="pi-data-label pi-secondary-font">CD info</h3>
+	
+	<div class="pi-data-value pi-font">Film score for <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="singles">
+	
+		<h3 class="pi-data-label pi-secondary-font">Single(s)</h3>
+	
+	<div class="pi-data-value pi-font">Mercy</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
+	
+		<h3 class="pi-data-label pi-secondary-font">Length</h3>
+	
+	<div class="pi-data-value pi-font">1:27:06</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="releasedate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Release date</h3>
+	
+	<div class="pi-data-value pi-font">November 17th, 2023</div>
+</div>
+</aside>
+
+</p><p><i><b>The Hunger Games: The Ballad of Songbirds &amp; Snakes (Original Motion Picture Score)</b></i> is the official film score for <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a>.</i> As with all previous installations to the franchise, the score was composed by <a href="/wiki/James_Newton_Howard" title="James Newton Howard">James Newton Howard</a>. It also features piano music by <a href="https://en.wikipedia.org/wiki/Yuja_Wang" class="extiw" title="wikipedia:Yuja Wang">Yuja Wang</a>.
+</p><p>Music created for the film that was not part of its score is included on the album <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes_(Music_From_%26_Inspired_By)" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)">The Hunger Games: The Ballad of Songbirds &amp; Snakes (Music From &amp; Inspired By)</a></i>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Track_listing"><span class="tocnumber">1</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Awards"><span class="tocnumber">2</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games%3A_The_Ballad_of_Songbirds_%2526_Snakes_%28Original_Motion_Picture_Score%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"The Dark Days" - 1:55</li>
+<li>"Anthem: <a href="/wiki/Gem_of_Panem" title="Gem of Panem">Gem of Panem</a>" - 0:43</li>
+<li>"Coryo in the Capitol" - 0:44</li>
+<li>"Assigning the Mentors" - James Newton Howard &amp; Yuja Wang - 2:38</li>
+<li>"Meet the Mentor" - 2:01</li>
+<li>"Gamemaker" - 1:20</li>
+<li>"Sejanus" - Howard &amp; Wang - 1:58</li>
+<li>"Hunger Is a Weapon" - 2:43</li>
+<li>"Strategy" - Howard &amp; Wang - 2:06</li>
+<li>"Department of War" - 3:39</li>
+<li>"The Arena" - 2:06</li>
+<li>"Saving Snow" - 1:23</li>
+<li>"Ideas Firing" - Howard &amp; Wang - 4:23</li>
+<li>"Happy Hunger Games" - Howard &amp; Wang - 3:29</li>
+<li>"Mercy" - 2:21</li>
+<li>"Seize the Opportunity" - 1:18</li>
+<li>"Cut the Feed" - Howard &amp; Wang - 1:27</li>
+<li>"Open the Gate" - Howard &amp; Wang - 3:46</li>
+<li>"Powerful" - 1:44</li>
+<li>"Afraid of Water" - 1:18</li>
+<li>"Drone Attack" - 3:20</li>
+<li>"Inside the Duct" - 1:03</li>
+<li>"Under the Flag" - 2:55</li>
+<li>"Planting the Cloth" - Howard &amp; Wang - 3:37</li>
+<li>"Rainbow of Destruction" - 1:13</li>
+<li>"Get Her Out" - 3:44</li>
+<li>"The Sound of Snow" - 1:59</li>
+<li>"Your Life Has Just Begun" - 1:03</li>
+<li>"You Are Safe" - 1:46</li>
+<li>"Trust Is Everything" - 1:20</li>
+<li>"I Can't Stay Here" - 1:42</li>
+<li>"Cabin in the Rain" - 1:31</li>
+<li>"Lucy?" - 2:26</li>
+<li>"The Woods" - 1:09</li>
+<li>"Change of Plan" - 2:03</li>
+<li>"Passed the Tests" - Howard &amp; Wang - 3:36</li>
+<li>"Snow Lands on Top" - 3:29</li>
+<li>"Three Solos for Yuja: I. Friendship" - Yuja Wang - 2:05</li>
+<li>"Three Solos for Yuja: II. Rue's Farewell" - Wang - 2:03</li>
+<li>"Three Solos for Yuja: III. Victor" - Wang - 2:00</li></ol>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games%3A_The_Ballad_of_Songbirds_%2526_Snakes_%28Original_Motion_Picture_Score%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th><b>Year</b>
+</th>
+<th><b>Honoree</b>
+</th>
+<th><b>Award</b>
+</th>
+<th><b>Status</b>
+</th></tr>
+<tr>
+<td rowspan="2">2023
+</td>
+<td rowspan="3">James Newton Howard
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Hollywood_Music_in_Media_Award_for_Best_Original_Score_in_a_Sci-Fi/Fantasy_Film" class="extiw" title="wikipedia:Hollywood Music in Media Award for Best Original Score in a Sci-Fi/Fantasy Film">Hollywood Music in Media Award for Best Original Score in a Sci-Fi/Fantasy Film</a>
+</td>
+<td>Nominated<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/International_Film_Music_Critics_Association_Award_for_Best_Original_Score_for_an_Action/Adventure/Thriller_Film" class="extiw" title="wikipedia:International Film Music Critics Association Award for Best Original Score for an Action/Adventure/Thriller Film">International Film Music Critics Association Award for Best Original Score for an Action/Adventure Film</a>
+</td>
+<td>Nominated
+</td></tr>
+<tr>
+<td>2024
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Saturn_Award_for_Best_Music" class="extiw" title="wikipedia:Saturn Award for Best Music">Saturn Award for Best Music</a>
+</td>
+<td>Nominated
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games%3A_The_Ballad_of_Songbirds_%2526_Snakes_%28Original_Motion_Picture_Score%29%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This is the longest of all the albums released in connection to the film franchise, both in terms of tracks and runtime. The second-longest was <i><a href="/wiki/The_Hunger_Games:_Catching_Fire_-_Original_Motion_Picture_Soundtrack#Score" title="The Hunger Games: Catching Fire - Original Motion Picture Soundtrack">The Hunger Games: Catching Fire (Original Motion Picture Score)</a></i>, which had 29 tracks and a total runtime of 1:14:58.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games%3A_The_Ballad_of_Songbirds_%2526_Snakes_%28Original_Motion_Picture_Score%29%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.hmmawards.com/2023-hmma-winners-and-nominees/">https://www.hmmawards.com/2023-hmma-winners-and-nominees/</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251228202958
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.039 seconds
+Real time usage: 0.055 seconds
+Preprocessor visited node count: 136/1000000
+Post‐expand include size: 789/2097152 bytes
+Template argument size: 495/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 580/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   30.990      1 -total
+ 80.74%   25.022      1 Template:Soundtrack
+ 12.21%    3.784      1 Template:Reflist
+  6.38%    1.977      6 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542665-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228202958 and revision id 953252. Rendering was triggered because: page-view
+ -->
+</div>

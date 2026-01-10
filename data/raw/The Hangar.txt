@@ -1,0 +1,78 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">The Hangar</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/84/13military.jpg/revision/latest?cb=20141127132816" class="image image-thumbnail" title="13military">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/8/84/13military.jpg/revision/latest/scale-to-width-down/268?cb=20141127132816" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/84/13military.jpg/revision/latest/scale-to-width-down/268?cb=20141127132816 1x, https://static.wikia.nocookie.net/thehungergames/images/8/84/13military.jpg/revision/latest/scale-to-width-down/535?cb=20141127132816 2x" class="pi-image-thumbnail" data-relevant="1" alt="13military" width="270" height="112" data-image-key="13military.jpg" data-image-name="13military.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_13" title="District 13">District 13</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Rebels" title="Rebels">Rebels</a></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>The Hangar</b> is a special defense area in <a href="/wiki/District_13" title="District 13">District 13</a> that is located deep underground. This is where all their <a href="/wiki/Hovercraft" title="Hovercraft">hovercrafts</a> are kept, and it also contains large amounts of ammunition and weaponry.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hangar%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> took one of the hovercrafts to <a href="/wiki/District_8" title="District 8">District 8</a> along with <a href="/wiki/Boggs" title="Boggs">Boggs</a>, <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a>, and a television crew. Almost everyone was dressed in a dark gray military jumpsuit.<sup id="cite_ref-MJ_6_1-0" class="reference"><a href="#cite_note-MJ_6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Later, Katniss and the crew returned to the Hangar and boarded a hovercraft to <a href="/wiki/District_12" title="District 12">District 12</a>, where they film.<sup id="cite_ref-MJ_9_2-0" class="reference"><a href="#cite_note-MJ_9-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hangar%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MJ_6-1"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_6_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-MJ_9-2"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_9_2-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 9</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260103174322
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.020 seconds
+Real time usage: 0.030 seconds
+Preprocessor visited node count: 90/1000000
+Post‐expand include size: 128/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 772/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   19.311      1 -total
+ 74.14%   14.317      1 Template:Location
+ 14.26%    2.753      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:5619-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103174322 and revision id 931145. Rendering was triggered because: page-view
+ -->
+</div>

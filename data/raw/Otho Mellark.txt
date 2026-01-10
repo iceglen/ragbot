@@ -1,0 +1,316 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Otho Mellark</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/12/Mr.Mellark/revision/latest?cb=20190819191833" class="image image-thumbnail" title="Mr">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/1/12/Mr.Mellark/revision/latest/scale-to-width-down/268?cb=20190819191833" srcset="https://static.wikia.nocookie.net/thehungergames/images/1/12/Mr.Mellark/revision/latest/scale-to-width-down/268?cb=20190819191833 1x, https://static.wikia.nocookie.net/thehungergames/images/1/12/Mr.Mellark/revision/latest?cb=20190819191833 2x" class="pi-image-thumbnail" data-relevant="1" alt="Mr" width="270" height="423" data-image-key="Mr.Mellark" data-image-name="Mr.Mellark">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">40s</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Baker" title="Baker">Baker</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font">Merchant section of <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Mrs._Mellark" title="Mrs. Mellark">Mrs. Mellark</a> (wife) †</li><li><a href="/wiki/First_Mellark_son" title="First Mellark son">Unnamed oldest son</a> †</li><li><a href="/wiki/Second_Mellark_son" title="Second Mellark son">Unnamed second oldest son</a> †</li><li><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> (youngest son)</li><li><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> (daughter-in-law)</li><li><a href="/wiki/Katniss_and_Peeta_Mellark%27s_daughter" title="Katniss and Peeta Mellark's daughter">Unnamed granddaughter</a></li><li><a href="/wiki/Katniss_and_Peeta_Mellark%27s_son" title="Katniss and Peeta Mellark's son">Unnamed grandson</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i><br><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>I'll keep an eye on the little girl. Make sure she's eating.</i>"</span></dd>
+<dd>—Mr. Mellark to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a><sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<p><b>Otho Mellark</b> was a baker who lived in <a href="/wiki/District_12" title="District 12">District 12</a>. One of his sons, <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>, was the male <a href="/wiki/Tribute" title="Tribute">tribute</a> for District 12 in both the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th</a> and the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#74th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">74th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Death"><span class="tocnumber">1.2</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Family"><span class="tocnumber">2</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">4</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="67193" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why didn't Mr. Mellark buy Peeta's entry out of the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						There is no mention of an option for Mr. Mellark to buy Peeta's entry out of the Hunger Games in the source material. Instead, he pledged to care for Katniss's sister, Prim, due to his past connection with Katniss's mother and his business dealings with Katniss. Mr. Mellark, along with his family, excluding Peeta, perished when the Capitol bombed District 12 post the 75th Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67194" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Mr. Mellark's profession in District 12?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mr. Mellark worked as a baker in the Merchant section of District 12. He belonged to the merchant class of the district. His son, Peeta Mellark, participated as a tribute in the 74th and 75th Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67195" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who did Mr. Mellark originally want to marry before he married Mrs. Mellark?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Before marrying his wife, Mr. Mellark desired to wed the mother of Katniss. However, she was enamored with Mr. Everdeen. Despite this, Mr. Mellark bore no ill feelings towards Mrs. Everdeen. He ultimately married another woman, who became Mrs. Mellark.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67196" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How many sons did Mr. Mellark have?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In The Hunger Games series, Mr. Mellark is the father of three sons. His eldest and middle sons remain unnamed throughout the series, while his youngest son is known as Peeta Mellark, a central character in the trilogy.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="67197" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What are some character traits of Peeta Mellark that he may have inherited from Mr. Mellark?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Peeta Mellark, a key protagonist in The Hunger Games trilogy, likely inherited several traits from his father, Mr. Mellark. Mr. Mellark was a large, broad-shouldered man with burn scars from years of bakery work. He was a quiet, kinder, and more generous individual compared to his wife, often engaging in trades. He likely passed on his blond hair and blue eyes, typical of the merchant class, to Peeta.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Otho Mellark","mainEntity":[{"@type":"Question","name":"Why didn't Mr. Mellark buy Peeta's entry out of the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"There is no mention of an option for Mr. Mellark to buy Peeta's entry out of the Hunger Games in the source material. Instead, he pledged to care for Katniss's sister, Prim, due to his past connection with Katniss's mother and his business dealings with Katniss. Mr. Mellark, along with his family, excluding Peeta, perished when the Capitol bombed District 12 post the 75th Hunger Games."}},{"@type":"Question","name":"What was Mr. Mellark's profession in District 12?","acceptedAnswer":{"@type":"Answer","text":"Mr. Mellark worked as a baker in the Merchant section of District 12. He belonged to the merchant class of the district. His son, Peeta Mellark, participated as a tribute in the 74th and 75th Hunger Games."}},{"@type":"Question","name":"Who did Mr. Mellark originally want to marry before he married Mrs. Mellark?","acceptedAnswer":{"@type":"Answer","text":"Before marrying his wife, Mr. Mellark desired to wed the mother of Katniss. However, she was enamored with Mr. Everdeen. Despite this, Mr. Mellark bore no ill feelings towards Mrs. Everdeen. He ultimately married another woman, who became Mrs. Mellark."}},{"@type":"Question","name":"How many sons did Mr. Mellark have?","acceptedAnswer":{"@type":"Answer","text":"In The Hunger Games series, Mr. Mellark is the father of three sons. His eldest and middle sons remain unnamed throughout the series, while his youngest son is known as Peeta Mellark, a central character in the trilogy."}},{"@type":"Question","name":"What are some character traits of Peeta Mellark that he may have inherited from Mr. Mellark?","acceptedAnswer":{"@type":"Answer","text":"Peeta Mellark, a key protagonist in The Hunger Games trilogy, likely inherited several traits from his father, Mr. Mellark. Mr. Mellark was a large, broad-shouldered man with burn scars from years of bakery work. He was a quiet, kinder, and more generous individual compared to his wife, often engaging in trades. He likely passed on his blond hair and blue eyes, typical of the merchant class, to Peeta."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FOtho_Mellark%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Otho Mellark was a member of District 12's <a href="/wiki/Merchant" title="Merchant">merchant</a> class. He attended the <a href="/wiki/Reaping" title="Reaping">reaping</a> of the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. After <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> was killed for attempting to run, Mellark was bewildered when the crowd was ordered to fall to the ground. <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> had to punch him in the back of his knee before he obeyed.<sup id="cite_ref-SOTR_2_1-0" class="reference"><a href="#cite_note-SOTR_2-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> 
+</p><p>In his youth, he wanted to marry <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid Everdeen</a>, but she "ran off with a <a href="/wiki/Coal_miner" title="Coal miner">coal miner</a>," Burdock.<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Mr. Mellark married another woman instead, who became <a href="/wiki/Mrs._Mellark" title="Mrs. Mellark">Mrs. Mellark</a>. They had three sons, with their youngest, Peeta, being born the same year that Mr. and Mrs. Everdeen had their first child, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a>. He and his family lived above the <a href="/wiki/Bakery" title="Bakery">bakery</a> where they worked.<sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>On Peeta's first day of <a href="/wiki/School" title="School">school</a>, Mr. Mellark pointed Katniss out to Peeta and told him of his past with her mother, particularly how she'd fallen for Mr. Everdeen's singing voice.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Katniss and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> tended to trade with Mr. Mellark when his wife was out, offering up squirrels they'd shot in exchange for bakery <a href="/wiki/Bread" title="Bread">bread</a>.<sup id="cite_ref-:2_4-0" class="reference"><a href="#cite_note-:2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>  Mr. Mellark often commented on how Katniss's arrows never pierced the squirrel's body, instead shooting them cleanly through the eye.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> He also traded generous amounts of bread for <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a>'s goat cheeses at <a href="/wiki/The_Hob" title="The Hob">the Hob</a>.<sup id="cite_ref-:2_4-1" class="reference"><a href="#cite_note-:2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FOtho_Mellark%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After saying goodbye to Peeta after the reaping, Mr. Mellark visited Katniss, gave her a packet of cookies, and promised to keep an eye on Prim and make sure she was eating.<sup id="cite_ref-:2_4-2" class="reference"><a href="#cite_note-:2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> He presumably made this visit because of his past feelings for Katniss's mother, as well as the business relationship he'd developed with Katniss herself over the years.<sup id="cite_ref-:2_4-3" class="reference"><a href="#cite_note-:2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>In the film, he only briefly appeared in the bakery in Katniss's flashback, while his wife beat Peeta.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FOtho_Mellark%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the events of the 75th Hunger Games, he and the rest of Peeta's family were killed when the <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> <a href="/wiki/Bombings#District_12" title="Bombings">bombed District 12</a>.<sup id="cite_ref-:3_7-0" class="reference"><a href="#cite_note-:3-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Mr. Mellark was included in the <a href="/wiki/Memory_book" title="Memory book">memory book</a> Katniss, Peeta, and <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch</a> made after the <a href="/wiki/Second_Rebellion" title="Second Rebellion">war</a>, highlighting how he brought Katniss the cookies.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FOtho_Mellark%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mr. Mellark had a wife, Mrs. Mellark, and the two of them had three children. Their <a href="/wiki/First_Mellark_son" title="First Mellark son">first son</a> is unnamed, and he was over 18 at the time of the 74th Hunger Games reaping. Their <a href="/wiki/Second_Mellark_son" title="Second Mellark son">second son</a>, also unnamed, was 17 or 18 at the time, while Peeta was the youngest at 16.<sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Mr. and Mrs. Mellark and their two older sons died in the bombing of District 12.<sup id="cite_ref-:3_7-1" class="reference"><a href="#cite_note-:3-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Peeta survived the Second Rebellion and went on to marry Katniss Everdeen, eventually having a <a href="/wiki/Katniss_and_Peeta_Mellark%27s_son" title="Katniss and Peeta Mellark's son">son</a> and a <a href="/wiki/Katniss_and_Peeta_Mellark%27s_daughter" title="Katniss and Peeta Mellark's daughter">daughter</a> together.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FOtho_Mellark%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Katniss described Mr. Mellark as a big, broad-shouldered man with burn scars from years at the oven.<sup id="cite_ref-:2_4-4" class="reference"><a href="#cite_note-:2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> He had meaty hands and blond hair.<sup id="cite_ref-SOTR_2_1-1" class="reference"><a href="#cite_note-SOTR_2-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FOtho_Mellark%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mr. Mellark was not a talkative man, but he was described as being "much nicer" than his wife, and he was quite generous in his trades with Katniss, Gale, and especially Prim, when Mrs. Mellark was not around.<sup id="cite_ref-:2_4-5" class="reference"><a href="#cite_note-:2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> He didn't seem to harbor any resentment towards Mrs. Everdeen for marrying someone else, and he treated her children kindly and respectfully.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FOtho_Mellark%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-SOTR_2-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR_2_1-0">1.0</a></sup> <sup><a href="#cite_ref-SOTR_2_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_2-0">2.0</a></sup> <sup><a href="#cite_ref-:0_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-:1-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_3-0">3.0</a></sup> <sup><a href="#cite_ref-:1_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-:2-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_4-0">4.0</a></sup> <sup><a href="#cite_ref-:2_4-1">4.1</a></sup> <sup><a href="#cite_ref-:2_4-2">4.2</a></sup> <sup><a href="#cite_ref-:2_4-3">4.3</a></sup> <sup><a href="#cite_ref-:2_4-4">4.4</a></sup> <sup><a href="#cite_ref-:2_4-5">4.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-:3-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_7-0">7.0</a></sup> <sup><a href="#cite_ref-:3_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Epilogue</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <strong class="mw-selflink selflink">Otho Mellark</strong> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20251230204134
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.093 seconds
+Real time usage: 0.165 seconds
+Preprocessor visited node count: 381/1000000
+Post‐expand include size: 3321/2097152 bytes
+Template argument size: 169/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4977/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   80.236      1 -total
+ 34.85%   27.965      1 Template:Character
+ 31.26%   25.079      1 Template:Reflist
+  2.24%    1.796      1 Template:SOTR
+  2.19%    1.760      1 Template:Quote
+  2.16%    1.733      1 Template:SOTRNav
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2339-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230204134 and revision id 966752. Rendering was triggered because: page-view
+ -->
+</div>

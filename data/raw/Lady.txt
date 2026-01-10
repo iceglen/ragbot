@@ -1,0 +1,246 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Lady</h2>
+
+	<div class="pi-image-collection wds-tabber" data-source="image">
+		<div class="wds-tabs__wrapper">
+			<ul class="wds-tabs">
+				
+					<li class="wds-tabs__tab wds-is-current">
+						<span class="wds-tabs__tab-label">
+							Film
+							
+						</span>
+					</li>
+				
+					<li class="wds-tabs__tab">
+						<span class="wds-tabs__tab-label">
+							Illustrated Edition
+							
+						</span>
+					</li>
+				
+			</ul>
+		</div>
+		
+			<div class="wds-tab__content wds-is-current">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/2/27/Goat-lady.jpg/revision/latest?cb=20160802140038" class="image image-thumbnail" title="Film">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/2/27/Goat-lady.jpg/revision/latest/scale-to-width-down/268?cb=20160802140038" srcset="https://static.wikia.nocookie.net/thehungergames/images/2/27/Goat-lady.jpg/revision/latest/scale-to-width-down/268?cb=20160802140038 1x, https://static.wikia.nocookie.net/thehungergames/images/2/27/Goat-lady.jpg/revision/latest?cb=20160802140038 2x" data-relevant="1" class="pi-image-thumbnail" alt="Film" width="270" height="150" data-image-key="Goat-lady.jpg" data-image-name="Goat-lady.jpg">
+						
+					</a>
+				</figure>
+			</div>
+		
+			<div class="wds-tab__content">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/d/df/Lady_Illustrated_Edition_closeup.png/revision/latest?cb=20250117033501" class="image image-thumbnail" title="Illustrated Edition">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/d/df/Lady_Illustrated_Edition_closeup.png/revision/latest/scale-to-width-down/268?cb=20250117033501" srcset="https://static.wikia.nocookie.net/thehungergames/images/d/df/Lady_Illustrated_Edition_closeup.png/revision/latest/scale-to-width-down/268?cb=20250117033501 1x, https://static.wikia.nocookie.net/thehungergames/images/d/df/Lady_Illustrated_Edition_closeup.png/revision/latest?cb=20250117033501 2x" data-relevant="1" class="pi-image-thumbnail" alt="Illustrated Edition" width="270" height="182" data-image-key="Lady Illustrated Edition closeup.png" data-image-name="Lady Illustrated Edition closeup.png">
+						
+					</a>
+				</figure>
+			</div>
+		
+	</div>
+
+
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Seam" title="The Seam">The Seam</a> (formerly)<p><a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> in <a href="/wiki/District_12" title="District 12">District 12</a></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Presumed deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i><p><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i><br><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></p></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>One of the goats, a white one with black patches, was lying down in a cart. It was easy to see why. Something, probably a dog, had mauled her shoulder and infection had set in.</i>"</span></dd>
+<dd>—<a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>'s description of the injured Lady<sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<p><b>Lady</b> was the goat that belonged to <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a>. She was given to Prim for her tenth birthday by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, Prim's sister, and provided milk and cheese for the family.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="86430" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who gave Lady the goat to Primrose Everdeen?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Katniss Everdeen gifted Lady, the goat, to her sister Primrose Everdeen on her tenth birthday. Katniss acquired Lady from the Goat Man, after bargaining with the earnings from a deer she and Gale had hunted. Lady, who was injured, was nursed back to health by Prim and her mother, providing milk and cheese for the Everdeen family.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="86431" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the significance of Lady the goat in Primrose Everdeen's life?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Lady, a goat owned by Primrose Everdeen, was a significant part of her life. Gifted by her sister, Katniss Everdeen, on her tenth birthday, Lady was bought from the Goat Man using earnings from a deer hunt. The lady goat provided dairy for the Everdeen family, contributing to their survival. However, after District 12 was bombed, Katniss found only Prim's cat, Buttercup, leading to the assumption of Lady's death.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="86432" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Katniss Everdeen acquire Lady the goat?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						On Prim's birthday, Katniss Everdeen was trading in the Hob when she encountered an old goat herder with a sick nanny goat. After considerable haggling, Katniss purchased the injured goat, adorned it with a pink ribbon, and presented it to Prim as a birthday gift. This goat was named Lady.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="86433" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Lady the goat play in the Everdeen family's survival?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Lady, the goat of Primrose Everdeen, was crucial to the Everdeen family's survival. Katniss Everdeen, Prim's sister, gifted Lady to Prim on her tenth birthday. Lady supplied the family with milk and cheese. Despite initial health issues, Prim and her mother restored Lady's health, enabling them to produce and sell cheese from Lady's milk, aiding the family's livelihood.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="86434" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was the original owner of Lady the goat before Katniss Everdeen bought her?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The original owner of Lady the goat was the Goat Man. Rooba, a District 12 butcher, intended to purchase Lady for slaughter. However, recognizing Katniss's intent, Rooba allowed her to buy Lady. Katniss negotiated with the Goat Man for 30 minutes before agreeing on a price.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Lady","mainEntity":[{"@type":"Question","name":"Who gave Lady the goat to Primrose Everdeen?","acceptedAnswer":{"@type":"Answer","text":"Katniss Everdeen gifted Lady, the goat, to her sister Primrose Everdeen on her tenth birthday. Katniss acquired Lady from the Goat Man, after bargaining with the earnings from a deer she and Gale had hunted. Lady, who was injured, was nursed back to health by Prim and her mother, providing milk and cheese for the Everdeen family."}},{"@type":"Question","name":"What was the significance of Lady the goat in Primrose Everdeen's life?","acceptedAnswer":{"@type":"Answer","text":"Lady, a goat owned by Primrose Everdeen, was a significant part of her life. Gifted by her sister, Katniss Everdeen, on her tenth birthday, Lady was bought from the Goat Man using earnings from a deer hunt. The lady goat provided dairy for the Everdeen family, contributing to their survival. However, after District 12 was bombed, Katniss found only Prim's cat, Buttercup, leading to the assumption of Lady's death."}},{"@type":"Question","name":"How did Katniss Everdeen acquire Lady the goat?","acceptedAnswer":{"@type":"Answer","text":"On Prim's birthday, Katniss Everdeen was trading in the Hob when she encountered an old goat herder with a sick nanny goat. After considerable haggling, Katniss purchased the injured goat, adorned it with a pink ribbon, and presented it to Prim as a birthday gift. This goat was named Lady."}},{"@type":"Question","name":"What role did Lady the goat play in the Everdeen family's survival?","acceptedAnswer":{"@type":"Answer","text":"Lady, the goat of Primrose Everdeen, was crucial to the Everdeen family's survival. Katniss Everdeen, Prim's sister, gifted Lady to Prim on her tenth birthday. Lady supplied the family with milk and cheese. Despite initial health issues, Prim and her mother restored Lady's health, enabling them to produce and sell cheese from Lady's milk, aiding the family's livelihood."}},{"@type":"Question","name":"Who was the original owner of Lady the goat before Katniss Everdeen bought her?","acceptedAnswer":{"@type":"Answer","text":"The original owner of Lady the goat was the Goat Man. Rooba, a District 12 butcher, intended to purchase Lady for slaughter. However, recognizing Katniss's intent, Rooba allowed her to buy Lady. Katniss negotiated with the Goat Man for 30 minutes before agreeing on a price."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLady%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/8f/THG_IE_flashback.jpg/revision/latest?cb=20250116032945" class="mw-file-description image"><img alt="Katniss and Gale presenting Prim with Lady in The Hunger Games: Illustrated Edition." src="https://static.wikia.nocookie.net/thehungergames/images/8/8f/THG_IE_flashback.jpg/revision/latest/scale-to-width-down/180?cb=20250116032945" decoding="async" loading="lazy" width="180" height="224" class="thumbimage" data-image-name="THG IE flashback.jpg" data-image-key="THG_IE_flashback.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:THG_IE_flashback.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss and Gale presenting Prim with Lady in <i><a href="/wiki/The_Hunger_Games:_Illustrated_Edition" title="The Hunger Games: Illustrated Edition">The Hunger Games: Illustrated Edition</a></i>.</p> 		 	</figcaption> </figure>
+<p>When Katniss first saw Lady, she belonged to the <a href="/wiki/Goat_Man" title="Goat Man">Goat Man</a>. Katniss and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale</a> had shot a deer earlier that day and gotten a decent price for it. Katniss wanted to buy Prim something for her birthday, and was heading to the market on the square to buy dress fabrics when the Goat Man and his herd of goats caught her attention. Lady was lying down in a cart, as her shoulder had been bitten and infected, likely by a dog. Katniss wanted to buy the goat for Prim, realizing it would make her even happier when she could also take care of the goat's wound. The goat was originally going to be bought by <a href="/wiki/Rooba" title="Rooba">Rooba</a>, a butcher from <a href="/wiki/District_12" title="District 12">District 12</a>, for slaughtering, but Rooba recognized Katniss trying to buy the goat and let her have Lady with a wink to Katniss. Katniss bartered with the Goat Man for half an hour before settling on a price. Immediately after purchasing Lady, Katniss bought a pink ribbon and tied it around the goat's neck. Prim was so excited when she got the goat that she cried and laughed all at once. Even though <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> was worried about the goat's odds of survival, she and Prim managed to restore Lady to full health.<sup id="cite_ref-THG_20_2-0" class="reference"><a href="#cite_note-THG_20-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Right after the <a href="/wiki/Reaping" title="Reaping">reaping</a> for the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>, Katniss told Prim that she could make cheese from Lady's milk to sell after remembering the failed attempt to teach her sister to hunt in the <a href="/wiki/Woods" title="Woods">woods</a>.<sup id="cite_ref-THG_3_3-0" class="reference"><a href="#cite_note-THG_3-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> When <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> became badly injured in the 74th Hunger Games, Katniss told him about how she had acquired Lady, altering details about how she had gotten the money as the entire population of <a href="/wiki/Panem" title="Panem">Panem</a> was listening.<sup id="cite_ref-THG_20_2-1" class="reference"><a href="#cite_note-THG_20-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>To cover for Katniss being out in the woods, Katniss and Prim lied about having discussed meeting the Goat Man about getting Lady pregnant. In their story, Katniss had misremembered Prim's directions and gone to the wrong place, explaining her lengthy absence.<sup id="cite_ref-CF_11_4-0" class="reference"><a href="#cite_note-CF_11-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>Katniss went back to her home in <a href="/wiki/District_12" title="District 12">District 12</a> after it was <a href="/wiki/Bombing_of_District_12" class="mw-redirect" title="Bombing of District 12">bombed</a> by <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, but could only find Prim's cat, <a href="/wiki/Buttercup" title="Buttercup">Buttercup</a>, so she assumed that Lady had died.<sup id="cite_ref-MJ_1_5-0" class="reference"><a href="#cite_note-MJ_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLady%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lady was a white goat with black patches, and when Katniss first brought her home for Prim, Lady wore a pink ribbon around her neck.<sup id="cite_ref-THG_20_2-2" class="reference"><a href="#cite_note-THG_20-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLady%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Lady is one of two named goats in the books, both female; the other goat is <a href="/wiki/Shamus" title="Shamus">Shamus</a>, belonging to the <a href="/wiki/Covey" title="Covey">Covey</a> in <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLady%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-THG_20-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_20_2-0">2.0</a></sup> <sup><a href="#cite_ref-THG_20_2-1">2.1</a></sup> <sup><a href="#cite_ref-THG_20_2-2">2.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-THG_3-3"><span class="mw-cite-backlink"><a href="#cite_ref-THG_3_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-CF_11-4"><span class="mw-cite-backlink"><a href="#cite_ref-CF_11_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-MJ_1-5"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_1_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251230034757
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.059 seconds
+Real time usage: 0.081 seconds
+Preprocessor visited node count: 216/1000000
+Post‐expand include size: 574/2097152 bytes
+Template argument size: 311/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2249/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   48.037      1 -total
+ 63.28%   30.397      1 Template:Character
+ 16.04%    7.707      1 Template:Reflist
+  3.14%    1.507      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2424-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230034757 and revision id 954461. Rendering was triggered because: page-view
+ -->
+</div>

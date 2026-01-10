@@ -1,0 +1,154 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="id=&quot;stub&quot;" style="padding:0.2em 0.4em; margin:0 0 10px 0; background:#fee; color:black; border:2px solid lightgray;-moz-border-radius-topleft: 15px;-moz-border-radius-topright: 15px;-moz-border-radius-bottomleft: 15px;-moz-border-radius-bottomright: 15px; text-align:center;"><i><b>This article is in need of clean up and improvement.</b><br /> You can help The Hunger Games Wiki by <a target="_blank" rel="noreferrer noopener" class="text" href="https://thehungergames.fandom.com/wiki/Octavia?action=edit">improving it</a>. </i></div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Octavia</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Octavia_durante_la_fiesta_de_Snow.png/revision/latest?cb=20140306190006" class="image image-thumbnail" title="Octavia durante la fiesta de Snow">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Octavia_durante_la_fiesta_de_Snow.png/revision/latest/scale-to-width-down/268?cb=20140306190006" srcset="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Octavia_durante_la_fiesta_de_Snow.png/revision/latest/scale-to-width-down/268?cb=20140306190006 1x, https://static.wikia.nocookie.net/thehungergames/images/3/3b/Octavia_durante_la_fiesta_de_Snow.png/revision/latest?cb=20140306190006 2x" class="pi-image-thumbnail" data-relevant="1" alt="Octavia durante la fiesta de Snow" width="270" height="260" data-image-key="Octavia_durante_la_fiesta_de_Snow.png" data-image-name="Octavia durante la fiesta de Snow.png" />
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">Early 20s</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Prep_team" title="Prep team">Prep team</a> to Katniss Everdeen</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a><br /><a href="/wiki/District_13" title="District 13">District 13</a> (briefly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games (film)</a><br /><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Brooke_Bundy" title="Brooke Bundy">Brooke Bundy</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>I cried when she drugged Peeta so she could go get him the medicine and when she kissed him good-bye.</i>"</span></dd>
+<dd>&#8212;Octavia mentioning a moment when <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> moved her<sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div>
+<p><b>Octavia</b> is a part of <a href="/wiki/Cinna" title="Cinna">Cinna</a>'s <a href="/wiki/Prep_team" title="Prep team">prep team</a> for Katniss Everdeen during the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th</a> and <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. She appears in all three books. Like most people living in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, Octavia loves high class fashion and the Games. She eventually grows very attached to Katniss.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext"><i>The Hunger Games</i></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Catching_Fire"><span class="tocnumber">1.2</span> <span class="toctext"><i>Catching Fire</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Mockingjay"><span class="tocnumber">1.3</span> <span class="toctext"><i>Mockingjay</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Work"><span class="tocnumber">2</span> <span class="toctext">Work</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Octavia was one of the members of Katniss' prep team along with <a href="/wiki/Flavius" title="Flavius">Flavius</a> and <a href="/wiki/Venia" title="Venia">Venia</a>. They prepared her to be dressed by Cinna. Following his death, they helped Katniss prepare for her role as the <a href="/wiki/Mockingjay_(bird)" title="Mockingjay (bird)">mockingjay</a> in the war.
+</p>
+<h3><span class="mw-headline" id="The_Hunger_Games"><i>The Hunger Games</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/90/Octavia_screen_cap.jpg/revision/latest?cb=20120827065040" class="mw-file-description image"><img alt="Octavia working on Katniss before the chariot rides." src="https://static.wikia.nocookie.net/thehungergames/images/9/90/Octavia_screen_cap.jpg/revision/latest/scale-to-width-down/180?cb=20120827065040" decoding="async" loading="lazy" width="180" height="144" class="thumbimage" data-image-name="Octavia screen cap.jpg" data-image-key="Octavia_screen_cap.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Octavia_screen_cap.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Octavia working on Katniss before the chariot rides.</p> 		 	</figcaption> </figure>
+<p>Octavia was one of the members of Katniss' prep team. She was disgusted by Katniss' appearance and often commented on it. During the time she and the prep team readied Katniss so Cinna could examine her, she was glad Katniss did not whine about the pain of them ripping off her leg hair and gave her some tips to maintain the look. After they finished, Octavia said she actually looked pretty good. Before the <a href="/wiki/Interviews" title="Interviews">interviews</a>, she and the rest of the prep team went to the <a href="/wiki/Training_Center" title="Training Center">Training Center</a> to prepare Katniss again so Cinna could begin designing her dress for the interviews with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>. The prep team was excited when Katniss made it back alive and welcomed her with love. They again prepared her prior to her final interview.
+</p>
+<h3><span class="mw-headline" id="Catching_Fire"><i>Catching Fire</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 327px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a8/Octavia....png/revision/latest?cb=20131127142117" class="mw-file-description image"><img alt="Octavia with Effie Trinket and Flavius in the Victors&#39; Village." src="https://static.wikia.nocookie.net/thehungergames/images/a/a8/Octavia....png/revision/latest/scale-to-width-down/327?cb=20131127142117" decoding="async" loading="lazy" width="327" height="155" class="thumbimage" data-image-name="Octavia....png" data-image-key="Octavia....png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Octavia....png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Octavia with Effie Trinket and Flavius in the Victors' Village.</p> 		 	</figcaption> </figure>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/OctaviaFlavius.JPG/revision/latest?cb=20140322010808" class="mw-file-description image"><img alt="Octavia and Flavius watching &#39;s interview." src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/OctaviaFlavius.JPG/revision/latest/scale-to-width-down/180?cb=20140322010808" decoding="async" loading="lazy" width="180" height="148" class="thumbimage" data-image-name="OctaviaFlavius.JPG" data-image-key="OctaviaFlavius.JPG" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:OctaviaFlavius.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Octavia and Flavius watching <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a>'s interview.</p> 		 	</figcaption> </figure>
+<p>Octavia was excited for Katniss since for her first year of being a <a href="/wiki/Mentor" title="Mentor">mentor</a>, she would have to mentor the tributes for the third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>. Octavia went along with the others on the <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a> to assist Cinna in dressing Katniss. Octavia, along with Flavius and Venia, arrived early to Katniss' new home in the <a href="/wiki/Victors%27_Village" title="Victors&#39; Village">Victors' Village</a> to get her ready for her wedding dress shoot. During that time Katniss discovered that more <a href="/wiki/Panem#Districts" title="Panem">districts</a> had been rebelling, based on their comments. Venia and the other members were conversing about not having seafood for weeks, electronic gadgets or fabric they needed and Katniss was able to figure out it was because of rebellion in those districts. Octavia cried when <a href="/wiki/President_Coriolanus_Snow" class="mw-redirect" title="President Coriolanus Snow">President Coriolanus Snow</a> announced that the third Quarter Quell would reap past <a href="/wiki/Victors" class="mw-redirect" title="Victors">victors</a>, meaning Katniss would have to participate, since she is the only living female victor for <a href="/wiki/District_12" title="District 12">District 12</a>. She said her final goodbyes to Katniss before she entered the <a href="/wiki/Arena" title="Arena">arena</a>. She was the first to be sent out by Venia, closely followed by Flavius.
+</p>
+<h3><span class="mw-headline" id="Mockingjay"><i>Mockingjay</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Octavia, and the other members of the prep team, were taken hostage by <a href="/wiki/District_13" title="District 13">District 13</a>. <a href="/wiki/President_Alma_Coin" class="mw-redirect" title="President Alma Coin">President Alma Coin</a> thought she would be doing Katniss a favor if she captured and tortured them for her. The three were fed, but they were not used to their food being rationed and thus eating less than normal, so Octavia stole a slice of bread and was caught. The prep team was then taken into a room and beaten until <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> distracted the guard and Katniss entered the room to discover her prep team. Katniss demanded that they be taken to her mother for treatment. Octavia recovered, thanks to <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a>, but was still terribly fearful. Octavia and the others prepared and dressed Katniss for the role of the Mockingjay. She trembled constantly, still scared of what had happened to them, but trusted Katniss. The first time Katniss took the prep team to eat in the dining hall, the other people stared and pointed at them. But when they ended up sitting with people from District 12, Gale's five-year-old sister <a href="/wiki/Posy_Hawthorne" title="Posy Hawthorne">Posy</a> asked about Octavia's skin being green, and concluded that Octavia would be pretty in any color, bringing the tiniest of smiles on her lips. The prep team assembled again after Snow was tried, found guilty, and sentenced to be executed. They dressed Katniss up in her mockingjay uniform and watched her during the trial. After the death of Coin, Flavius, Venia, and Octavia most likely returned to the Capitol.
+</p>
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The other members of her team are Venia and Flavius. Octavia, along with the rest of the prep team, prepped Katniss for the 74th and 75th Hunger Games. They also prepped her for her appearances as a victor. Octavia, Venia and Flavius were taken to District 13 to help Katniss with her mockingjay soldier outfit, as was Cinna's wish. However, Octavia stole a slice of bread from the food supplies, and the entire prep team was taken into custody by District 13 officials, who beat them as punishment. When Katniss went to see them to be assisted with the mockingjay soldier outfit, she discovers that they are being punished and is horrified. After torture, she is described as being "Half-naked, bruised, and shackled to the wall". Katniss demanded that the prep team be released, and is obeyed. After that experience Octavia was very scared living in District 13. In <i>Mockingjay</i>, Venia reminds her, "It's alright, Katniss won't hurt you". In <i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> and <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> Octavia lived in the Capitol, but briefly resided in District 13 in <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>. She was always wanting to look out for Katniss, especially for her appearance. Octavia has no known family, however she did mention having seven pet mice when she lived in the Capitol.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Octavia is a plump woman whose entire body has been dyed pale shades of green (light pea green in <i>The Hunger Games</i>, and light forest green in <i>Catching Fire </i>and light green in<i> Mockingjay</i>.) Her unnatural skin color was not portrayed in the films, and is only mentioned in the books. Like most of the people in the capitol, she often wears gaudy clothes, heavy makeup, and adorns her hair with dyes, jewelry, and knick-knacks. Katniss once stated that one day, Octavia showed up with bright pink tresses studded with blinking colored lights shaped like mice. This is inspired by her fondness of mice, and she explains to Katniss that she has several as pets. She also wears three-inch decorative nails. 
+</p><p>After being taken to District 13, her appearance changes a lot. Her real hair turns out to be a nice auburn. Her face is ordinary but has an undeniable sweetness. Katniss notes that she now looks younger than she thought before, maybe early twenties. Her fingers appear almost stubby without her long decorative nails.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Despite being taken in as refugees into District 13 in Mockingjay, Octavia, as well as Flavius, do not appear in the film adaptations of the novel. There are reports indicating that they indeed filmed scenes but these were cut as filmmakers wanted to focus on what was central to the plot.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20251225221453
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.037 seconds
+Real time usage: 0.064 seconds
+Preprocessor visited node count: 165/1000000
+Post‐expand include size: 999/2097152 bytes
+Template argument size: 224/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   31.606      1 -total
+ 88.45%   27.954      1 Template:Character
+  5.70%    1.802      1 Template:Quote
+  5.27%    1.667      1 Template:Cleanup
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2397-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225221453 and revision id 966245. Rendering was triggered because: page-view
+ -->
+</div>

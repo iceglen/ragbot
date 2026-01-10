@@ -1,0 +1,112 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Messalina Trinket</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Silius_Trinket" title="Silius Trinket">Silius Trinket</a> <small>(husband)</small></li><li><a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie</a> and <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> <small>(great-nieces)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Presumed deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Messalina Trinket</b> was the great-aunt of <a href="/wiki/Effie" class="mw-redirect" title="Effie">Effie</a> and <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a>. She was married to <a href="/wiki/Silius_Trinket" title="Silius Trinket">Silius Trinket</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMessalina_Trinket%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Messalina was active during the <a href="/wiki/Dark_Days" title="Dark Days">war</a>. Because of this, she had to attend many funerals, and thus owned a lot of black clothing. According to Effie, Messalina once brought great disgrace to the Trinket family. The disgrace involved weapons and blood, as <a href="/wiki/Haymitch" class="mw-redirect" title="Haymitch">Haymitch</a> found a "decorative" holster and bloodstains on the clothes he borrowed from Silius.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The Trinket family still hadn't recovered their reputation by the time of the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. Before the <a href="/wiki/Interviews" title="Interviews">interviews</a>, Effie asked Messalina if she could use her clothes to dress <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a> and <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>, and she acquiesced, presumably feeling that she'd owed Effie for the shame she'd brought to the family.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMessalina_Trinket%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to Proserpina, Messalina "never" threw anything away.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMessalina_Trinket%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="https://en.wikipedia.org/wiki/Messalina" class="extiw" title="wikipedia:Messalina">Messalina</a> was the third wife of the Roman emperor <a href="https://en.wikipedia.org/wiki/Claudius" class="extiw" title="wikipedia:Claudius">Claudius</a>. She had a reputation as a ruthless and promiscuous woman. In particular, she had an affair with Senator <a href="https://en.wikipedia.org/wiki/Gaius_Silius_(lover_of_Messalina)" class="extiw" title="wikipedia:Gaius Silius (lover of Messalina)">Gaius Silius</a>, had him divorce his wife, and then married Silius while the emperor was away. They were both executed, and the Roman Senate ordered that Messalina be <a href="https://en.wikipedia.org/wiki/Damnatio_memoriae" class="extiw" title="wikipedia:Damnatio memoriae">erased from memory</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The name "Trinket" refers to a small ornament or item of jewelry that is of little value. This is very fitting for Effie, and the rest of the Capitol citizens, as they prize meaningless possessions that though may have cost a lot, have no real purpose and are just for show. This helps to emphasize the poverty and starvation in the Districts, where people can not even afford to eat, let alone waste money on flashy objects and clothing.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMessalina_Trinket%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span typeof="mw:File"><a href="https://en.wikipedia.org/wiki/Messalina" title="wikipedia:Messalina"><img alt="WP favicon" src="https://static.wikia.nocookie.net/thehungergames/images/7/7c/WP_favicon.PNG/revision/latest/scale-to-width-down/20?cb=20231115025850" decoding="async" loading="lazy" width="20" height="20" class="mw-file-element" data-image-name="WP favicon.PNG" data-image-key="WP_favicon.PNG" data-relevant="0" /></a></span> <a href="https://en.wikipedia.org/wiki/Messalina" class="extiw" title="wikipedia:Messalina">Messalina</a> on Wikipedia</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20251228045512
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.036 seconds
+Real time usage: 0.092 seconds
+Preprocessor visited node count: 217/1000000
+Post‐expand include size: 493/2097152 bytes
+Template argument size: 162/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1606/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   75.362      1 -total
+ 63.43%   47.801      1 Template:Reflist
+ 26.16%   19.712      1 Template:Character
+  2.34%    1.766      4 Template:W
+  2.05%    1.545      1 Template:SOTR
+  1.75%    1.316      1 Template:Wp
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:544318-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228045512 and revision id 966746. Rendering was triggered because: page-view
+ -->
+</div>

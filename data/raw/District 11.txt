@@ -1,0 +1,324 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">District 11</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/cd/District_11_Seal.png/revision/latest?cb=20250622180658" class="image image-thumbnail" title="District 11 Seal">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/c/cd/District_11_Seal.png/revision/latest/scale-to-width-down/268?cb=20250622180658" srcset="https://static.wikia.nocookie.net/thehungergames/images/c/cd/District_11_Seal.png/revision/latest/scale-to-width-down/268?cb=20250622180658 1x, https://static.wikia.nocookie.net/thehungergames/images/c/cd/District_11_Seal.png/revision/latest/scale-to-width-down/536?cb=20250622180658 2x" class="pi-image-thumbnail" data-relevant="1" alt="District 11 Seal" width="270" height="321" data-image-key="District_11_Seal.png" data-image-name="District 11 Seal.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="industry">
+	
+		<h3 class="pi-data-label pi-secondary-font">Industry</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/Agriculture" class="extiw" title="wikipedia:Agriculture">Agriculture</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victors">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victors</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>First decade victor <sup id="cite_ref-Ballad_1_1-0" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li><li><a href="/wiki/Seeder" title="Seeder">Seeder</a></li><li><a href="/wiki/Chaff" title="Chaff">Chaff</a> (45th)</li><li>Implied male victor(s)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mayor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Leader(s)</h3>
+	
+	<div class="pi-data-value pi-font">Unnamed mayor<sup id="cite_ref-:3_2-0" class="reference"><a href="#cite_note-:3-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rebels">
+	
+		<h3 class="pi-data-label pi-secondary-font">Rebels</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Seeder" title="Seeder">Seeder</a><br /><a href="/wiki/Chaff" title="Chaff">Chaff</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="population">
+	
+		<h3 class="pi-data-label pi-secondary-font">Population</h3>
+	
+	<div class="pi-data-value pi-font">138,546</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="tesserae">
+	
+		<h3 class="pi-data-label pi-secondary-font">Tesserae</h3>
+	
+	<div class="pi-data-value pi-font">822,568</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Color</h3>
+	
+	<div class="pi-data-value pi-font"><span style="background-color:#4169E1; color:white; border:1px solid darkgray;">&#160;Royal Blue&#160;</span> (10th HG)<br /><p><span style="background-color:#023020; color:white; border:1px solid darkgray;">&#160;Dark green&#160;</span> (50th HG)<br /><span style="background-color:#36291f; color:white; border:1px solid darkgray;">&#160;Cocoa Brown&#160;</span> (74th HG)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="present_location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Present-day location</h3>
+	
+	<div class="pi-data-value pi-font"><b>Alabama</b>, <b>Arkansas</b>, <b>Louisiana</b>, <b>Mississippi</b>, <b>Oklahoma</b>, Texas, Tennessee</div>
+</div>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Tribute Guide">"<i>Known for its bountiful orchards, District 11's workers spend their days among rustling fruit trees and sizeable farms.</i>"</span></dd>
+<dd>&#8212;Description from <i><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">The Hunger Games: Tribute Guide</a></i><sup class="noprint"><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">[src]</a></sup></dd></dl></div>
+<p><b>District 11</b> is one of the thirteen <a href="/wiki/Districts" class="mw-redirect" title="Districts">districts</a> of <a href="/wiki/Panem" title="Panem">Panem</a>. Its main industry is agriculture.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Dark_Days"><span class="tocnumber">1.1</span> <span class="toctext">Dark Days</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Relationship_with_the_Games"><span class="tocnumber">1.2</span> <span class="toctext">Relationship with the Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#74th_Hunger_Games"><span class="tocnumber">1.2.1</span> <span class="toctext">74th Hunger Games</span></a>
+<ul>
+<li class="toclevel-4 tocsection-5"><a href="#Aftermath_of_the_74th_Hunger_Games"><span class="tocnumber">1.2.1.1</span> <span class="toctext">Aftermath of the 74th Hunger Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-6"><a href="#75th_Hunger_Games"><span class="tocnumber">1.2.2</span> <span class="toctext">75th Hunger Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Second_Rebellion"><span class="tocnumber">1.3</span> <span class="toctext">Second Rebellion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Culture"><span class="tocnumber">2</span> <span class="toctext">Culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Demographics"><span class="tocnumber">2.1</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Industry"><span class="tocnumber">2.2</span> <span class="toctext">Industry</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Government"><span class="tocnumber">2.3</span> <span class="toctext">Government</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Known_tributes"><span class="tocnumber">3</span> <span class="toctext">Known tributes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Tributes"><span class="tocnumber">3.1</span> <span class="toctext">Tributes</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Victors"><span class="tocnumber">3.2</span> <span class="toctext">Victors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Location_and_Geography"><span class="tocnumber">4</span> <span class="toctext">Location and Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Town_square"><span class="tocnumber">4.1</span> <span class="toctext">Town square</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Dark_Days"><a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Little is known of the district's role in the Dark Days, but when District 11 rebelled against <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, the loss of its crops would have contributed to starvation conditions in the city while it was under siege.<sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Relationship_with_the_Games">Relationship with the Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the first ten years of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, District 11 <a href="/wiki/Tribute" title="Tribute">tributes</a> were considered "contenders" in the competition,<sup id="cite_ref-Ballad_1_1-1" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> presumably due to strength built up by hard physical labor. Sometime before the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a> killed a <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a> in District 11, though he was never caught.<sup id="cite_ref-:2_5-0" class="reference"><a href="#cite_note-:2-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> In addition to building strength, involvement in the district's industry also gave tributes knowledge of edible and medicinal plants.<sup id="cite_ref-:3_2-1" class="reference"><a href="#cite_note-:3-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="74th_Hunger_Games"><a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Rue" title="Rue">Rue</a>, a twelve-year-old from District 11, asked her <a href="/wiki/Ally" class="mw-redirect" title="Ally">ally</a> <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> to sing to her as she lay dying. After Rue's death, Katniss wreathed her body in flowers. The people of District 11 then paid to <a href="/wiki/Sponsorship" title="Sponsorship">sponsor</a> Katniss, sending her a loaf of <a href="/wiki/Bread" title="Bread">bread</a>.<sup id="cite_ref-:4_6-0" class="reference"><a href="#cite_note-:4-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Thresh" title="Thresh">Thresh</a>, the other District 11 tribute, later saved and spared Katniss's life.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/6c/District_11salute.png/revision/latest?cb=20120523193032" class="mw-file-description image"><img alt="Katniss saluting District 11 after Rue&#39;s death." src="https://static.wikia.nocookie.net/thehungergames/images/6/6c/District_11salute.png/revision/latest/scale-to-width-down/200?cb=20120523193032" decoding="async" loading="lazy" width="200" height="109" class="thumbimage" data-image-name="District 11salute.png" data-image-key="District_11salute.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_11salute.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss saluting District 11 after Rue's death.</p> 		 	</figcaption> </figure><p>In <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>, Katniss thanked the people of 11 with <a href="/wiki/District_12" title="District 12">District 12</a>'s <a href="/wiki/Three_Finger_Salute" class="mw-redirect" title="Three Finger Salute">three-finger salute</a>, which they did back at her image on the screen. Then District 11 protested the unjust tragedy of Rue's murder with a fiery riot.<sup id="cite_ref-:5_8-0" class="reference"><a href="#cite_note-:5-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><h5><span class="mw-headline" id="Aftermath_of_the_74th_Hunger_Games">Aftermath of the 74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h5>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/35/Salute_2.jpg/revision/latest?cb=20120523202015" class="mw-file-description image"><img alt="District 11 citizens saluting Katniss back." src="https://static.wikia.nocookie.net/thehungergames/images/3/35/Salute_2.jpg/revision/latest/scale-to-width-down/200?cb=20120523202015" decoding="async" loading="lazy" width="200" height="109" class="thumbimage" data-image-name="Salute 2.jpg" data-image-key="Salute_2.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Salute_2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">District 11 citizens saluting Katniss back.</p> 		 	</figcaption> </figure><p>During Katniss and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>'s stop in 11 on their <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>, Peeta promised the families of Rue and Thresh a month of their winnings every year for the duration of the <a href="/wiki/Victor" title="Victor">victors</a>' lives. After Katniss's own speech expressing gratitude to the district, an <a href="/wiki/Unidentified_District_11_citizen" title="Unidentified District 11 citizen">old man</a> whistled <a href="/wiki/Rue%27s_four-note_song" title="Rue&#39;s four-note song">Rue's four-note song</a>, prompting the assembled crowd to do District 12's salute. Once Katniss and Peeta were led back inside the <a href="/wiki/Justice_Building#District_11" title="Justice Building">Justice Building</a>, the old man was dragged to the top of the steps by two Peacekeepers and shot in the back of the head.<sup id="cite_ref-:0_9-0" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> Two more gunshots were heard afterwards.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>On the day before the reading of the <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quell</a> card, there were rumors of uprisings in <a href="/wiki/District_7" title="District 7">District 7</a> and District 11.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="75th_Hunger_Games"><a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p>At the time of the third Quarter Quell, the tributes from Districts <a href="/wiki/District_3" title="District 3">3</a>, <a href="/wiki/District_4" title="District 4">4</a>, <a href="/wiki/District_6" title="District 6">6</a>, 7, <a href="/wiki/District_8" title="District 8">8</a>, and 11 were all involved in a rebel plan to protect Katniss and break out of the <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">75th Hunger Games arena</a>. Soon after the plan was enacted, District 11 had seized control of transportation.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion"><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Once Katniss's <a href="/wiki/Propo" title="Propo">propo</a> after the hospital <a href="/wiki/Bombing_of_District_8" class="mw-redirect" title="Bombing of District 8">bombing of District 8</a> aired across Panem, reinvigorated rebels were able to take control of Districts 3 and 11, with "inroads in several other districts as well".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The signature <a href="/wiki/Bread" title="Bread">bread</a> from this district is a dark, crescent-shaped roll dotted with seeds.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> Music is important to the people of District 11; they sing at home and at work. While in the treetops of the orchard, Rue sang a four-note tune to the <a href="/wiki/Mockingjay_(bird)" title="Mockingjay (bird)">mockingjays</a>, who would then copy it, in order to signal to the other workers below when it was quitting time.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most characters from this district have been described with dark brown skin and eyes.<sup id="cite_ref-:2_5-1" class="reference"><a href="#cite_note-:2-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-:3_2-2" class="reference"><a href="#cite_note-:3-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>  <a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> has explicitly confirmed that Rue and Thresh are African-American,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> so other characters described the same way almost certainly are as well. There are two known exceptions, one being <a href="/wiki/Seeder" title="Seeder">Seeder</a>, who has the same olive skin and straight black hair as people from <a href="/wiki/The_Seam" title="The Seam">the Seam</a> in District 12. The one feature that sets her apart is her golden-brown eyes, rather than the typical Seam gray.<sup id="cite_ref-:6_18-0" class="reference"><a href="#cite_note-:6-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup> The other exception is <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>, who looks identical to <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> with her dark pigtail braids, gray eyes and presumably, olive skin. During the riot scene in the first film, there appears to be more racial diversity among the citizens of District 11.
+</p>
+<h3><span class="mw-headline" id="Industry">Industry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3><p>
+District 11 specializes in agriculture. There are many <a href="/wiki/Tracker_jacker" title="Tracker jacker">tracker jacker</a> nests in the district, causing workers to keep medical leaves on hand. In the orchards, small children are sent to high branches to pick the highest fruits. They work long hours from sunrise to sunset. During the harvest they often work until well after dark, using torchlight and night vision glasses. Crops are sent to the Capitol, and people in the district are not allowed to eat them.<sup id="cite_ref-:3_2-3" class="reference"><a href="#cite_note-:3-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> In addition to tending the fields and orchards, District 11 is responsible for herds of dairy cattle.<sup id="cite_ref-:0_9-1" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/dd/Untitled3.png/revision/latest?cb=20140608143210" class="mw-file-description image"><img alt="The fence surrounding District 11." src="https://static.wikia.nocookie.net/thehungergames/images/d/dd/Untitled3.png/revision/latest/scale-to-width-down/200?cb=20140608143210" decoding="async" loading="lazy" width="200" height="83" class="thumbimage" data-image-name="Untitled3.png" data-image-key="Untitled3.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Untitled3.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The fence surrounding District 11.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Government">Government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>District 11 is heavily policed. The fence surrounding the district is at least 35 feet high, topped with coils of barbed wire, with "enormous" metal plates lining to base of it to prevent anyone digging underneath. It is also guarded by evenly-spaced watchtowers manned by armed Peacekeepers.<sup id="cite_ref-:0_9-2" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The punitive response to even minor offenses is extreme. According to Rue, the mayor was so strict that anyone caught eating the crops would be publicly whipped. She also said that Peacekeepers once killed a mentally disabled boy named <a href="/wiki/Martin" title="Martin">Martin</a> for trying to keep a pair of night vision glasses to play with.<sup id="cite_ref-:3_2-4" class="reference"><a href="#cite_note-:3-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_tributes">Known tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/69/District_11_Tributes.png/revision/latest?cb=20111120053444" class="mw-file-description image"><img alt="District 11 Tributes, 74th Hunger Games" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="200" height="219" class="thumbimage lazyload" data-image-name="District 11 Tributes.png" data-image-key="District_11_Tributes.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/69/District_11_Tributes.png/revision/latest/scale-to-width-down/200?cb=20111120053444" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/6/69/District_11_Tributes.png/revision/latest?cb=20111120053444" class="mw-file-description image"><img alt="District 11 Tributes, 74th Hunger Games" src="https://static.wikia.nocookie.net/thehungergames/images/6/69/District_11_Tributes.png/revision/latest/scale-to-width-down/200?cb=20111120053444" decoding="async" loading="lazy" width="200" height="219" class="thumbimage" data-image-name="District 11 Tributes.png" data-image-key="District_11_Tributes.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/69/District_11_Tributes.png/revision/latest/scale-to-width-down/200?cb=20111120053444" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_11_Tributes.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">District 11 Tributes, 74th Hunger Games</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Tributes">Tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Dill" title="Dill">Dill</a> - Female tribute in the 10th Hunger Games. Died of <a href="/wiki/Health_conditions#Tuberculosis" title="Health conditions">tuberculosis</a> on Day 1, placing 14th.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> In the film, she was killed after drinking water poisoned by <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>.<sup id="cite_ref-TBOSAS_film_20-0" class="reference"><a href="#cite_note-TBOSAS_film-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a> - Male tribute in the 10th Hunger Games. In the book, he was exhausted and poisoned by Lucy Gray Baird on Day 5. Placed 2nd.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup> In the film, he was killed by <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a> and placed 3rd<sup id="cite_ref-TBOSAS_film_20-1" class="reference"><a href="#cite_note-TBOSAS_film-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Hull" title="Hull">Hull</a> - Male tribute in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>. He was killed on the fifth day by a giant poisonous porcupine mutt after it had attacked <a href="/wiki/Buck" title="Buck">Buck</a> and <a href="/wiki/Chicory" title="Chicory">Chicory</a>, unable to drink the antidote syrup provided to him by <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>. Placed 6th out of 48.</li>
+<li><a href="/wiki/Chicory" title="Chicory">Chicory</a> - Female tribute in the 50th Hunger Games. She was killed on the fifth day by a giant poisonous porcupine mutt, pulseless when <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> checked after dispatching the porcupine. Placed 7th-8th out of 48.</li>
+<li><a href="/wiki/Tile" title="Tile">Tile</a> - Male tribute in the 50th Hunger Games, he was killed in the bloodbath on the first day.</li>
+<li><a href="/wiki/Blossom" title="Blossom">Blossom</a> - Female tribute in the 50th Hunger Games, she was killed in the volcanic eruption on the fourth day.</li>
+<li><a href="/wiki/Rue" title="Rue">Rue</a> - Female tribute in the 74th Hunger Games. Speared by <a href="/wiki/Marvel" title="Marvel">Marvel</a> on Day 8. Placed 7th.<sup id="cite_ref-:4_6-1" class="reference"><a href="#cite_note-:4-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Thresh" title="Thresh">Thresh</a> - Male tribute in the 74th Hunger Games. In the book, he was killed by <a href="/wiki/Cato" title="Cato">Cato</a> on Day 15, placing 5th.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup> In the film, he was placed 4th.<sup id="cite_ref-:5_8-1" class="reference"><a href="#cite_note-:5-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h3><span class="mw-headline" id="Victors">Victors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Chaff" title="Chaff">Chaff</a> - Victor of the <a href="/wiki/45th_Hunger_Games" title="45th Hunger Games">45th Hunger Games</a> and male tribute in the 75th Hunger Games.<sup id="cite_ref-:6_18-1" class="reference"><a href="#cite_note-:6-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup> Killed by <a href="/wiki/Brutus" title="Brutus">Brutus</a> on the third night, placing 8th.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Seeder" title="Seeder">Seeder</a> - Victor of an unknown Games and female tribute in the 75th. Died in the <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<p>In <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, at the time of <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, District 11 is together with <a href="/wiki/District_1" title="District 1">1</a>, <a href="/wiki/District_2" title="District 2">2</a> and <a href="/wiki/District_4" title="District 4">4</a> mentioned to be "contenders" for success in the games. Presumably, this means District 11 produced one or more victors during the first decade of the games.<sup id="cite_ref-Ballad_1_1-2" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Location_and_Geography">Location and Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the map of Panem featured in <i><a href="/wiki/The_Hunger_Games_Adventures" title="The Hunger Games Adventures">The Hunger Games Adventures</a></i>, District 11 is located in the far southeast of North America, along the Gulf Coast. From west to east, its territory corresponds primarily to the U.S. states of Oklahoma, Arkansas, Louisiana, Mississippi, Alabama, and Georgia. District 11 borders four districts: District 12 (to the northeast), <a href="/wiki/District_8" title="District 8">District 8</a> (to the north), <a href="/wiki/District_10" title="District 10">District 10</a> (to the southwest), and <a href="/wiki/District_2" title="District 2">District 2</a> (to the northwest).
+</p><p>In <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, District 11 is described as the fourth district from the east, after Districts 12, 8, and 6.<sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Katniss noted it was comfortably warm in District 11 when the Victory Tour took place, whereas it was still snowing in District 12.<sup id="cite_ref-:0_9-3" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> This warm climate would be ideal for a lengthy growing season and provide an ideal climate for a large variety of crops, which ties well to the district's industry of agriculture.
+</p><p>District 11 is very large. When Katniss and Peeta arrived for their Victory Tour, Katniss described the place as vast and endless, with things being spread out across great distances. On the <a href="/wiki/Train" title="Train">train</a>, they passed small communities of shacks; Katniss commented that "by comparison the houses in the Seam"— the poorest part of District 12— "are upscale". The dwellings were deserted at the time of their arrival, as everyone was out working on the harvest.<sup id="cite_ref-:0_9-4" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Town_square">Town square</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The train had to travel far to get from the fence to the main square, which was "ringed with run-down storefronts, most of which [were] abandoned". The square also housed the "huge marble structure" of the Justice Building, which had degraded over time.<sup id="cite_ref-:0_9-5" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>District 11's placement as among the poorest districts and the second highest numbering suggest that agriculture is the most dominant occupation in pre-industrial societies, and is heavily associated with slavery and low social class.</li>
+<li>The racial demographics, overpolicing, and economic exploitation in District 11 are extremely reminiscent of both historical American slavery and institutionalized racism in the present day. This has been a frequent topic of discussion in academic literature around the trilogy and the films.
+<ul><li>In <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>The Hunger Games: Mockingjay - Part 1</i></a><i>, </i>District 11's citizens are dressed in attire resembling that of the Antebellum South, further evoking the time of slavery.</li></ul></li>
+<li>In the 74th Hunger Games, District 11 had both the tallest tribute (Thresh), and the smallest and youngest tribute (Rue).</li>
+<li>All known tributes from 11 have names related to plants and agriculture.
+<ul><li>Rue is the name of an herb with a small yellow flower, and Thresh is a reference to "threshing", part of processing harvested grain.</li>
+<li>Seeder could be a reference to "seeding" or planting a field, and "chaff" is the outer hull of grain that is often removed during the refining process.</li>
+<li>Dill is the name of a herb, and Reaper refers to "reaping", cutting grain for harvest.</li></ul></li>
+<li>After being the 2nd - 4th districts (eventually the 2nd) to pry from the Capitol's rule, communications went out in Districts 1, 3, 4, and 7. Afterwards, District 11 sends food to rebelling districts in hopes of winning the war.</li>
+<li>According to the Capitol.PN, District 11 has a cultivated acreage of 12 with a population of 138,546, making it the fourth largest district, in terms of population.</li>
+<li>According to the Capitol.PN, District 11 claims 822,568 in tesserae, making it the second most impoverished district.
+<ul><li>If the population is 138,546 and they claim 822,568 tesserae, it would equal to 5.937 tesserae per person, making it the 10th richest district.</li></ul></li>
+<li>Based on the <a href="/wiki/Arena_wear" title="Arena wear">arena wear</a> for the 74th Hunger Games, the district's color seems to be cocoa brown (#36291f – <span style="background-color:#36291f; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>Although the final cut of <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> changed all the District banner colors to red, pre-release materials show District 11's color for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> appears to be royal blue (#4169E1 - <span style="background-color:#4169E1; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The arena wear  for the 50th Hunger Games was dark green (#023020 - <span style="background-color:#023020; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_1_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_1_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-:3-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_2-0">2.0</a></sup> <sup><a href="#cite_ref-:3_2-1">2.1</a></sup> <sup><a href="#cite_ref-:3_2-2">2.2</a></sup> <sup><a href="#cite_ref-:3_2-3">2.3</a></sup> <sup><a href="#cite_ref-:3_2-4">2.4</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 15</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-:1-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_4-0">4.0</a></sup> <sup><a href="#cite_ref-:1_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-:2-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_5-0">5.0</a></sup> <sup><a href="#cite_ref-:2_5-1">5.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-:4-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:4_6-0">6.0</a></sup> <sup><a href="#cite_ref-:4_6-1">6.1</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 18</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 21</span>
+</li>
+<li id="cite_note-:5-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:5_8-0">8.0</a></sup> <sup><a href="#cite_ref-:5_8-1">8.1</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-:0-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_9-0">9.0</a></sup> <sup><a href="#cite_ref-:0_9-1">9.1</a></sup> <sup><a href="#cite_ref-:0_9-2">9.2</a></sup> <sup><a href="#cite_ref-:0_9-3">9.3</a></sup> <sup><a href="#cite_ref-:0_9-4">9.4</a></sup> <sup><a href="#cite_ref-:0_9-5">9.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 5</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 12</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 27</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 7</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 16</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 3</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://ew.com/article/2011/04/07/hunger-games-suzanne-collins-gary-ross-exclusive/">https://ew.com/article/2011/04/07/hunger-games-suzanne-collins-gary-ross-exclusive/</a></span>
+</li>
+<li id="cite_note-:6-18"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:6_18-0">18.0</a></sup> <sup><a href="#cite_ref-:6_18-1">18.1</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 15</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-TBOSAS_film-20"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-TBOSAS_film_20-0">20.0</a></sup> <sup><a href="#cite_ref-TBOSAS_film_20-1">20.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 20</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 23</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 2</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 20</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><a href="/wiki/File:Anatomy_of_an_arena_costume.jpg" title="File:Anatomy of an arena costume.jpg">File:Anatomy_of_an_arena_costume.jpg</a></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><a href="/wiki/File:TBOSASScreensRight.jpg" title="File:TBOSASScreensRight.jpg">File:TBOSASScreensRight.jpg</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <strong class="mw-selflink selflink">District 11</strong> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251227210205
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.121 seconds
+Real time usage: 0.251 seconds
+Preprocessor visited node count: 762/1000000
+Post‐expand include size: 4081/2097152 bytes
+Template argument size: 444/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12768/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  126.094      1 -total
+ 41.53%   52.373      1 Template:Reflist
+ 20.63%   26.015      1 Template:District
+  1.57%    1.983      1 Template:SeriesTP
+  1.39%    1.752      6 Template:Colorbox
+  1.39%    1.748      1 Template:Quote
+  1.08%    1.363      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2068-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227210205 and revision id 967802. Rendering was triggered because: page-view
+ -->
+</div>

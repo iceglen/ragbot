@@ -1,0 +1,89 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><i><b>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>.</b><br /> You can help The Hunger Games Wiki by <a target="_blank" rel="noreferrer noopener" class="text" href="https://thehungergames.fandom.com/wiki/James_Logan?action=edit">expanding it</a>. </i></center></div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">James Logan</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/55/James_logan.png/revision/latest?cb=20120928011820" class="image image-thumbnail" title="James logan">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/5/55/James_logan.png/revision/latest?cb=20120928011820" srcset="https://static.wikia.nocookie.net/thehungergames/images/5/55/James_logan.png/revision/latest?cb=20120928011820 1x, https://static.wikia.nocookie.net/thehungergames/images/5/55/James_logan.png/revision/latest?cb=20120928011820 2x" class="pi-image-thumbnail" data-relevant="1" alt="James logan" width="251" height="375" data-image-key="James_logan.png" data-image-name="James logan.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth name">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
+	
+	<div class="pi-data-value pi-font">James Logan</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_5_male_(75th_HG)" title="District 5 male (75th HG)">District 5 male</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthday">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthday</h3>
+	
+	<div class="pi-data-value pi-font">October 27, 1970</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthplace">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthplace</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/Dallas" class="extiw" title="wikipedia:Dallas">Dallas</a>, Texas, U.S.A</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
+	
+		<h3 class="pi-data-label pi-secondary-font">Years active</h3>
+	
+	<div class="pi-data-value pi-font">1993–present</div>
+</div>
+</aside>
+
+</p><p><b>James Logan</b> is an actor and stuntman who portrayed the <a href="/wiki/District_5_male_(75th_HG)" title="District 5 male (75th HG)">District 5 male</a> <a href="/wiki/Tribute" title="Tribute">tribute</a> in <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>. He is known for his role in <i><a href="https://en.wikipedia.org/wiki/The_Mechanic_(2011_film)" class="extiw" title="wikipedia:The Mechanic (2011 film)">The Mechanic</a></i> with <a href="https://en.wikipedia.org/wiki/Jason_Statham" class="extiw" title="wikipedia:Jason Statham">Jason Statham</a>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FJames_Logan%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/name/nm0517576/" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/name/nm0517576/">James Logan</a> at the Internet Movie Database</span></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20251225070309
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.027 seconds
+Real time usage: 0.039 seconds
+Preprocessor visited node count: 94/1000000
+Post‐expand include size: 746/2097152 bytes
+Template argument size: 104/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   26.777      1 -total
+ 86.03%   23.037      1 Template:Actor
+  7.73%    2.070      3 Template:W
+  6.60%    1.768      1 Template:Imdb
+  5.49%    1.469      1 Template:Stub
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:271054-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225070309 and revision id 928381. Rendering was triggered because: page-view
+ -->
+</div>

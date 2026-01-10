@@ -1,0 +1,577 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Johanna Mason</h2>
+
+	<div class="pi-image-collection wds-tabber" data-source="image">
+		<div class="wds-tabs__wrapper">
+			<ul class="wds-tabs">
+				
+					<li class="wds-tabs__tab wds-is-current">
+						<span class="wds-tabs__tab-label">
+							Movies
+							
+						</span>
+					</li>
+				
+					<li class="wds-tabs__tab">
+						<span class="wds-tabs__tab-label">
+							Illustrated Edition
+							
+						</span>
+					</li>
+				
+			</ul>
+		</div>
+		
+			<div class="wds-tab__content wds-is-current">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b7/Johannamason_capitolprofile.jpg/revision/latest?cb=20130819201220" class="image image-thumbnail" title="Movies">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/b/b7/Johannamason_capitolprofile.jpg/revision/latest/scale-to-width-down/268?cb=20130819201220" srcset="https://static.wikia.nocookie.net/thehungergames/images/b/b7/Johannamason_capitolprofile.jpg/revision/latest/scale-to-width-down/268?cb=20130819201220 1x, https://static.wikia.nocookie.net/thehungergames/images/b/b7/Johannamason_capitolprofile.jpg/revision/latest/scale-to-width-down/536?cb=20130819201220 2x" data-relevant="1" class="pi-image-thumbnail" alt="Movies" width="270" height="366" data-image-key="Johannamason capitolprofile.jpg" data-image-name="Johannamason capitolprofile.jpg">
+						
+					</a>
+				</figure>
+			</div>
+		
+			<div class="wds-tab__content">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a0/JohannaIE.jpeg/revision/latest?cb=20251118222109" class="image image-thumbnail" title="Illustrated Edition">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/a/a0/JohannaIE.jpeg/revision/latest/scale-to-width-down/268?cb=20251118222109" srcset="https://static.wikia.nocookie.net/thehungergames/images/a/a0/JohannaIE.jpeg/revision/latest/scale-to-width-down/268?cb=20251118222109 1x, https://static.wikia.nocookie.net/thehungergames/images/a/a0/JohannaIE.jpeg/revision/latest/scale-to-width-down/536?cb=20251118222109 2x" data-relevant="1" class="pi-image-thumbnail" alt="Illustrated Edition" width="270" height="470" data-image-key="JohannaIE.jpeg" data-image-name="JohannaIE.jpeg">
+						
+					</a>
+				</figure>
+			</div>
+		
+	</div>
+
+
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">17 <small>(<a href="/wiki/71st_Hunger_Games" title="71st Hunger Games">71st Hunger Games</a>)</small><br>21 <small>(<i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>)</small><sup id="cite_ref-interview1_1-0" class="reference"><a href="#cite_note-interview1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-exhibition_johanna_2-0" class="reference"><a href="#cite_note-exhibition_johanna-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><br>21-22 <small>(<i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor" title="Victor">Victor</a> <small>(<a href="/wiki/71st_Hunger_Games" title="71st Hunger Games">71st Hunger Games</a>)</small><br><p><a href="/wiki/Tribute" title="Tribute">Tribute</a> <small>(<a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>)</small><br>Sex worker <small>(unwillingly)</small><sup id="cite_ref-interview2_3-0" class="reference"><a href="#cite_note-interview2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> in <a href="/wiki/District_7" title="District 7">District 7</a><br><p><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> &amp; <a href="/wiki/District_13" title="District 13">District 13</a> <small>(briefly)</small></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font">Unnamed family</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Weapons#Axe" title="Weapons">Axes</a><br><a href="/wiki/Throwing_Axes" class="mw-redirect" title="Throwing Axes">Throwing Axes</a><br>Wrestling<br><a href="/wiki/Gun" class="mw-redirect" title="Gun">Gun</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font">Brown <small>(books)</small><p>Green <small>(films)</small></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Brown <small>(books and films)</small></li><li>Brown with red dyed streaks <small>(<i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>)</small></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a><br><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">Catching Fire (film)</a><br><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a><br><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Jena_Malone" title="Jena Malone">Jena Malone</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Catching Fire">"<i>Well, yes, I'm angry. You know, I'm getting totally screwed over here. The deal was that if I win the Hunger Games, I get to live the rest of my life in peace. But now, you want to kill me again. Well, you know what? F---THAT! AND F--- EVERYBODY THAT HAD ANYTHING TO DO WITH IT! </i>"</span></dd>
+<dd>—Johanna Mason, angrily to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a><sup class="noprint"><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">[src]</a></sup></dd></dl></div>
+<p><b>Johanna Mason</b> of <a href="/wiki/District_7" title="District 7">District 7</a> was the <a href="/wiki/Victor" title="Victor">victor</a> of the <a href="/wiki/71st_Hunger_Games" title="71st Hunger Games">71st Hunger Games</a>.<sup id="cite_ref-:4_4-0" class="reference"><a href="#cite_note-:4-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> Four years later, she became a <a href="/wiki/Tribute" title="Tribute">tribute</a> in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">third Quarter Quell</a>,<sup id="cite_ref-:14_5-0" class="reference"><a href="#cite_note-:14-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> and she was a prisoner of war in the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.<sup id="cite_ref-:10_6-0" class="reference"><a href="#cite_note-:10-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> She was the last living victor from District 7 by the end of the rebellion.<sup id="cite_ref-:15_7-0" class="reference"><a href="#cite_note-:15-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#71st_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">71st Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#75th_Hunger_Games_/_Third_Quarter_Quell"><span class="tocnumber">1.3</span> <span class="toctext">75th Hunger Games / Third Quarter Quell</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Tribute_Parade"><span class="tocnumber">1.3.1</span> <span class="toctext">Tribute Parade</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Training"><span class="tocnumber">1.3.2</span> <span class="toctext">Training</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Interviews"><span class="tocnumber">1.3.3</span> <span class="toctext">Interviews</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#The_Games"><span class="tocnumber">1.3.4</span> <span class="toctext">The Games</span></a>
+<ul>
+<li class="toclevel-4 tocsection-9"><a href="#Day_1"><span class="tocnumber">1.3.4.1</span> <span class="toctext">Day 1</span></a></li>
+<li class="toclevel-4 tocsection-10"><a href="#Day_2"><span class="tocnumber">1.3.4.2</span> <span class="toctext">Day 2</span></a></li>
+<li class="toclevel-4 tocsection-11"><a href="#Day_3"><span class="tocnumber">1.3.4.3</span> <span class="toctext">Day 3</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Second_Rebellion"><span class="tocnumber">1.4</span> <span class="toctext">Second Rebellion</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Imprisonment_and_Rescue"><span class="tocnumber">1.4.1</span> <span class="toctext">Imprisonment and Rescue</span></a>
+<ul>
+<li class="toclevel-4 tocsection-14"><a href="#Military_Training"><span class="tocnumber">1.4.1.1</span> <span class="toctext">Military Training</span></a>
+<ul>
+<li class="toclevel-5 tocsection-15"><a href="#The_Block"><span class="tocnumber">1.4.1.1.1</span> <span class="toctext">The Block</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Post-war"><span class="tocnumber">1.5</span> <span class="toctext">Post-war</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Alliances"><span class="tocnumber">2</span> <span class="toctext">Alliances</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Victims"><span class="tocnumber">3</span> <span class="toctext">Victims</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Personality"><span class="tocnumber">4</span> <span class="toctext">Personality</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Physical_description"><span class="tocnumber">5</span> <span class="toctext">Physical description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Films"><span class="tocnumber">5.1</span> <span class="toctext">Films</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Skills"><span class="tocnumber">6</span> <span class="toctext">Skills</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Relationships"><span class="tocnumber">7</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#Family"><span class="tocnumber">7.1</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Finnick_Odair"><span class="tocnumber">7.2</span> <span class="toctext">Finnick Odair</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Katniss_Everdeen"><span class="tocnumber">7.3</span> <span class="toctext">Katniss Everdeen</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Wiress_and_Beetee"><span class="tocnumber">7.4</span> <span class="toctext">Wiress and Beetee</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Peeta_Mellark"><span class="tocnumber">7.5</span> <span class="toctext">Peeta Mellark</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Etymology"><span class="tocnumber">8</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#Trivia"><span class="tocnumber">9</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Gallery"><span class="tocnumber">10</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="12138" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who portrays Johanna Mason in the Hunger Games films?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						American actress Jena Malone portrays the character Johanna Mason in the Hunger Games film series, including 'Catching Fire', 'Mockingjay - Part 1', and 'Mockingjay - Part 2'.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12139" data-revision-id="3">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Johanna Mason become the victor of the 71st Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Johanna Mason, from District 7, won the 71st Hunger Games by pretending to be weak so that she would be overlooked in the arena. Once most of the other tributes were eliminated, Johanna revealed her deadly capacity to kill. She most likely used an axe, which was her weapon of choice in the 75th Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Community
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12140" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Does Johanna Mason survive the events of the Hunger Games series?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Johanna Mason, the District 7 tribute, is a survivor of the Hunger Games series. She claimed victory in the 71st Hunger Games and participated in the third Quarter Quell. Despite being a prisoner of war in the Second Rebellion, she remained the final surviving victor from her district post-rebellion.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12141" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What district is Johanna Mason originally from in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games series, Johanna Mason hails from District 7, renowned for its lumber industry. Her upbringing in this district honed her axe-wielding skills.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12142" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role does Johanna Mason play in the Mockingjay part of the Hunger Games series?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Johanna Mason, a victor from District 7, is a key character in the Mockingjay segment of the Hunger Games series. After a brief stint in the Capitol, she is moved to District 13. Here, she receives military training and takes part in the Second Rebellion. Johanna survives the series.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Johanna Mason","mainEntity":[{"@type":"Question","name":"Who portrays Johanna Mason in the Hunger Games films?","acceptedAnswer":{"@type":"Answer","text":"American actress Jena Malone portrays the character Johanna Mason in the Hunger Games film series, including 'Catching Fire', 'Mockingjay - Part 1', and 'Mockingjay - Part 2'."}},{"@type":"Question","name":"How did Johanna Mason become the victor of the 71st Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Johanna Mason, from District 7, won the 71st Hunger Games by pretending to be weak so that she would be overlooked in the arena. Once most of the other tributes were eliminated, Johanna revealed her deadly capacity to kill. She most likely used an axe, which was her weapon of choice in the 75th Hunger Games."}},{"@type":"Question","name":"Does Johanna Mason survive the events of the Hunger Games series?","acceptedAnswer":{"@type":"Answer","text":"Johanna Mason, the District 7 tribute, is a survivor of the Hunger Games series. She claimed victory in the 71st Hunger Games and participated in the third Quarter Quell. Despite being a prisoner of war in the Second Rebellion, she remained the final surviving victor from her district post-rebellion."}},{"@type":"Question","name":"What district is Johanna Mason originally from in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games series, Johanna Mason hails from District 7, renowned for its lumber industry. Her upbringing in this district honed her axe-wielding skills."}},{"@type":"Question","name":"What role does Johanna Mason play in the Mockingjay part of the Hunger Games series?","acceptedAnswer":{"@type":"Answer","text":"Johanna Mason, a victor from District 7, is a key character in the Mockingjay segment of the Hunger Games series. After a brief stint in the Capitol, she is moved to District 13. Here, she receives military training and takes part in the Second Rebellion. Johanna survives the series."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Johanna Mason was born in <a href="/wiki/District_7" title="District 7">District 7</a>, a district known for producing lumber. She became very tough and physically durable as a result of the work she did, and developed great skill with wielding an axe.<sup id="cite_ref-:9_8-0" class="reference"><a href="#cite_note-:9-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> Katniss notes that she'd probably been able to wield an axe since she could toddle.
+</p>
+<h3><span class="mw-headline" id="71st_Hunger_Games">71st Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Johanna participated in the 71st Hunger Games<sup id="cite_ref-:4_4-1" class="reference"><a href="#cite_note-:4-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> at the age of seventeen.<sup id="cite_ref-interview1_1-1" class="reference"><a href="#cite_note-interview1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> The <a href="/wiki/District_7_stylist" title="District 7 stylist">District 7 stylist</a> dressed Johanna and her <a href="/wiki/District_partner" title="District partner">district partner</a> as trees, just like four decades' worth of tributes before them.<sup id="cite_ref-:0_9-0" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>Johanna pretended to be a "sniveling, cowardly fool"<sup id="cite_ref-THG_3_10-0" class="reference"><a href="#cite_note-THG_3-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> so that she would be ignored, and when only a handful of tributes were left, she revealed a "wicked ability to murder".<sup id="cite_ref-:0_9-1" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> After her victory, she was <a href="/wiki/Victor_trafficking" title="Victor trafficking">sex trafficked</a> by <a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">President Snow</a>, and if she put up any resistance at all, people she loved were "killed or tormented in some way".<sup id="cite_ref-interview2_3-1" class="reference"><a href="#cite_note-interview2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Any loved ones she had died sometime before the Quell.<sup id="cite_ref-:1_11-0" class="reference"><a href="#cite_note-:1-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span id="75th_Hunger_Games_.2F_Third_Quarter_Quell"></span><span class="mw-headline" id="75th_Hunger_Games_/_Third_Quarter_Quell">75th Hunger Games / Third Quarter Quell</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Catching Fire">"<i>My stylist is such an idiot. District 7, lumber. I'd like to put an axe in her face.</i>"</span></dd>
+<dd>—Johanna Mason<sup class="noprint"><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">[src]</a></sup></dd></dl></div><p>
+Four years after her victory, Johanna was <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaped</a> again during the Third Quarter Quell, alongside <a href="/wiki/Blight" title="Blight">Blight</a>. At the time, Johanna was 21 years old, the next youngest tribute in the Quarter Quell after 17-year-olds <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>.<sup id="cite_ref-interview1_1-2" class="reference"><a href="#cite_note-interview1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></p><figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 220px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/7d/Johanna_and_Blight.jpeg/revision/latest?cb=20200828080953" class="mw-file-description image"><img alt="Johanna and Blight in their chariot " src="https://static.wikia.nocookie.net/thehungergames/images/7/7d/Johanna_and_Blight.jpeg/revision/latest/scale-to-width-down/220?cb=20200828080953" decoding="async" loading="lazy" width="220" height="219" class="thumbimage" data-image-name="Johanna and Blight.jpeg" data-image-key="Johanna_and_Blight.jpeg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Johanna_and_Blight.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Johanna and Blight in their chariot </p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Tribute_Parade">Tribute Parade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/06/JohannaElevator.jpg/revision/latest?cb=20190331195424" class="mw-file-description image"><img alt="Johanna stripping in front of Katniss, Peeta, and Haymitch." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="101" class="thumbimage lazyload" data-image-name="JohannaElevator.jpg" data-image-key="JohannaElevator.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/06/JohannaElevator.jpg/revision/latest/scale-to-width-down/180?cb=20190331195424"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/0/06/JohannaElevator.jpg/revision/latest?cb=20190331195424" class="mw-file-description image"><img alt="Johanna stripping in front of Katniss, Peeta, and Haymitch." src="https://static.wikia.nocookie.net/thehungergames/images/0/06/JohannaElevator.jpg/revision/latest/scale-to-width-down/180?cb=20190331195424" decoding="async" loading="lazy" width="180" height="101" class="thumbimage" data-image-name="JohannaElevator.jpg" data-image-key="JohannaElevator.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/06/JohannaElevator.jpg/revision/latest/scale-to-width-down/180?cb=20190331195424"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:JohannaElevator.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Johanna stripping in front of Katniss, Peeta, and Haymitch.</p> 		 	</figcaption> </figure>
+<p>Johanna first met Katniss and Peeta after the opening ceremonies, in the elevator up to their apartments in the <a href="/wiki/Training_Center" title="Training Center">Training Center</a>. Removing her leafy headdress, Johanna complained that tributes from 7 had been dressed as trees for forty years under the same <a href="/wiki/Stylist" title="Stylist">stylist</a>, and she wished that she had gotten <a href="/wiki/Cinna" title="Cinna">Cinna</a> instead. Then she unzipped her costume the rest of the way, leaving nothing else but her forest green slippers. Katniss was immediately turned off by this. Johanna discussed Peeta's paintings with him, and Katniss ignored Peeta after Johanna exited, though she could tell he was grinning. Peeta later explained to Katniss that Johanna did this to get a reaction, since she and the other tributes obviously saw Katniss as being the most "pure" of the Victors. <sup id="cite_ref-:0_9-2" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>
+In the book, <a href="/wiki/Chaff" title="Chaff">Chaff</a> and <a href="/wiki/Seeder" title="Seeder">Seeder</a> were also in the elevator,<sup id="cite_ref-:0_9-3" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> but in the film, their place was taken by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>.<sup id="cite_ref-:6_12-0" class="reference"><a href="#cite_note-:6-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c6/Thgexplorer_johanna.jpg/revision/latest?cb=20240616011221" class="mw-file-description image"><img alt="Johanna in the Training Center." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="120" class="thumbimage lazyload" data-image-name="Thgexplorer johanna.jpg" data-image-key="Thgexplorer_johanna.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c6/Thgexplorer_johanna.jpg/revision/latest/scale-to-width-down/180?cb=20240616011221"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/c/c6/Thgexplorer_johanna.jpg/revision/latest?cb=20240616011221" class="mw-file-description image"><img alt="Johanna in the Training Center." src="https://static.wikia.nocookie.net/thehungergames/images/c/c6/Thgexplorer_johanna.jpg/revision/latest/scale-to-width-down/180?cb=20240616011221" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Thgexplorer johanna.jpg" data-image-key="Thgexplorer_johanna.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c6/Thgexplorer_johanna.jpg/revision/latest/scale-to-width-down/180?cb=20240616011221"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Thgexplorer_johanna.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Johanna in the Training Center.</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Training">Training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On the first morning of training, Johanna was seen naked again, oiling down her skin for a wrestling lesson. Sometime before lunch, she mentioned the nicknames Nuts and Volts to Peeta, in reference to <a href="/wiki/Wiress" title="Wiress">Wiress</a> and <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a>.<sup id="cite_ref-:7_13-0" class="reference"><a href="#cite_note-:7-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup> In the film, she intimidated Katniss with her coordination and precision in wielding an <a href="/wiki/Weapons#Axe" title="Weapons">axe</a>.<sup id="cite_ref-:6_12-1" class="reference"><a href="#cite_note-:6-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> She later received a "low to medium" <a href="/wiki/Training_score" title="Training score">training score</a>.<sup id="cite_ref-:8_14-0" class="reference"><a href="#cite_note-:8-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Interviews"><a href="/wiki/Interviews" title="Interviews">Interviews</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Before interviews began, when Katniss arrived backstage in her wedding dress, Johanna stopped to straighten Katniss's pearl necklace and told her to "Make him pay for it," meaning President Snow. During Johanna's interview with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>, she asked if something could be done about the victors going back into the arena, since surely the <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> never anticipated such attachment forming between the victors and the Capitol.<sup id="cite_ref-:8_14-1" class="reference"><a href="#cite_note-:8-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> At the end of the program, Johanna held hands with the other victors in a show of rebellion, and afterward, she and <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> tried to get into an elevator with Katniss and Peeta, but they were blocked from doing so by a <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a>.<sup id="cite_ref-:3_15-0" class="reference"><a href="#cite_note-:3-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5b/Catching-Fire-Johanna-Mason-stylist.png/revision/latest?cb=20230517234254" class="mw-file-description image"><img alt="Johanna and her stylist" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="183" class="thumbimage lazyload" data-image-name="Catching-Fire-Johanna-Mason-stylist.png" data-image-key="Catching-Fire-Johanna-Mason-stylist.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5b/Catching-Fire-Johanna-Mason-stylist.png/revision/latest/scale-to-width-down/180?cb=20230517234254"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5b/Catching-Fire-Johanna-Mason-stylist.png/revision/latest?cb=20230517234254" class="mw-file-description image"><img alt="Johanna and her stylist" src="https://static.wikia.nocookie.net/thehungergames/images/5/5b/Catching-Fire-Johanna-Mason-stylist.png/revision/latest/scale-to-width-down/180?cb=20230517234254" decoding="async" loading="lazy" width="180" height="183" class="thumbimage" data-image-name="Catching-Fire-Johanna-Mason-stylist.png" data-image-key="Catching-Fire-Johanna-Mason-stylist.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5b/Catching-Fire-Johanna-Mason-stylist.png/revision/latest/scale-to-width-down/180?cb=20230517234254"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Catching-Fire-Johanna-Mason-stylist.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Johanna and her stylist</p> 		 	</figcaption> </figure>
+<p>In the film, Caesar asked Johanna if she was angry with the victors going back into the arena, and Johanna furiously replied that she was angry because winning the Hunger Games was supposed to exempt her for life, yet the Capitol wanted to try and kill her again. She cursed everyone who was involved, then stormed backstage. Later, her stylist knelt beside her to adjust her dress, and Johanna was met with Katniss in her wedding dress. Johanna then told Katniss to make Snow pay for it, as in the book, and returned to the stage to hold hands with the other victors.<sup id="cite_ref-:6_12-2" class="reference"><a href="#cite_note-:6-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span class="mw-headline" id="Day_1">Day 1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Johanna survived the initial <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>, making it away with Blight, Beetee, and Wiress before heading into the jungle.<sup id="cite_ref-:2_16-0" class="reference"><a href="#cite_note-:2-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> In the film, she tried to kill the <a href="/wiki/District_10_female_(75th_HG)" title="District 10 female (75th HG)">District 10 female</a> with one of her axes, but the woman was able to dodge it. <sup id="cite_ref-:6_12-3" class="reference"><a href="#cite_note-:6-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<h5><span class="mw-headline" id="Day_2">Day 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Around one in the morning on the second day, Johanna and her <a href="/wiki/Alliance" title="Alliance">alliance</a> were very thirsty and looking forward to a rainstorm when they were caught in the <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">clock arena</a>'s blood rain sector. They stumbled around, blinded, until Blight ran into the <a href="/wiki/Force_field" title="Force field">force field</a> near the end of the sector's time period. He was killed instantly.<sup id="cite_ref-:2_16-1" class="reference"><a href="#cite_note-:2-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> Sometime after this, Wiress figured out the clock mechanism, and she sang nursery rhymes about clocks for hours before "she started tick-tocking", as Johanna put it.<sup id="cite_ref-:9_8-1" class="reference"><a href="#cite_note-:9-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>Between ten o'clock and noon, Johanna, Beetee, and Wiress caught up with Katniss, Peeta, and Finnick. Katniss came to Wiress's defense when Johanna pushed the older woman down on the beach, and Johanna, agitated, claimed to have brought Beetee and Wiress for Katniss. However, before she could say more, Finnick grabbed her and repeatedly dunked her into the salt lake. Once all the blood was cleaned off, Johanna ate and drank voraciously while Finnick caught her up on the events had befallen them. Eventually, Johanna and Katniss took watch while the others rested. Here, she asked Katniss about what had happened to <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>, then informed Katniss that Mags had been Finnick's mentor and "half his family." After this, she clarified that she'd gotten Beetee and Wiress for Katniss on Haymitch's direction, in order to secure their alliance. When Wiress reappeared, Johanna excused herself to go rest beside Finnick.<sup id="cite_ref-:2_16-2" class="reference"><a href="#cite_note-:2-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>
+</p><p>Johanna and the others were woken a few hours later by Katniss, who explained about the clock, and the group decided to verify the theory and restock at the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a>. There, Johanna obtained a pair of "lethal-looking" axes and several knives before they were ambushed by the <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tributes</a>. <a href="/wiki/Gloss" title="Gloss">Gloss</a> slit Wiress's throat, Katniss shot Gloss in the right temple with an <a href="/wiki/Bow_and_arrow" title="Bow and arrow">arrow</a>, and Johanna buried an axe blade in <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a>'s chest. <a href="/wiki/Brutus" title="Brutus">Brutus</a> and <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> sprinted down a strip of sand into the jungle, but when Johanna and her allies made to give chase, the Cornucopia spun around. This knocked all three bodies into the water, along with a living Beetee, and disoriented the group. It also erased any advantage they'd gained in figuring out which sectors of the clock corresponded to which hour. With Beetee and his coil of wire recovered, the group returned to the jungle, only for Finnick and Katniss to find themselves trapped in the <a href="/wiki/Jabberjay" title="Jabberjay">jabberjay</a> sector at four o'clock.<sup id="cite_ref-:9_8-2" class="reference"><a href="#cite_note-:9-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>Johanna and Peeta tried to cut through an invisible wall, but they were separated from their allies until the hour was up. Johanna made to go tap the trees for water with a spile, but Katniss tried to warn her against it because the jabberjays echoed the fabricated screams of tributes' loved ones. However, Johanna replied that she couldn't be hurt because she had no one left. She also collected arrows that Katniss had shot at the birds. After a cannon blast, she returned to the beach to see a tribute's body being extracted from another sector of jungle in pieces. Later that evening, the alliance received a <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gift</a> of <a href="/wiki/Bread" title="Bread">bread</a>: twenty-four rolls from District 3,<sup id="cite_ref-:1_11-1" class="reference"><a href="#cite_note-:1-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> corresponding with an agreed-upon rebel code. This meant that they needed to enact their mission at midnight on their third night inside the arena.<sup id="cite_ref-:10_6-1" class="reference"><a href="#cite_note-:10-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> After joking darkly that they should each have three rolls, and whoever survives till morning can have the rest, Johanna laid down to sleep.<sup id="cite_ref-:1_11-2" class="reference"><a href="#cite_note-:1-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<h5><span class="mw-headline" id="Day_3">Day 3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Another sponsor gift delivery of bread arrived in the morning on the ten o'clock beach. Johanna kept a "careful eye" on Katniss and Peeta's swimming lesson, but evidently lost interest and took a nap. Finnick later woke her so Beetee could explain his plan to kill the Careers— which was actually a cover story for the real rebel plan Johanna, Beetee, and Finnick were already in on. Around nine in the morning, the alliance left their camp to go inspect the lightning tree. While Beetee did so and Finnick guarded, Johanna tapped the trees for water. Shortly after eleven, Johanna recommended that they leave before the midday lightning storm. In the blood rain sector, they settled down to eat before taking a "circuitous route" back to their camp on the ten o'clock beach. Johanna kept watch as Finnick, Katniss, and Peeta prepared their seafood. More bread arrived to reaffirm the time of the mission.<sup id="cite_ref-:18_17-0" class="reference"><a href="#cite_note-:18-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>
+</p><p>Around nine in the evening, Johanna and her allies left their camp for the twelve o'clock beach, then hiked up through the jungle to the lightning tree. Beetee had wrapped his wire around the tree by 10:30 when he explained the rest of the cover-story plan. He sent Johanna and Katniss into the jungle together to unspool the wire all the way down to the beach and sink it into the salt lake. The girls took turns unwinding it, and about halfway down, they heard clicking rise from the eleven o'clock sector, marking the time. Shortly after, when Johanna was passing the coil to Katniss, Enobaria and Brutus cut the wire somewhere above them. At this point, Johanna knocked Katniss over the head with the heavy metal cylinder,<sup id="cite_ref-:11_18-0" class="reference"><a href="#cite_note-:11-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup> then cut the <a href="/wiki/Tracker" title="Tracker">tracker</a> out of Katniss's arm so the Capitol would be unable to find her.<sup id="cite_ref-:10_6-2" class="reference"><a href="#cite_note-:10-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> Johanna also smeared blood across Katniss's face to make Enobaria and Brutus believe she was already dying.<sup id="cite_ref-:11_18-1" class="reference"><a href="#cite_note-:11-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup> Johanna then led the Careers away.<sup id="cite_ref-:10_6-3" class="reference"><a href="#cite_note-:10-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>Using the twelve o'clock lightning strike, Katniss was able to blow out the arena's force field with an electrified arrow at midnight. As a result, rebels from District 13 were able to extract Katniss, Finnick, and Beetee, whereas Johanna, Peeta, and Enobaria were captured by the Capitol.<sup id="cite_ref-:10_6-4" class="reference"><a href="#cite_note-:10-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion"><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Imprisonment_and_Rescue">Imprisonment and Rescue</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Johanna, Peeta, and the kidnapped <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> were held captive by the Capitol for five or six weeks after the Quell.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup> Upon rescue, Johanna was emaciated, bruised, and covered in oozing scabs, and her head had been completely shaven.<sup id="cite_ref-:12_20-0" class="reference"><a href="#cite_note-:12-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup> During her imprisonment, she had been soaked in water and then tortured with electric shocks. She developed a fear of water as a result.<sup id="cite_ref-:3_15-1" class="reference"><a href="#cite_note-:3-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p><p>Johanna received medical attention in District 13,<sup id="cite_ref-:12_20-1" class="reference"><a href="#cite_note-:12-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup> and she had been staying in the hospital for several weeks when they began to cut back on her supply of <a href="/wiki/Morphling_(drug)" title="Morphling (drug)">morphling</a>. Katniss returned from <a href="/wiki/District_2" title="District 2">District 2</a> a few days later, injured, and a curtain separated her bed from Johanna's bed. Then Johanna dipped into Katniss's supply, and when Katniss awoke, the two discussed their mutual dislike and Katniss's role as the Mockingjay. When <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> entered, Johanna teased him and left the room. She later attended <a href="/wiki/Finnick_and_Annie%27s_wedding" title="Finnick and Annie's wedding">Finnick and Annie's wedding</a>, and she asked Katniss if she was "going to miss the chance to let Snow see [her] dancing".<sup id="cite_ref-:13_21-0" class="reference"><a href="#cite_note-:13-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup>
+</p><p>In <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i>, this was an excuse for Katniss to be seen in public as an alibi before she snuck onto a hovercraft to the Capitol.<sup id="cite_ref-:17_22-0" class="reference"><a href="#cite_note-:17-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup> That was likely inspired by a line Johanna said in the book: "But I'm going to the stinking Capitol if I have to kill a crew and fly there myself." The film entirely skipped the training arc that followed.<sup id="cite_ref-:5_23-0" class="reference"><a href="#cite_note-:5-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup>
+</p>
+<h5><span class="mw-headline" id="Military_Training">Military Training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h5>
+<p>After being refused the opportunity to go fight in the Capitol, Johanna and Katniss trained together as soldiers for three weeks leading up to the <a href="/wiki/Battle_of_the_Capitol" title="Battle of the Capitol">battle</a>. Initially, they were assigned to train alongside fourteen- or fifteen-year-olds, who were the youngest trainees in 13's army. The pair suffered together and bonded as Johanna fought both her hydrophobia and morphling withdrawals. Eventually, the girls moved into a compartment together in order to stop being seen as hospital patients.<sup id="cite_ref-:5_23-1" class="reference"><a href="#cite_note-:5-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup>
+</p><p>At the end of the week, they ate dinner with Gale, Finnick, Annie, and <a href="/wiki/Delly_Cartwright" title="Delly Cartwright">Delly Cartwright</a>, later being joined by Peeta. Johanna patted the empty seat beside her, and she claimed she and Peeta were old friends. Having been held in adjacent cells in the Capitol, she said they were "very familiar with each other's screams." After more tense conversation, Katniss left with Gale. Johanna caught up with her in their compartment later to relay what she'd missed: Delly rebuked Peeta for the way he'd treated Katniss, and Johanna took advantage of the distraction to finish his stew. She also confirmed that what she'd said about the screaming was true.<sup id="cite_ref-:5_23-2" class="reference"><a href="#cite_note-:5-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup>
+</p>
+<h6><span class="mw-headline" id="The_Block">The Block</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h6>
+<p>Johanna and Katniss were part of a handful of recruits moved to an additional training class: simulated street combat, or SSC, known colloquially as the Block. Johanna and Katniss did well on this track, and a few days before troops were set to deploy, <a href="/wiki/York" title="York">York</a> recommended them for the exam. Johanna and Katniss passed the obstacle course, written tactics exam, and a test of weapons proficiency, before taking on the Block. Johanna went in three people before Katniss. However, aware of her fear of water, they flooded the streets and she suffered a traumatic flashback, ending up in the hospital again. She was visited in the hospital by Finnick, and then Katniss gifted her a bundle of pine needles in a bandage, to remind her of home. Johanna took comfort in the familiar scent, and just before Katniss left, Johanna made her swear "on her family's life" to kill President Snow.<sup id="cite_ref-:3_15-2" class="reference"><a href="#cite_note-:3-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Johanna_avenue_of_the_tributes_costume_mj_pt2.JPG/revision/latest?cb=20230826011317" class="mw-file-description image"><img alt="The outfit Johanna wore to Snow's execution" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="339" class="thumbimage lazyload" data-image-name="Johanna avenue of the tributes costume mj pt2.JPG" data-image-key="Johanna_avenue_of_the_tributes_costume_mj_pt2.JPG" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Johanna_avenue_of_the_tributes_costume_mj_pt2.JPG/revision/latest/scale-to-width-down/180?cb=20230826011317"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Johanna_avenue_of_the_tributes_costume_mj_pt2.JPG/revision/latest?cb=20230826011317" class="mw-file-description image"><img alt="The outfit Johanna wore to Snow's execution" src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Johanna_avenue_of_the_tributes_costume_mj_pt2.JPG/revision/latest/scale-to-width-down/180?cb=20230826011317" decoding="async" loading="lazy" width="180" height="339" class="thumbimage" data-image-name="Johanna avenue of the tributes costume mj pt2.JPG" data-image-key="Johanna_avenue_of_the_tributes_costume_mj_pt2.JPG" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Johanna_avenue_of_the_tributes_costume_mj_pt2.JPG/revision/latest/scale-to-width-down/180?cb=20230826011317"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Johanna_avenue_of_the_tributes_costume_mj_pt2.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The outfit Johanna wore to Snow's execution</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Post-war">Post-war</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On the day of President Snow's execution, <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> gathered all seven remaining victors and asked them to vote on a <a href="/wiki/76th_Hunger_Games" title="76th Hunger Games">76th Hunger Games</a>, using the children of Capitol officials as tributes. Peeta cast the first vote against this, then Johanna cast the first vote in favor, even pointing out that Snow had a <a href="/wiki/Coriolanus_Snow%27s_granddaughter" title="Coriolanus Snow's granddaughter">granddaughter</a>. A 4-3 majority approved the proposal. Then Johanna took her place for the execution alongside the other victors, and she watched as Katniss assassinated Coin instead.<sup id="cite_ref-:15_7-1" class="reference"><a href="#cite_note-:15-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>Johanna Mason's life after this is unknown. However, since she expressed homesickness while in District 13,<sup id="cite_ref-:3_15-3" class="reference"><a href="#cite_note-:3-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> she may have returned to District 7. The Games she voted for never came to pass, and the Games were abolished.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">[</span>24<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Alliances">Alliances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Johanna initially allied with Blight, Wiress, and Beetee in the 75th Hunger Games, and after Blight's death, she and the District 3 tributes joined up with Katniss, Peeta, and Finnick.<sup id="cite_ref-:2_16-3" class="reference"><a href="#cite_note-:2-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> However, Johanna, Beetee, and Finnick were also a part of a larger rebel alliance aimed at protecting Katniss and breaking out of the arena. This included tributes from 3, 4, 6, 7, 8, and 11.<sup id="cite_ref-:10_6-5" class="reference"><a href="#cite_note-:10-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Victims">Victims</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Johanna killed an unknown number of tributes in the later stage of the 71st Hunger Games, when only a handful of people remained.<sup id="cite_ref-THG_3_10-1" class="reference"><a href="#cite_note-THG_3-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> In the Quell, she killed <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> on Day 2 by lodging the blade of an axe into her chest.<sup id="cite_ref-:9_8-3" class="reference"><a href="#cite_note-:9-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> She was not known to have killed anyone during the war.
+</p>
+<h2><span class="mw-headline" id="Personality">Personality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>I don't care if you're knocked up. I'll rip your throat out.</i>"</span></dd>
+<dd>—Johanna Mason to Katniss Everdeen<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div><p>Due to her strategy in the 71st Hunger Games, Johanna was described as being "pretty clever".<sup id="cite_ref-THG_3_10-2" class="reference"><a href="#cite_note-THG_3-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> She could be pert and difficult at times, but she was also capable of being persuasive, as seen in her interview with Caesar in the second book.<sup id="cite_ref-:8_14-2" class="reference"><a href="#cite_note-:8-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> She was bold and outspoken, unafraid to express her opinion, especially as it pertained to the Capitol and President Snow. She was known to be impatient, cruel, or even vicious, but this was a defense mechanism to cover up how vulnerable and traumatized she was underneath all the bluster.<sup id="cite_ref-:32_25-0" class="reference"><a href="#cite_note-:32-25"><span class="cite-bracket">[</span>25<span class="cite-bracket">]</span></a></sup>
+</p><h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/70/Johannao.png/revision/latest?cb=20150414051944" class="mw-file-description image"><img alt="Johanna as she appears in Catching Fire" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="180" class="thumbimage lazyload" data-image-name="Johannao.png" data-image-key="Johannao.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/70/Johannao.png/revision/latest/scale-to-width-down/180?cb=20150414051944"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/7/70/Johannao.png/revision/latest?cb=20150414051944" class="mw-file-description image"><img alt="Johanna as she appears in Catching Fire" src="https://static.wikia.nocookie.net/thehungergames/images/7/70/Johannao.png/revision/latest/scale-to-width-down/180?cb=20150414051944" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-image-name="Johannao.png" data-image-key="Johannao.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/70/Johannao.png/revision/latest/scale-to-width-down/180?cb=20150414051944"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Johannao.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Johanna as she appears in <i>Catching Fire</i></p> 		 	</figcaption> </figure>
+<p>Johanna had spiky brown hair and wide-set brown eyes.<sup id="cite_ref-:0_9-4" class="reference"><a href="#cite_note-:0-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> In <i>Mockingjay</i>, she returned from her torture in the Capitol with a shaved head.<sup id="cite_ref-:12_20-2" class="reference"><a href="#cite_note-:12-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup> Within a few weeks of rescue, some of the scars on her head were covered by a "soft down",<sup id="cite_ref-:13_21-1" class="reference"><a href="#cite_note-:13-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup> and eventually it grew back enough for the damp edges of her hair to form "little spikes". A slightly built young woman, Katniss believed her ferocity came from her abrasive attitude.<sup id="cite_ref-:32_25-1" class="reference"><a href="#cite_note-:32-25"><span class="cite-bracket">[</span>25<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 174px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/29/Johanna_masonportrait.jpg/revision/latest?cb=20130306231513" class="mw-file-description image"><img alt="Johanna Mason's Capitol Portrait" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="174" height="258" class="thumbimage lazyload" data-image-name="Johanna masonportrait.jpg" data-image-key="Johanna_masonportrait.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/29/Johanna_masonportrait.jpg/revision/latest/scale-to-width-down/174?cb=20130306231513"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/2/29/Johanna_masonportrait.jpg/revision/latest?cb=20130306231513" class="mw-file-description image"><img alt="Johanna Mason's Capitol Portrait" src="https://static.wikia.nocookie.net/thehungergames/images/2/29/Johanna_masonportrait.jpg/revision/latest/scale-to-width-down/174?cb=20130306231513" decoding="async" loading="lazy" width="174" height="258" class="thumbimage" data-image-name="Johanna masonportrait.jpg" data-image-key="Johanna_masonportrait.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/29/Johanna_masonportrait.jpg/revision/latest/scale-to-width-down/174?cb=20130306231513"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Johanna_masonportrait.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Johanna's portrait in her interview dress</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Films">Films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, Johanna had shoulder-length hair with bangs, and several streaks were dyed cherry red.<sup id="cite_ref-:6_12-4" class="reference"><a href="#cite_note-:6-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p><p>The gown Johanna wore for her interview was a collaboration between costumer designer <a href="https://en.wikipedia.org/wiki/Trish_Summerville" class="extiw" title="wikipedia:Trish Summerville">Trish Summerville</a> and couture designer <a href="https://en.wikipedia.org/wiki/Jan_Taminiau" class="extiw" title="wikipedia:Jan Taminiau">Jan Taminiau</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup> Taminiau's solo version of the gown first appeared as part of his Nature Extends Couture collection in July 2011.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span class="cite-bracket">[</span>27<span class="cite-bracket">]</span></a></sup>
+</p><p>In "One Panem" promotional materials for <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i>, she was shown wearing a headwrap, shoes by <a href="https://en.wikipedia.org/wiki/Alexander_Wang" class="extiw" title="wikipedia:Alexander Wang">Alexander Wang</a>, and a white gown from <a href="https://en.wikipedia.org/wiki/Alon_Livne" class="extiw" title="wikipedia:Alon Livne">Alon Livné</a>'s Spring 2014 collection.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span class="cite-bracket">[</span>28<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Skills">Skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Frame" style="width: 304px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/75/Johannawithaxe.png/revision/latest?cb=20130720220114" class="mw-file-description image"><img alt="Johanna with her axe dug into the floor." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="304" height="218" class="thumbimage lazyload" data-image-name="Johannawithaxe.png" data-image-key="Johannawithaxe.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/75/Johannawithaxe.png/revision/latest?cb=20130720220114"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/7/75/Johannawithaxe.png/revision/latest?cb=20130720220114" class="mw-file-description image"><img alt="Johanna with her axe dug into the floor." src="https://static.wikia.nocookie.net/thehungergames/images/7/75/Johannawithaxe.png/revision/latest?cb=20130720220114" decoding="async" loading="lazy" width="304" height="218" class="thumbimage" data-image-name="Johannawithaxe.png" data-image-key="Johannawithaxe.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/75/Johannawithaxe.png/revision/latest?cb=20130720220114"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Johannawithaxe.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Johanna with her axe dug into the floor.</p> 		 	</figcaption> </figure>
+<p>Since she was raised in the lumber district, Johanna was adept with axes, and she was able to throw them with enough force to wedge one into the metal Cornucopia. She also had enough skill in combat overall to be able to quickly dispatch Cashmere, a seasoned Career.<sup id="cite_ref-:9_8-4" class="reference"><a href="#cite_note-:9-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>During training on the Block, Johanna and Katniss were the only ones able to put on their gas masks in time, so she had quick reflexes. Katniss also said that Johanna was "wicked throwing an ax but about average with a gun,"<sup id="cite_ref-:3_15-4" class="reference"><a href="#cite_note-:3-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> though it should be noted that Katniss was herself a skilled sharpshooter, and many would look average by comparison.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>They can't hurt me. I'm not like the rest of you. There's no one left I love.</i>"</span></dd>
+<dd>—Johanna to the victors<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> mentioned Johanna's name when he spoke about his family's deaths; he was held up as an example to younger victors, intimidating them into compliance with the Capitol so their own families wouldn't come to harm.<sup id="cite_ref-:12_20-3" class="reference"><a href="#cite_note-:12-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup> Since Johanna said she had no loved ones left during the third Quarter Quell,<sup id="cite_ref-:1_11-3" class="reference"><a href="#cite_note-:1-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> and she was a victim of Snow's trafficking of victors,<sup id="cite_ref-interview2_3-2" class="reference"><a href="#cite_note-interview2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> her loved ones may have been killed in retaliation for any attempt at resistance.
+</p>
+<h3><span class="mw-headline" id="Finnick_Odair">Finnick Odair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span>"<i>Love is weird...</i>"</span></dd>
+<dd>—Johanna on <a href="/wiki/Finnick" class="mw-redirect" title="Finnick">Finnick</a> and <a href="/wiki/Annie" class="mw-redirect" title="Annie">Annie</a>.</dd></dl></div>
+<p>Johanna and Finnick were friends prior to the 75th Hunger Games. They were both victims of Snow's sex trafficking,<sup id="cite_ref-interview2_3-3" class="reference"><a href="#cite_note-interview2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> and they were allies during the 75th Hunger Games, along with Wiress, Beetee, Katniss, and Peeta.<sup id="cite_ref-:2_16-4" class="reference"><a href="#cite_note-:2-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> Katniss believed that Johanna was only in the alliance for Finnick, but in reality, Johanna was protecting the Mockingjay for the sake of the rebellion.<sup id="cite_ref-:10_6-6" class="reference"><a href="#cite_note-:10-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>In <i>Mockingjay</i>, Katniss stated that she didn't know what was between Finnick and Johanna, but Haymitch said Katniss and Finnick were "as close to friends as she's got."<sup id="cite_ref-:3_15-5" class="reference"><a href="#cite_note-:3-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Katniss_Everdeen">Katniss Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>You're a little hard to swallow. With your tacky romantic drama and your defender-of-the-helpless act. Only it isn't an act, which makes you more unbearable. Please feel free to take this personally.</i>"</span></dd>
+<dd>—Johanna to Katniss<sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div><p>When they first met during the 75th Hunger Games, both Johanna and Katniss had a strong dislike for each other; despite their alliance, there was very little in the way of trust between them.<sup id="cite_ref-:2_16-5" class="reference"><a href="#cite_note-:2-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> Once the escape plan was in motion, Katniss believed Johanna had tried to kill her by cutting open her arm,<sup id="cite_ref-:11_18-2" class="reference"><a href="#cite_note-:11-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup> and it wasn't until she heard otherwise from <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> that her opinion of Johanna began to change.<sup id="cite_ref-:10_6-7" class="reference"><a href="#cite_note-:10-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>After her rescue from Capitol, Johanna started to form an uneasy trust with Katniss. This was initially built on Johanna's usual brand of dark humor and blunt honesty, as well as the exchange of Katniss's morphling.<sup id="cite_ref-:13_21-2" class="reference"><a href="#cite_note-:13-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup> However, their weeks of training and cohabitating turned their alliance into a real friendship.<sup id="cite_ref-:3_15-6" class="reference"><a href="#cite_note-:3-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Wiress_and_Beetee">Wiress and Beetee</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the Training Center, Peeta told Katniss that Johanna called them Nuts (Wiress) and Volts (Beetee). Peeta thought the nickname had been around for years though, so it may not have been Johanna's invention.<sup id="cite_ref-:7_13-1" class="reference"><a href="#cite_note-:7-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup> After the blood rain in the arena, Johanna roughly handled the District 3 tributes in order to get them to Katniss. Johanna was intolerant of the two, Wiress especially for her constant repetitive behaviors. She even became so aggravated that she pushed Wiress to the ground.<sup id="cite_ref-:2_16-6" class="reference"><a href="#cite_note-:2-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> Johanna's relationship with Beetee was decidedly more neutral, though he did inspire some impatience in her.<sup id="cite_ref-:18_17-1" class="reference"><a href="#cite_note-:18-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Peeta_Mellark">Peeta Mellark</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Peeta and Johanna were tortured in the Capitol together along with Annie Cresta. Johanna revealed that they were "familiar with each other's screams", as they had adjoining cells. She also called him an "evil-mutt version" of himself after his <a href="/wiki/Hijacking" title="Hijacking">hijacking</a>, suggesting a low opinion of him and his behavior.<sup id="cite_ref-:5_23-3" class="reference"><a href="#cite_note-:5-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Johanna is a version of the name <a href="https://en.wikipedia.org/wiki/Joanna" class="extiw" title="wikipedia:Joanna">Joanna</a>, meaning "God is gracious". Another notable variation of the name is Joan, as in the French military leader and saint <a href="https://en.wikipedia.org/wiki/Joan_of_Arc" class="extiw" title="wikipedia:Joan of Arc">Joan of Arc</a>. Johanna's surname Mason comes from the profession of masonry, or building with stone— possibly chosen because Johanna helps to lay the groundwork for the rebellion during the third Quarter Quell.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Johanna is the first victor from another district besides <a href="/wiki/District_12" title="District 12">12</a> to be mentioned in the trilogy.<sup id="cite_ref-THG_3_10-3" class="reference"><a href="#cite_note-THG_3-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup></li>
+<li>Like Katniss, Johanna is the only living female victor from her district as of the third Quarter Quell.<sup id="cite_ref-:14_5-1" class="reference"><a href="#cite_note-:14-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></li>
+<li>Despite being advertised as part of the supporting cast, appearing in promotional "One Panem" videos alongside Peeta, and being mentioned at various times in <i>Mockingjay - Part 1</i>, Johanna only makes a brief cameo near the end.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span class="cite-bracket">[</span>29<span class="cite-bracket">]</span></a></sup></li>
+<li>In <i>Mockingjay - Part 2</i>, many of Johanna's book scenes were entirely cut and reduced. She appears only after Katniss is hospitalized after being shot in District 2, at Finnick's and Annie's wedding, at the vote for one "final" Hunger Games, and at Snow's execution.<sup id="cite_ref-:17_22-1" class="reference"><a href="#cite_note-:17-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup></li>
+<li>In an early version of the Hunger Games script, <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> mentioned that Johanna cried throughout the entire training week. However, on day one, she hatcheted six tributes within two minutes.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span class="cite-bracket">[</span>30<span class="cite-bracket">]</span></a></sup></li>
+<li>The German translation of <i>The Hunger Games</i> says that Johanna won seven years before the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>. This would mean that at least in the German version of the text, she won the <a href="/wiki/67th_Hunger_Games" title="67th Hunger Games">67th Hunger Games</a> rather than the 71st.
+<ul><li>In order for her to still be 21 during <i>Catching Fire</i> per Suzanne Collins' <i>Time</i> interview,<sup id="cite_ref-interview1_1-3" class="reference"><a href="#cite_note-interview1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> she would have had to win the 67th Hunger Games at only 13 years old.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Gallery:Johanna_Mason" class="mw-redirect" title="Gallery:Johanna Mason">Gallery:Johanna Mason </a></i></center></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-interview1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-interview1_1-0">1.0</a></sup> <sup><a href="#cite_ref-interview1_1-1">1.1</a></sup> <sup><a href="#cite_ref-interview1_1-2">1.2</a></sup> <sup><a href="#cite_ref-interview1_1-3">1.3</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://entertainment.time.com/2013/11/20/i-was-destined-to-write-a-gladiator-game-a-conversation-with-suzanne-collins-and-francis-lawrence/">“I Was Destined to Write a Gladiator Game”: A Conversation with Suzanne Collins and Francis Lawrence - TIME</a></span>
+</li>
+<li id="cite_note-exhibition_johanna-2"><span class="mw-cite-backlink"><a href="#cite_ref-exhibition_johanna_2-0">↑</a></span> <span class="reference-text"><i>The Hunger Games: The Exhibition</i> - <a href="/wiki/File:Johanna_citizen_profile.jpg" title="File:Johanna citizen profile.jpg">see image</a></span>
+</li>
+<li id="cite_note-interview2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-interview2_3-0">3.0</a></sup> <sup><a href="#cite_ref-interview2_3-1">3.1</a></sup> <sup><a href="#cite_ref-interview2_3-2">3.2</a></sup> <sup><a href="#cite_ref-interview2_3-3">3.3</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://entertainment.time.com/2013/11/18/catching-up-with-catching-fire-a-conversation-with-suzanne-collins-and-francis-lawrence/">Katniss is “A Wreck”: A Conversation with Suzanne Collins and Francis Lawrence - TIME</a></span>
+</li>
+<li id="cite_note-:4-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:4_4-0">4.0</a></sup> <sup><a href="#cite_ref-:4_4-1">4.1</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://capitolcouture.tumblr.com/post/63406814571">Game Faces: District 7’s Johanna Mason - Capitol Couture</a></span>
+</li>
+<li id="cite_note-:14-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:14_5-0">5.0</a></sup> <sup><a href="#cite_ref-:14_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-:10-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:10_6-0">6.0</a></sup> <sup><a href="#cite_ref-:10_6-1">6.1</a></sup> <sup><a href="#cite_ref-:10_6-2">6.2</a></sup> <sup><a href="#cite_ref-:10_6-3">6.3</a></sup> <sup><a href="#cite_ref-:10_6-4">6.4</a></sup> <sup><a href="#cite_ref-:10_6-5">6.5</a></sup> <sup><a href="#cite_ref-:10_6-6">6.6</a></sup> <sup><a href="#cite_ref-:10_6-7">6.7</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 27</span>
+</li>
+<li id="cite_note-:15-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:15_7-0">7.0</a></sup> <sup><a href="#cite_ref-:15_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-:9-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:9_8-0">8.0</a></sup> <sup><a href="#cite_ref-:9_8-1">8.1</a></sup> <sup><a href="#cite_ref-:9_8-2">8.2</a></sup> <sup><a href="#cite_ref-:9_8-3">8.3</a></sup> <sup><a href="#cite_ref-:9_8-4">8.4</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 23</span>
+</li>
+<li id="cite_note-:0-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_9-0">9.0</a></sup> <sup><a href="#cite_ref-:0_9-1">9.1</a></sup> <sup><a href="#cite_ref-:0_9-2">9.2</a></sup> <sup><a href="#cite_ref-:0_9-3">9.3</a></sup> <sup><a href="#cite_ref-:0_9-4">9.4</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 15</span>
+</li>
+<li id="cite_note-THG_3-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_3_10-0">10.0</a></sup> <sup><a href="#cite_ref-THG_3_10-1">10.1</a></sup> <sup><a href="#cite_ref-THG_3_10-2">10.2</a></sup> <sup><a href="#cite_ref-THG_3_10-3">10.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-:1-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_11-0">11.0</a></sup> <sup><a href="#cite_ref-:1_11-1">11.1</a></sup> <sup><a href="#cite_ref-:1_11-2">11.2</a></sup> <sup><a href="#cite_ref-:1_11-3">11.3</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 24</span>
+</li>
+<li id="cite_note-:6-12"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:6_12-0">12.0</a></sup> <sup><a href="#cite_ref-:6_12-1">12.1</a></sup> <sup><a href="#cite_ref-:6_12-2">12.2</a></sup> <sup><a href="#cite_ref-:6_12-3">12.3</a></sup> <sup><a href="#cite_ref-:6_12-4">12.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-:7-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:7_13-0">13.0</a></sup> <sup><a href="#cite_ref-:7_13-1">13.1</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 16</span>
+</li>
+<li id="cite_note-:8-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:8_14-0">14.0</a></sup> <sup><a href="#cite_ref-:8_14-1">14.1</a></sup> <sup><a href="#cite_ref-:8_14-2">14.2</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 17</span>
+</li>
+<li id="cite_note-:3-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_15-0">15.0</a></sup> <sup><a href="#cite_ref-:3_15-1">15.1</a></sup> <sup><a href="#cite_ref-:3_15-2">15.2</a></sup> <sup><a href="#cite_ref-:3_15-3">15.3</a></sup> <sup><a href="#cite_ref-:3_15-4">15.4</a></sup> <sup><a href="#cite_ref-:3_15-5">15.5</a></sup> <sup><a href="#cite_ref-:3_15-6">15.6</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 18</span>
+</li>
+<li id="cite_note-:2-16"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_16-0">16.0</a></sup> <sup><a href="#cite_ref-:2_16-1">16.1</a></sup> <sup><a href="#cite_ref-:2_16-2">16.2</a></sup> <sup><a href="#cite_ref-:2_16-3">16.3</a></sup> <sup><a href="#cite_ref-:2_16-4">16.4</a></sup> <sup><a href="#cite_ref-:2_16-5">16.5</a></sup> <sup><a href="#cite_ref-:2_16-6">16.6</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 22</span>
+</li>
+<li id="cite_note-:18-17"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:18_17-0">17.0</a></sup> <sup><a href="#cite_ref-:18_17-1">17.1</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 25</span>
+</li>
+<li id="cite_note-:11-18"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:11_18-0">18.0</a></sup> <sup><a href="#cite_ref-:11_18-1">18.1</a></sup> <sup><a href="#cite_ref-:11_18-2">18.2</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 26</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 11</span>
+</li>
+<li id="cite_note-:12-20"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:12_20-0">20.0</a></sup> <sup><a href="#cite_ref-:12_20-1">20.1</a></sup> <sup><a href="#cite_ref-:12_20-2">20.2</a></sup> <sup><a href="#cite_ref-:12_20-3">20.3</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 12</span>
+</li>
+<li id="cite_note-:13-21"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:13_21-0">21.0</a></sup> <sup><a href="#cite_ref-:13_21-1">21.1</a></sup> <sup><a href="#cite_ref-:13_21-2">21.2</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 16</span>
+</li>
+<li id="cite_note-:17-22"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:17_22-0">22.0</a></sup> <sup><a href="#cite_ref-:17_22-1">22.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span>
+</li>
+<li id="cite_note-:5-23"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:5_23-0">23.0</a></sup> <sup><a href="#cite_ref-:5_23-1">23.1</a></sup> <sup><a href="#cite_ref-:5_23-2">23.2</a></sup> <sup><a href="#cite_ref-:5_23-3">23.3</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 17</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Epilogue</span>
+</li>
+<li id="cite_note-:32-25"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:32_25-0">25.0</a></sup> <sup><a href="#cite_ref-:32_25-1">25.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 18</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://capitolcouture.tumblr.com/post/58714770487">Johanna Mason: Branching Out - Capitol Couture</a></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://spiceprblog.blogspot.com/2011/07/jantaminiau-nature-extends-honor-to.html">http://spiceprblog.blogspot.com/2011/07/jantaminiau-nature-extends-honor-to.html</a></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://capitolcouture.tumblr.com/post/92541028407">Johanna Mason: Statuesque Allure - Capitol Couture</a></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf">https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <strong class="mw-selflink selflink">Johanna Mason</strong> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20251230215342
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.232 seconds
+Real time usage: 0.377 seconds
+Preprocessor visited node count: 1311/1000000
+Post‐expand include size: 5371/2097152 bytes
+Template argument size: 1443/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 25283/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  239.571      1 -total
+ 42.60%  102.058      1 Template:Reflist
+ 18.88%   45.235      1 Template:Character
+  0.83%    1.989      6 Template:Quote
+  0.68%    1.618      1 Template:SeriesTP
+  0.63%    1.518      6 Template:W
+  0.47%    1.129      1 Template:Main
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2177-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230215342 and revision id 967761. Rendering was triggered because: page-view
+ -->
+</div>

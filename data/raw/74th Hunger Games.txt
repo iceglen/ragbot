@@ -1,0 +1,710 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">74th Hunger Games</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+	
+		<h3 class="pi-data-label pi-secondary-font">Type</h3>
+	
+	<div class="pi-data-value pi-font">Regular</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="district">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor's home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arena">
+	
+		<h3 class="pi-data-label pi-secondary-font">Arena</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/74th_Hunger_Games_arena" title="74th Hunger Games arena">Forest, lake, and wheat field</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gamemaker">
+	
+		<h3 class="pi-data-label pi-secondary-font">Head Gamemaker</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a><sup id="cite_ref-CF_2_1-0" class="reference"><a href="#cite_note-CF_2-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="duration">
+	
+		<h3 class="pi-data-label pi-secondary-font">Duration</h3>
+	
+	<div class="pi-data-value pi-font">18 days (book) <p>9 days (film)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i><br /><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games (film)</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a>, <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/73rd_Hunger_Games" title="73rd Hunger Games">73rd Hunger Games</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> (3rd <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>)</div>
+</div>
+</aside>
+
+</p><p>The <b>74th Hunger Games</b>&#160;was the penultimate installment of the annual <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>&#160;and is one of the primary driving events in the <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy">trilogy</a>. This Hunger Games was both controversial and historical for being the first time in history where <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> crowned two <a href="/wiki/Victor" title="Victor">victors</a>: <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> from <a href="/wiki/District_12" title="District 12">District 12</a>.<sup id="cite_ref-THG_25_2-0" class="reference"><a href="#cite_note-THG_25-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> The Games were overseen by Head <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a> <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>.<sup id="cite_ref-CF_2_1-1" class="reference"><a href="#cite_note-CF_2-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tributes"><span class="tocnumber">1</span> <span class="toctext">Tributes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Arena"><span class="tocnumber">2</span> <span class="toctext">Arena</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Known_muttations"><span class="tocnumber">2.1</span> <span class="toctext">Known muttations</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Arena_uniform"><span class="tocnumber">2.2</span> <span class="toctext">Arena uniform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Summary"><span class="tocnumber">3</span> <span class="toctext">Summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Pre-Games"><span class="tocnumber">3.1</span> <span class="toctext">Pre-Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Reaping"><span class="tocnumber">3.1.1</span> <span class="toctext">Reaping</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Tribute_Parade"><span class="tocnumber">3.1.2</span> <span class="toctext">Tribute Parade</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Training_scores"><span class="tocnumber">3.1.3</span> <span class="toctext">Training scores</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Interviews"><span class="tocnumber">3.1.4</span> <span class="toctext">Interviews</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#The_Games_(Book)"><span class="tocnumber">3.2</span> <span class="toctext">The Games (Book)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Day_1_(Cornucopia_bloodbath)_-_July_11th"><span class="tocnumber">3.2.1</span> <span class="toctext">Day 1 (Cornucopia bloodbath) - July 11th</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Day_2_-_July_12th"><span class="tocnumber">3.2.2</span> <span class="toctext">Day 2 - July 12th</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Day_3_-_July_13th"><span class="tocnumber">3.2.3</span> <span class="toctext">Day 3 - July 13th</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Day_4_-_July_14th"><span class="tocnumber">3.2.4</span> <span class="toctext">Day 4 - July 14th</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Day_5_-_July_15th"><span class="tocnumber">3.2.5</span> <span class="toctext">Day 5 - July 15th</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Day_5-6_-_July_15-6th"><span class="tocnumber">3.2.6</span> <span class="toctext">Day 5-6 - July 15-6th</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Day_7_-_July_17th"><span class="tocnumber">3.2.7</span> <span class="toctext">Day 7 - July 17th</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Day_8_-_July_18th"><span class="tocnumber">3.2.8</span> <span class="toctext">Day 8 - July 18th</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Day_9_-_July_19th"><span class="tocnumber">3.2.9</span> <span class="toctext">Day 9 - July 19th</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Day_10_-_July_20th"><span class="tocnumber">3.2.10</span> <span class="toctext">Day 10 - July 20th</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Day_11_-_July_21st"><span class="tocnumber">3.2.11</span> <span class="toctext">Day 11 - July 21st</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Day_12_-_July_22nd"><span class="tocnumber">3.2.12</span> <span class="toctext">Day 12 - July 22nd</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Day_13_(Feast)_-_July_23th"><span class="tocnumber">3.2.13</span> <span class="toctext">Day 13 (Feast) - July 23th</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Day_14_-_July_24th"><span class="tocnumber">3.2.14</span> <span class="toctext">Day 14 - July 24th</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Day_15_-_July_25th"><span class="tocnumber">3.2.15</span> <span class="toctext">Day 15 - July 25th</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#Day_16_-_July_26th"><span class="tocnumber">3.2.16</span> <span class="toctext">Day 16 - July 26th</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Day_17_-_July_27th"><span class="tocnumber">3.2.17</span> <span class="toctext">Day 17 - July 27th</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#Day_18_-_July_28th"><span class="tocnumber">3.2.18</span> <span class="toctext">Day 18 - July 28th</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-30"><a href="#The_Games_(Film)"><span class="tocnumber">3.3</span> <span class="toctext">The Games (Film)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-31"><a href="#Day_1_(Cornucopia_bloodbath)_-_July_11th_2"><span class="tocnumber">3.3.1</span> <span class="toctext">Day 1 (Cornucopia bloodbath) - July 11th</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="#Day_2_-_July_12th_2"><span class="tocnumber">3.3.2</span> <span class="toctext">Day 2 - July 12th</span></a></li>
+<li class="toclevel-3 tocsection-33"><a href="#Day_3_-_July_13th_2"><span class="tocnumber">3.3.3</span> <span class="toctext">Day 3 - July 13th</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="#Day_4_-_July_14th_2"><span class="tocnumber">3.3.4</span> <span class="toctext">Day 4 - July 14th</span></a></li>
+<li class="toclevel-3 tocsection-35"><a href="#Day_5_-_July_15th_2"><span class="tocnumber">3.3.5</span> <span class="toctext">Day 5 - July 15th</span></a></li>
+<li class="toclevel-3 tocsection-36"><a href="#Day_6_-_July_16th"><span class="tocnumber">3.3.6</span> <span class="toctext">Day 6 - July 16th</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="#Day_7_-_July_17th_2"><span class="tocnumber">3.3.7</span> <span class="toctext">Day 7 - July 17th</span></a></li>
+<li class="toclevel-3 tocsection-38"><a href="#Day_8_-_July_18th_2"><span class="tocnumber">3.3.8</span> <span class="toctext">Day 8 - July 18th</span></a></li>
+<li class="toclevel-3 tocsection-39"><a href="#Day_9_-_July_19th_2"><span class="tocnumber">3.3.9</span> <span class="toctext">Day 9 - July 19th</span></a></li>
+<li class="toclevel-3 tocsection-40"><a href="#Day_10_-_July_20th_2"><span class="tocnumber">3.3.10</span> <span class="toctext">Day 10 - July 20th</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-41"><a href="#Placing"><span class="tocnumber">4</span> <span class="toctext">Placing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-42"><a href="#Book"><span class="tocnumber">4.1</span> <span class="toctext">Book</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#Film"><span class="tocnumber">4.2</span> <span class="toctext">Film</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-44"><a href="#Aftermath"><span class="tocnumber">5</span> <span class="toctext">Aftermath</span></a></li>
+<li class="toclevel-1 tocsection-45"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-46"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Tributes">Tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="fandom-table">
+
+<tbody><tr>
+<td align="center" style="background: #d4af37;"><b>District</b>
+</td>
+<td align="center" style="background: #d4af37;"><b>Tribute</b>
+</td>
+<td align="center" style="background: #d4af37;"><b>Age</b>
+</td>
+<td align="center" style="background: #d4af37;"><b>Mentor</b>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #808000;"><b>District 1</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a>
+</td>
+<td>17
+</td>
+<td rowspan="2" align="center"><a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> and <a href="/wiki/Gloss" title="Gloss">Gloss</a><sup id="cite_ref-exhibition_3-0" class="reference"><a href="#cite_note-exhibition-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Glimmer" title="Glimmer">Glimmer</a>
+</td>
+<td>17
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #8b0000;"><b>District 2</b>
+</td>
+<td><a href="/wiki/Cato" title="Cato">Cato</a>
+</td>
+<td>18
+</td>
+<td rowspan="2" align="center"><i>Unknown victors</i>, likely <a href="/wiki/Brutus" title="Brutus">Brutus</a> and <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Clove" title="Clove">Clove</a>
+</td>
+<td>15
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #ff7f50;"><b>District 3</b>
+</td>
+<td><a href="/wiki/Fila" title="Fila">Fila</a>
+</td>
+<td>14
+</td>
+<td rowspan="2" align="center"><i>Unknown victors</i>, likely <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> and <a href="/wiki/Wiress" title="Wiress">Wiress</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_3_female_(74th_HG)" title="District 3 female (74th HG)">District 3 female (74th HG)</a>
+</td>
+<td>13
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #008080;"><b>District 4</b>
+</td>
+<td><a href="/wiki/Bravura" title="Bravura">Bravura</a>
+</td>
+<td>12
+</td>
+<td rowspan="2" align="center"><a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> <sup id="cite_ref-MJ_19_4-0" class="reference"><a href="#cite_note-MJ_19-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><br /><i>Unknown victor</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tippet" title="Tippet">Tippet</a>
+</td>
+<td>16
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #663399;"><b>District 5</b>
+</td>
+<td><a href="/wiki/District_5_male_(74th_HG)" title="District 5 male (74th HG)">District 5 male (74th HG)</a>
+</td>
+<td>15
+</td>
+<td rowspan="2" align="center"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%22Foxface%22" title="&quot;Foxface&quot;">"Foxface"</a>
+</td>
+<td>14
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #d2691e;"><b>District 6</b>
+</td>
+<td><a href="/wiki/Jason" title="Jason">Jason</a>
+</td>
+<td>16
+</td>
+<td rowspan="2" align="center"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_6_female_(74th_HG)" title="District 6 female (74th HG)">District 6 female (74th HG)</a>
+</td>
+<td>15
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #bc8f8f;"><b>District 7</b>
+</td>
+<td><a href="/wiki/Stele" title="Stele">Stele</a>
+</td>
+<td>17
+</td>
+<td rowspan="2" align="center"><i>Unknown victors,</i> likely <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> and <a href="/wiki/Blight" title="Blight">Blight</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_7_female_(74th_HG)" title="District 7 female (74th HG)">District 7 female (74th HG)</a>
+</td>
+<td>16
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #a0522d;"><b>District 8</b>
+</td>
+<td><a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">District 8 male (74th HG)</a>
+</td>
+<td>14
+</td>
+<td rowspan="2" align="center"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/Heddle" title="Heddle">Heddle</a>
+</td>
+<td>13
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #1d2e23;"><b>District 9</b>
+</td>
+<td><a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">District 9 male (74th HG)</a>
+</td>
+<td>14
+</td>
+<td rowspan="2" align="center"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_9_female_(74th_HG)" title="District 9 female (74th HG)">District 9 female (74th HG)</a>
+</td>
+<td>14
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #363131;"><b>District 10</b>
+</td>
+<td><a href="/wiki/Drove" title="Drove">Drove</a>
+</td>
+<td>18
+</td>
+<td rowspan="2" align="center"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_10_female_(74th_HG)" title="District 10 female (74th HG)">District 10 female (74th HG)</a>
+</td>
+<td>16
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #2b2620;"><b>District 11</b>
+</td>
+<td><a href="/wiki/Thresh" title="Thresh">Thresh</a>
+</td>
+<td>18
+</td>
+<td rowspan="2" align="center"><i>Unknown victors</i>, likely <a href="/wiki/Chaff" title="Chaff">Chaff</a> and <a href="/wiki/Seeder" title="Seeder">Seeder</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rue" title="Rue">Rue</a>
+</td>
+<td>12
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #000000;"><b>District 12</b>
+</td>
+<td><b><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a></b> - <a href="/wiki/Victor" title="Victor">Victor</a>
+</td>
+<td>16
+</td>
+<td rowspan="2" align="center"><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a></b> - <a href="/wiki/Victor" title="Victor">Victor</a>
+</td>
+<td>16
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/74th_Hunger_Games_arena" title="74th Hunger Games arena">74th Hunger Games arena</a></i></center></div>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 300px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/ad/74th_Hunger_Games_Arena.png/revision/latest?cb=20120804224435" class="mw-file-description image"><img alt="The 74th Hunger Games arena." src="https://static.wikia.nocookie.net/thehungergames/images/a/ad/74th_Hunger_Games_Arena.png/revision/latest/scale-to-width-down/300?cb=20120804224435" decoding="async" loading="lazy" width="300" height="124" class="thumbimage" data-image-name="74th Hunger Games Arena.png" data-image-key="74th_Hunger_Games_Arena.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:74th_Hunger_Games_Arena.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The 74th Hunger Games arena.</p> 		 	</figcaption> </figure>
+<p>The 74th Hunger Games began on a large, flat expanse of hard packed dirt, with the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> at its center. The 24 tributes were set up in a ring around it (semi-circle facing the front of the Cornucopia in the film), vying to claim its weapons, food, camping supplies, and medical supplies.<sup id="cite_ref-:4_5-0" class="reference"><a href="#cite_note-:4-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The arena contained forests, streams, meadows, pools, a wheat field, caves, and a lake. It was enormous, and it would probably haven taken a tribute several days to walk from one end of the arena to the other. The forest was rigged with several Gamemaker traps, including a device that shot <a href="/wiki/Fire" title="Fire">fireballs</a> at the tributes, and places where mutts could come in and out of the arena.
+</p>
+<h3><span class="mw-headline" id="Known_muttations">Known muttations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Tracker_jacker" title="Tracker jacker">Tracker jackers</a></li>
+<li><a href="/wiki/Mockingjay_(bird)" title="Mockingjay (bird)">Mockingjays</a></li>
+<li><a href="/wiki/Wolf_mutt" title="Wolf mutt">Wolf mutts</a></li></ul>
+<h3><span class="mw-headline" id="Arena_uniform"><a href="/wiki/Arena_wear#74th_Hunger_Games" title="Arena wear">Arena uniform</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each tribute wore tawny trousers, a light green shirt, sturdy brown belt, and a thin-hooded black jacket that fell down to the thighs. The jacket was designed to reflect heat, as the nights would grow cold in the arena. The outfit also included boots, which were worn over skin-tight socks. The boots were made of soft leather and had a narrow, flexible rubber sole with treads, which were good for running.<sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> In the film, outfits were color-coded according to district, specifically the shirts and jackets worn.<sup id="cite_ref-THG_film_7-0" class="reference"><a href="#cite_note-THG_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pre-Games">Pre-Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Reaping"><a href="/wiki/Reaping" title="Reaping">Reaping</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Cato  <a href="/wiki/Volunteer" title="Volunteer">volunteered</a> from District 2.<sup id="cite_ref-THG_3_8-0" class="reference"><a href="#cite_note-THG_3-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> The other Career Tributes are assumed to have volunteered as well. In District 12, <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a>'s name was pulled from the girls' <a href="/wiki/Reaping_balls" title="Reaping balls">reaping ball</a>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> and after a moment of shock, her older sister Katniss hastily volunteered in her stead— the first tribute from 12 to do so in decades. Shortly thereafter, Peeta Mellark was reaped as the male tribute for District 12.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Tribute_Parade"><a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>District 1's tributes were spray-painted silver, and they wore "tasteful" tunics studded with glittering jewels.<sup id="cite_ref-:1_11-0" class="reference"><a href="#cite_note-:1-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> The District 7 tributes presumably wore tree <a href="/wiki/Chariot_costumes" title="Chariot costumes">costumes</a>, as had been typical for several decades under the district's <a href="/wiki/District_7_stylist" title="District 7 stylist">stylist</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>From District 12, Katniss and Peeta wore simple black unitards, covering them from ankle to neck, with shiny leather boots laced up to their knees. They also wore capes made of "streams of red, orange, and yellow" with matching headpieces. Their capes were then set alight with artificial flames, making a lasting impression on the Capitol audience. Katniss and Peeta also held hands in the chariot at the direction of Katniss's <a href="/wiki/Stylist" title="Stylist">stylist</a>, <a href="/wiki/Cinna" title="Cinna">Cinna</a>.<sup id="cite_ref-:1_11-1" class="reference"><a href="#cite_note-:1-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Training_scores"><a href="/wiki/Training_score" title="Training score">Training scores</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Tributes garnered these scores from their private sessions with the Gamemakers.  During her session, Katniss, infuriated at being ignored, shot directly at an apple in the mouth of the Gamemakers' roast pig.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> This year, the Career tributes from 1, 2, and 4 all scored in the 8 to 10 range, while most other tributes averaged a five.<sup id="cite_ref-:2_14-0" class="reference"><a href="#cite_note-:2-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<ul><li>Marvel - 9<sup id="cite_ref-THG_film_7-1" class="reference"><a href="#cite_note-THG_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Cato - 10<sup id="cite_ref-THG_film_7-2" class="reference"><a href="#cite_note-THG_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Clove - 10<sup id="cite_ref-THG_film_7-3" class="reference"><a href="#cite_note-THG_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Bravura - 8<sup id="cite_ref-:18_15-0" class="reference"><a href="#cite_note-:18-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Foxface - 5<sup id="cite_ref-THG_film_7-4" class="reference"><a href="#cite_note-THG_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Rue - 7<sup id="cite_ref-:2_14-1" class="reference"><a href="#cite_note-:2-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Thresh - 10 (book)<sup id="cite_ref-:3_16-0" class="reference"><a href="#cite_note-:3-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>, 9 (film)<sup id="cite_ref-THG_film_7-5" class="reference"><a href="#cite_note-THG_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Peeta Mellark - 8<sup id="cite_ref-:2_14-2" class="reference"><a href="#cite_note-:2-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-THG_film_7-6" class="reference"><a href="#cite_note-THG_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Katniss Everdeen - 11<sup id="cite_ref-:2_14-3" class="reference"><a href="#cite_note-:2-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-THG_film_7-7" class="reference"><a href="#cite_note-THG_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h4><span class="mw-headline" id="Interviews"><a href="/wiki/Interviews" title="Interviews">Interviews</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Glimmer wore a see-through gold gown, and the angle of her interview was sex appeal. Cato was a "ruthless killing machine", "Foxface" was sly and elusive, and the boy from District 10 was "very quiet".<sup id="cite_ref-:3_16-1" class="reference"><a href="#cite_note-:3-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Rue wore a gossamer gown "complete with wings". <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> complimented her on her training score and when he asked her about her greatest strength in the arena, she replied, "I'm very hard to catch. And if they can't catch me, they can't kill me. So don't count me out." Her <a href="/wiki/District_partner" title="District partner">district partner</a>, Thresh, ignored Caesar's attempts at banter, responding only with a "yes" or "no" or refusing to reply altogether.<sup id="cite_ref-:3_16-2" class="reference"><a href="#cite_note-:3-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Katniss was given a dress made of reflective red, yellow, and white gems, with blue that accented the tips of the flame design. In her interview itself, she pretended that she was speaking frankly to Cinna in the crowd, and she spun around in her dress upon direction, giving the impression of dazzling flames.<sup id="cite_ref-:3_16-3" class="reference"><a href="#cite_note-:3-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Peeta drew in the audience right away, playing up his role as <a href="/wiki/Mr._Mellark" class="mw-redirect" title="Mr. Mellark">the baker</a>'s son and comparing the other tributes to their districts' <a href="/wiki/Bread" title="Bread">breads</a>. Then he told a "funny anecdote" about the Capitol showers, so he and Caesar went back and forth sniffing each other. After the laughing died down, Caesar asked Peeta if he had a girlfriend back home, and after some more prodding, Peeta admitted that he had a crush on Katniss.<sup id="cite_ref-:3_16-4" class="reference"><a href="#cite_note-:3-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup> This would be the beginning of District 12's star-crossed lovers angle.<sup id="cite_ref-:0_6-1" class="reference"><a href="#cite_note-:0-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<hr />
+<h3><span id="The_Games_.28Book.29"></span><span class="mw-headline" id="The_Games_(Book)">The Games (Book)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 74th Hunger Games lasted for 18 days. This is a short summary of the main events each day, in the books.
+</p>
+<h4><span id="Day_1_.28Cornucopia_bloodbath.29_-_July_11th"></span><span class="mw-headline" id="Day_1_(Cornucopia_bloodbath)_-_July_11th">Day 1 (Cornucopia bloodbath) - July 11th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The tributes are launched into the arena. Katniss wants to run for the <a href="/wiki/Bow_and_arrow" title="Bow and arrow">bow and arrows</a> despite Haymitch's orders to run for the forest. She manages to get a backpack, but she grabs it at the same time the boy from District 9 does. She fights with him over the backpack, until he is killed by Clove. Clove then throws one of her knives at Katniss, but hits the backpack instead, and Katniss runs for the forest. She doesn't stop until it gets dark. She then straps herself to a tree to stay the night. The Careers start hunting tributes.<sup id="cite_ref-:4_5-1" class="reference"><a href="#cite_note-:4-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<ul><li>Deaths: 11</li>
+<li><a href="/wiki/District_3_female_(74th_HG)" title="District 3 female (74th HG)">District 3 female</a></li>
+<li><a href="/wiki/Bravura" title="Bravura">Bravura</a></li>
+<li><a href="/wiki/District_5_male_(74th_HG)" title="District 5 male (74th HG)">District 5 male</a></li>
+<li><a href="/wiki/Jason" title="Jason">Jason</a></li>
+<li><a href="/wiki/District_6_female_(74th_HG)" title="District 6 female (74th HG)">District 6 female</a></li>
+<li><a href="/wiki/Stele" title="Stele">Stele</a></li>
+<li><a href="/wiki/District_7_female_(74th_HG)" title="District 7 female (74th HG)">District 7 female</a></li>
+<li><a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">District 8 male</a></li>
+<li><a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">District 9 male</a></li>
+<li><a href="/wiki/District_9_female_(74th_HG)" title="District 9 female (74th HG)">District 9 female</a></li>
+<li><a href="/wiki/District_10_female_(74th_HG)" title="District 10 female (74th HG)">District 10 female</a></li></ul>
+<h4><span class="mw-headline" id="Day_2_-_July_12th">Day 2 - July 12th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Shortly before dawn, Katniss witnesses Peeta and the Career pack killing the girl from District 8, Heddle, who tried to warm herself by making a <a href="/wiki/Fire" title="Fire">fire</a>.<sup id="cite_ref-:4_5-2" class="reference"><a href="#cite_note-:4-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> Katniss can't figure out why Peeta has teamed up with the Careers. She feels betrayed. Since they didn't see her, she spends the day hunting and continuing her search for water.<sup id="cite_ref-:5_17-0" class="reference"><a href="#cite_note-:5-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<ul><li>Deaths: 1</li>
+<li><a href="/wiki/Heddle" title="Heddle">Heddle</a></li></ul>
+<h4><span class="mw-headline" id="Day_3_-_July_13th">Day 3 - July 13th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss, very weak and dehydrated, wonders why her sponsors haven't sent any water. By the afternoon, she collapses in mud, alerting her to the pond of water beside her. She purifies the water, drinks, eats snared game, and later rests.<sup id="cite_ref-:5_17-1" class="reference"><a href="#cite_note-:5-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Day_4_-_July_14th">Day 4 - July 14th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss is awakened by the Gamemaker-created wall of fire.<sup id="cite_ref-:5_17-2" class="reference"><a href="#cite_note-:5-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> As she runs, she gets hit by a fireball on her calf, but manages to reach another pond by sunrise which eases her burns. While resting and recovering, Katniss hears the Careers coming towards her. They spot her and chase her into the forest. Katniss quickly hides in a tree where they can't reach her. Because they can't reach Katniss, they make camp under the tree to wait for Katniss to come down at some point. Katniss also gets her first <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gift</a>: burn medicine for her leg and welted hands. When night falls, Rue appears in the tree next to her and points out the tracker jacker nest above Katniss' head.<sup id="cite_ref-:13_18-0" class="reference"><a href="#cite_note-:13-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup> While the anthem plays, Katniss begins sawing at the branch that the nest is hanging from.<sup id="cite_ref-:6_19-0" class="reference"><a href="#cite_note-:6-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Day_5_-_July_15th">Day 5 - July 15th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>At dawn, Katniss is able to drop the tracker jacker nest, and the wasps begin to attack the Careers and Peeta, forcing them to flee. With advance notice, Rue was able to escape, but Glimmer and Tippet are overwhelmed from the stings and die, whilst everyone else, including Katniss, is stung. Katniss is able to get the bow and arrows from Glimmer's corpse shortly before the hovercraft takes it away. She sees Peeta, but he sends her away just before Cato appears. Confused, disoriented, and hallucinating from the tracker jacker venom, Katniss is able to get away before she finally loses consciousness.<sup id="cite_ref-:6_19-1" class="reference"><a href="#cite_note-:6-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>  
+</p>
+<ul><li>Deaths: 2</li>
+<li><a href="/wiki/Glimmer" title="Glimmer">Glimmer</a></li>
+<li><a href="/wiki/Tippet" title="Tippet">Tippet</a></li></ul>
+<h4><span class="mw-headline" id="Day_5-6_-_July_15-6th">Day 5-6 - July 15-6th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>According to Rue, Katniss slept for two nights. Her sleep was punctuated by several terrifying nightmares.<sup id="cite_ref-:7_20-0" class="reference"><a href="#cite_note-:7-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Day_7_-_July_17th">Day 7 - July 17th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D18&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss finally wakes up from her fever dreams and resumes hunting and seeking water. Rue, who must have been following her, appears, and teams up with Katniss. As she and Rue begin to fall asleep, Katniss begins formulating a plan.<sup id="cite_ref-:7_20-1" class="reference"><a href="#cite_note-:7-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Day_8_-_July_18th">Day 8 - July 18th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D19&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Rue and Katniss wake to the cannon shot for the boy from District 10, who was most likely killed by the Careers. Katniss and Rue made plans for destroying the Careers' stock of food and supplies. While Rue starts three fires in the woods which lure the Careers away from the Cornucopia, Katniss made it to the camp and discovered that the supplies were piled away from the camp and guarded by the boy from District 3. She sees Foxface carefully approach the pyramid of supplies to <a href="/wiki/Theft" class="mw-redirect" title="Theft">steal</a> food and works out that the Careers had reactivated the mines from the starting platforms and reburied them around the supplies. With three arrows, Katniss tears open a bag of apples, which fall and trigger the mines.<sup id="cite_ref-:14_21-0" class="reference"><a href="#cite_note-:14-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup> The explosions blow her off her feet and deafens her, but she manages to crawl under a bush just as the Careers arrive. Cato is so furious that he snaps the neck of the boy from District 3. Katniss spends the night under a bush.<sup id="cite_ref-:8_22-0" class="reference"><a href="#cite_note-:8-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup>  
+</p>
+<ul><li>Deaths: 2</li>
+<li><a href="/wiki/Fila" title="Fila">Fila</a></li>
+<li><a href="/wiki/Drove" title="Drove">Drove</a></li></ul>
+<h4><span class="mw-headline" id="Day_9_-_July_19th">Day 9 - July 19th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D20&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>When she awakens, Katniss is still deaf in her left ear, but she can hear Foxface laughing at the Careers' loss. Katniss returns to the rendezvous spot, but since Rue has not returned, she spends the afternoon in a tree to wait, but later decides to search for her. At first finding no sign of Rue, she eventually heard Rue's four note tune coming from the mockingjays, then her scream. When Katniss finds her, Rue was captured in a net by Marvel, the boy from District 1, who spears her through her abdomen before Katniss can free her.<sup id="cite_ref-:8_22-1" class="reference"><a href="#cite_note-:8-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup> Immediately, Katniss kills him by shooting an arrow in his neck, then frees Rue from the net but can't help her except hold her and sing to her until she dies. Then she arranges wild flowers around the body as one last act of their alliance and defiance to the Capitol, for making them pawns in their twisted game. She walks away, and a <a href="/wiki/Parachute" class="mw-redirect" title="Parachute">parachute</a> arrives with a loaf of bread from District 11, Rue's district.<sup id="cite_ref-:9_23-0" class="reference"><a href="#cite_note-:9-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 2</li>
+<li><a href="/wiki/Marvel" title="Marvel">Marvel</a></li>
+<li><a href="/wiki/Rue" title="Rue">Rue</a></li></ul>
+<h4><span class="mw-headline" id="Day_10_-_July_20th">Day 10 - July 20th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D21&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Feeling lost, Katniss forces herself to sort her supplies and hunt. She thinks about revenge on the Careers for Rue's death. In the evening, <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> announces a rule change: there can be two victors if they come from the same district. Suddenly, Katniss calls out for Peeta.<sup id="cite_ref-:9_23-1" class="reference"><a href="#cite_note-:9-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Day_11_-_July_21st">Day 11 - July 21st</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D22&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss follows the stream, hoping to find Peeta. She finds him buried and covered in his self made camouflage at a river bank. He is so weak and badly injured that he can't get out of there alone anymore, so Katniss pulls him out, washes him and tends to his stings, burns, fever, and the cut on his leg. They both seek shelter in a cave, but Peeta's fever isn't going away. To keep him from speaking pessimistically, Katniss kisses him, which also keeps up the appearance of being "madly in love." Promptly, a parachute arrives containing broth.<sup id="cite_ref-:15_24-0" class="reference"><a href="#cite_note-:15-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Day_12_-_July_22nd">Day 12 - July 22nd</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D23&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Peeta's fever has broken, but Katniss is exhausted and Peeta makes her sleep the rest of the morning. By afternoon, Peeta's leg has gotten worse: he has blood poisoning. Katniss spends the day hunting and cooking while Peeta lies in the cave. In the evening, Templesmith announces that there will be a feast at the Cornucopia tomorrow, where every tribute will find what they most desperately need. Immediately, Peeta makes Katniss promise not to go because its too dangerous. Later on, a parachute arrives from Haymitch containing sleep syrup, with which Katniss can knock out Peeta for the whole time she needs to get to the Cornucopia and get the medicine.<sup id="cite_ref-:16_25-0" class="reference"><a href="#cite_note-:16-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup> She leaves before dawn.<sup id="cite_ref-:10_26-0" class="reference"><a href="#cite_note-:10-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span id="Day_13_.28Feast.29_-_July_23th"></span><span class="mw-headline" id="Day_13_(Feast)_-_July_23th">Day 13 (Feast) - July 23th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D24&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss reaches the Cornucopia and finds Foxface running out of the Cornucopia to grab her backpack immediately after they're placed. Katniss makes a run for it, but is attacked by Clove. Katniss shoots an arrow at her but misses. Clove knocks Katniss down and holds her to the ground with a knife at her face, mocking Katniss about being in love with Peeta and how Katniss couldn't save Rue. Just as Clove begins to cut Katniss, Thresh arrives and kills Clove by smashing her skull with a stone. He then lets Katniss get her bag and run, because he feels like he owes her for what she did for Rue. Katniss is able to get back to the cave and inject Peeta with the medicine before she loses consciousness.<sup id="cite_ref-:10_26-1" class="reference"><a href="#cite_note-:10-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 1</li>
+<li><a href="/wiki/Clove" title="Clove">Clove</a></li></ul>
+<h4><span class="mw-headline" id="Day_14_-_July_24th">Day 14 - July 24th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D25&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>When Katniss awakes having bled a lot overnight, she finds Peeta feeling much better than before. He has bandaged her forehead, and continues to care for her. A storm rages outside, so they stay inside and try to recover the whole day. They kiss for the first time.<sup id="cite_ref-:17_27-0" class="reference"><a href="#cite_note-:17-27"><span class="cite-bracket">&#91;</span>27<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Day_15_-_July_25th">Day 15 - July 25th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D26&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The storm continues preventing any hunting and gathering. Katniss and Peeta both feel much better and finally get closer to each other. They kiss again, and immediately Haymitch sends them a huge feast. At night, they discover from the daily announcements that Thresh has been killed during the day. Overnight, the rain stops suddenly.<sup id="cite_ref-:11_28-0" class="reference"><a href="#cite_note-:11-28"><span class="cite-bracket">&#91;</span>28<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<ul><li>Deaths: 1</li>
+<li><a href="/wiki/Thresh" title="Thresh">Thresh</a></li></ul>
+<h4><span class="mw-headline" id="Day_16_-_July_26th">Day 16 - July 26th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D27&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss and Peeta go out for hunting and collecting berries and roots. Peeta unwittingly collects poisonous <a href="/wiki/Nightlock" title="Nightlock">nightlock</a> berries. When Katniss finds him collecting them, a cannon fires. Only a few meters away, Foxface's body is lifted to the hovercraft, and they realize that she stole the berries from Peeta and died.<sup id="cite_ref-:11_28-1" class="reference"><a href="#cite_note-:11-28"><span class="cite-bracket">&#91;</span>28<span class="cite-bracket">&#93;</span></a></sup> Katniss takes the remaining berries and plans to use them later to trick Cato. They return to the cave.<sup id="cite_ref-:12_29-0" class="reference"><a href="#cite_note-:12-29"><span class="cite-bracket">&#91;</span>29<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 1</li>
+<li><a href="/wiki/%22Foxface%22" title="&quot;Foxface&quot;">"Foxface"</a></li></ul>
+<h4><span class="mw-headline" id="Day_17_-_July_27th">Day 17 - July 27th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D28&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Since Cato is the only remaining tribute among Katniss and Peeta, they go to find him. They find him running right into them, but he is also running from something far more dangerous: a pack of <a href="/wiki/Wolf_mutt" title="Wolf mutt">wolf mutts</a>.<sup id="cite_ref-:12_29-1" class="reference"><a href="#cite_note-:12-29"><span class="cite-bracket">&#91;</span>29<span class="cite-bracket">&#93;</span></a></sup> All three run to the Cornucopia, where they try to rescue themselves by climbing it. In that process, Peeta gets bitten by one of the mutts and loses a lot of blood. Weakened like this, Cato can reach him and strangle him, standing near the edge on the top of the Cornucopia. Katniss realizes that she can't kill Cato without having Peeta be pulled down with him, so she shoots an arrow into Cato's hand. This makes him loosen his grip, and he trips and falls over the Cornucopia's edge. Katniss and Peeta watch him fight the mutts for about an hour, but Cato eventually collapses from exhaustion. The mutts continue to maul him, but they are unable to kill him due to his body armor. He is still alive when the night comes.<sup id="cite_ref-THG_25_2-1" class="reference"><a href="#cite_note-THG_25-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Day_18_-_July_28th">Day 18 - July 28th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D29&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>At dawn, Katniss finally shoots Cato with her last arrow, as an act of mercy. The mutts leave through a hole in the ground that opens up. Katniss and Peeta climb down the Cornucopia and head towards the lake so a hovercraft can come to take Cato's body. This is when Claudius Templesmith announces that the previous rule change is withdrawn, so there can only be one victor. Neither Katniss nor Peeta are willing to kill the other, and they're both arguing why they should be the one to die before Katniss remembers the berries. They prepare to commit double suicide, but before they can, they are both announced as the victors of the 74th Hunger Games.<sup id="cite_ref-THG_25_2-2" class="reference"><a href="#cite_note-THG_25-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 1</li>
+<li><a href="/wiki/Cato" title="Cato">Cato</a></li></ul>
+<hr />
+<h3><span id="The_Games_.28Film.29"></span><span class="mw-headline" id="The_Games_(Film)">The Games (Film)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D30&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 74th Hunger Games lasted for just over 9 days. This is a short summary of the main events each day, in the film.
+</p>
+<h4><span id="Day_1_.28Cornucopia_bloodbath.29_-_July_11th_2"></span><span class="mw-headline" id="Day_1_(Cornucopia_bloodbath)_-_July_11th_2">Day 1 (Cornucopia bloodbath) - July 11th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D31&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss sees the bow and arrows and wants to grab them despite Haymitch's orders to run into the woods, but she then spots Peeta, who shakes his head at her. When the gong sounds, Katniss stops and sees Peeta running into the woods. The male tribute from District 8 tries to attack Marvel, who stops him by slitting his throat with a dagger and then stabbing him. Bravura and Thresh enter the Cornucopia, Glimmer stabs the female tribute from District 6, the District 7 female tribute is attacked by Marvel with a spear, Jason opens a backpack, and Tippet runs away with a backpack. Katniss lunges for a backpack at the same time as the boy from District 9. They fight over the backpack until Clove kills the boy. Clove then throws one of her knives at Katniss, but it hits her backpack instead, and Katniss runs off into the woods.
+</p><p>As Katniss runs, she bumps into Foxface, who looks at her with terror. They both start running in opposite directions. She keeps running through the woods, hearing screams in the distance. She also sees Drove, the male tribute from District 10, who is running away from the bloodbath. After almost 17 minutes, twelve cannon shots are heard, signaling twelve deaths. Throughout the day, Katniss goes hunting, sets traps, and ends up climbing a tree to rest, where she sees the faces of the dead tributes. 
+</p>
+<ul><li>Deaths: 12</li>
+<li><a href="/wiki/District_3_female_(74th_HG)" title="District 3 female (74th HG)">District 3 female</a></li>
+<li><a href="/wiki/Bravura" title="Bravura">Bravura</a></li>
+<li><a href="/wiki/Tippet" title="Tippet">Tippet</a></li>
+<li><a href="/wiki/District_5_male_(74th_HG)" title="District 5 male (74th HG)">District 5 male</a></li>
+<li><a href="/wiki/Jason" title="Jason">Jason</a></li>
+<li><a href="/wiki/District_6_female_(74th_HG)" title="District 6 female (74th HG)">District 6 female</a></li>
+<li><a href="/wiki/Stele" title="Stele">Stele</a></li>
+<li><a href="/wiki/District_7_female_(74th_HG)" title="District 7 female (74th HG)">District 7 female</a></li>
+<li><a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">District 8 male</a></li>
+<li><a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">District 9 male</a></li>
+<li><a href="/wiki/District_9_female_(74th_HG)" title="District 9 female (74th HG)">District 9 female</a></li>
+<li><a href="/wiki/District_10_female_(74th_HG)" title="District 10 female (74th HG)">District 10 female</a></li></ul>
+<h4><span class="mw-headline" id="Day_2_-_July_12th_2">Day 2 - July 12th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D32&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Shortly before dawn, Katniss witnesses Peeta and the Career pack killing the girl from District 8, Heddle, who tried to warm herself by making a <a href="/wiki/Fire" title="Fire">fire</a>. Katniss can't figure out why Peeta has teamed up with the Careers and feels betrayed. Since they didn't see her, she spends the day hunting and continuing her search for water. At dawn, Katniss continues walking, moving away from all the other tributes with the intention of finding water. Seeing this, the <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> decide to prepare an event just for her. 
+</p>
+<ul><li>Deaths: 1</li>
+<li><a href="/wiki/Heddle" title="Heddle">Heddle</a></li></ul>
+<h4><span class="mw-headline" id="Day_3_-_July_13th_2">Day 3 - July 13th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D33&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Waking up on a tree branch, Katniss sees a huge wall of fire approaching her, so she quickly climbs down and runs through the forest. Meanwhile, the Gamemakers decide to put obstacles in her path, such as a falling tree and fireballs, in order to bring her closer to the group of Career Tributes. Katniss is finally hit by a fireball in her right leg. She keeps running until she reaches the river. There, she is spotted by Peeta and the tributes from District 1 and 2, who follow her. Katniss weakly manages to grab hold of a tree. Neither Glimmer nor Cato can reach her, so Peeta suggests that it would be better to wait, as she has no water or fire and will come down on her own. Finally, they decide to camp under the tree. That night, Katniss receives a <a href="/wiki/Parachute" class="mw-redirect" title="Parachute">parachute</a> from Haymitch containing ointment for her burns, which brings her great relief.
+</p>
+<h4><span class="mw-headline" id="Day_4_-_July_14th_2">Day 4 - July 14th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D34&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss wakes up, her leg having healed. The Careers are sleeping but are still holding their weapons. Katniss hears a noise in one of the nearby trees and sees Rue silently pointing to the <a href="/wiki/Tracker_jacker" title="Tracker jacker">tracker jacker</a> nest above her. Katniss climbs the tree and, with the knife Clove threw at her in the initial bloodbath, begins to saw the branch. She receives several stings, but finally the branch gives way and the nest falls down onto the tributes' camp. They get up running and screaming.
+</p><p>Most manage to flee, but Glimmer stumbles and falls, writhing in pain from the stings. She fails to get up and falls into a coma, later dying from the poison. During the commotion, Katniss climbs down from the tree, but the poison and hallucinations are taking their toll. She reaches Glimmer's motionless body to take her bow and arrows. Glimmer's body is covered in large lumps and stiffened by the poison. Katniss takes the weapons, but Peeta appears, shouting at her to run. She does so, but the effect is so strong that she finally collapses from the poison.
+</p>
+<ul><li>Deaths: 1</li>
+<li><a href="/wiki/Glimmer" title="Glimmer">Glimmer</a></li></ul>
+<h4><span class="mw-headline" id="Day_5_-_July_15th_2">Day 5 - July 15th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D35&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss has visions of her home in District 12, mixing events such as seeing her father repeatedly entering the mine, which then explodes, destroying not only the mine but also her house. The house is rebuilt. <a href="/wiki/Prim" class="mw-redirect" title="Prim">Prim</a> is crying in a room and Katniss, wearing her arena uniform, screams at her mother, but her mother caresses her and calls her by name, but with Peeta's voice.  
+</p>
+<ul><li>Deaths: 1</li>
+<li><a href="/wiki/Drove" title="Drove">Drove</a></li></ul>
+<h4><span class="mw-headline" id="Day_6_-_July_16th">Day 6 - July 16th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D36&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Katniss wakes up lying behind a tree trunk and covered in medicinal leaves. Her bow and arrows are with her. She realizes that it was Rue who was behind a tree, scared, but Katniss thanks her for healing her. They become allies and eat and chat together. Katniss gives Rue her piece of meat. Rue mentions that she slept for two days and that Glimmer and the District 10 male tribute, Drove, died. She tells Katniss that Peeta was by the river and that the Careers had allied with the District 3 male tribute, <a href="/wiki/Fila" title="Fila">Fila</a>, who had stockpiled all the supplies in a pyramid. They sleep together.
+</p>
+<h4><span class="mw-headline" id="Day_7_-_July_17th_2">Day 7 - July 17th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D37&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The next day, Katniss and Rue prepare to destroy the Careers' supplies. Rue is in charge of making bonfires to distract the tributes while Katniss takes care of the supplies. Rue teaches her the <a href="/wiki/Rue%27s_four-note_song" title="Rue&#39;s four-note song">mockingjay song</a>, saying that if they hear it, it means the other is okay. Katniss hugs her, saying that they will see each other at dinnertime. The two part ways, and Katniss arrives at the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a>, where the supply tower is located. In the distance, Rue raises a large smoke signal, and Marvel, Cato, and Clove head toward the site while Fila stays behind to keep watch. Then Foxface appears and starts jumping from side to side until she reaches the supplies. She manages to grab something and runs away. Fila hears something and decides to investigate, grabbing his spear.
+</p><p>Katniss realizes that the Careers have used the tribute from District 3 to reactivate the mines around the <a href="/wiki/Pedestal" title="Pedestal">pedestals</a> to protect the supplies. She tries to shoot a bag of apples with an arrow, but only grazes it. With the second arrow, she breaks the bag and the apples fall, activating the mines. Everything explodes and Katniss is thrown backwards. Fila arrives, frightened, and the Careers follow. Cato starts yelling at him, asking what happened, while Marvel and Clove survey the damage. Fila tells him he doesn't know, grabbing his spear to protect himself, but Cato throws it to the ground. Fila tries to explain, but finally Cato grabs him by the head and breaks his neck, causing his body to collapse. Terrified by what she sees, Katniss stands up and runs to look for Rue. She reaches one of the piles of branches that should have been used to make a bonfire but is still intact.
+</p><p>Katniss sings the four-note song, but receives no response. Katniss then hears Rue shouting her name for help. She finds her in a clearing in the forest, trapped in a net. Katniss uses her knife to cut the rope, but when she frees Rue, she realizes that someone is behind her. When she turns around, she sees Marvel with a spear, which he throws at her. Katniss dodges it and shoots him in the chest with an arrow. Katniss sees Marvel fall dead and turns around, proud of herself for hitting her target, but her joy fades when she sees Rue pulling the spear out of her stomach. Rue falls to the ground and Katniss carefully picks her up. Katniss tells her that she has destroyed the supplies as promised. Rue tells Katniss to win and, before she dies, to sing to her. Katniss sings to Rue until she dies. She cries out in pain at not having been able to protect her and places flowers around Rue's body, then makes the <a href="/wiki/Three-finger_salute" title="Three-finger salute">three-finger salute</a>.
+</p><p>Announcements are made over the loudspeakers that there can now be two winners, provided they are from the same district. Upon hearing this, Katniss goes to look for Peeta. Following a trail of blood, she finds her camouflaged companion near the river. Peeta has been wounded by Cato with a sword. Together, they hide in a cave. Peeta tells her that he is going to die, but Katniss refuses to leave him. She kisses him on the cheek and receives a bowl of soup with a message from Haymitch telling her to act. She agrees, gives Peeta the soup, and kisses him. Before going to sleep, an announcement informs the tributes that tomorrow morning, a banquet will be held with the things they most desperately need. Peeta begs her not to go, but Katniss insists he needs treatment.
+</p>
+<ul><li>Deaths: 3</li>
+<li><a href="/wiki/Marvel" title="Marvel">Marvel</a></li>
+<li><a href="/wiki/Fila" title="Fila">Fila</a></li>
+<li><a href="/wiki/Rue" title="Rue">Rue</a></li></ul>
+<h4><span class="mw-headline" id="Day_8_-_July_18th_2">Day 8 - July 18th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D38&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the morning, Katniss returns to the Cornucopia, where she sees a table with gray and black bags labeled with numbers: 2, 5, 11, and 12. She looks around to grab her bag when Foxface emerges from the Cornucopia, grabs bag number 5, and runs off with it into the forest. Katniss resumes the race, grabbing her bag, but before she can leave, a knife flies over her forehead, cutting her. Clove, her attacker, runs towards Katniss. Katniss tries to shoot her, but Clove dodges the arrow. The two girls start fighting on the ground, rolling around while Clove tries to stab Katniss. Finally, Clove knocks Katniss down and immobilizes her, telling her that it's a shame she couldn't save Peeta or Rue, the latter of which they killed.
+</p><p>Clove raises the knife to stab her, but out of nowhere Thresh appears, grabs Clove, and pins her against the Cornucopia. He starts yelling at her, saying that he heard her talking about Rue's death. She says no, but Thresh continues yelling, and Clove starts screaming Cato's name. Thresh slams her twice against the wall until he breaks her neck, throwing her to the ground as if she were a doll. Katniss is scared, thinking herself to be next, but Thresh leaves her alone for trying to protect Rue. After saying this, he flees with the other bags. Katniss gets up with her bag and weapons and flees back into the forest, hearing the cannon shot signaling Clove's death. After arriving, she puts the ointment on Peeta, and he puts a little on the wound on her forehead. 
+</p>
+<ul><li>Deaths: 1</li>
+<li><a href="/wiki/Clove" title="Clove">Clove</a></li></ul>
+<h4><span class="mw-headline" id="Day_9_-_July_19th_2">Day 9 - July 19th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D39&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>At dawn, Katniss and Peeta's wounds have healed, and they see the possibility of returning home. For a while, they search for fruit and animals to hunt, but then they hear a cannon. Katniss goes looking for Peeta, whom she bumps into, as he thought Katniss had died. They embrace, but Katniss sees that Peeta has <a href="/wiki/Nightlock" title="Nightlock">nightlock</a>, poisonous berries that kill instantly when ingested. She scolds him. After returning to their new camp, where Peeta left his coat with the berries, they find the body of Foxface, whose mouth and hands are stained with nightlock. Katniss takes the berries, thinking that Cato might like to try them. The day passes quickly and night falls.
+</p><p>With only four tributes left, Cato, the tribute from District 2, Thresh, the tribute from District 11, and Katniss and Peeta from District 12, the Gamemakers decide to end the Games. They introduce a species of <a href="/wiki/Muttation#Wolf_mutts" title="Muttation">mutated wolves</a> into the arena. Katniss and Peeta start walking and hear the howls of the wolves and the cry of an unknown boy. Peeta asks what that was, and Katniss says it's the finale. A cannon shot is heard and Thresh's portrait appears in the sky.
+</p><p>The wolves appear and follow Katniss and Peeta, who both run towards the Cornucopia. As they climb in, they are attacked by Cato, who tries to throw Katniss to the wolves, but Peeta manages to stop him. Cato grabs Peeta with the intention of breaking his neck, but Katniss threatens him with her bow. Cato mentions that he can kill once more, the only thing he knows how to do. While he speaks, Peeta points out Cato's hand to Katniss. She shoots Cato, who screams. Peeta seizes the moment and, with all his strength, pulls him from the Cornucopia toward the wolves.
+</p><p>The mutts pounce on Cato and begin to devour him. He begs for help, so Katniss decides to end his suffering by shooting an arrow into Cato's head.
+</p>
+<ul><li>Deaths: 3</li>
+<li><a href="/wiki/%22Foxface%22" title="&quot;Foxface&quot;">"Foxface"</a></li>
+<li><a href="/wiki/Thresh" title="Thresh">Thresh</a></li>
+<li><a href="/wiki/Cato" title="Cato">Cato</a></li></ul>
+<h4><span class="mw-headline" id="Day_10_-_July_20th_2">Day 10 - July 20th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D40&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>After Cato's death, the wolves leave and day breaks. But the rules change again: there can only be one winner. Katniss and Peeta refuse to accept this and decide to take their own lives by eating the berries, but just as they are about to eat them, they are told to stop. <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> announces that Katniss Everdeen and Peeta Mellark are the new winners of the 74th Hunger Games.
+</p>
+<h2><span class="mw-headline" id="Placing">Placing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D41&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/97/Tributes_of_74th_hungergames.jpg/revision/latest?cb=20120418194250" class="mw-file-description image"><img alt="The tributes of the 74th Hunger Games." src="https://static.wikia.nocookie.net/thehungergames/images/9/97/Tributes_of_74th_hungergames.jpg/revision/latest/scale-to-width-down/180?cb=20120418194250" decoding="async" loading="lazy" width="180" height="111" class="thumbimage" data-image-name="Tributes of 74th hungergames.jpg" data-image-key="Tributes_of_74th_hungergames.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tributes_of_74th_hungergames.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The tributes of the 74th Hunger Games.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Book">Book</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D42&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>1st</b> - <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> (<a href="/wiki/Victor" title="Victor">victors</a>)</li>
+<li><b>3rd</b> (Day 18): <a href="/wiki/Cato" title="Cato">Cato</a> - Mauled by wolf muttations, and then shot in the head by Katniss.</li>
+<li><b>4th</b> (Day 16): <a href="/wiki/%22Foxface%22" title="&quot;Foxface&quot;">"Foxface"</a> - Ate nightlock berries.</li>
+<li><b>5th</b> (Day 15): <a href="/wiki/Thresh" title="Thresh">Thresh</a> - Assumed killed by Cato in a bloody battle.</li>
+<li><b>6th</b> (Day 13): <a href="/wiki/Clove" title="Clove">Clove</a> - Rock smashed against her temple by Thresh during the <a href="/wiki/Feast" title="Feast">feast</a>.</li>
+<li><b>7th</b> (Day 9): <a href="/wiki/Rue" title="Rue">Rue</a> - Speared through the abdomen with a javelin by Marvel.</li>
+<li><b>8th</b> (Day 9): <a href="/wiki/Marvel" title="Marvel">Marvel</a> - Shot through the neck with an arrow by Katniss.</li>
+<li><b>9th</b> (Day 8): <a href="/wiki/Fila" title="Fila">Fila</a> - Neck snapped by Cato.</li>
+<li><b>10th</b> (Day 8): <a href="/wiki/Drove" title="Drove">Drove</a> - Killed early in the morning, presumably killed by the Careers.</li>
+<li><b>11th</b> (Day 5): <a href="/wiki/Tippet" title="Tippet">Tippet</a> - Stung to death by tracker jackers after Katniss dropped a nest on the Careers.</li>
+<li><b>12th</b> (Day 5): <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> - Stung to death by tracker jackers after Katniss dropped a nest on the Careers.</li>
+<li><b>13th</b> (Day 2): <a href="/wiki/Heddle" title="Heddle">Heddle</a> - Injured by the Careers, then mercy killed by Peeta.</li>
+<li><b>14th-23rd</b> (Day 1): Killed in the Cornucopia bloodbath:
+<ul><li><a href="/wiki/District_3_female_(74th_HG)" title="District 3 female (74th HG)">District 3 female</a>, <a href="/wiki/Bravura" title="Bravura">Bravura</a>, <a href="/wiki/District_5_male_(74th_HG)" title="District 5 male (74th HG)">District 5 male</a>, <a href="/wiki/Jason" title="Jason">Jason</a>, <a href="/wiki/District_6_female_(74th_HG)" title="District 6 female (74th HG)">District 6 female</a>, <a href="/wiki/Stele" title="Stele">Stele</a>, <a href="/wiki/District_7_female_(74th_HG)" title="District 7 female (74th HG)">District 7 female</a>, <a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">District 8 male</a>, <a href="/wiki/District_9_female_(74th_HG)" title="District 9 female (74th HG)">District 9 female</a>, and <a href="/wiki/District_10_female_(74th_HG)" title="District 10 female (74th HG)">District 10 female</a>.</li></ul></li>
+<li><b>24th</b> (Day 1):&#160;<a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">District 9 male</a> - Killed by one of Clove's throwing knives while fighting over a backpack with Katniss</li></ul>
+<hr />
+<h3><span class="mw-headline" id="Film">Film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D43&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the film, the 74th Hunger Games were compressed to a length of 9 days, half of the book's 18 day depiction. The problem with the film is that the scenes of the bloodbath did not follow a chronological order, as you could see dead tributes and then see them alive. On the other hand, the markers for the dead varied in time and position. It was therefore decided to make two lists for the film. One follows the order set by the film as it is, and the other follows the correct chronological order.
+</p><p>According to the film recordings:
+</p>
+<ul><li><b>1st</b> - <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> (victors).</li>
+<li><b>3rd</b>&#160;- (Day 9): <a href="/wiki/Cato" title="Cato">Cato</a> - Mauled by wolf mutts, then shot in the head with an arrow by Katniss.</li>
+<li><b>4th</b> - (Day 9): <a href="/wiki/Thresh" title="Thresh">Thresh</a> - Killed by wolf mutts.</li>
+<li><b>5th</b> - (Day 9): <a href="/wiki/%22Foxface%22" title="&quot;Foxface&quot;">"Foxface"</a> - Unwittingly ate nightlock berries.</li>
+<li><b>6th</b> - (Day 8): <a href="/wiki/Clove" title="Clove">Clove</a> - Head smashed against the Cornucopia by Thresh during the feast.</li>
+<li><b>7th</b> - (Day 7): <a href="/wiki/Rue" title="Rue">Rue</a> - Speared through the abdomen with a javelin by Marvel.</li>
+<li><b>8th</b> - (Day 7): <a href="/wiki/Marvel" title="Marvel">Marvel</a> - Shot in the heart with an arrow by Katniss.</li>
+<li><b>9th</b> - (Day 7):  <a href="/wiki/Fila" title="Fila">Fila</a> - Neck snapped by Cato. 6 days, 9 hours, 14 minutes, 49 seconds and 60 milliseconds.</li>
+<li><b>10th</b> -&#160;(Day 4-6): <a href="/wiki/Drove" title="Drove">Drove</a>&#160;- Unknown, presumably killed by the Careers.</li>
+<li><b>11th</b> -&#160;(Day 4): <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> - Stung to death by tracker jackers after Katniss dropped a nest on the Careers.</li>
+<li><b>12th</b> - (Day 2): <a href="/wiki/Heddle" title="Heddle">Heddle</a>- Presumably stabbed by Glimmer with Cato's sword. 8 hours, 12 minutes and 8 seconds.</li>
+<li><b>13th</b> -&#160;(Day 1): <a href="/wiki/Tippet" title="Tippet">Tippet</a> - Unknown, presumably killed by the Careers. 17 minutes and 23 seconds.</li>
+<li><b>14th</b>&#160;-&#160;(Day 1): <a href="/wiki/District_7_female_(74th_HG)" title="District 7 female (74th HG)">District 7 female</a> - Speared through the heart by Marvel. 2 minutes and31 seconds.</li>
+<li><b>15th</b> -&#160;(Day 1): <a href="/wiki/Jason" title="Jason">Jason</a>&#160;- Slashed in the stomach with a scythe by Cato. 1 min and 40 seconds.</li>
+<li><b>16th</b> -&#160;(Day 1): <a href="/wiki/District_9_female_(74th_HG)" title="District 9 female (74th HG)">District 9 female</a> - Unknown, presumably by one of the Careers. 1 minute and 37 seconds.</li>
+<li><b>17th</b> - (Day 1): <a href="/wiki/Bravura" title="Bravura">Bravura</a> - Slashed in the neck with a machete by Cato. 1 minute and 18 seconds.</li>
+<li><b>18th</b> -&#160;(Day 1): <a href="/wiki/Stele" title="Stele">Stele</a> - Slashed across the face with a sickle by Thresh. 37 seconds.</li>
+<li><b>19th</b> - (Day 1): <a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">District 9 male</a> - Knife thrown into the back by Clove. 35 seconds.</li>
+<li><b>20th</b> -&#160;(Day 1): <a href="/wiki/District_3_female_(74th_HG)" title="District 3 female (74th HG)">District 3 female</a> - Slashed in the forehead with a sickle by District 5 male. 29 seconds.</li>
+<li><b>21st</b>&#160;-&#160;(Day 1): <a href="/wiki/District_6_female_(74th_HG)" title="District 6 female (74th HG)">District 6 female</a>&#160;- Stabbed to death with a knife by Glimmer. 27 seconds.</li>
+<li><b>22nd</b> - (Day 1): <a href="/wiki/District_10_female_(74th_HG)" title="District 10 female (74th HG)">District 10 female</a> - Bashed in the chest with a mace by Cato. 23 seconds.</li>
+<li><b>23rd</b> - (Day 1): <a href="/wiki/District_5_male_(74th_HG)" title="District 5 male (74th HG)">District 5 male</a> - Stabbed to death by Glimmer. 13 seconds.</li>
+<li><b>24th</b> (Day 1): <a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">District 8 male</a>&#160;- Stabbed with a kukri by Marvel. 9 seconds.</li></ul>
+<p><br />
+In the correct chronological order:
+</p>
+<ul><li><b>1st</b> - <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> (victors).</li>
+<li><b>3rd</b>&#160;- (Day 9): <a href="/wiki/Cato" title="Cato">Cato</a> - Mauled by wolf mutts, then shot in the head with an arrow by Katniss.</li>
+<li><b>4th</b> - (Day 8): <a href="/wiki/Thresh" title="Thresh">Thresh</a> - Killed by wolf mutts.</li>
+<li><b>5th</b> - (Day 8): <a href="/wiki/%22Foxface%22" title="&quot;Foxface&quot;">"Foxface"</a> - Unwittingly ate nightlock berries.</li>
+<li><b>6th</b> - (Day 8): <a href="/wiki/Clove" title="Clove">Clove</a> - Head smashed against the Cornucopia by Thresh during the feast.</li>
+<li><b>7th</b> - (Day 7): <a href="/wiki/Rue" title="Rue">Rue</a> - Speared through the abdomen with a javelin by Marvel.</li>
+<li><b>8th</b> - (Day 7): <a href="/wiki/Marvel" title="Marvel">Marvel</a> - Shot in the heart with an arrow by Katniss.</li>
+<li><b>9th</b> - (Day 7):  <a href="/wiki/Fila" title="Fila">Fila</a> - Neck snapped by Cato.</li>
+<li><b>10th</b> -&#160;(Day 4 -7): <a href="/wiki/Drove" title="Drove">Drove</a>&#160;- Unknown, presumably killed by the Careers.</li>
+<li><b>11th</b> -&#160;(Day 4): <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> - Stung to death by tracker jackers after Katniss dropped a nest on the Careers.</li>
+<li><b>12th</b> - (Day 2): <a href="/wiki/Heddle" title="Heddle">Heddle</a>- Presumably stabbed by Glimmer with Cato's sword.</li>
+<li><b>13th</b> -&#160;(Day 1): <a href="/wiki/Tippet" title="Tippet">Tippet</a> - Unknown, presumably killed by the Careers.</li>
+<li><b>14th</b> - (Day 1): <a href="/wiki/Bravura" title="Bravura">Bravura</a> - Slashed in the neck with a machete by Cato.</li>
+<li><b>15th</b> -&#160;(Day 1): <a href="/wiki/Jason" title="Jason">Jason</a>&#160;- Slashed in the stomach with a scythe by Cato.</li>
+<li><b>16th</b>&#160;-&#160;(Day 1): <a href="/wiki/District_7_female_(74th_HG)" title="District 7 female (74th HG)">District 7 female</a> - Speared through the heart by Marvel.</li>
+<li><b>17th</b> - (Day 1): <a href="/wiki/District_5_male_(74th_HG)" title="District 5 male (74th HG)">District 5 male</a> - Stabbed to death by Glimmer.</li>
+<li><b>18th</b> -&#160;(Day 1): <a href="/wiki/District_9_female_(74th_HG)" title="District 9 female (74th HG)">District 9 female</a> - Unknown, presumably by one of the Careers.</li>
+<li><b>19th</b> -&#160;(Day 1): <a href="/wiki/Stele" title="Stele">Stele</a> - Slashed across the face with a sickle by Thresh.</li>
+<li><b>20th</b> - (Day 1): <a href="/wiki/District_9_male_(74th_HG)" title="District 9 male (74th HG)">District 9 male</a> - Knife thrown into the back by Clove.</li>
+<li><b>21st</b>&#160;-&#160;(Day 1): <a href="/wiki/District_6_female_(74th_HG)" title="District 6 female (74th HG)">District 6 female</a>&#160;- Stabbed to death with a knife by Glimmer.</li>
+<li><b>22nd</b> -&#160;(Day 1): <a href="/wiki/District_3_female_(74th_HG)" title="District 3 female (74th HG)">District 3 female</a> - Slashed in the forehead with a sickle by District 5 male.</li>
+<li><b>23rd</b> - (Day 1): <a href="/wiki/District_10_female_(74th_HG)" title="District 10 female (74th HG)">District 10 female</a> - Bashed in the chest with a mace by Cato.</li>
+<li><b>24th</b> (Day 1): <a href="/wiki/District_8_male_(74th_HG)" title="District 8 male (74th HG)">District 8 male</a>&#160;- Stabbed with a kukri by Marvel.</li></ul>
+<h2><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D44&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When Katniss and Peeta pulled out the nightlock berries, it was interpreted as a sign of <a href="/wiki/Rebellion" title="Rebellion">rebellion</a> by many people in the districts.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span class="cite-bracket">&#91;</span>30<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>, the Head Gamemaker responsible for letting them both live, was executed<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span class="cite-bracket">&#91;</span>31<span class="cite-bracket">&#93;</span></a></sup> or committed suicide<sup id="cite_ref-THG_film_7-8" class="reference"><a href="#cite_note-THG_film-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> shortly after. Districts began to push back against the Capitol, and Katniss's <a href="/wiki/Mockingjay_pin" title="Mockingjay pin">mockingjay pin</a>, along with Katniss herself, became symbols of resistance.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span class="cite-bracket">&#91;</span>32<span class="cite-bracket">&#93;</span></a></sup> One year after the 74th Hunger Games, the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a> broke out, eventually leading to the end of the Hunger Games, the liberation of the districts, and overthrow of the Capitol regime.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D45&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The Games started at 10 o'clock in the morning.</li>
+<li>The 74th Hunger Games was the last time that a victor was crowned. Six tributes were alive when the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> was interrupted.<sup id="cite_ref-CF_27_33-0" class="reference"><a href="#cite_note-CF_27-33"><span class="cite-bracket">&#91;</span>33<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>They were also the last Games that had its tributes participating for the first time, since the 75th Hunger Games had its tribute pool made up of <a href="/wiki/Victor" title="Victor">victors</a> who were going back to the arena for a second time.</li></ul></li>
+<li>The prequel novel, <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, confirmed that the reaping was held annually on July 4th.<sup id="cite_ref-Ballad_1_34-0" class="reference"><a href="#cite_note-Ballad_1-34"><span class="cite-bracket">&#91;</span>34<span class="cite-bracket">&#93;</span></a></sup> Katniss's description of pre-Games events spanned seven days (July 4th-10th), and the Games lasted for eighteen days after that, beginning on July 11th and ending on the 28th.</li>
+<li>At 18 days (9 in the film), the 74th Hunger Games is the longest known Hunger Games in both mediums.</li>
+<li>Rue is the only tribute who dies accompanied and sung to the end in the film.</li>
+<li>Both Cato and <a href="/wiki/Marcus" title="Marcus">Marcus</a>, the male tribute from District 2 in the 10th Hunger Games, die begging their killers for mercy, asking them to help them die so they can stop suffering.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F74th_Hunger_Games%3Fveaction%3Dedit%26section%3D46&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-CF_2-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_2_1-0">1.0</a></sup> <sup><a href="#cite_ref-CF_2_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-THG_25-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_25_2-0">2.0</a></sup> <sup><a href="#cite_ref-THG_25_2-1">2.1</a></sup> <sup><a href="#cite_ref-THG_25_2-2">2.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-exhibition-3"><span class="mw-cite-backlink"><a href="#cite_ref-exhibition_3-0">↑</a></span> <span class="reference-text"><i>The Hunger Games: The Exhibition</i> - <a href="/wiki/File:Cashmere_citizen_profile.png" title="File:Cashmere citizen profile.png">see image</a></span>
+</li>
+<li id="cite_note-MJ_19-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_19_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-:4-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:4_5-0">5.0</a></sup> <sup><a href="#cite_ref-:4_5-1">5.1</a></sup> <sup><a href="#cite_ref-:4_5-2">5.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_6-0">6.0</a></sup> <sup><a href="#cite_ref-:0_6-1">6.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-THG_film-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_film_7-0">7.0</a></sup> <sup><a href="#cite_ref-THG_film_7-1">7.1</a></sup> <sup><a href="#cite_ref-THG_film_7-2">7.2</a></sup> <sup><a href="#cite_ref-THG_film_7-3">7.3</a></sup> <sup><a href="#cite_ref-THG_film_7-4">7.4</a></sup> <sup><a href="#cite_ref-THG_film_7-5">7.5</a></sup> <sup><a href="#cite_ref-THG_film_7-6">7.6</a></sup> <sup><a href="#cite_ref-THG_film_7-7">7.7</a></sup> <sup><a href="#cite_ref-THG_film_7-8">7.8</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></span>
+</li>
+<li id="cite_note-THG_3-8"><span class="mw-cite-backlink"><a href="#cite_ref-THG_3_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-:1-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_11-0">11.0</a></sup> <sup><a href="#cite_ref-:1_11-1">11.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-:2-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_14-0">14.0</a></sup> <sup><a href="#cite_ref-:2_14-1">14.1</a></sup> <sup><a href="#cite_ref-:2_14-2">14.2</a></sup> <sup><a href="#cite_ref-:2_14-3">14.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-:18-15"><span class="mw-cite-backlink"><a href="#cite_ref-:18_15-0">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf">https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf</a></span>
+</li>
+<li id="cite_note-:3-16"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_16-0">16.0</a></sup> <sup><a href="#cite_ref-:3_16-1">16.1</a></sup> <sup><a href="#cite_ref-:3_16-2">16.2</a></sup> <sup><a href="#cite_ref-:3_16-3">16.3</a></sup> <sup><a href="#cite_ref-:3_16-4">16.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-:5-17"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:5_17-0">17.0</a></sup> <sup><a href="#cite_ref-:5_17-1">17.1</a></sup> <sup><a href="#cite_ref-:5_17-2">17.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-:13-18"><span class="mw-cite-backlink"><a href="#cite_ref-:13_18-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-:6-19"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:6_19-0">19.0</a></sup> <sup><a href="#cite_ref-:6_19-1">19.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-:7-20"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:7_20-0">20.0</a></sup> <sup><a href="#cite_ref-:7_20-1">20.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-:14-21"><span class="mw-cite-backlink"><a href="#cite_ref-:14_21-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-:8-22"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:8_22-0">22.0</a></sup> <sup><a href="#cite_ref-:8_22-1">22.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-:9-23"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:9_23-0">23.0</a></sup> <sup><a href="#cite_ref-:9_23-1">23.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-:15-24"><span class="mw-cite-backlink"><a href="#cite_ref-:15_24-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-:16-25"><span class="mw-cite-backlink"><a href="#cite_ref-:16_25-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-:10-26"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:10_26-0">26.0</a></sup> <sup><a href="#cite_ref-:10_26-1">26.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-:17-27"><span class="mw-cite-backlink"><a href="#cite_ref-:17_27-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-:11-28"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:11_28-0">28.0</a></sup> <sup><a href="#cite_ref-:11_28-1">28.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-:12-29"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:12_29-0">29.0</a></sup> <sup><a href="#cite_ref-:12_29-1">29.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-CF_27-33"><span class="mw-cite-backlink"><a href="#cite_ref-CF_27_33-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-Ballad_1-34"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_1_34-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251223235947
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.116 seconds
+Real time usage: 0.211 seconds
+Preprocessor visited node count: 1098/1000000
+Post‐expand include size: 564/2097152 bytes
+Template argument size: 28/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 18922/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  108.588      1 -total
+ 42.64%   46.297      1 Template:Reflist
+ 18.11%   19.669      1 Template:Games
+  1.16%    1.256      1 Template:Main
+  1.13%    1.231      1 Template:THG
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2211-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251223235946 and revision id 967772. Rendering was triggered because: edit-page
+ -->
+</div>

@@ -1,0 +1,141 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">71st Hunger Games</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+	
+		<h3 class="pi-data-label pi-secondary-font">Type</h3>
+	
+	<div class="pi-data-value pi-font">Regular</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="district">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor's home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_7" title="District 7">District 7</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/70th_Hunger_Games" title="70th Hunger Games">70th Hunger Games</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/72nd_Hunger_Games" class="mw-redirect" title="72nd Hunger Games">72nd Hunger Games</a></div>
+</div>
+</aside>
+
+</p><p>The <b>71st Hunger Games</b> were held three years prior to the start of the <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy">trilogy</a>. They were won by <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a>, the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_7" title="District 7">District 7</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Summary"><span class="tocnumber">1</span> <span class="toctext">Summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Known_tributes"><span class="tocnumber">1.1</span> <span class="toctext">Known tributes</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Pre-Games"><span class="tocnumber">1.2</span> <span class="toctext">Pre-Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Chariot_rides"><span class="tocnumber">1.2.1</span> <span class="toctext">Chariot rides</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#The_Games"><span class="tocnumber">1.3</span> <span class="toctext">The Games</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Aftermath"><span class="tocnumber">1.4</span> <span class="toctext">Aftermath</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">2</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F71st_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Known_tributes">Known tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F71st_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> - District 7 (<a href="/wiki/Victor" title="Victor">victor</a>) - mentored by <a href="/wiki/Blight" title="Blight">Blight</a> presumably</li></ul>
+<h3><span class="mw-headline" id="Pre-Games">Pre-Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F71st_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Chariot_rides"><a href="/wiki/Chariot_rides" title="Chariot rides">Chariot rides</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F71st_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Johanna and her <a href="/wiki/District_partner" title="District partner">district partner</a> likely wore tree <a href="/wiki/Chariot_costumes" title="Chariot costumes">costumes</a> for the Tribute Parade, since Johanna said the <a href="/wiki/District_7_stylist" title="District 7 stylist">District 7 stylist</a> had dressed her tributes the same way for decades.<sup id="cite_ref-CF_15_2-0" class="reference"><a href="#cite_note-CF_15-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F71st_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>Pretty clever, the way she played it.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> about Johanna's strategy<sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/35/Johanna_Mason_axe_training.jpg/revision/latest?cb=20240326155549" class="mw-file-description image"><img alt="Johanna training with an axe in The Hunger Games: Catching Fire." src="https://static.wikia.nocookie.net/thehungergames/images/3/35/Johanna_Mason_axe_training.jpg/revision/latest/scale-to-width-down/180?cb=20240326155549" decoding="async" loading="lazy" width="180" height="130" class="thumbimage" data-image-name="Johanna Mason axe training.jpg" data-image-key="Johanna_Mason_axe_training.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Johanna_Mason_axe_training.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Johanna training with an axe in <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>.</p> 		 	</figcaption> </figure>
+<p>Johanna initially presented herself as a "sniveling, cowardly fool",<sup id="cite_ref-THG_3_3-0" class="reference"><a href="#cite_note-THG_3-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> pretending to be weak so that she would be ignored in favor of more threatening tributes.<sup id="cite_ref-CF_14_4-0" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-CF_15_2-1" class="reference"><a href="#cite_note-CF_15-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> However, when there were only a handful of tributes remaining, "it turned out that she could kill viciously"<sup id="cite_ref-THG_3_3-1" class="reference"><a href="#cite_note-THG_3-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>— most likely with an <a href="/wiki/Weapons#Axe" title="Weapons">axe</a>, as she was adept with them in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>.<sup id="cite_ref-CF_23_5-0" class="reference"><a href="#cite_note-CF_23-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F71st_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>They can't hurt me. I'm not like the rest of you. There's no one left I love.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a><sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p>By the time of the third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, Johanna had lost any friends or family that she cared for,<sup id="cite_ref-CF_24_6-0" class="reference"><a href="#cite_note-CF_24-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> presumably killed by <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F71st_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Johanna presumably got a low <a href="/wiki/Training_score" title="Training score">training score</a> on purpose to keep up her guise of weakness.</li>
+<li>Since <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>'s family was killed after <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">his Games</a>, and he mentioned Johanna's name when he spoke about being held up as an example to younger victors,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> it is commonly theorized that Johanna refused to be sex trafficked as <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> had been, so her loved ones were killed in retaliation.</li>
+<li>The German translation of <i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> says that Johanna won seven years before the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>. This would mean that at least in the German version of the text, she won the <a href="/wiki/67th_Hunger_Games" title="67th Hunger Games">67th Hunger Games</a> rather than the 71st.
+<ul><li>In order for her to still be 21 during <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> per <a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a>' <i>Time</i> interview,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> she would have had to win the 67th Hunger Games at only 13 years old.
+<ul><li>Though, this would not be possible, as it was stated Finnick was the youngest victor, winning at the age of 14.</li></ul></li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F71st_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://capitolcouture.tumblr.com/post/63406814571">Game Faces: District 7’s Johanna Mason - Capitol Couture</a></span>
+</li>
+<li id="cite_note-CF_15-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_15_2-0">2.0</a></sup> <sup><a href="#cite_ref-CF_15_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-THG_3-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_3_3-0">3.0</a></sup> <sup><a href="#cite_ref-THG_3_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-CF_14-4"><span class="mw-cite-backlink"><a href="#cite_ref-CF_14_4-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 14</span>
+</li>
+<li id="cite_note-CF_23-5"><span class="mw-cite-backlink"><a href="#cite_ref-CF_23_5-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 23</span>
+</li>
+<li id="cite_note-CF_24-6"><span class="mw-cite-backlink"><a href="#cite_ref-CF_24_6-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 24</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://entertainment.time.com/2013/11/20/i-was-destined-to-write-a-gladiator-game-a-conversation-with-suzanne-collins-and-francis-lawrence/">https://entertainment.time.com/2013/11/20/i-was-destined-to-write-a-gladiator-game-a-conversation-with-suzanne-collins-and-francis-lawrence/</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260105153945
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.058 seconds
+Real time usage: 0.089 seconds
+Preprocessor visited node count: 264/1000000
+Post‐expand include size: 751/2097152 bytes
+Template argument size: 292/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3724/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   50.480      1 -total
+ 44.77%   22.602      1 Template:Games
+ 19.34%    9.761      1 Template:Reflist
+  5.19%    2.620      2 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:448893-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105153945 and revision id 966050. Rendering was triggered because: api-parse
+ -->
+</div>

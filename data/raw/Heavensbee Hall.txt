@@ -1,0 +1,95 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Heavensbee Hall</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Heavensbee_Hall.png/revision/latest?cb=20230509001755" class="image image-thumbnail" title="Heavensbee Hall">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Heavensbee_Hall.png/revision/latest/scale-to-width-down/268?cb=20230509001755" srcset="https://static.wikia.nocookie.net/thehungergames/images/a/ae/Heavensbee_Hall.png/revision/latest/scale-to-width-down/268?cb=20230509001755 1x, https://static.wikia.nocookie.net/thehungergames/images/a/ae/Heavensbee_Hall.png/revision/latest/scale-to-width-down/535?cb=20230509001755 2x" class="pi-image-thumbnail" data-relevant="1" alt="Heavensbee Hall" width="270" height="270" data-image-key="Heavensbee_Hall.png" data-image-name="Heavensbee Hall.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Academy" title="Academy">Academy</a> in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Heavensbee Hall</b> is a hall in the <a href="/wiki/Academy" title="Academy">Academy</a>, presumably named after the wealthy <a href="/wiki/Capitol_families#Heavensbee_family" title="Capitol families">Heavensbee family</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FHeavensbee_Hall%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If a Capitol-born citizen funded a building, they would expect it to be renamed for them.<sup id="cite_ref-Ballad_1_1-0" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The hall was where the <a href="/wiki/Mentor" title="Mentor">mentors</a> of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> gathered to watch <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a> ceremonies being broadcast.<sup id="cite_ref-Ballad_2_2-0" class="reference"><a href="#cite_note-Ballad_2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> It was also where the mentors officially met their <a href="/wiki/Tribute" title="Tribute">tributes</a> for the first time.<sup id="cite_ref-Ballad_6_3-0" class="reference"><a href="#cite_note-Ballad_6-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The mentors watched the Games from Heavensbee Hall, with <a href="/wiki/Lepidus_Malmsey" title="Lepidus Malmsey">Lepidus Malmsey</a> interviewing them after significant events.<sup id="cite_ref-Ballad_14_4-0" class="reference"><a href="#cite_note-Ballad_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> On the last day of the Games, the five remaining mentors decided to sleep in the hall for the night.<sup id="cite_ref-Ballad_20_5-0" class="reference"><a href="#cite_note-Ballad_20-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FHeavensbee_Hall%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Heavensbee Hall can be accessed through a vaulted passage, the entrance to which is draped in black banners. The hall itself is cavernous,<sup id="cite_ref-Ballad_2_2-1" class="reference"><a href="#cite_note-Ballad_2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> as well as cold and imposing without decorations. It has a balcony that can be reached via a spiral staircase.<sup id="cite_ref-Ballad_6_3-1" class="reference"><a href="#cite_note-Ballad_6-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FHeavensbee_Hall%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Exterior scenes were filmed at the <a href="https://en.wikipedia.org/wiki/Altes_Museum" class="extiw" title="wikipedia:Altes Museum">Altes Museum</a> in <a href="https://en.wikipedia.org/wiki/Berlin" class="extiw" title="wikipedia:Berlin">Berlin, Germany</a>. Interior scenes were filmed in the Bärensaal at the <a href="https://en.wikipedia.org/wiki/Altes_Stadthaus,_Berlin" class="extiw" title="wikipedia:Altes Stadthaus, Berlin">Altes Stadthaus</a>, also in Berlin.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FHeavensbee_Hall%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_1-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_1_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_2_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_2_2-1">2.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_6-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_6_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_6_3-1">3.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_14-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_14_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_20-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_20_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 20</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.imdb.com/title/tt10545296/locations/"><i>Ballad of Songbirds and Snakes</i> filming locations, IMDB</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251228164009
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.026 seconds
+Real time usage: 0.049 seconds
+Preprocessor visited node count: 183/1000000
+Post‐expand include size: 246/2097152 bytes
+Template argument size: 83/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2919/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   33.673      1 -total
+ 41.72%   14.050      1 Template:Location
+ 25.54%    8.600      1 Template:Reflist
+  4.50%    1.516      3 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:541859-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228164009 and revision id 952342. Rendering was triggered because: page-view
+ -->
+</div>

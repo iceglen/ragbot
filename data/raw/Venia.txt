@@ -1,0 +1,266 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class='id="stub"' style="padding:0.2em 0.4em; margin:0 0 10px 0; background:#fee; color:black; border:2px solid lightgray;-moz-border-radius-topleft: 15px;-moz-border-radius-topright: 15px;-moz-border-radius-bottomleft: 15px;-moz-border-radius-bottomright: 15px; text-align:center;"><i><b>This article is in need of clean up and improvement.</b><br> You can help The Hunger Games Wiki by <a target="_blank" rel="noreferrer noopener" class="text" href="https://thehungergames.fandom.com/wiki/Venia?action=edit">improving it</a>. </i></div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Venia</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/bc/HungerGames_122Pyxurz.jpg/revision/latest?cb=20130125225917" class="image image-thumbnail" title="HungerGames 122Pyxurz">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/b/bc/HungerGames_122Pyxurz.jpg/revision/latest/scale-to-width-down/268?cb=20130125225917" srcset="https://static.wikia.nocookie.net/thehungergames/images/b/bc/HungerGames_122Pyxurz.jpg/revision/latest/scale-to-width-down/268?cb=20130125225917 1x, https://static.wikia.nocookie.net/thehungergames/images/b/bc/HungerGames_122Pyxurz.jpg/revision/latest?cb=20130125225917 2x" class="pi-image-thumbnail" data-relevant="1" alt="HungerGames 122Pyxurz" width="270" height="205" data-image-key="HungerGames_122Pyxurz.jpg" data-image-name="HungerGames 122Pyxurz.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Prep_team" title="Prep team">Prep team</a> for <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a><br> <a href="/wiki/District_13" title="District 13">District 13</a> (briefly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i></a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Kimiko_Gelman" title="Kimiko Gelman">Kimiko Gelman</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>We would all like you to know what a... privilege it has been to make you look your best.</i>"</span></dd>
+<dd>—Venia to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a><sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p><b>Venia</b> is one of the three members of <a href="/wiki/Cinna" title="Cinna">Cinna</a>'s <a href="/wiki/Prep_team" title="Prep team">prep team</a> for <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#74th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">74th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Victory_Tour"><span class="tocnumber">1.2</span> <span class="toctext">Victory Tour</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Post-tour"><span class="tocnumber">1.3</span> <span class="toctext">Post-tour</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#75th_Hunger_Games"><span class="tocnumber">1.4</span> <span class="toctext">75th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Second_Rebellion"><span class="tocnumber">1.5</span> <span class="toctext">Second Rebellion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="77668" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Venia play in preparing Katniss Everdeen for the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, Venia was part of Cinna's prep team responsible for preparing Katniss Everdeen for public appearances. Working with Flavius and Octavia under Cinna, the District 12 stylist, Venia's tasks included waxing Katniss's body hair and incorporating red strands into her hair for interviews, which she styled in a braid over the shoulder.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="77669" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Venia contribute to Katniss's appearance for the interviews?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Venia, a member of Katniss's prep team, was instrumental in preparing her for interviews. She expressed concern over Katniss's eyebrows and nails during their Victory Tour. On the interview day, Venia single-handedly prepared Katniss, ensuring her appearance was impeccable. She was under Cinna's guidance, who supplied Katniss's attire.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="77670" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Venia's initial reaction to Katniss's body hair?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the 74th Hunger Games, Venia, a stylist under Cinna in District 12, prepared Katniss for the chariot rides. As she waxed Katniss's body hair, Venia noted her hairiness.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="77671" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who were the other members of Cinna's prep team alongside Venia?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Venia, Flavius, and Octavia comprised Cinna's prep team for Katniss Everdeen. Their role was to prepare Katniss for her public appearances, and they developed a caring relationship with her.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="77672" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Venia's relationship with Cinna in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Venia was part of Cinna's team, tasked with preparing Katniss Everdeen for her public appearances. Along with Flavius and Octavia, she worked under Cinna's guidance. During a poignant moment, when the rest of the team was overcome with emotion, Venia stepped up to fulfill the responsibilities of the whole team.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Venia","mainEntity":[{"@type":"Question","name":"What role did Venia play in preparing Katniss Everdeen for the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, Venia was part of Cinna's prep team responsible for preparing Katniss Everdeen for public appearances. Working with Flavius and Octavia under Cinna, the District 12 stylist, Venia's tasks included waxing Katniss's body hair and incorporating red strands into her hair for interviews, which she styled in a braid over the shoulder."}},{"@type":"Question","name":"How did Venia contribute to Katniss's appearance for the interviews?","acceptedAnswer":{"@type":"Answer","text":"Venia, a member of Katniss's prep team, was instrumental in preparing her for interviews. She expressed concern over Katniss's eyebrows and nails during their Victory Tour. On the interview day, Venia single-handedly prepared Katniss, ensuring her appearance was impeccable. She was under Cinna's guidance, who supplied Katniss's attire."}},{"@type":"Question","name":"What was Venia's initial reaction to Katniss's body hair?","acceptedAnswer":{"@type":"Answer","text":"During the 74th Hunger Games, Venia, a stylist under Cinna in District 12, prepared Katniss for the chariot rides. As she waxed Katniss's body hair, Venia noted her hairiness."}},{"@type":"Question","name":"Who were the other members of Cinna's prep team alongside Venia?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Venia, Flavius, and Octavia comprised Cinna's prep team for Katniss Everdeen. Their role was to prepare Katniss for her public appearances, and they developed a caring relationship with her."}},{"@type":"Question","name":"What was Venia's relationship with Cinna in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Venia was part of Cinna's team, tasked with preparing Katniss Everdeen for her public appearances. Along with Flavius and Octavia, she worked under Cinna's guidance. During a poignant moment, when the rest of the team was overcome with emotion, Venia stepped up to fulfill the responsibilities of the whole team."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenia%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenia%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b3/Remake_center.jpg/revision/latest?cb=20120419085820" class="mw-file-description image"><img alt="Flavius and Venia work on Katniss in the Remake Center." src="https://static.wikia.nocookie.net/thehungergames/images/b/b3/Remake_center.jpg/revision/latest/scale-to-width-down/180?cb=20120419085820" decoding="async" loading="lazy" width="180" height="132" class="thumbimage" data-image-name="Remake center.jpg" data-image-key="Remake_center.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Remake_center.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Flavius and Venia work on Katniss in the Remake Center.</p> 		 	</figcaption> </figure>
+<p>Alongside <a href="/wiki/Flavius" title="Flavius">Flavius</a> and <a href="/wiki/Octavia" title="Octavia">Octavia</a>, Venia worked under Cinna, who was one of <a href="/wiki/District_12" title="District 12">District 12</a>'s <a href="/wiki/Stylist" title="Stylist">stylists</a> during the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>. They first prepared Katniss, the female <a href="/wiki/Tribute" title="Tribute">tribute</a>, for the <a href="/wiki/Chariot_rides" title="Chariot rides">chariot rides</a>; while waxing Katniss's body hair, Venia commented on how hairy she was.<sup id="cite_ref-THG_5_1-0" class="reference"><a href="#cite_note-THG_5-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> When it came time to prepare Katniss for the <a href="/wiki/Interviews" title="Interviews">interviews</a>, Venia worked strands of red into Katniss's hair, which she braided over the girl's right shoulder.<sup id="cite_ref-THG_9_2-0" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>After the Games, she and her coworkers were ecstatic that Katniss and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> returned alive, and they prepared her again for the <a href="/wiki/Victor_crowning" class="mw-redirect" title="Victor crowning">victor crowning</a> ceremony. Venia gave Katniss a pair of flat leather sandals to wear.<sup id="cite_ref-THG_26_3-0" class="reference"><a href="#cite_note-THG_26-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Katniss imagined that her prep team was bouncing around with excitement as they took their bows on the stage. The following morning, they came to prepare Katniss for another interview.<sup id="cite_ref-THG_27_4-0" class="reference"><a href="#cite_note-THG_27-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Victory_Tour">Victory Tour</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenia%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Venia, Flavius, and Octavia all accompanied Katniss and Peeta on their <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>. When they arrived at Katniss's house in the <a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a>, Venia shrieked when she saw how much Katniss's eyebrows had grown in, and Octavia patted her on the back comfortingly, lamenting about the state of Katniss's nails.<sup id="cite_ref-CF_1_5-0" class="reference"><a href="#cite_note-CF_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> The next day, the prepared Katniss on the <a href="/wiki/Train" title="Train">train</a> for her appearance in <a href="/wiki/District_11" title="District 11">District 11</a>. Flavius was disappointed that Cinna said they couldn't do any alterations on Katniss, and Venia replied that he would have to let them once she was older.<sup id="cite_ref-CF_4_6-0" class="reference"><a href="#cite_note-CF_4-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>During their stop in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, Venia and her coworkers attended the party at the <a href="/wiki/President%27s_mansion" title="President's mansion">president's mansion</a> and got drunk. When Peeta was about to drink something, unaware it was an <a href="https://en.wikipedia.org/wiki/emetic" class="extiw" title="wikipedia:emetic">emetic</a>, Venia explained that he had to go into the bathroom to drink it or he would vomit everywhere.<sup id="cite_ref-CF_6_7-0" class="reference"><a href="#cite_note-CF_6-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-tour">Post-tour</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenia%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Later, the prep team arrived in District 12 for Katniss's wedding dress photoshoot three weeks earlier than expected. Over the course of their preparations, Katniss listened to them speaking about shortages of seafood, electronic gadgets, and fabrics, and she realized this was the result of uprisings in <a href="/wiki/District_3" title="District 3">Districts 3</a>, <a href="/wiki/District_4" title="District 4">4</a>, and <a href="/wiki/District_8" title="District 8">8</a>.<sup id="cite_ref-CF_12_8-0" class="reference"><a href="#cite_note-CF_12-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="75th_Hunger_Games">75th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenia%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After Katniss was <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaped</a> for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>, every member of her prep team burst into tears "at least twice" while preparing Katniss for her second Tribute Parade.<sup id="cite_ref-CF_15_9-0" class="reference"><a href="#cite_note-CF_15-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> However, when faced with preparing Katniss for her interview, Venia stayed strong and firmly made her teammates leave when they cried, saying to "remember what Cinna told [them]". As a result, she and Flavius prepped Katniss without Octavia for the whole morning, and around lunch, Katniss felt Flavius's silent tears on her shoulder. Venia gave him a look and he left, so she had to finish the work on her own. She only looked Katniss in the eye when Cinna showed up to dismiss her, at which point she took Katniss's hands in hers and told her it had been a "privilege" to make Katniss look her best.<sup id="cite_ref-CF_17_10-0" class="reference"><a href="#cite_note-CF_17-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion">Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenia%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Venia, Flavius, and Octavia were taken hostage by District 13. President <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a> thought she would be doing Katniss a favor if she captured and tortured them for her. Flavius, Venia and Octavia were fed but not enough, so Octavia stole a slice of bread and was caught. The prep team was thus taken into a room and beaten until <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale</a> distracted the guard and Katniss entered the room to discover her prep team. Katniss demanded that they be taken to her mother for treatment. Venia recovered, thanks to <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a>, but was still terribly fearful. Of all of them, Venia was the one to recover the quickest. Venia and the others prepared and dressed Katniss for the role of the <a href="/wiki/Mockingjay" title="Mockingjay">mockingjay</a>. She trembled constantly, still scared of what had happened to them, but trusted Katniss. Katniss took them to eat and would often eat with them. The prep team assembled again after President Snow was tried, found guilty and sentenced to be executed. They dressed Katniss up in her mockingjay uniform and watched her during the trial. After Presidents Coin and Snow died, Flavius, Venia, and Octavia most likely went back to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenia%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Venia seems to be the strongest-willed of Katniss' prep team as she is left to work on Katniss alone before the 75th Hunger Games when the rest of her team succumbs to their despondency at her once again being thrust into the <a href="/wiki/Arena" title="Arena">arena</a>. She does not let her emotions get the better of her when preparing Katniss.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenia%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Venia was thin and angular with spiked aqua hair and gold tattoos above her eyebrows. In the film, she had a blonde bob and aqua streaks. While in District 13, Katniss noted that Venia's hair lay flat instead of in spikes, and her roots were growing in gray.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVenia%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-THG_5-1"><span class="mw-cite-backlink"><a href="#cite_ref-THG_5_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-THG_9-2"><span class="mw-cite-backlink"><a href="#cite_ref-THG_9_2-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 9</span>
+</li>
+<li id="cite_note-THG_26-3"><span class="mw-cite-backlink"><a href="#cite_ref-THG_26_3-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 26</span>
+</li>
+<li id="cite_note-THG_27-4"><span class="mw-cite-backlink"><a href="#cite_ref-THG_27_4-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 27</span>
+</li>
+<li id="cite_note-CF_1-5"><span class="mw-cite-backlink"><a href="#cite_ref-CF_1_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-CF_4-6"><span class="mw-cite-backlink"><a href="#cite_ref-CF_4_6-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 4</span>
+</li>
+<li id="cite_note-CF_6-7"><span class="mw-cite-backlink"><a href="#cite_ref-CF_6_7-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 6</span>
+</li>
+<li id="cite_note-CF_12-8"><span class="mw-cite-backlink"><a href="#cite_ref-CF_12_8-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 12</span>
+</li>
+<li id="cite_note-CF_15-9"><span class="mw-cite-backlink"><a href="#cite_ref-CF_15_9-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 15</span>
+</li>
+<li id="cite_note-CF_17-10"><span class="mw-cite-backlink"><a href="#cite_ref-CF_17_10-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 17</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251224074840
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.041 seconds
+Real time usage: 0.054 seconds
+Preprocessor visited node count: 307/1000000
+Post‐expand include size: 1058/2097152 bytes
+Template argument size: 194/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3539/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   35.919      1 -total
+ 49.85%   17.906      1 Template:Character
+ 12.57%    4.514      1 Template:Cleanup
+ 12.28%    4.411      1 Template:Reflist
+  4.37%    1.570      1 Template:Quote
+  3.59%    1.290      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2413-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251224074840 and revision id 950075. Rendering was triggered because: page-view
+ -->
+</div>

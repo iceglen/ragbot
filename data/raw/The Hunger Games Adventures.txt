@@ -1,0 +1,273 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 280px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c2/Hungergamesadventures.jpg/revision/latest?cb=20120421001038" class="mw-file-description image"><img alt="The Hunger Games Adventures Logo." src="https://static.wikia.nocookie.net/thehungergames/images/c/c2/Hungergamesadventures.jpg/revision/latest/scale-to-width-down/280?cb=20120421001038" decoding="async" loading="lazy" width="280" height="415" class="thumbimage" data-image-name="Hungergamesadventures.jpg" data-image-key="Hungergamesadventures.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Hungergamesadventures.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Hunger Games Adventures Logo.</p> 		 	</figcaption> </figure>
+<p>The <b>Hunger Games Adventures</b> was a game on <a href="https://en.wikipedia.org/wiki/Facebook" class="extiw" title="wikipedia:Facebook">Facebook</a> made by Funtactix&#160;also available&#160;for the iPad, iPhone, iPod Touch, Android, and Kindle Fire. Players could create their own character, complete challenges, do quests, unlock new things, and explore the world of <a href="/wiki/Panem" title="Panem">Panem</a>. The game was released on the same day as the film: March 23, 2012. Development ceased circa late 2017, and as of December 2020, it is no longer available.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plot"><span class="tocnumber">1</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Seals_of_the_Districts"><span class="tocnumber">2</span> <span class="toctext">Seals of the Districts</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Forest_Escape"><span class="tocnumber">3</span> <span class="toctext">Forest Escape</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Characters"><span class="tocnumber">4</span> <span class="toctext">Characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#The_Capitol"><span class="tocnumber">4.1</span> <span class="toctext">The Capitol</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#District_2"><span class="tocnumber">4.2</span> <span class="toctext">District 2</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#District_3"><span class="tocnumber">4.3</span> <span class="toctext">District 3</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#District_4"><span class="tocnumber">4.4</span> <span class="toctext">District 4</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#District_7"><span class="tocnumber">4.5</span> <span class="toctext">District 7</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#District_11"><span class="tocnumber">4.6</span> <span class="toctext">District 11</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#District_12"><span class="tocnumber">4.7</span> <span class="toctext">District 12</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Districts"><span class="tocnumber">5</span> <span class="toctext">Districts</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/bc/HGAdventuresgame.jpg/revision/latest?cb=20130220171850" class="mw-file-description image"><img alt="The original opening screen" src="https://static.wikia.nocookie.net/thehungergames/images/b/bc/HGAdventuresgame.jpg/revision/latest/scale-to-width-down/200?cb=20130220171850" decoding="async" loading="lazy" width="200" height="150" class="thumbimage" data-image-name="HGAdventuresgame.jpg" data-image-key="HGAdventuresgame.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HGAdventuresgame.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The original opening screen</p> 		 	</figcaption> </figure>
+<ul><li>Prologue: The Journey Begins - The game begins with a tutorial with <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta</a>, in which the player receives a <a href="/wiki/Bow_and_arrow" title="Bow and arrow">bow and arrows</a> to defend themselves and fend off a vulture mutt, as well as meet Peeta at the Bakery and illegally barter meat and bread.</li>
+<li>Chapter One: Learn to Survive - In this chapter, the player starts by building, decorating, and using the shelter in their forest escape. The player is introduced to <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a>, who teaches how to hunt in order to survive the harsh living conditions of <a href="/wiki/District_12" title="District 12">District 12</a>. They make snares, banish a vulture mutt, and collect from the snares.</li>
+<li>Chapter Two: Uncover Secrets - Katniss teaches the player a lullaby sung by her <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">father</a>, and brings the player to the illegal black market in their district, <a href="/wiki/The_Hob" title="The Hob">the Hob</a>, to trade with Rummage and Raab, and fix Moira's stand. Katniss then shows the player the <a href="/wiki/Lake" title="Lake">lake</a> in the <a href="/wiki/Woods" title="Woods">woods</a>, where her father would take her to when she was younger. They craft a fishing pole, and then the player banishes a swarm of <a href="/wiki/Tracker_Jackers" class="mw-redirect" title="Tracker Jackers">Tracker Jackers</a>. Finally the player collects edible plants and builds a well in their forest escape.</li>
+<li>Chapter Three: Heal the District - The player meets <a href="/wiki/Primrose_%22Prim%22_Everdeen" class="mw-redirect" title="Primrose &quot;Prim&quot; Everdeen">Primrose</a> at <a href="/wiki/The_Seam" title="The Seam">the Seam</a> when a neighboring house belonging to Mr. Bates collapses. Prim and Peeta save and heal the people inside and with the help of the player, rebuild the house. Peeta then meets a starving girl at the Bakery named Sorrel, who is fed bread and milk by the player. The player then meets <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> at the Hob, prepares him a flask of coffee, and in return gets told about the <a href="/wiki/The_Hunger_Games" title="The Hunger Games">Hunger Games</a>. Katniss then meets up with the player and brings him/her to the lake where Snake mutts are fought, and where a package from a mysterious benefactor has appeared. The two then go to the Justice Building and take out a portion of tesserae.</li></ul>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 200px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f2/HGadventuresgame2.jpg/revision/latest?cb=20140206185237" class="mw-file-description image"><img alt="The most recent opening screen" src="https://static.wikia.nocookie.net/thehungergames/images/f/f2/HGadventuresgame2.jpg/revision/latest/scale-to-width-down/200?cb=20140206185237" decoding="async" loading="lazy" width="200" height="150" class="thumbimage" data-image-name="HGadventuresgame2.jpg" data-image-key="HGadventuresgame2.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HGadventuresgame2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The most recent opening screen</p> 		 	</figcaption> </figure>
+<ul><li>Chapter Four: Become a Hero - When two children, Laurel and Oliver, go missing in the woods, Gale and the player track them down and bring them to their mother, Elena. An explosion occurs at the mine later, and with the help of Prim and Peeta, the trapped miners Locke, Clay, and Grady are brought to safety, and Prim brings them to her mother to be treated. <a href="/wiki/Buttercup" title="Buttercup">Buttercup</a>, Prim's cat, then goes missing, but is saved by the player and retrieved at the schoolyard.</li>
+<li>Chapter Five: Escape from District 12 - Peeta asks for the players help in cleaning up the schoolyard and planting flowers, and even retrieves a family of bunnies from the woods for the kids to play with. The player is then forced by Peacekeepers to help prepare for the upcoming <a href="/wiki/Reaping" title="Reaping">reaping</a> for the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>. Katniss then explains that Gale thinks the benefactor has drawn attention to the player and must escape District 12 and live in the Capitol, and secures a fake <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> ID card for the player and sends him on a <a href="/wiki/The_trains" class="mw-redirect" title="The trains">train</a> bound for the Capitol, but receives more gifts from his mystery sponsor at the schoolyard.</li>
+<li>Chapter Six: Welcome to the Capitol - Upon arriving at the Capitol, the player immediately meets <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>, who hires the player as her personal assistant, and gives the initial task of retrieving her schedule that she accidentally threw in the trash. She then asks <a href="/wiki/Cinna" title="Cinna">Cinna</a>, the stylist for the District 12 tributes, for a new wig for the reaping in District 12, which the player is tasked with creating. Cinna then asks if the player will retrieve rare gemstones for him in the Capitol woods, but instead, finds two runaways from District 3, Amber Dymond&#160;and her son Surge. The player banishes a scorpion mutt menacing them, and heals them afterward. Taking pity on the family, Cinna and the player help make the family a shelter and provide them with food, to allow them to live safely in the Capitol woods. The player sets a lure of meat and constructs a mossy arrowhead to attract and banish the scorpion mutts for good.</li>
+<li>Chapter Seven: Complete the Research - When a sponsor gift appears at Amber's shelter, the benefactor instructs the player to assist <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a> with his research on the Hunger Games, and the player helps Seneca retrieve flame samples from the arena to use as fireballs in the games. The player then helps make new flora designs for the arena, and tests out the fireball effect, which proves successful. The player also practices against an initial mutt which is easily defeated, which Seneca wants to upgrade. The player then practices against four types at once: tracker jackers along with scorpion, vulture, and wolf mutts.</li>
+<li>Chapter Eight: Prepare the Outfits - After completing the work with Seneca, Cinna will ask the player to help him design the outfits prepared for the tributes for District 12, which he was assigned. Gathering the right materials and dyes, the player delivers them to Cinna, who creates two leather outfits specially designed to literally light on fire when presented. Cinna will then ask for the flame samples the player gave Seneca for his research to complete a new dress for the female tribute, which will allow the dress to catch on fire when twirled. After doing so, Cinna thanks the player for their help and hopes to collaborate in the future.</li>
+<li>Chapter Nine: Free the Innocents - Seneca asks the player to help continue his research for the games. This time concerning tracker jackers, which he plans to use in the arena. Due to the extreme population of tracker jackers, the player must travel to <a href="/wiki/District_11" title="District 11">District 11</a> to complete the research, but runs into trouble on the mountains when the train breaks down. The player then fixes the train and travels to District 11, where he/she meets <a href="/wiki/Rue" title="Rue">Rue</a> and helps her free her falsely accused friends from prison and across the border of District 11.</li>
+<li>Chapter Ten: Banish the tracker jackers - Upon successfully freeing Rue's friends from Capitol custody, the player is introduced to <a href="/wiki/Thresh" title="Thresh">Thresh</a>, who is willing to help the player rid District 11 of tracker jackers. Burning huge bonfires in the woods with the help of Rue, the player drives off the mutts, but gain little research, much to Seneca's dismay.</li>
+<li>Chapter Eleven: Open Their Eyes - As the player's heroic actions spread through the Capitol, <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> wishes to host a television special on the player's brave adventures in the woods, and travels back to District 12 to shoot, with a Capitol TV director known as Lysander. The player then meets up with Gale, who explains the family they helped is in poverty, and with the help of Lysander, shocked at District 12's living conditions, the family is given a home and a shelter. Lysander then wishes to stay with the family and protect them, and gives up his life in the Capitol when the TV crew returns home.</li>
+<li>Chapter Twelve: The Pride of District 2 - Caesar decides to shoot more scenes of the special at <a href="/wiki/District_2" title="District 2">District 2</a>, where the player meets Cinder the gym teacher, and <a href="/wiki/Cato" title="Cato">Cato</a> and <a href="/wiki/Clove" title="Clove">Clove</a>. Currently, a career competition is taking place and the player decides to help Ash, a career whose partner backed out of the competition, and win against Cato and Clove, who take Ash's belongings. In a negotiation, the four return their gear and belongings. Ash reveals that his brother, who had grown deathly ill, is the only reason why he has chosen to be a Career. The player must sneak into the Supply Depot in District 2 and retrieve a medicine remedy for Tor, Ash's brother, which is made by <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> at District 12, and given to Ash for Tor. After finishing filming in District 2, Caesar and the film crew board the train back to the Capitol, and the reaping for the 74th Hunger Games is held the next day.</li>
+<li>Chapter Thirteen: Welcome the Tributes - Set during the events of the first book, this chapter weaves into the main plot of the Hunger Games novel, primarily from the point in which the tributes arrive at the Capitol for the Games themselves. While the player has little interaction with most tributes, the focus is set in scenes filling in gaps in the books concerning the affairs of characters such as Effie, Haymitch and Cinna, such as helping Effie with a makeover stand following the chariot parade, Cinna creating President Snow's topiary garden, and assisting Haymitch in formulating a plan to use Peeta's love for Katniss as a key part in earning sponsors. As the game progresses, the player will eventually secure an invitation to Snow's ball at his mansion, where the mysterious benefactor asks for the plans for the 75th Hunger Games, which are stashed in the President's study. The chapter then concludes with the Tribute interviews and Katniss and Peeta's reactions, with the actual Hunger Games beginning the very next day.</li>
+<li>Chapter Fourteen: The Plight of District 4 - Also running alongside the book, this chapter chronicles the first part of the Hunger Games and Katniss and Peeta's star-crossed romance. District 4 is introduced in this chapter. In District 4, you met a girl called Nixie, and her father Reed. At first you help her rescue people on the beach, who got stuck when a tsunami hit District 4 a week or so ago. Nixie works at a beach house in Victors' Village. You ultimately seek to acquire a Blue Fin Hogfish, which is used in making healing cream,&#160;so sponsors can&#160;send it to&#160;Katniss in the Games.</li>
+<li>Chapter Fifteen: The Secrets of District 3 - In this chapter, you visit District 3, and meet locals Plex and Ether. First, Plex needs to move his workshop, which you help him with. Then you learn Ether has been raising a secret garden, which you help her acquire plants for.</li>
+<li>Chapter Sixteen: Homecoming - Katniss and Peeta have won the Hunger Games. In this chapter you start by welcoming them back to the Capitol, then help them return to District 12 and move into the Victor's Village. You also work to prevent Peacekeepers from disassembling dwellings used by citizens of District 12. This chapter covers through the end of the first book.</li>
+<li>Chapter Seventeen:&#160;The Victory Tour Begins - This chapter covers the beginning of Catching Fire. You start by helping with Katniss and Peeta's Victory Tour in various behind the scenes ways. You then accompany them through their first stop in District 11.</li>
+<li>Chapter Eighteen:&#160;Aiming Higher - This chapter takes place during the Victory Tour. You don't stop at any new Districts, however, you do help Cinna design and build Katniss's Mockingjay inspired wedding dress.</li>
+<li>Chapter Nineteen:&#160;Return to District 4 - This chapter doesn't follow book events. As the Victory Tour continues, you return to District 4. You meet <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a>, and together investigate and banish a plague of Mutts that have been invading the district. Along the way, you learn how to make baskets from <a href="/wiki/Mags" class="mw-redirect" title="Mags">Mags</a>, and how to throw tridents from Finnick. You also meet the scientist Theano, who is one of Finnick's Capitol "lovers", and her assistant&#160;Atilius.</li>
+<li>Chapter Twenty:&#160;Flames in District 7 - The Victory Tour has reached District 7. You start by making a new bow for yourself with the help of Katniss. You then meet <a href="/wiki/Blight" title="Blight">Blight</a>, and help him print Victory Tour banners. In the process, you make a short visit to District 3, in which you get help from Tungs and Plex who you met before, along with <a href="/wiki/Wiress" title="Wiress">Wiress</a>&#160;and <a href="/wiki/Beetee" class="mw-redirect" title="Beetee">Beetee</a>. Finally, you meet&#160;<a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a>, and together you investigate toxic waste poisoning the District 7 forest, fight a forest fire, and replant afterward.</li>
+<li>Chapter Twenty-One:&#160;Nuts and Volts - This chapter takes place in District 3 again. Presumably the Victory Tour has reached that point. You start by helping Beetee create and deploy surveillance cameras to monitor Peacekeeper activity. You then help Wiress by acquiring and placing lights around the playground so it's safer there when it gets dark. Finally you help Ether repair and install a new power generator for the community.</li>
+<li>Chapter Twenty-Two:&#160;The Victory Tour Concludes - You start by meeting <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>, and designing a new dress for Eurydice. You then travel with Caesar to District 12, help Gale and Ellis build and decorate a new hall for the Harvest Festival, and&#160;interview Mrs. Everdeen and Primrose.&#160;You conclude by attending President Snow's victory party at the Capitol, before returning to District 12. Along the way you help Cinna design Katniss, Peeta, and Haymitch's outfits for the party, and fix Plutarch's watch (which is presumably the Mockingjay styled one he shows Katniss.)</li>
+<li>Chapter Twenty-Three:&#160;The Quarter Quell&#160;- You begin by arriving at District 12 for the Harvest Festival. You help Peeta bake a cake for the festival, help Cinna make Katniss's cold weather outfit and gloves, and help Katniss remove a&#160;tracker jacker infestation in the woods. You then meet new head Peacekeeper Romulus Thread, and reopen a mineshaft in District 12 with Ellis. You also help Cinna prepare and deliver Katniss's wedding gowns. In response to Thread's treatment of Gale, Lysander and Elena, and District 12 in general, you distribute food. You witness President Snow declare that the tributes for the Third Quarter Quell will be reaped from the existing victors. As a result, your secret contact directs you to Plutarch, who sends you to District 3 where you help&#160;Tungs and Beetee test a special high-conductivity wire (which is presumably the one Beetee uses in the arena.) You then help Plutarch test stations in the new training center, help Cinna design Katniss's Mockingjay dress, and help Gale make an evacuation center for District 12 in an old mine. Finally, you attend the reaping,&#160;ride the train to the Capitol, help make Haymitch's gold bangle and Peeta's gold photo medallion, and meet <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> who has you talk to the tributes for Caesar's interview.</li></ul>
+<h2><span class="mw-headline" id="Seals_of_the_Districts">Seals of the Districts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To promote the upcoming Chapter Thirteen for the game, a brand new, first ever "event" in the Hunger Games Adventures was released on July 12, 2012. The new quest features collecting the 12 district seals spread around locations and areas of the game that players must find to finish the quest. The official Map of Panem would also finally be unveiled if enough players found all 13 seals (Capitol included). The locations to get all the seals follow:
+</p>
+<ul><li>District 1 - Search shiny luggage at Train Station or look at the Jewelry Stand at the Capitol Marketplace.</li>
+<li>District 2 - The collapsed house at the Seam or the cottage built by Ash in the District 2 village.</li>
+<li>District 3 - The Marketplace's Gagdet Stand, or the Justice Hall's Capitol screens.</li>
+<li>District 4 - The Fish Barrel outside of the Hob or the Forest Escape's Small Pond.</li>
+<li>District 5 - The School Yard's Electricity Pole.</li>
+<li>District 6 - Any of the selectable Train Cars in the Trainyard.</li>
+<li>District 7 - Search an axe by the Lake or the Coal Mines or after cutting down a Tree several times.</li>
+<li>District 8 - This seal is the most common, and can be found at the Marketplace "Capitol Couture" stand, the Hob's Clothing Stand or the mannequin in Cinna's Prep Room.</li>
+<li>District 9 - Found by searching grain sacks at the Bakery or the Hob.</li>
+<li>District 10 - Feeding the chicken at the Seam or the Goat at the Seam.</li>
+<li>District 11 - Collecting the Apple Tree in your Forest Escape, searching the corn field in District 11, or cutting down trees earns this seal.</li>
+<li>District 12 - Check the Mine Entrance in The Coal Mines and the boxes and the train in the coal mines area.</li>
+<li>The Capitol - Ask a friend to give you this seal. (In THGA for iOS/Android/Kindle Fire, search in The Capitol Train Station in the Entrance)</li></ul>
+<h2><span class="mw-headline" id="Forest_Escape">Forest Escape</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the game, players will have a small retreat in the forest beyond the <a href="/wiki/Fence" title="Fence">fence</a> of District 12 that acts as a hub world in the game, allowing players to build various items and decorate and customize their forestry. Other interactive parts of the escape include trees and rocks that randomly generate and allow the player to collect rocks or wood, and sections of the forest escape that must be unlocked using "Discovery Maps". Players will also find Katniss Everdeen or Gale Hawthorne here to receive various miscellaneous quests that do not fall under a specific questline or chapter.
+</p>
+<h2><span class="mw-headline" id="Characters">Characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_Capitol">The Capitol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="" style="background-color:transparent; color:inherit; width:100%;">
+
+<tbody><tr>
+<td valign="top" style="width:50%;">
+<ul><li><a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a></li>
+<li><a href="/wiki/Cinna" title="Cinna">Cinna</a></li>
+<li><a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a></li>
+<li><a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a></li>
+<li>Lysander - TV director</li></ul>
+</td>
+<td valign="top" style="width:50%;">
+<ul><li><a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a></li>
+<li>Theano - a scientist and so-called "lover" of Finnick's</li>
+<li>Atilius - Theano's assistant</li>
+<li>Eurydice</li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="District_2">District 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Cato" title="Cato">Cato</a></li>
+<li><a href="/wiki/Clove" title="Clove">Clove</a></li>
+<li>Cinder - a gym teacher</li>
+<li>Ash - a Career trainee</li>
+<li>Tor - Ash's brother, who was deathly ill</li></ul>
+<h3><span class="mw-headline" id="District_3">District 3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a></li>
+<li><a href="/wiki/Wiress" title="Wiress">Wiress</a></li>
+<li>Amber Dymond and her son, Surge</li>
+<li>Plex</li>
+<li>Ether</li>
+<li>Tungs</li></ul>
+<h3><span class="mw-headline" id="District_4">District 4</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/6c/Reed_Hunger_Games_Adventures.jpg/revision/latest?cb=20240623214448" class="mw-file-description image"><img alt="Promotional image of Reed" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="86" class="thumbimage lazyload" data-image-name="Reed Hunger Games Adventures.jpg" data-image-key="Reed_Hunger_Games_Adventures.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/6c/Reed_Hunger_Games_Adventures.jpg/revision/latest/scale-to-width-down/180?cb=20240623214448" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/6/6c/Reed_Hunger_Games_Adventures.jpg/revision/latest?cb=20240623214448" class="mw-file-description image"><img alt="Promotional image of Reed" src="https://static.wikia.nocookie.net/thehungergames/images/6/6c/Reed_Hunger_Games_Adventures.jpg/revision/latest/scale-to-width-down/180?cb=20240623214448" decoding="async" loading="lazy" width="180" height="86" class="thumbimage" data-image-name="Reed Hunger Games Adventures.jpg" data-image-key="Reed_Hunger_Games_Adventures.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/6c/Reed_Hunger_Games_Adventures.jpg/revision/latest/scale-to-width-down/180?cb=20240623214448" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Reed_Hunger_Games_Adventures.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Promotional image of Reed</p> 		 	</figcaption> </figure><a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a></li>
+<li><a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a></li>
+<li>Reed and his daughter, Nixie - employed at a beach house in Victors' Village</li></ul>
+<h3><span class="mw-headline" id="District_7">District 7</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Blight" title="Blight">Blight</a></li>
+<li><a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a></li></ul>
+<h3><span class="mw-headline" id="District_11">District 11</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Rue" title="Rue">Rue</a></li>
+<li><a href="/wiki/Thresh" title="Thresh">Thresh</a></li>
+<li>Rue's friends - falsely accused of some crime</li></ul>
+<h3><span class="mw-headline" id="District_12">District 12</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="" style="background-color:transparent; color:inherit; width:100%;">
+
+<tbody><tr>
+<td valign="top" style="width:50%;">
+<ul><li><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a></li>
+<li><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a></li>
+<li><a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a></li>
+<li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a></li>
+<li><a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a></li>
+<li><a href="/wiki/Buttercup" title="Buttercup">Buttercup</a></li>
+<li>Rummage, Raab, and Moira - traders at the Hob</li></ul>
+</td>
+<td valign="top" style="width:50%;">
+<ul><li>Mr. Bates - man whose house collapsed</li>
+<li>Sorrel</li>
+<li>Laurel, Oliver, and their mother Elena</li>
+<li>Locke, Clay, and Grady - coal miners</li>
+<li>Lysander - originally from the Capitol, remained in District 12 when filming wrapped</li>
+<li>Ellis</li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Districts">Districts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Throughout the game, the player unlocks different locations to visit throughout <a href="/wiki/Panem" title="Panem">Panem</a>. Below is a table showing which Districts are available to visit for players:
+</p>
+<table class="article-table article-table-selected" border="0" cellpadding="1" cellspacing="1" style="width: 330px; height: 300px;">
+
+<tbody><tr>
+<th scope="col">District
+</th>
+<th scope="col">Facebook
+</th>
+<th scope="col">Mobile/tablet
+</th></tr>
+<tr>
+<td><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_1" title="District 1">District 1</a>
+</td>
+<td>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_2" title="District 2">District 2</a>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_3" title="District 3">District 3</a>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_4" title="District 4">District 4</a>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_5" title="District 5">District 5</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_6" title="District 6">District 6</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_7" title="District 7">District 7</a>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_8" title="District 8">District 8</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_9" title="District 9">District 9</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_10" title="District 10">District 10</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_11" title="District 11">District 11</a>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_12" title="District 12">District 12</a>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td>
+<td><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest?cb=20140202233327" class="mw-file-description image"><img alt="Checkmark" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="20" height="21" class="mw-file-element lazyload" data-image-name="Checkmark.png" data-image-key="Checkmark.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Checkmark.png/revision/latest/scale-to-width-down/20?cb=20140202233327" /></a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/District_13" title="District 13">District 13</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_Adventures%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.thehungergamesadventures.com/">Official website</a> [<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://web.archive.org/web/20240000000000*/http://www.thehungergamesadventures.com/">archived</a>]</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20260104100208
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.052 seconds
+Real time usage: 0.089 seconds
+Preprocessor visited node count: 170/1000000
+Post‐expand include size: 335/2097152 bytes
+Template argument size: 16/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   14.379      1 -total
+ 51.24%    7.367      2 Template:Col-begin
+ 18.93%    2.722      4 Template:Col-2
+ 14.57%    2.096      2 Template:Col-end
+ 10.07%    1.448      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:131373-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104100208 and revision id 949347. Rendering was triggered because: page-view
+ -->
+</div>

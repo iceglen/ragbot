@@ -1,0 +1,500 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Asterid Everdeen</h2>
+
+	<div class="pi-image-collection wds-tabber" data-source="image">
+		<div class="wds-tabs__wrapper">
+			<ul class="wds-tabs">
+				
+					<li class="wds-tabs__tab wds-is-current">
+						<span class="wds-tabs__tab-label">
+							Films
+							
+						</span>
+					</li>
+				
+					<li class="wds-tabs__tab">
+						<span class="wds-tabs__tab-label">
+							Illustrated Edition
+							
+						</span>
+					</li>
+				
+			</ul>
+		</div>
+		
+			<div class="wds-tab__content wds-is-current">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3f/Mrs_everdeen.jpg/revision/latest?cb=20120418200927" class="image image-thumbnail" title="Films">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/3/3f/Mrs_everdeen.jpg/revision/latest/scale-to-width-down/268?cb=20120418200927" srcset="https://static.wikia.nocookie.net/thehungergames/images/3/3f/Mrs_everdeen.jpg/revision/latest/scale-to-width-down/268?cb=20120418200927 1x, https://static.wikia.nocookie.net/thehungergames/images/3/3f/Mrs_everdeen.jpg/revision/latest?cb=20120418200927 2x" data-relevant="1" class="pi-image-thumbnail" alt="Films" width="270" height="413" data-image-key="Mrs everdeen.jpg" data-image-name="Mrs everdeen.jpg">
+						
+					</a>
+				</figure>
+			</div>
+		
+			<div class="wds-tab__content">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/2/22/Asterid_THG_IE.png/revision/latest?cb=20250417122556" class="image image-thumbnail" title="Illustrated Edition">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/2/22/Asterid_THG_IE.png/revision/latest/scale-to-width-down/180?cb=20250417122556" srcset="https://static.wikia.nocookie.net/thehungergames/images/2/22/Asterid_THG_IE.png/revision/latest/scale-to-width-down/180?cb=20250417122556 1x, https://static.wikia.nocookie.net/thehungergames/images/2/22/Asterid_THG_IE.png/revision/latest?cb=20250417122556 2x" data-relevant="1" class="pi-image-thumbnail" alt="Illustrated Edition" width="180" height="500" data-image-key="Asterid THG IE.png" data-image-name="Asterid THG IE.png">
+						
+					</a>
+				</figure>
+			</div>
+		
+	</div>
+
+
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>16 <small>(<a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>)</small></li><li>40 <small>(<i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>)</small></li><li>41-42 <small>(<i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> &amp; <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Healer" title="Healer">Healer</a><sup id="cite_ref-THG_1_1-0" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-CF_8_2-0" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-MJ_4_3-0" class="reference"><a href="#cite_note-MJ_4-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></li><li>Mother</li><li><a href="/wiki/Merchant" title="Merchant">Merchant</a> / pharmacist <small>(formerly)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/The_Seam" title="The Seam">The Seam</a> <small>(formerly)</small></li><li><a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> in <a href="/wiki/District_12" title="District 12">District 12</a> <small>(formerly)</small><sup id="cite_ref-CF_1_4-0" class="reference"><a href="#cite_note-CF_1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup></li><li><a href="/wiki/District_13" title="District 13">District 13</a> <small>(briefly)</small></li><li><a href="/wiki/District_4" title="District 4">District 4</a><sup id="cite_ref-MJ_27_5-0" class="reference"><a href="#cite_note-MJ_27-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> † <small>(husband)</small></li><li><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> <small>(oldest daughter)</small></li><li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> † <small>(youngest daughter)</small></li><li><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> <small>(son-in-law)</small></li><li><a href="/wiki/Katniss_and_Peeta_Mellark%27s_daughter" title="Katniss and Peeta Mellark's daughter">Unnamed granddaughter</a></li><li><a href="/wiki/Katniss_and_Peeta_Mellark%27s_son" title="Katniss and Peeta Mellark's son">Unnamed grandson</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font">Blue <small>(books<sup id="cite_ref-THG_1_1-1" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> and films)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font">Pale blonde <small>(books<sup id="cite_ref-THG_1_1-2" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> and films)</small></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></li><li><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></li><li><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></li><li><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></li><li><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></li><li><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a></i></li><li><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></li><li><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i> (upcoming)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Paula_Malcomson" title="Paula Malcomson">Paula Malcomson</a> (original trilogy)</li><li><a href="/wiki/Grace_Ackary" title="Grace Ackary">Grace Ackary</a> (SOTR)</li><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.imdb.com/name/nm2939773/">Ruth Everett</a> (<a href="/wiki/The_Hunger_Games_On_Stage" title="The Hunger Games On Stage">stage</a>)</li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>Katniss, no one clears anything with me.</i>"</span></dd>
+<dd>—Asterid to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a><sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div>
+<p><b>Asterid Everdeen</b><sup id="cite_ref-SR1_6-0" class="reference"><a href="#cite_note-SR1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> (née <b>March</b>) is the mother of <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> and <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> and the wife of the deceased <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#50th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">50th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#The_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext"><i>The Hunger Games</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Catching_Fire"><span class="tocnumber">1.3</span> <span class="toctext"><i>Catching Fire</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Mockingjay"><span class="tocnumber">1.4</span> <span class="toctext"><i>Mockingjay</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Family"><span class="tocnumber">3</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Work"><span class="tocnumber">4</span> <span class="toctext">Work</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Relationships"><span class="tocnumber">5</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Katniss_Everdeen"><span class="tocnumber">5.1</span> <span class="toctext">Katniss Everdeen</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Primrose_Everdeen"><span class="tocnumber">5.2</span> <span class="toctext">Primrose Everdeen</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Burdock_Everdeen"><span class="tocnumber">5.3</span> <span class="toctext">Burdock Everdeen</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Gale_Hawthorne"><span class="tocnumber">5.4</span> <span class="toctext">Gale Hawthorne</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Etymology"><span class="tocnumber">6</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#The_Hunger_Games_2"><span class="tocnumber">7.1</span> <span class="toctext"><i>The Hunger Games</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Trivia"><span class="tocnumber">8</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37292" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What significant event happened to Mrs. Everdeen's best friend during the 50th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 50th Hunger Games, or the second Quarter Quell, Maysilee Donner, Mrs. Everdeen's best friend, was selected as a female tribute. Unfortunately, she was killed in the arena. Mrs. Everdeen and Mrs. Undersee were televised during the reaping.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37293" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Mrs. Everdeen cope with the loss of her best friend, Maysilee Donner?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Maysilee Donner's parents entrusted her pet canary to Mrs. Everdeen following Maysilee's death. This gesture served as a means for Mrs. Everdeen, also known as Katniss Everdeen's mom, to cope with her best friend's loss. She shared her sorrow with Mrs. Undersee, Maysilee's sister. However, she refrained from discussing Maysilee with her daughters, probably to evade the topic of her death.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37294" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role does Mrs. Everdeen play in the Hunger Games series?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games series, Mrs. Everdeen, Katniss Everdeen's mother, is a healer and former merchant/pharmacist. After her husband's death in a mining accident, she fell into depression, neglecting her children and forcing Katniss to become the family's provider. She lived in several locations, including The Seam, Victors' Village in District 12, District 13, and District 4. Notably, she saved Gale's life.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37295" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Did Mrs. Everdeen survive the events of the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mrs. Everdeen, Katniss Everdeen's mother, did survive the Hunger Games. Following Primrose's death, she relocated from District 12 to District 4, and is noted to be alive during Katniss' later years.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Asterid Everdeen","mainEntity":[{"@type":"Question","name":"What significant event happened to Mrs. Everdeen's best friend during the 50th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 50th Hunger Games, or the second Quarter Quell, Maysilee Donner, Mrs. Everdeen's best friend, was selected as a female tribute. Unfortunately, she was killed in the arena. Mrs. Everdeen and Mrs. Undersee were televised during the reaping."}},{"@type":"Question","name":"How did Mrs. Everdeen cope with the loss of her best friend, Maysilee Donner?","acceptedAnswer":{"@type":"Answer","text":"Maysilee Donner's parents entrusted her pet canary to Mrs. Everdeen following Maysilee's death. This gesture served as a means for Mrs. Everdeen, also known as Katniss Everdeen's mom, to cope with her best friend's loss. She shared her sorrow with Mrs. Undersee, Maysilee's sister. However, she refrained from discussing Maysilee with her daughters, probably to evade the topic of her death."}},{"@type":"Question","name":"What role does Mrs. Everdeen play in the Hunger Games series?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games series, Mrs. Everdeen, Katniss Everdeen's mother, is a healer and former merchant\/pharmacist. After her husband's death in a mining accident, she fell into depression, neglecting her children and forcing Katniss to become the family's provider. She lived in several locations, including The Seam, Victors' Village in District 12, District 13, and District 4. Notably, she saved Gale's life."}},{"@type":"Question","name":"Did Mrs. Everdeen survive the events of the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Mrs. Everdeen, Katniss Everdeen's mother, did survive the Hunger Games. Following Primrose's death, she relocated from District 12 to District 4, and is noted to be alive during Katniss' later years."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="50th_Hunger_Games">50th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On the day of the reaping for the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, Asterid was working in the apothecary. <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> visited and traded some game and wildcrafting. He gave her a sprig of chamomile and told her it would bring her good luck. <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> later visited to trade white liquor and she also gave him a sprig of chamomile, and blushed when he asked if Burdock told her it was good luck.<sup id="cite_ref-SR1_6-1" class="reference"><a href="#cite_note-SR1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>Her best friend <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> was chosen as one of two female <a href="/wiki/Tribute" title="Tribute">tributes</a> for the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, also known as the second Quarter Quell, along with <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>. Asterid, along with Merrilee, was seen on the television during the reaping.<sup id="cite_ref-CF_14_7-0" class="reference"><a href="#cite_note-CF_14-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Maysilee died, leaving her sister, <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> and Asterid in their grief. Maysilee's parents gave Maysilee's songbird to Asterid after Maysilee's death in the arena.<sup id="cite_ref-CF_12_8-0" class="reference"><a href="#cite_note-CF_12-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>After Haymitch realized <a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">President Snow</a> would not let anybody he cares for stay alive, he started drawing off from all his loved ones. Burdock kept trying to hold on, and he brought Asterid, who took Haymitch sleeping medicine. To get them to leave, Haymitch threw rocks at Asterid and Burdock, hitting Asterid on the forehead, drawing blood. Hurting Asterid felt worse for Haymitch than everything he suffered in the <a href="/wiki/Arena" title="Arena">arena</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Hunger_Games"><i>The Hunger Games</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Primrose64.jpg/revision/latest?cb=20120214015027" class="mw-file-description image"><img alt="Prim and Mrs. Everdeen are distraught after Katniss volunteers to take Prim's place in the 74th Hunger Games." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="228" class="thumbimage lazyload" data-image-name="Primrose64.jpg" data-image-key="Primrose64.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Primrose64.jpg/revision/latest/scale-to-width-down/180?cb=20120214015027"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Primrose64.jpg/revision/latest?cb=20120214015027" class="mw-file-description image"><img alt="Prim and Mrs. Everdeen are distraught after Katniss volunteers to take Prim's place in the 74th Hunger Games." src="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Primrose64.jpg/revision/latest/scale-to-width-down/180?cb=20120214015027" decoding="async" loading="lazy" width="180" height="228" class="thumbimage" data-image-name="Primrose64.jpg" data-image-key="Primrose64.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Primrose64.jpg/revision/latest/scale-to-width-down/180?cb=20120214015027"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Primrose64.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Prim and Mrs. Everdeen are distraught after Katniss volunteers to take Prim's place in the 74th Hunger Games.</p> 		 	</figcaption> </figure>
+<p>On the day of the reaping, Asterid gave Katniss a blue dress for the reaping and braided her hair. During the reaping, Asterid was shocked when her youngest daughter Prim was chosen<sup id="cite_ref-THG_1_1-3" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> and even more when her oldest daughter, Katniss <a href="/wiki/Volunteer" title="Volunteer">volunteered</a> in Prim's place.<sup id="cite_ref-THG_10-0" class="reference"><a href="#cite_note-THG-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> Asterid came to see Katniss to say her final farewells. While in there, Asterid wept due to the high odds of her not coming back. Katniss made her promise not to leave Prim alone and take care of her no matter what happens to her. Katniss yells at her, but then hugs her goodbye. Asterid promises and stays with her until the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> come in and take her and Prim away. Then surprisingly, Mr. Mellark, the baker, visits Katniss and gives her a bag of cookies. The baker was teary after probably then visiting his son, Peeta. Madge Undersee also visits Katniss and gives the legendary Mockingjay pin,<sup id="cite_ref-THG_3_11-0" class="reference"><a href="#cite_note-THG_3-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> originally owned by her aunt,<sup id="cite_ref-CF_7_12-0" class="reference"><a href="#cite_note-CF_7-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> Maysilee Donner, who was Asterid's friend and a tribute in the 50th hunger games,<sup id="cite_ref-CF_12_8-1" class="reference"><a href="#cite_note-CF_12-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> who was murdered in the arena.<sup id="cite_ref-CF_14_7-1" class="reference"><a href="#cite_note-CF_14-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Then Gale visits and he and Katniss discuss a lot of things like, the survival of Prim and Katniss' Mom, and the need of a bow and arrow to compete and saying goodbye possibly once and for all<sup id="cite_ref-THG_3_11-1" class="reference"><a href="#cite_note-THG_3-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h3><span class="mw-headline" id="Catching_Fire"><i>Catching Fire</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Asterid was nervous when <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> visits them.<sup id="cite_ref-CF_1_4-1" class="reference"><a href="#cite_note-CF_1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> She tells Katniss that he looks pale and strange. During President Snow's and Katniss' conversation, Asterid comes in and offers him cookies and tea. She took this as a way to check up on them, and on her way out she gave Katniss a look to know if everything is well.<sup id="cite_ref-CF_2_13-0" class="reference"><a href="#cite_note-CF_2-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup> After he leaves, Katniss lies and tells her that everything is good; this relieves her.<sup id="cite_ref-CF_3_14-0" class="reference"><a href="#cite_note-CF_3-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> 
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 270px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/1c/Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg/revision/latest?cb=20130329185147" class="mw-file-description image"><img alt="Mrs. Everdeen and Prim in their Victor's Village house." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="270" height="203" class="thumbimage lazyload" data-image-name="Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg" data-image-key="Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/1c/Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg/revision/latest/scale-to-width-down/270?cb=20130329185147"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/1/1c/Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg/revision/latest?cb=20130329185147" class="mw-file-description image"><img alt="Mrs. Everdeen and Prim in their Victor's Village house." src="https://static.wikia.nocookie.net/thehungergames/images/1/1c/Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg/revision/latest/scale-to-width-down/270?cb=20130329185147" decoding="async" loading="lazy" width="270" height="203" class="thumbimage" data-image-name="Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg" data-image-key="Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/1c/Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg/revision/latest/scale-to-width-down/270?cb=20130329185147"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Prim-and-Mrs-Everdeen-Catching-Fire-Still.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mrs. Everdeen and Prim in their Victor's Village house.</p> 		 	</figcaption> </figure>
+<p>Asterid takes care of her family<sup id="cite_ref-CF_3_14-1" class="reference"><a href="#cite_note-CF_3-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-CF_8_2-1" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-CF_11_15-0" class="reference"><a href="#cite_note-CF_11-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> and anyone who goes to her for medical help.<sup id="cite_ref-CF_8_2-2" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-CF_9_16-0" class="reference"><a href="#cite_note-CF_9-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> When <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale</a> is whipped,<sup id="cite_ref-CF_7_12-1" class="reference"><a href="#cite_note-CF_7-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> Katniss and Peeta take him to her. Asterid and Prim care for Gale's and Katniss' injuries.<sup id="cite_ref-CF_8_2-3" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Asterid uses a special medical treatment with snow.<sup id="cite_ref-CF_9_16-1" class="reference"><a href="#cite_note-CF_9-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> Katniss yells at her, telling her to do everything she can and questioning her about everything she does to save Gale.<sup id="cite_ref-CF_8_2-4" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Asterid joins Haymitch and Katniss and fills them in on Gale's condition, Katniss apologizes for her behavior to her mother and she forgives her. Asterid saves Gale's life.<sup id="cite_ref-CF_9_16-2" class="reference"><a href="#cite_note-CF_9-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> Asterid helps Katniss during her wedding dress shoot.<sup id="cite_ref-CF_12_8-2" class="reference"><a href="#cite_note-CF_12-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> When the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">third Quarter Quell</a> is announced, Asterid is surprised when President Snow tells all of Panem it will reap past victors; Katniss will be reaped since she is the only living female victor from District 12.<sup id="cite_ref-CF_12_8-3" class="reference"><a href="#cite_note-CF_12-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> Asterid, along with Prim, does everything to comfort Katniss after it is announced. After Katniss is reaped, Asterid and Prim go to the justice building but cannot say their goodbyes due to a new procedure.<sup id="cite_ref-CF_13_17-0" class="reference"><a href="#cite_note-CF_13-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup> After Katniss leaves, Asterid and Prim cry together knowing the odds are strongly against her.<sup id="cite_ref-CF_18-0" class="reference"><a href="#cite_note-CF-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup> When District 12 is bombed, Gale saves them.<sup id="cite_ref-CF_27_19-0" class="reference"><a href="#cite_note-CF_27-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup> Asterid and Prim set up a medical station in the woods.<sup id="cite_ref-MJ_1_20-0" class="reference"><a href="#cite_note-MJ_1-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup> 
+</p>
+<h3><span class="mw-headline" id="Mockingjay"><i>Mockingjay</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Asterid works at the hospital in District 13, but is treated as a nurse, not a full healer.<sup id="cite_ref-MJ_4_3-1" class="reference"><a href="#cite_note-MJ_4-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> She takes care of the ill along with Prim.<sup id="cite_ref-MJ_10_21-0" class="reference"><a href="#cite_note-MJ_10-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup> The Everdeen family is still close and remain that way.<sup id="cite_ref-MJ_10_21-1" class="reference"><a href="#cite_note-MJ_10-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup> They move to a larger room<sup id="cite_ref-MJ_4_3-2" class="reference"><a href="#cite_note-MJ_4-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> after Katniss demands to keep <a href="/wiki/Buttercup" title="Buttercup">Buttercup</a> for Prim. When Katniss finds her prep team abused,<sup id="cite_ref-MJ_3_22-0" class="reference"><a href="#cite_note-MJ_3-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup> Katniss takes them to be treated by her mother. Mrs. Everdeen treats them back to health and tells her to take it easy on them since they are still hurt mentally due to the abuse.<sup id="cite_ref-MJ_4_3-3" class="reference"><a href="#cite_note-MJ_4-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> After Katniss returns from shooting a propo in <a href="/wiki/District_8" title="District 8">District 8</a> and recovering from an attack by the Capitol,<sup id="cite_ref-MJ_7_23-0" class="reference"><a href="#cite_note-MJ_7-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup> Asterid cares for Katniss in the hospital. When Katniss awakens, Asterid is upset that she did not notify her that she was leaving. Katniss apologizes and promises her that next time she will. Asterid continues to care for Katniss in the hospital until she is fully healed.<sup id="cite_ref-MJ_8_24-0" class="reference"><a href="#cite_note-MJ_8-24"><span class="cite-bracket">[</span>24<span class="cite-bracket">]</span></a></sup>
+</p><p>During the bombing of District 13 by <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, Asterid makes it to the bunker she, Katniss and Prim were assigned to. When Katniss questions Prim's location, Asterid becomes worried because she left ten minutes before her. She is relieved when Prim and Gale show up right before the door was shut and locked. Asterid stays with her family in one area during the first bombing, and afterwards goes to the first aid station to help heal the wounded and ill.<sup id="cite_ref-MJ_10_21-2" class="reference"><a href="#cite_note-MJ_10-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup> Before Katniss goes to the Capitol with her squad, she says her final goodbye to her family.<sup id="cite_ref-MJ_18_25-0" class="reference"><a href="#cite_note-MJ_18-25"><span class="cite-bracket">[</span>25<span class="cite-bracket">]</span></a></sup> When Prim is killed in the bombing at <a href="/wiki/President%27s_mansion" title="President's mansion">President Snow's mansion</a>,<sup id="cite_ref-MJ_24_26-0" class="reference"><a href="#cite_note-MJ_24-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-MJ_25_27-0" class="reference"><a href="#cite_note-MJ_25-27"><span class="cite-bracket">[</span>27<span class="cite-bracket">]</span></a></sup> Asterid goes to District 4 to head up a new hospital rather than return to District 12 which was now too painful for her. Haymitch gives Katniss a note that has a phone number Katniss can call her mother with. The two mourn over Prim's death together over the phone.<sup id="cite_ref-MJ_27_5-1" class="reference"><a href="#cite_note-MJ_27-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Asterid was described to have a pretty <a href="/wiki/Merchant" title="Merchant">merchant</a> child's appearance in her youth<sup id="cite_ref-CF_14_7-2" class="reference"><a href="#cite_note-CF_14-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> and looking not so beaten down in her sleep. It is said that her youngest child, Prim, took after her in appearance. So it is fair to think that she had fair skin, blonde hair, and blue eyes, unlike the majority of the residents of the Seam in District 12.<sup id="cite_ref-THG_1_1-4" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> She has long, tapered fingers.<sup id="cite_ref-CF_8_2-5" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Asterid was the daughter of an apothecary and grew up in the merchant sector of district twelve. During those years, she learned to care for illnesses and injuries. When she married her husband, she moved into the Seam to live with him. Since the Seam is much poorer than the merchant sector, Katniss took that as a sign that she loved her husband very much.<sup id="cite_ref-THG_1_1-5" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> In <i>Catching Fire</i>, she still had a tea service set that she had taken with her.<sup id="cite_ref-CF_2_13-1" class="reference"><a href="#cite_note-CF_2-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p><p>She has two daughters, Katniss and Primrose. Her husband died in a coal mining accident five years before the events of <i>The Hunger Games</i> book. She also has two grandchildren, an elder girl and younger boy, from Katniss and Peeta.<sup id="cite_ref-MJ_E_28-0" class="reference"><a href="#cite_note-MJ_E-28"><span class="cite-bracket">[</span>28<span class="cite-bracket">]</span></a></sup>
+</p><p>Primrose died in <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>,<sup id="cite_ref-MJ_24_26-1" class="reference"><a href="#cite_note-MJ_24-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-MJ_25_27-1" class="reference"><a href="#cite_note-MJ_25-27"><span class="cite-bracket">[</span>27<span class="cite-bracket">]</span></a></sup> leaving Asterid unable to go back to District 12 due to the pain of her death.<sup id="cite_ref-MJ_27_5-2" class="reference"><a href="#cite_note-MJ_27-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Though never formally trained, Asterid is a healer, with extensive knowledge of natural remedies from having grown up in the apothecary in the merchant's district. Following her recovery from her grief over her husband's death, Asterid started a small apothecary business for people in the Seam.<sup id="cite_ref-THG_3_11-2" class="reference"><a href="#cite_note-THG_3-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> She has helped many people in the Seam who go to her for various things including both injury and sickness. In <i>Catching Fire</i>, Haymitch tells Katniss that there used to be a lot of whipping before the Head Peacekeeper <a href="/wiki/Cray" title="Cray">Cray</a> took over and that it was Katniss' mother that people would go to for aid.<sup id="cite_ref-CF_8_2-6" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Head Peacekeeper <a href="/wiki/Thread" class="mw-redirect" title="Thread">Thread</a> whips Gale<sup id="cite_ref-CF_7_12-2" class="reference"><a href="#cite_note-CF_7-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> (and accidentally Katniss<sup id="cite_ref-CF_8_2-7" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>) and Asterid treats Gale and Katniss with the help of her youngest daughter, Prim.<sup id="cite_ref-CF_8_2-8" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-CF_9_16-3" class="reference"><a href="#cite_note-CF_9-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Katniss_Everdeen">Katniss Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After being emotionally abandoned by her mother for months after <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">her father</a>'s death, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> came to distrust her and never truly forgave her.<sup id="cite_ref-THG_1_1-6" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Katniss also took over the role of caring for Prim. After volunteering,<sup id="cite_ref-THG_2_29-0" class="reference"><a href="#cite_note-THG_2-29"><span class="cite-bracket">[</span>29<span class="cite-bracket">]</span></a></sup> Katniss told Asterid that she had to take care of Prim, and her mother promised to.<sup id="cite_ref-THG_3_11-3" class="reference"><a href="#cite_note-THG_3-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> After the <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a> is announced, Asterid screamed.<sup id="cite_ref-CF_12_8-4" class="reference"><a href="#cite_note-CF_12-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> In <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, after Prim's death,<sup id="cite_ref-MJ_24_26-2" class="reference"><a href="#cite_note-MJ_24-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-MJ_25_27-2" class="reference"><a href="#cite_note-MJ_25-27"><span class="cite-bracket">[</span>27<span class="cite-bracket">]</span></a></sup> she buried her grief in her work.<sup id="cite_ref-MJ_25_27-3" class="reference"><a href="#cite_note-MJ_25-27"><span class="cite-bracket">[</span>27<span class="cite-bracket">]</span></a></sup> She moved to District 4, abandoning Katniss again. However, they bonded over the phone, grieving Prim's death. Asterid helped Katniss with her <a href="/wiki/Memory_book" title="Memory book">book</a> for remembering the good in the world.<sup id="cite_ref-MJ_27_5-3" class="reference"><a href="#cite_note-MJ_27-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Primrose_Everdeen">Primrose Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Prim</a> was very close to her mother and completely forgave her for abandoning her daughters after Burdock's death. Together, they held an apothecary business. After the District 12 bombing,<sup id="cite_ref-CF_27_19-1" class="reference"><a href="#cite_note-CF_27-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup> they took care of the wounded until they were rescued by <a href="/wiki/District_13" title="District 13">District 13</a>.<sup id="cite_ref-MJ_1_20-1" class="reference"><a href="#cite_note-MJ_1-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup> After Prim's death,<sup id="cite_ref-MJ_24_26-3" class="reference"><a href="#cite_note-MJ_24-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-MJ_25_27-4" class="reference"><a href="#cite_note-MJ_25-27"><span class="cite-bracket">[</span>27<span class="cite-bracket">]</span></a></sup> Asterid was devastated and could not go back to District 12.<sup id="cite_ref-MJ_27_5-4" class="reference"><a href="#cite_note-MJ_27-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Burdock_Everdeen">Burdock Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Asterid loved <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> to the point where she left her merchant life for <a href="/wiki/The_Seam" title="The Seam">the Seam</a> so she could be with him. After he died, she fell into a deep depression and left her two young daughters to fend for themselves.<sup id="cite_ref-THG_1_1-7" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Gale_Hawthorne">Gale Hawthorne</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After he is whipped by <a href="/wiki/Thread" class="mw-redirect" title="Thread">Thread</a>, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale</a>'s wounds are treated by Asterid and Prim, though Asterid did not have a close relationship with the boy.<sup id="cite_ref-CF_8_2-9" class="reference"><a href="#cite_note-CF_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-CF_9_16-4" class="reference"><a href="#cite_note-CF_9-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> 
+</p><p><a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> had always loved Asterid, but she "ran off with a coal miner".<sup id="cite_ref-THG_22_30-0" class="reference"><a href="#cite_note-THG_22-30"><span class="cite-bracket">[</span>30<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Her surname, Everdeen, comes from Bathsheba Everdene, the main character in <i><a href="https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd" class="extiw" title="wikipedia:Far from the Madding Crowd">Far from the Madding Crowd</a></i>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span class="cite-bracket">[</span>31<span class="cite-bracket">]</span></a></sup>
+</p><p>Asterid could come from <a href="https://en.wikipedia.org/wiki/aster_(genus" class="extiw" title="wikipedia:aster (genus">aster</a>, a flowering plant symbolizing patience, love, and healing—reflecting her role as a healer and caregiver throughout the series. It also relates to the Scandinavian name Astrid, meaning "beloved by the gods". The surname March references springtime and rebirth and the time when the flowers begin to bloom. The surname also subtly aligns with qualities mirrored in the March family from <i><a href="https://en.wikipedia.org/wiki/Little_Women" class="extiw" title="wikipedia:Little Women">Little Women</a></i>, a family known for healing, and overcoming difficult times.
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_Hunger_Games_2"><i>The Hunger Games</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div id="gallery-1" hash="1cad9d746fbed8ed1be441bc0fa5bfab" data-seq-no="1" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:192px; "><div class="thumb" style="height:81px;"><div class="gallery-image-wrapper accent" id="Hunger-games-movie-screencaps-com-942-jpg" style="position: relative; height:79px; width:190px;"><a class="image lightbox" href="/wiki/File:Hunger-games-movie-screencaps.com-942.jpg" title="Hunger-games-movie-screencaps.com-942.jpg (162 KB)" style="height:79px; width:190px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/a/a9/Hunger-games-movie-screencaps.com-942.jpg/revision/latest/scale-to-width-down/190?cb=20210725060934" title="Hunger-games-movie-screencaps.com-942.jpg (162 KB)" class="thumbimage" alt="" height="79" width="190" data-image-name="Hunger-games-movie-screencaps.com-942.jpg" data-image-key="Hunger-games-movie-screencaps.com-942.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hunger-games-movie-screencaps.com-942.jpg (162 KB)" class="thumbimage lazyload" alt="" height="79" width="190" data-image-name="Hunger-games-movie-screencaps.com-942.jpg" data-image-key="Hunger-games-movie-screencaps.com-942.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a9/Hunger-games-movie-screencaps.com-942.jpg/revision/latest/scale-to-width-down/190?cb=20210725060934"></a></div></div></div><div class="wikia-gallery-item" style="width:192px; "><div class="thumb" style="height:81px;"><div class="gallery-image-wrapper accent" id="Hunger-games-movie-screencaps-com-1016-jpg" style="position: relative; height:79px; width:190px;"><a class="image lightbox" href="/wiki/File:Hunger-games-movie-screencaps.com-1016.jpg" title="Hunger-games-movie-screencaps.com-1016.jpg (111 KB)" style="height:79px; width:190px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/1/11/Hunger-games-movie-screencaps.com-1016.jpg/revision/latest/scale-to-width-down/190?cb=20210725061049" title="Hunger-games-movie-screencaps.com-1016.jpg (111 KB)" class="thumbimage" alt="Mrs. Everdeen with her daughter, Katniss." height="79" width="190" data-image-name="Hunger-games-movie-screencaps.com-1016.jpg" data-image-key="Hunger-games-movie-screencaps.com-1016.jpg" data-relevant="1" data-caption="Mrs. Everdeen with her daughter, Katniss."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hunger-games-movie-screencaps.com-1016.jpg (111 KB)" class="thumbimage lazyload" alt="Mrs. Everdeen with her daughter, Katniss." height="79" width="190" data-image-name="Hunger-games-movie-screencaps.com-1016.jpg" data-image-key="Hunger-games-movie-screencaps.com-1016.jpg" data-relevant="1" data-caption="Mrs. Everdeen with her daughter, Katniss." data-src="https://static.wikia.nocookie.net/thehungergames/images/1/11/Hunger-games-movie-screencaps.com-1016.jpg/revision/latest/scale-to-width-down/190?cb=20210725061049"></a></div></div><div class="lightbox-caption" style="width:190px;">Mrs. Everdeen with her daughter, Katniss.</div></div><div class="wikia-gallery-item" style="width:192px; "><div class="thumb" style="height:81px;"><div class="gallery-image-wrapper accent" id="Hunger-games-movie-screencaps-com-1909-jpg" style="position: relative; height:79px; width:190px;"><a class="image lightbox" href="/wiki/File:Hunger-games-movie-screencaps.com-1909.jpg" title="Hunger-games-movie-screencaps.com-1909.jpg (1.06 MB)" style="height:79px; width:190px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/b/bc/Hunger-games-movie-screencaps.com-1909.jpg/revision/latest/scale-to-width-down/190?cb=20250322034329" title="Hunger-games-movie-screencaps.com-1909.jpg (1.06 MB)" class="thumbimage" alt="" height="79" width="190" data-image-name="Hunger-games-movie-screencaps.com-1909.jpg" data-image-key="Hunger-games-movie-screencaps.com-1909.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hunger-games-movie-screencaps.com-1909.jpg (1.06 MB)" class="thumbimage lazyload" alt="" height="79" width="190" data-image-name="Hunger-games-movie-screencaps.com-1909.jpg" data-image-key="Hunger-games-movie-screencaps.com-1909.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/bc/Hunger-games-movie-screencaps.com-1909.jpg/revision/latest/scale-to-width-down/190?cb=20250322034329"></a></div></div></div><div class="wikia-gallery-item" style="width:192px; "><div class="thumb" style="height:81px;"><div class="gallery-image-wrapper accent" id="Hunger-games-movie-screencaps-com-15810-jpg" style="position: relative; height:79px; width:190px;"><a class="image lightbox" href="/wiki/File:Hunger-games-movie-screencaps.com-15810.jpg" title="Hunger-games-movie-screencaps.com-15810.jpg (1.1 MB)" style="height:79px; width:190px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/4/40/Hunger-games-movie-screencaps.com-15810.jpg/revision/latest/scale-to-width-down/190?cb=20250321182414" title="Hunger-games-movie-screencaps.com-15810.jpg (1.1 MB)" class="thumbimage" alt="" height="79" width="190" data-image-name="Hunger-games-movie-screencaps.com-15810.jpg" data-image-key="Hunger-games-movie-screencaps.com-15810.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hunger-games-movie-screencaps.com-15810.jpg (1.1 MB)" class="thumbimage lazyload" alt="" height="79" width="190" data-image-name="Hunger-games-movie-screencaps.com-15810.jpg" data-image-key="Hunger-games-movie-screencaps.com-15810.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/40/Hunger-games-movie-screencaps.com-15810.jpg/revision/latest/scale-to-width-down/190?cb=20250321182414"></a></div></div></div></div>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Although her name is not revealed in the original books trilogy or films, Paula Malcolmson, who played Mrs. Everdeen, revealed in an interview that she named her character 'Clara'. Malcolmson said the name "just came to her".<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span class="cite-bracket">[</span>32<span class="cite-bracket">]</span></a></sup></li>
+<li>Interestingly, burdock (her future husband) and asters (represented by "Asterid") are both plants that are part of the Asteraceae family, commonly known as the daisy or sunflower family.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FAsterid_Everdeen%3Fveaction%3Dedit%26section%3D18&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-THG_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_1_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_1_1-2">1.2</a></sup> <sup><a href="#cite_ref-THG_1_1-3">1.3</a></sup> <sup><a href="#cite_ref-THG_1_1-4">1.4</a></sup> <sup><a href="#cite_ref-THG_1_1-5">1.5</a></sup> <sup><a href="#cite_ref-THG_1_1-6">1.6</a></sup> <sup><a href="#cite_ref-THG_1_1-7">1.7</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-CF_8-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_8_2-0">2.00</a></sup> <sup><a href="#cite_ref-CF_8_2-1">2.01</a></sup> <sup><a href="#cite_ref-CF_8_2-2">2.02</a></sup> <sup><a href="#cite_ref-CF_8_2-3">2.03</a></sup> <sup><a href="#cite_ref-CF_8_2-4">2.04</a></sup> <sup><a href="#cite_ref-CF_8_2-5">2.05</a></sup> <sup><a href="#cite_ref-CF_8_2-6">2.06</a></sup> <sup><a href="#cite_ref-CF_8_2-7">2.07</a></sup> <sup><a href="#cite_ref-CF_8_2-8">2.08</a></sup> <sup><a href="#cite_ref-CF_8_2-9">2.09</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-MJ_4-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_4_3-0">3.0</a></sup> <sup><a href="#cite_ref-MJ_4_3-1">3.1</a></sup> <sup><a href="#cite_ref-MJ_4_3-2">3.2</a></sup> <sup><a href="#cite_ref-MJ_4_3-3">3.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-CF_1-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_1_4-0">4.0</a></sup> <sup><a href="#cite_ref-CF_1_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-MJ_27-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_27_5-0">5.0</a></sup> <sup><a href="#cite_ref-MJ_27_5-1">5.1</a></sup> <sup><a href="#cite_ref-MJ_27_5-2">5.2</a></sup> <sup><a href="#cite_ref-MJ_27_5-3">5.3</a></sup> <sup><a href="#cite_ref-MJ_27_5-4">5.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-SR1-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR1_6-0">6.0</a></sup> <sup><a href="#cite_ref-SR1_6-1">6.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-CF_14-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_14_7-0">7.0</a></sup> <sup><a href="#cite_ref-CF_14_7-1">7.1</a></sup> <sup><a href="#cite_ref-CF_14_7-2">7.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-CF_12-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_12_8-0">8.0</a></sup> <sup><a href="#cite_ref-CF_12_8-1">8.1</a></sup> <sup><a href="#cite_ref-CF_12_8-2">8.2</a></sup> <sup><a href="#cite_ref-CF_12_8-3">8.3</a></sup> <sup><a href="#cite_ref-CF_12_8-4">8.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-THG-10"><span class="mw-cite-backlink"><a href="#cite_ref-THG_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a></i></span>
+</li>
+<li id="cite_note-THG_3-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_3_11-0">11.0</a></sup> <sup><a href="#cite_ref-THG_3_11-1">11.1</a></sup> <sup><a href="#cite_ref-THG_3_11-2">11.2</a></sup> <sup><a href="#cite_ref-THG_3_11-3">11.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-CF_7-12"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_7_12-0">12.0</a></sup> <sup><a href="#cite_ref-CF_7_12-1">12.1</a></sup> <sup><a href="#cite_ref-CF_7_12-2">12.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-CF_2-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_2_13-0">13.0</a></sup> <sup><a href="#cite_ref-CF_2_13-1">13.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-CF_3-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_3_14-0">14.0</a></sup> <sup><a href="#cite_ref-CF_3_14-1">14.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-CF_11-15"><span class="mw-cite-backlink"><a href="#cite_ref-CF_11_15-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-CF_9-16"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_9_16-0">16.0</a></sup> <sup><a href="#cite_ref-CF_9_16-1">16.1</a></sup> <sup><a href="#cite_ref-CF_9_16-2">16.2</a></sup> <sup><a href="#cite_ref-CF_9_16-3">16.3</a></sup> <sup><a href="#cite_ref-CF_9_16-4">16.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-CF_13-17"><span class="mw-cite-backlink"><a href="#cite_ref-CF_13_17-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-CF-18"><span class="mw-cite-backlink"><a href="#cite_ref-CF_18-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-CF_27-19"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_27_19-0">19.0</a></sup> <sup><a href="#cite_ref-CF_27_19-1">19.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-MJ_1-20"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_1_20-0">20.0</a></sup> <sup><a href="#cite_ref-MJ_1_20-1">20.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-MJ_10-21"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_10_21-0">21.0</a></sup> <sup><a href="#cite_ref-MJ_10_21-1">21.1</a></sup> <sup><a href="#cite_ref-MJ_10_21-2">21.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-MJ_3-22"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_3_22-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-MJ_7-23"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_7_23-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-MJ_8-24"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_8_24-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-MJ_18-25"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_18_25-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-MJ_24-26"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_24_26-0">26.0</a></sup> <sup><a href="#cite_ref-MJ_24_26-1">26.1</a></sup> <sup><a href="#cite_ref-MJ_24_26-2">26.2</a></sup> <sup><a href="#cite_ref-MJ_24_26-3">26.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-MJ_25-27"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_25_27-0">27.0</a></sup> <sup><a href="#cite_ref-MJ_25_27-1">27.1</a></sup> <sup><a href="#cite_ref-MJ_25_27-2">27.2</a></sup> <sup><a href="#cite_ref-MJ_25_27-3">27.3</a></sup> <sup><a href="#cite_ref-MJ_25_27-4">27.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-MJ_E-28"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_E_28-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-THG_2-29"><span class="mw-cite-backlink"><a href="#cite_ref-THG_2_29-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-THG_22-30"><span class="mw-cite-backlink"><a href="#cite_ref-THG_22_30-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://ew.com/article/2010/08/12/suzanne-collins-on-the-books-she-loves/">https://ew.com/article/2010/08/12/suzanne-collins-on-the-books-she-loves/</a></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.etonline.com/movies/129123_Katniss_Mothers_Name_Paula_Malcomson_Interview_Catching_Fire">https://www.etonline.com/movies/129123_Katniss_Mothers_Name_Paula_Malcomson_Interview_Catching_Fire</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <strong class="mw-selflink selflink">Asterid March</strong> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20260103011342
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.132 seconds
+Real time usage: 0.193 seconds
+Preprocessor visited node count: 1125/1000000
+Post‐expand include size: 6241/2097152 bytes
+Template argument size: 225/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 29631/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   93.644      1 -total
+ 40.77%   38.179      1 Template:Character
+ 14.01%   13.116      1 Template:Reflist
+  1.68%    1.571      2 Template:SOTR
+  1.63%    1.526      3 Template:W
+  1.59%    1.489      1 Template:Quote
+  1.46%    1.367      1 Template:SeriesTP
+  1.43%    1.341      1 Template:THG
+  1.28%    1.201      1 Template:SOTRNav
+  1.19%    1.115      1 Template:CF
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2228-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103011341 and revision id 968075. Rendering was triggered because: edit-page
+ -->
+</div>

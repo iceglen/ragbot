@@ -1,0 +1,77 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><i><b>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>.</b><br /> You can help The Hunger Games Wiki by <a target="_blank" rel="noreferrer noopener" class="text" href="https://thehungergames.fandom.com/wiki/Leon_Lamar?action=edit">expanding it</a>. </i></center></div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Leon Lamar</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/4b/LeonLamar.jpg/revision/latest?cb=20200526204457" class="image image-thumbnail" title="LeonLamar">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/4/4b/LeonLamar.jpg/revision/latest?cb=20200526204457" srcset="https://static.wikia.nocookie.net/thehungergames/images/4/4b/LeonLamar.jpg/revision/latest?cb=20200526204457 1x, https://static.wikia.nocookie.net/thehungergames/images/4/4b/LeonLamar.jpg/revision/latest?cb=20200526204457 2x" class="pi-image-thumbnail" data-relevant="1" alt="LeonLamar" width="214" height="317" data-image-key="LeonLamar.jpg" data-image-name="LeonLamar.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth name">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
+	
+	<div class="pi-data-value pi-font">Leon Lamar</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Unidentified_District_11_citizen" title="Unidentified District 11 citizen">Unidentified District 11 citizen</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
+	
+		<h3 class="pi-data-label pi-secondary-font">Years active</h3>
+	
+	<div class="pi-data-value pi-font">1999–present</div>
+</div>
+</aside>
+
+</p><p><b>Leon Lamar</b> is an actor who portrayed the <a href="/wiki/Unidentified_District_11_citizen" title="Unidentified District 11 citizen">unidentified District 11 citizen</a> in <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>.  
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLeon_Lamar%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Leon Lamar is known for his work on <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i> (2013), American Made (2017), and Tammy (2014). 
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLeon_Lamar%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/name/nm0482799" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/name/nm0482799">Leon Lamar</a> at the Internet Movie Database</span></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20251225071425
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.025 seconds
+Real time usage: 0.034 seconds
+Preprocessor visited node count: 67/1000000
+Post‐expand include size: 598/2097152 bytes
+Template argument size: 28/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   22.929      1 -total
+ 77.77%   17.833      1 Template:Actor
+ 14.01%    3.213      1 Template:Stub
+  7.25%    1.663      1 Template:Imdb
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539639-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225071425 and revision id 928491. Rendering was triggered because: page-view
+ -->
+</div>

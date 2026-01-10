@@ -1,0 +1,34 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 250px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/de/Hunger_Games_score.jpg/revision/latest?cb=20200711055207" class="mw-file-description image"><img alt="The Hunger Games: Original Motion Picture Score" src="https://static.wikia.nocookie.net/thehungergames/images/d/de/Hunger_Games_score.jpg/revision/latest/scale-to-width-down/250?cb=20200711055207" decoding="async" loading="lazy" width="250" height="250" class="thumbimage" data-image-name="Hunger Games score.jpg" data-image-key="Hunger_Games_score.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Hunger_Games_score.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><i>The Hunger Games: Original Motion Picture Score</i></p> 		 	</figcaption> </figure>
+<p><b>"The Hunger Games"</b> is an instrumental piece composed by <a href="/wiki/James_Newton_Howard" title="James Newton Howard">James Newton Howard</a> for the 2012 film <i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a></i>. It is the theme of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, an annual sporting event in which 24 youths fight to the death in an <a href="/wiki/Arena" title="Arena">arena</a>. It was released on March 26, 2012, as part of the film's <a href="/wiki/The_Hunger_Games:_Original_Motion_Picture_Score" title="The Hunger Games: Original Motion Picture Score">score</a>.
+</p>
+<h2><span class="mw-headline" id="Use">Use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_%28score%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="In_the_soundtrack">In the soundtrack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_%28score%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/James_Newton_Howard" title="James Newton Howard">James Newton Howard</a> composed the score of the 2012 film <i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a></i>. "The Hunger Games" was written to represent the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, an annual fight to the death between 24 youths, which is central to the film's plot. The film's <a href="/wiki/The_Hunger_Games:_Original_Motion_Picture_Score" title="The Hunger Games: Original Motion Picture Score">score</a> was released on March 26, 2012.
+</p>
+<h3><span class="mw-headline" id="In_the_film">In the film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Hunger_Games_%28score%29%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>"The Hunger Games" plays at the onset of the film. It is heard over a wall of text that displays part of the <a href="/wiki/Treaty_of_Treason" title="Treaty of Treason">Treaty of Treason</a>. The score fades out as the scene transitions to an interview conducted by <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>, with <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>, the <a href="/wiki/Gamemaker" title="Gamemaker">Head Gamemaker</a>, as his guest.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20260104233639
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.010 seconds
+Real time usage: 0.018 seconds
+Preprocessor visited node count: 18/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:540379-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104233639 and revision id 952347. Rendering was triggered because: page-view
+ -->
+</div>

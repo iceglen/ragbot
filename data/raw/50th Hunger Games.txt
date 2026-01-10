@@ -1,0 +1,862 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="quote">
+<dl><dd><span title="Source: Sunrise on the Reaping">"<i>The second Quarter Quell. Twice as many kids. No point in worrying, I tell myself, there's nothing you can do about it. Like two Hunger Games in one.</i>"</span></dd>
+<dd>&#8212;Haymitch Abernathy before the reaping.<sup class="noprint"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">[src]</a></sup></dd></dl></div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">50th Hunger Games</h2>
+
+	<div class="pi-image-collection wds-tabber" data-source="image">
+		<div class="wds-tabs__wrapper">
+			<ul class="wds-tabs">
+				
+					<li class="wds-tabs__tab wds-is-current">
+						<span class="wds-tabs__tab-label">
+							Arena
+							
+						</span>
+					</li>
+				
+					<li class="wds-tabs__tab">
+						<span class="wds-tabs__tab-label">
+							Logo
+							
+						</span>
+					</li>
+				
+			</ul>
+		</div>
+		
+			<div class="wds-tab__content wds-is-current">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/e/ef/50th_Cornucopia.jpeg/revision/latest?cb=20251120144330" class="image image-thumbnail" title="Arena">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/50th_Cornucopia.jpeg/revision/latest/scale-to-width-down/268?cb=20251120144330" srcset="https://static.wikia.nocookie.net/thehungergames/images/e/ef/50th_Cornucopia.jpeg/revision/latest/scale-to-width-down/268?cb=20251120144330 1x, https://static.wikia.nocookie.net/thehungergames/images/e/ef/50th_Cornucopia.jpeg/revision/latest/scale-to-width-down/536?cb=20251120144330 2x" data-relevant="1" class="pi-image-thumbnail" alt="Arena" width="270" height="139" data-image-key="50th Cornucopia.jpeg" data-image-name="50th Cornucopia.jpeg" />
+						
+					</a>
+				</figure>
+			</div>
+		
+			<div class="wds-tab__content">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/8/83/50logo50.png/revision/latest?cb=20251006080744" class="image image-thumbnail" title="Logo">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/8/83/50logo50.png/revision/latest/scale-to-width-down/268?cb=20251006080744" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/83/50logo50.png/revision/latest/scale-to-width-down/268?cb=20251006080744 1x, https://static.wikia.nocookie.net/thehungergames/images/8/83/50logo50.png/revision/latest/scale-to-width-down/536?cb=20251006080744 2x" data-relevant="1" class="pi-image-thumbnail" alt="Logo" width="270" height="182" data-image-key="50logo50.png" data-image-name="50logo50.png" />
+						
+					</a>
+				</figure>
+			</div>
+		
+	</div>
+
+
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="aka">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Second <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="special">
+	
+		<h3 class="pi-data-label pi-secondary-font">Special features</h3>
+	
+	<div class="pi-data-value pi-font">48 <a href="/wiki/Tribute" title="Tribute">tributes</a> (2 male and 2 female from each <a href="/wiki/District" class="mw-redirect" title="District">district</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="district">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor's home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arena">
+	
+		<h3 class="pi-data-label pi-secondary-font">Arena</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">Poison paradise</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gamemaker">
+	
+		<h3 class="pi-data-label pi-secondary-font">Head Gamemaker</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="duration">
+	
+		<h3 class="pi-data-label pi-secondary-font">Duration</h3>
+	
+	<div class="pi-data-value pi-font">7 days</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/49th_Hunger_Games" title="49th Hunger Games">49th Hunger Games</a><p><i>Quarter Quell: <a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th Hunger Games</a></i></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/51st_Hunger_Games" class="mw-redirect" title="51st Hunger Games">51st Hunger Games</a><p><i>Quarter Quell: <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a></i></p></div>
+</div>
+</aside>
+
+</p><p><b>The 50th Hunger Games</b> was the year of the second <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, held 24 years before the start of the <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy">trilogy</a>. It is the subject of the prequel novel <i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i> as well as its <a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">film adaptation</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> The <a href="/wiki/Victor" title="Victor">victor</a> was <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> from <a href="/wiki/District_12" title="District 12">District 12</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/75/Lquarter.png/revision/latest?cb=20250412110125" class="mw-file-description image"><img alt="The locker containing the envelope for second  marked as &quot;L&quot; in ." src="https://static.wikia.nocookie.net/thehungergames/images/7/75/Lquarter.png/revision/latest/scale-to-width-down/180?cb=20250412110125" decoding="async" loading="lazy" width="180" height="135" class="thumbimage" data-image-name="Lquarter.png" data-image-key="Lquarter.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Lquarter.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The locker containing the envelope for second <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a> marked as "L" in <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>.</p> 		 	</figcaption> </figure>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tributes"><span class="tocnumber">1</span> <span class="toctext">Tributes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Arena"><span class="tocnumber">2</span> <span class="toctext">Arena</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Known_muttations"><span class="tocnumber">2.1</span> <span class="toctext">Known muttations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Summary"><span class="tocnumber">3</span> <span class="toctext">Summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Pre-Games"><span class="tocnumber">3.1</span> <span class="toctext">Pre-Games</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Training_scores"><span class="tocnumber">3.2</span> <span class="toctext">Training scores</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Interviews"><span class="tocnumber">3.2.1</span> <span class="toctext">Interviews</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Arena_wear"><span class="tocnumber">3.3</span> <span class="toctext">Arena wear</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#The_Games"><span class="tocnumber">3.4</span> <span class="toctext">The Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Day_1"><span class="tocnumber">3.4.1</span> <span class="toctext">Day 1</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Day_2"><span class="tocnumber">3.4.2</span> <span class="toctext">Day 2</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Day_3"><span class="tocnumber">3.4.3</span> <span class="toctext">Day 3</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Day_4"><span class="tocnumber">3.4.4</span> <span class="toctext">Day 4</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Day_5"><span class="tocnumber">3.4.5</span> <span class="toctext">Day 5</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Day_6"><span class="tocnumber">3.4.6</span> <span class="toctext">Day 6</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Day_7"><span class="tocnumber">3.4.7</span> <span class="toctext">Day 7</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Aftermath"><span class="tocnumber">3.5</span> <span class="toctext">Aftermath</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#Edited_footage"><span class="tocnumber">3.5.1</span> <span class="toctext">Edited footage</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Retaliation"><span class="tocnumber">3.5.2</span> <span class="toctext">Retaliation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Placing"><span class="tocnumber">4</span> <span class="toctext">Placing</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Tributes">Tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> read off a card that was supposedly left 50 years ago by the original creators of the Games, stating that as a reminder that two <a href="/wiki/Rebels" title="Rebels">rebels</a> died for every <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a> citizen, twice the number of regular <a href="/wiki/Tribute" title="Tribute">tributes</a> were to be sent into the Games: two girls and two boys per district, for a total of 48.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-CF_14_4-0" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<table class="fandom-table sortable mw-collapsible">
+<caption><span style="white-space:nowrap;">Second Quarter Quell<br />Tribute Roster</span>
+</caption>
+<tbody><tr>
+<th class="unsortable">District
+</th>
+<th>Tribute
+</th>
+<th>Gender
+</th>
+<th class="unsortable">Age
+</th>
+<th class="unsortable">Mentor(s)
+</th></tr>
+<tr style="white-space:nowrap;">
+<th rowspan="4" style="background:#B4C424; color:black;">1
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>17-18
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr style="white-space:nowrap;">
+<td style="white-space:nowrap;"><a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>14-18
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Loupe" title="Loupe">Loupe</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Carat" title="Carat">Carat</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#800080; color:white;">2
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Alpheus" title="Alpheus">Alpheus</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Camilla" title="Camilla">Camilla</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Janus" title="Janus">Janus</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Nona" title="Nona">Nona</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#7DF9FF; color:black;">3
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Ampert_Latier" title="Ampert Latier">Ampert Latier</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>12
+</td>
+<td rowspan="4"><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> and <i>unknown victor</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Dio" title="Dio">Dio</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Lect" title="Lect">Lect</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Coil" title="Coil">Coil</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#256794; color:black;">4
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Urchin" title="Urchin">Urchin</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Barba" title="Barba">Barba</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Angler" title="Angler">Angler</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Maritte" title="Maritte">Maritte</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#ff6700; color:black;">5
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Hychel" title="Hychel">Hychel</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Anion" title="Anion">Anion</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Fisser" title="Fisser">Fisser</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Potena" title="Potena">Potena</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#b3ada7; color:black;">6
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Miles" title="Miles">Miles</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Wellie" title="Wellie">Wellie</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Atread" title="Atread">Atread</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Velo" title="Velo">Velo</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#80461B; color:white;">7
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Bircher" title="Bircher">Bircher</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Autumn" title="Autumn">Autumn</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Heartwood" title="Heartwood">Heartwood</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Ringina" title="Ringina">Ringina</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#FFE5B4; color:black;">8
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Wefton" title="Wefton">Wefton</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Notion" title="Notion">Notion</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Ripman" title="Ripman">Ripman</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Alawna" title="Alawna">Alawna</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#fffd74; color:black;">9
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Ryan" title="Ryan">Ryan</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Kerna" title="Kerna">Kerna</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Clayton" title="Clayton">Clayton</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Midge" title="Midge">Midge</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#DC143C; color:white;">10
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Buck" title="Buck">Buck</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Lannie" title="Lannie">Lannie</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Stamp" title="Stamp">Stamp</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Peeler" title="Peeler">Peeler</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#023020; color:white;">11
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Hull" title="Hull">Hull</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td>
+<td rowspan="4"><i>Unknown victors</i>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Chicory" title="Chicory">Chicory</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Tile" title="Tile">Tile</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>?
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Blossom" title="Blossom">Blossom</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>?
+</td></tr>
+<tr>
+<th rowspan="4" style="background:#000000; color:white;">12
+</th>
+<td style="white-space:nowrap;"><a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>18
+</td>
+<td rowspan="4"><a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> and <a href="/wiki/Wiress" title="Wiress">Wiress</a>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>16
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><b><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a></b><sup>1</sup>
+</td>
+<td style="background:skyblue; color:black;">Male
+</td>
+<td>16
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"><a href="/wiki/Lou_Lou" title="Lou Lou">Louella McCoy</a><sup>2</sup>
+</td>
+<td style="background:pink; color:black;">Female
+</td>
+<td>13
+</td></tr></tbody></table>
+<ul><li><sup>1</sup> <u><a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a></u> was originally reaped alongside Wyatt, Louella, and Maysilee. After his name was called, Woodbine attempted to run. He fled toward a nearby alleyway and  was shot in the head by a sniper stationed on rooftop of the Justice Building. After his death, <a href="/wiki/Lenore_Dove" class="mw-redirect" title="Lenore Dove">Lenore Dove</a> attempted to console his hysterical mother and assisted her in tugging on Woodbine's body, trying to pry him from the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>. Haymitch intervened and was then hand-selected by <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> as the replacement for the dead tribute.</li>
+<li><sup>2</sup> Louella died during the <a href="/wiki/Chariot_rides" title="Chariot rides">Chariot rides</a>. She was replaced by a body double called "Fake Louella" and ultimately "<u><a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a></u>" by the other <a href="/wiki/District_12" title="District 12">District 12</a> tributes.</li>
+<li>This makes <a href="/wiki/District_12" title="District 12">District 12</a> the only known district to have 6 tributes selected to represent them in a single Hunger Games, and the total of tributes for the 50th Games technically 50, rather than 48.</li></ul>
+<h2><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">50th Hunger Games arena</a></i></center></div>
+<p>The arena was described as "the most breathtaking place imaginable." The <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> sat in the middle of a sweet-smelling green meadow, and the sky was azure blue with fluffy, billowing white clouds. The meadow stretched for miles, and far in the distance there were woods on one side, and a snowcapped mountain on the other, which was later revealed to be a deadly volcano.<sup id="cite_ref-CF_14_4-1" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Everything in the arena was lethally poisonous, including the plants growing in the arena, the water in the stream, the butterfly stings, and even the scent of the flowers when inhaled too directly. The only sources of safe <a href="/wiki/Food_and_drink" title="Food and drink">food and drink</a> in the arena were the rainwater and the food from the Cornucopia.<sup id="cite_ref-CF_14_4-2" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Known_muttations">Known <a href="/wiki/Muttation" title="Muttation">muttations</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Fluffy, golden, carnivorous squirrels</li>
+<li>Stinging butterflies that deliver an electric shock similar to a taser, leaving behind no marks</li>
+<li>Candy pink birds with long, thin beaks</li>
+<li>Bear sized porcupines that mimic baby noises and shoot poisonous quills</li>
+<li>Small spotted ladybugs that suck blood, then pop like balloons</li>
+<li>Sunset Red Foxes</li>
+<li>Herds of Deer</li></ul>
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pre-Games">Pre-Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From District 12, the first girl to be reaped was Louella McCoy from <a href="/wiki/The_Seam" title="The Seam">the Seam</a> by their <a href="/wiki/Escort" title="Escort">escort</a>, <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a>. The second tribute was Maysilee Donner, who was clinging to her <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">twin sister</a> and her friend, <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a>, before "bravely [disengaging] herself". She was followed by <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> and <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a>. However, Woodbine tried to run away after his name was called and was subsequently shot dead. With the need for another male tribute, Haymitch Abernathy was chosen instead.<sup id="cite_ref-SR1_6-0" class="reference"><a href="#cite_note-SR1-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-CF_14_4-3" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>Upon arriving in the Capitol, the boys and girls from District 12 wore "awful" <a href="/wiki/Coal_miner" title="Coal miner">coal miner</a> <a href="/wiki/Chariot_costumes" title="Chariot costumes">costumes</a> for the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>.<sup id="cite_ref-CF_14_4-4" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> During the parade, the horse pulling their chariot was startled and bolted. In the process, Haymitch and Louella were thrown out and onto the ground. Louella cracked her head on the ground and was killed instantly. In his grief, Haymitch picked up her body and evaded the Peacekeepers long enough to reach President Snow's mansion and lay her body in front of him to make a statement.
+</p>
+<h3><span class="mw-headline" id="Training_scores">Training scores</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Training was held in the gym of the old <a href="/wiki/Academy" title="Academy">Academy</a>. Survival skills booths were placed around the gym with different things that the tributes could learn. The far end had weapon instruction. The tributes wore plain clothing in a colour representing their district. <a href="/wiki/Ampert_Latier" title="Ampert Latier">Ampert Latier</a> used the training sessions to form an alliance, named the <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a>, with several other districts to rival the <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tributes</a>. His father, as well as, Ampert's assigned <a href="/wiki/Mentor" title="Mentor">mentor</a>, and previous District 3 victor, <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>, was forced to host a station and watch, as his son had been reaped in punishment for his act of rebellion. His station was designed to show the tributes how to produce electricity out of something as mundane as a potato. Haymitch was attacked by <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> who was quickly tasered and dragged away.
+</p>
+<h4><span class="mw-headline" id="Interviews"><a href="/wiki/Interviews" title="Interviews">Interviews</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span><b>Caesar</b>: <i>"So, Haymitch, what do you think of the Games having one hundred percent more competitors than usual?"</i><br /><b>Haymitch</b>: <i>"I don't see that it makes much difference. They'll still be one hundred percent as stupid as usual, so I figure my odds will be roughly the same."</i></span></dd>
+<dd>&#8212;<i>Catching Fire</i>, Chapter 14</dd></dl>
+</div>
+<p>This year, <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> wore his usual twinkling midnight blue suit, though he had dark green hair and his eyelids and lips were done up to match. In his interview, Haymitch came across as snarky, arrogant, and indifferent.<sup id="cite_ref-CF_14_4-5" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> Since there were twice as many tributes, each tribute was only allowed 2 minutes per interview with a minute long "palate cleanser" after every four districts. 
+</p>
+<h3><span class="mw-headline" id="Arena_wear">Arena wear</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The arena wear consists of a white cloak with district coloured outlines, white combat boots, and layered, form-fitting tactical wear.
+</p>
+<hr />
+<h3><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Day_1">Day 1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Most tributes were distracted by the beauty of the arena when the gong sounded, so Haymitch was able to get a backpack and weapons from the Cornucopia and head into the woods before most of his competitors even left their plates. Maysilee Donner came away from the Cornucopia with a small backpack, which contained a bowl, some dried beef, and a blowgun with twenty-four darts.<sup id="cite_ref-CF_14_4-6" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In total, 18 of the 48 tributes were killed in the <a href="/wiki/Bloodbath" class="mw-redirect" title="Bloodbath">bloodbath</a>, and an <a href="/wiki/Alliance" title="Alliance">alliance</a> of 12 Career Tributes claimed the Cornucopia's remaining supplies. This included the only safe food and drink in the arena.<sup id="cite_ref-CF_14_4-7" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> Six of the tributes were killed by <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> who had retrieved a sword.<sup id="cite_ref-SR17_7-0" class="reference"><a href="#cite_note-SR17-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> The only Careers to die were a boy and girl from District 5 and the other 16 were all Newcomers.<sup id="cite_ref-SOTR25_8-0" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p><a href="/wiki/Carat" title="Carat">Carat</a> and <a href="/wiki/Urchin" title="Urchin">Urchin</a> died of the arena's <a href="/wiki/Poison" title="Poison">poisons</a> while the Careers formed their pack on the arena's snowcapped mountain.<sup id="cite_ref-SOTR25_8-1" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> Haymitch nearly fell victim to the poison as well, but realized its existence after spotting a rabbit dying from drinking from a stream. Haymitch was able to treat the poison with charcoal tablets from his backpack, although it left him weak and sick through the night.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-SOTR16_10-0" class="reference"><a href="#cite_note-SOTR16-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 20 - 16 Newcomers, 4 Careers
+<ul><li><a href="/wiki/Carat" title="Carat">Carat</a></li>
+<li><a href="/wiki/Urchin" title="Urchin">Urchin</a></li>
+<li><a href="/wiki/Hychel" title="Hychel">Hychel</a>, <a href="/wiki/Fisser" title="Fisser">Fisser</a>, <a href="/wiki/Anion" title="Anion">Anion</a> or <a href="/wiki/Potena" title="Potena">Potena</a></li>
+<li><a href="/wiki/Miles" title="Miles">Miles</a></li>
+<li><a href="/wiki/Velo" title="Velo">Velo</a></li>
+<li><a href="/wiki/Bircher" title="Bircher">Bircher</a></li>
+<li><a href="/wiki/Heartwood" title="Heartwood">Heartwood</a></li>
+<li><a href="/wiki/Wefton" title="Wefton">Wefton</a></li>
+<li><a href="/wiki/Notion" title="Notion">Notion</a></li>
+<li><a href="/wiki/Ripman" title="Ripman">Ripman</a></li>
+<li><a href="/wiki/Alawna" title="Alawna">Alawna</a></li>
+<li><a href="/wiki/Ryan" title="Ryan">Ryan</a></li>
+<li><a href="/wiki/Clayton" title="Clayton">Clayton</a></li>
+<li><a href="/wiki/Kerna" title="Kerna">Kerna</a></li>
+<li><a href="/wiki/Midge" title="Midge">Midge</a></li>
+<li><a href="/wiki/Lannie" title="Lannie">Lannie</a></li>
+<li><a href="/wiki/Peeler" title="Peeler">Peeler</a></li>
+<li><a href="/wiki/Tile" title="Tile">Tile</a></li>
+<li><a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a></li></ul></li></ul>
+<h4><span class="mw-headline" id="Day_2">Day 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The Careers scoured the mountain area for potential victims.<sup id="cite_ref-CF_14_4-8" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-SR17_7-1" class="reference"><a href="#cite_note-SR17-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> was able to use the arena's poisons to turn her blowgun's darts into deadly weapons.<sup id="cite_ref-CF_14_4-9" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> During this day, Maysilee killed <a href="/wiki/Loupe" title="Loupe">Loupe</a> from District 1 on her own after he broke from the Career pack with <a href="/wiki/Camilla" title="Camilla">Camilla</a> from District 2. Although Maysilee may have hit Camilla with a poison dart as well, she survived.<sup id="cite_ref-SOTR20_11-0" class="reference"><a href="#cite_note-SOTR20-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-SOTR25_8-2" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> While several Newcomers were poisoned, <a href="/wiki/Wellie" title="Wellie">Wellie</a> figured it out fast and <a href="/wiki/Hull" title="Hull">Hull</a>'s backpack contained a big bottle of the syrup antidote, meaning that those who were poisoned survived.<sup id="cite_ref-SR17_7-2" class="reference"><a href="#cite_note-SR17-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>On Day 2, Haymitch shared some of an apple with a rabbit that he encountered. Haymitch was later found by <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a> who lacked any pack or supplies of her own. Lou Lou suggested that she was ordered to find Haymitch by the Gamemakers through her earpiece. Haymitch was able to find a quartz rock to use with his <a href="/wiki/Flint_striker" title="Flint striker">flint striker</a> to build a fire while Lou Lou fell asleep, either exhausted or drugged by the Gamemakers through her pump. Loupe died during this time and when Lou Lou woke up, Haymitch searched the berms for a mutt portal. However, Lou Lou was drawn to bee balm plants which, like everything else in the arena, were poisonous. To end her suffering, Haymitch yanked out Lou Lou's pump.<sup id="cite_ref-SOTR16_10-1" class="reference"><a href="#cite_note-SOTR16-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> Rather than let the <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a> take her body, Haymitch fled with it, causing the Gamemakers to send butterfly <a href="/wiki/Muttation" title="Muttation">muttations</a> to force Haymitch to let them take her. Hundreds of the butterflies attacked and chased Haymitch until he fell into a berm of gas plants. Haymitch ignited the gas, incinerating most of the butterflies while his clothing protected him from harm. The few survivors then left Haymitch alone. Armed with a makeshift torch, Haymitch followed the butterflies back to their portal under the guise of retaliation and wedged it partially open with a branch.<sup id="cite_ref-SR17_7-3" class="reference"><a href="#cite_note-SR17-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 2 - 1 Career, 1 Newcomer
+<ul><li><a href="/wiki/Loupe" title="Loupe">Loupe</a></li>
+<li><a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a></li></ul></li></ul>
+<h4><span class="mw-headline" id="Day_3">Day 3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On the morning of Day 3, Haymitch received a gift of bread rolls and grape juice. Worn out from the first two days of the Games, Haymitch waited throughout the morning for <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> to arrive with his fuse and two of the District 9 <a href="/wiki/Sunflower_bomb" title="Sunflower bomb">sunflower bombs</a> before moving to higher ground and using binoculars to survey the arena. After spotting Ampert, Haymitch rendezvoused with him. As a cover, Ampert acted like he had been sent by the Newcomers to bring Haymitch back while Haymitch claimed that his low score made him too dangerous to be around, using Lou Lou as an example. Haymitch exchanged food for an update and Ampert reported that the Newcomers had lost seventeen people now, were separated from <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>, and were sticking together on the mountain where the Careers were hunting them.<sup id="cite_ref-SR17_7-4" class="reference"><a href="#cite_note-SR17-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Under the guise of a tour in the hopes of finding a safer place for the Newcomers, Haymitch led Ampert to the berm with the wedged open mutt portal where they rest until nightfall.<sup id="cite_ref-SR17_7-5" class="reference"><a href="#cite_note-SR17-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> The two agreed to let Ampert stay rather than returning to the Newcomers in the dark and he removed his token with the fuse and the sunflower bombs under the guise of using it as a snare to catch something to eat. Ampert gave the spare bomb to Haymitch and when the anthem played, it was revealed that no tributes had died during the day's events.<sup id="cite_ref-SOTR18_12-0" class="reference"><a href="#cite_note-SOTR18-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Deaths: N/A
+</p>
+<h4><span class="mw-headline" id="Day_4">Day 4</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Around midnight on the fourth day, Haymitch and Amper put their plan into motion, preparing the explosive and using Haymitch's spear to pry open the mutt portal. Haymitch descended alone into Sub-A and planted the bomb on the water tank with a 60 second fuse, but was attacked by bat muttations on his way out. Haymitch struggled to hold them off with a torch as he climbed out, but ran out of time and used his belt to secure himself to the ladder. Thanks to having secured himself, Haymitch survived the explosion and the subsequent flood of non-poisonous water while the mutts presumably drowned. On the surface, Haymitch discovered that the Gamemakers had retaliated by sending golden squirrel mutts to kill Ampert. Although Haymitch tried to save his friend, the mutts were programmed to target only Ampert and ignored him, quickly devouring the boy and leaving behind only a skeleton that was stripped clean to the bone.<sup id="cite_ref-SOTR18_12-1" class="reference"><a href="#cite_note-SOTR18-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>As Haymitch went into a rage, hacking apart the area with his axe, the arena began to malfunction from the damage, with the mutt portals opening and closing, the animals acting strange, an apple tree became a fountain of blue sparks, and clouds of steam rose from a nearby stream. The arena's sky lost power, revealing the real night sky behind it. However, the Gamemakers quickly got most of the arena's malfunctions under control.<sup id="cite_ref-SOTR18_12-2" class="reference"><a href="#cite_note-SOTR18-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>After the Gamemakers got the arena mostly back under control, they caused the snowcapped mountain -- in reality an artificial volcano -- to erupt.<sup id="cite_ref-SOTR18_12-3" class="reference"><a href="#cite_note-SOTR18-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup> Haymitch's clothing protected him from the toxic cloud and heated particles in the air and he took cover at the base of a tree, far enough away from the eruption to avoid the worst of the effects. Haymitch wondered if the water tank had been meant to quench the aftermath of the eruption and was concerned that in destroying it, he had destroyed any hope for those who survived the eruption.<sup id="cite_ref-SOTR19_13-0" class="reference"><a href="#cite_note-SOTR19-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> Twelve tributes -- six Careers and six Newcomers -- who were still on the mountain were killed, falling victim to the flame-shooting eruption, asphyxiation by the ash cloud and burns from the chemical lava. The survivors barely escaped, heading across the meadow into the woods.<sup id="cite_ref-SOTR20_11-1" class="reference"><a href="#cite_note-SOTR20-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-SOTR25_8-3" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> In keeping with the arena's design, the ash was clear and sparkling so that everything appeared to be covered in a layer of rock candy.<sup id="cite_ref-SOTR19_13-1" class="reference"><a href="#cite_note-SOTR19-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> The lava flows made half the arena inaccessible, driving the remaining tributes into the woods.<sup id="cite_ref-CF_14_4-10" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> The lava was actually some kind of gel that gave you chemical burns if it got under your clothes and then turned hard and slippery as ice on the ground.<sup id="cite_ref-SOTR20_11-2" class="reference"><a href="#cite_note-SOTR20-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> The clothes of the tributes were designed to be fireproof and to provide protection against the toxic wind generated by the eruption, although they were unlikely to be of much help to those caught on the mountain itself.<sup id="cite_ref-SOTR19_13-2" class="reference"><a href="#cite_note-SOTR19-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Haymitch spent the next several hours in a stupor, overwhelmed by recent events. After daylight finally started shining through again, Haymitch realized that a humming noise that he kept hearing was the generator just outside of the arena's top end and deduced that despite whatever disruption the flood had caused to the arena's energy supply, the generator was keeping the arena running. While the brain was damaged, enough of it was still functioning to entertain the audience. Remembering something that <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> had told him, Haymitch decided not to give up and instead to try to help his remaining allies in some way. Returning to the butterfly bush berm, Haymitch found signs of damage from the malfunctions, but they had been brought under control by this point. Haymitch was able to recover his supplies, although his spear was gone, so Haymitch replaced it with Ampert's axe.<sup id="cite_ref-SOTR19_13-3" class="reference"><a href="#cite_note-SOTR19-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Haymitch decided that his next step would be to head north and try to break out of the arena to reach and sabotage the generator in an effort to bring an end to the Games. During his trek, it began to rain which allowed Haymitch to collect a bit of water for his water jugs. The rain also cleaned the forest of the ash from the eruption. At the end of the forest, Haymitch found a massive hedge and followed a narrow path that he'd found through it, only to discover that the hedge itself served as a maze. A panicking Haymitch became hopelessly lost in the maze, but eventually encountered a rabbit, possibly the same one that he had shared an apple with, and it led him out.<sup id="cite_ref-SOTR19_13-4" class="reference"><a href="#cite_note-SOTR19-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>As soon as Haymitch emerged, he was ambushed by <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a>, <a href="/wiki/Barba" title="Barba">Barba</a> and <a href="/wiki/Angler" title="Angler">Angler</a>. Acting on reflex, Haymitch managed to clumsily deflect Barba's trident and stab her in the gut, mortally wounding her, before hamstringing Angler and cleaving open the Career's neck open with his axe. Haymitch was easily disarmed by the much bigger and better armed Panache and futilely attempted to talk him down. However, <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> saved Haymitch, killing Panache with a poison dart to the throat from her blowgun. The two District 12 tributes agreed to an alliance and Maysilee took Barba's knife, but Haymitch declined to take Barba's trident or Panache's sword, unfamiliar with the trident and creeped out by claiming the sword that was stained with the blood of Newcomers. Haymitch wasn't Panache's heir, the new leader of the pack, and he refused to present himself as such.<sup id="cite_ref-SOTR19_13-5" class="reference"><a href="#cite_note-SOTR19-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-SOTR20_11-3" class="reference"><a href="#cite_note-SOTR20-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Once the hovercraft took the bodies, Maysilee used a first aid kit that she took from <a href="/wiki/Loupe" title="Loupe">Loupe</a> to treat Haymitch's wounds and they shared their provisions with each other. When the anthem played, the two discovered that 16 tributes had been killed that day, leaving only <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> and <a href="/wiki/Maritte" title="Maritte">Maritte</a> of the Careers and Haymitch, Maysilee, <a href="/wiki/Hull" title="Hull">Hull</a>, <a href="/wiki/Chicory" title="Chicory">Chicory</a>, <a href="/wiki/Ringina" title="Ringina">Ringina</a>, <a href="/wiki/Autumn" title="Autumn">Autumn</a>, <a href="/wiki/Wellie" title="Wellie">Wellie</a> and <a href="/wiki/Buck" title="Buck">Buck</a> of the Newcomers. Haymitch and Maysilee then received a sponsor gift of bean and ham hock soup that they shared. The two decided to declare themselves as family, built a fire, and slept, trading with each other on watch.<sup id="cite_ref-SOTR20_11-4" class="reference"><a href="#cite_note-SOTR20-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 16 - 9 Careers, 7 Newcomers
+<ul><li><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a></li>
+<li><a href="/wiki/Alpheus" title="Alpheus">Alpheus</a></li>
+<li><a href="/wiki/Camilla" title="Camilla">Camilla</a></li>
+<li><a href="/wiki/Janus" title="Janus">Janus</a></li>
+<li><a href="/wiki/Nona" title="Nona">Nona</a></li>
+<li><a href="/wiki/Ampert_Latier" title="Ampert Latier">Ampert Latier</a></li>
+<li><a href="/wiki/Dio" title="Dio">Dio</a></li>
+<li><a href="/wiki/Lect" title="Lect">Lect</a></li>
+<li><a href="/wiki/Coil" title="Coil">Coil</a></li>
+<li><a href="/wiki/Barba" title="Barba">Barba</a></li>
+<li><a href="/wiki/Angler" title="Angler">Angler</a></li>
+<li><a href="/wiki/Hychel" title="Hychel">Hychel</a>, <a href="/wiki/Fisser" title="Fisser">Fisser</a>, <a href="/wiki/Anion" title="Anion">Anion</a> or <a href="/wiki/Potena" title="Potena">Potena</a></li>
+<li><a href="/wiki/Atread" title="Atread">Atread</a></li>
+<li><a href="/wiki/Stamp" title="Stamp">Stamp</a></li>
+<li><a href="/wiki/Blossom" title="Blossom">Blossom</a></li></ul></li></ul>
+<h4><span class="mw-headline" id="Day_5">Day 5</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On the fifth morning, Haymitch decided to refocus on his plan to get through the hedge and find the generator and he and Maysilee created a funnel to catch any more rainwater. While Maysilee wanted to head for the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> in search of any remaining food and the other Newcomers, Haymitch argued for heading north, although he was unable to explain his reasoning why without the Gamemakers overhearing. At Maysilee's suggestion, the two searched the area where the fight had taken place and located Panache, Barba and Angler's backpacks and found another hammock, two empty water jugs, three handkerchiefs, a bottle of poison antidote, a second tarp and a blowtorch. The food supplies were limited to a flat tin of sardines, a banana with brown spots, four rolls, a jar of nut butter with about an inch left, Haymitch's two potatoes and Maysilee's three dried beef jerky strips and olives. Maysilee used part of the food to make them sandwiches for breakfast.<sup id="cite_ref-SOTR20_11-5" class="reference"><a href="#cite_note-SOTR20-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The two set out to find the hedge with Maysilee restocking her poison along the way. As the two traveled, encountering no one and nothing else, they sometimes passed casualties of the flooding such as trees that dripped blood instead of sap, a gaping hole where something had exploded, leaving a slimy clear liquid covering everything in its vicinity and a stump that belched sulphureous, glowing gas. Finally reaching the hedge, Haymitch explained that his plan was to cut straight through it, but as they began cutting through, the two tributes were attacked by ladybug mutts that were disguised as the holly berries of the arena's hedge. When Haymitch and Maysilee tried to cut through, the ladybugs revealed themselves, latched on to their flesh, inflated to the size of acorns and began exploding, splattering the tributes' faces with blood.<sup id="cite_ref-SOTR20_11-6" class="reference"><a href="#cite_note-SOTR20-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> Fleeing from the hedge, Haymitch and Maysilee began plucking the ladybugs out, but the suckers were dug in deep, akin to those on a really determined tick. Gripping near the head and pulling slowly and firmly caused them to pop out in a spray of blood. After clearing himself of the bugs, Haymitch helped Maysilee and the two realized that the Gamemakers were preventing them from going into the hedge.<sup id="cite_ref-SOTR21_14-0" class="reference"><a href="#cite_note-SOTR21-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The two spent time recovering from the mutt attack and realized that Haymitch's plan was unsustainable. A rainstorm lasting about 20 minutes gave Haymitch and Maysilee the chance to refill their water jugs and clean off. During this time,<sup id="cite_ref-SOTR21_14-1" class="reference"><a href="#cite_note-SOTR21-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Ringina" title="Ringina">Ringina</a> and <a href="/wiki/Autumn" title="Autumn">Autumn</a> were killed by <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> and <a href="/wiki/Maritte" title="Maritte">Maritte</a> in combat,<sup id="cite_ref-SOTR25_8-4" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> leaving Haymitch and Maysilee to wonder what would happen to the Newcomers alliance if the two dead tributes were Silka and Maritte.<sup id="cite_ref-SOTR21_14-2" class="reference"><a href="#cite_note-SOTR21-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>With no better ideas, the two headed for the Cornucopia in search of food, picking up what at first sounds like a baby, but on closer examination, was the squeals and mewls of an animal like a goat or a kitten. Hearing a scream from <a href="/wiki/Hull" title="Hull">Hull</a> or <a href="/wiki/Buck" title="Buck">Buck</a>, Haymitch and Maysilee ran off to help, finding Buck and <a href="/wiki/Chicory" title="Chicory">Chicory</a> with long metallic poisonous quills resembling knitting needles protruding from their flesh shot by a bear sized porcupine mutt. Despite having half a dozen quills in his face, Hull attacked the mutt with a pitchfork in a desperate attempt to save his allies. As Haymitch and Maysilee worked out a plan, the mutt drove a slew more quills into Hull's thigh, causing him to collapse. Haymitch successfully threw his axe into the porcupine's side, causing it to shoot quills at them. The double tarp held up by Maysilee blocked a dozen of them, but one got Haymitch in the nose, another nearly blinded him and a third got Maysilee in the cheek. The mutt went into a meltdown from the attack with the two tributes having to dodge another round of quills and one of the Newcomers died of the <a href="/wiki/Poison" title="Poison">poison</a>. Finally, Haymitch hit upon the idea to use Maysilee's olives to try to lure the porcupine away and succeeded in tricking it into leaving. By this point, Buck and Chicory were already dead and Hull died despite Haymitch and Maysilee's attempts to remove the quills and give him the antidote.<sup id="cite_ref-SOTR21_14-3" class="reference"><a href="#cite_note-SOTR21-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The two took the antidote to deal with the poison that they had received from the quills, shut the dead tributes' eyes and tried to arrange their bodies better before taking their own supplies and those of the dead tributes and leaving. Maysilee declared that one of them had to win the Games so that they could tear up the Capitol's scripts, tear down their celebrations, set fire to the <a href="/wiki/Victors%27_Village" title="Victors&#39; Village">Victors' Village</a> and refuse to play their game. Settling in for the night, Haymitch and Maysilee learned that they, Silka, Maritte and Wellie were the only ones left alive now and decided to find Wellie the next day. As he fell asleep, Haymitch figured out how to get through the maze.<sup id="cite_ref-SOTR21_14-4" class="reference"><a href="#cite_note-SOTR21-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 5 - 5 Newcomers
+<ul><li><a href="/wiki/Ringina" title="Ringina">Ringina</a></li>
+<li><a href="/wiki/Autumn" title="Autumn">Autumn</a></li>
+<li><a href="/wiki/Buck" title="Buck">Buck</a></li>
+<li><a href="/wiki/Chicory" title="Chicory">Chicory</a></li>
+<li><a href="/wiki/Hull" title="Hull">Hull</a></li></ul></li></ul>
+<h4><span class="mw-headline" id="Day_6">Day 6</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>By the time that Haymitch awoke on Day 6, he and Maysilee had received another sponsor gift in the form of breakfast. Under the guise of looking for <a href="/wiki/Wellie" title="Wellie">Wellie</a>, Haymitch led them to the north which Maysilee argued as the little girl was more likely to head for the meadow. Unable to explain his actual reasoning, Haymitch argued that it couldn't go on forever, the arena had to end somewhere, and there had to be something that they could use, potentially even weaponizing the ladybugs for themselves. Maysilee finally, reluctantly, agreed to Haymitch's plan.<sup id="cite_ref-SOTR22_15-0" class="reference"><a href="#cite_note-SOTR22-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>On the way, Haymitch and Maysilee were ambushed by <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> and <a href="/wiki/Maritte" title="Maritte">Maritte</a> and fled towards an electrical hum coming from an as of yet unexplored area to the west. The four tributes ended up falling into an area where three Gamemakers were cleaning up an open berm covered in scarlet poppies, leading to a confrontation. As the Gamemakers made a break for Sub-A, Maritte killed one with her trident, Maysilee killed a second with her blowgun and the third fell headfirst through the berm to her death. Before the tributes could resume their fight, a hovercraft attacked with tear gas bombs, sending them fleeing. Only able to follow one group of tributes, the hovercraft chased after the Careers, allowing the two Newcomers to escape. As they recovered, Maysilee was furious that Haymitch froze when confronted with the Gamemakers, but calmed down.<sup id="cite_ref-SOTR22_15-1" class="reference"><a href="#cite_note-SOTR22-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Returning to the hedge, Haymitch used the blowtorch from one of the dead Careers' backpacks to burn through it while Maysilee used a makeshift torch to burn the ladybugs as they tried to attack, the two tributes singing as they did. As the blowtorch ran out of fuel, Haymitch and Maysilee finally made it through the hedge to find themselves on a sheer cliff overlooking a canyon containing the arena's generator.<sup id="cite_ref-SOTR22_15-2" class="reference"><a href="#cite_note-SOTR22-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>During this time, Maritte was attacked and killed by the same golden squirrel mutts that had killed <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> in retaliation for her murder of a Gamemaker.<sup id="cite_ref-SOTR25_8-5" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>With only five tributes remaining, Maysilee broke off the alliance when Haymitch refused to go back,<sup id="cite_ref-CF_14_4-11" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> but changed her mind moments later when a cannon fired signaling the death of Maritte. Unsure of what to do, Maysilee decided to retrieve their potatoes and then weigh their options together.<sup id="cite_ref-SOTR23_16-0" class="reference"><a href="#cite_note-SOTR23-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup> Once Maysilee left, Haymitch kicked a pebble off the cliff into the <a href="/wiki/Force_field" title="Force field">force field</a> over the generator. Surprised to see the pebble bounce back, he threw a larger rock and watched it do the same. However, even if Haymitch dropped a boulder off of the cliff, he wouldn't be able to touch it. Haymitch laughed at his terrible luck, but he was cut off by the sound of Maysilee screaming.<sup id="cite_ref-CF_14_4-12" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-SOTR23_16-1" class="reference"><a href="#cite_note-SOTR23-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>By the time he reached her, Maysilee was under attack by candy pink birds who were programmed to target Maysilee alone in a very personal punishment, just like the squirrels had with Ampert. As a result, the birds ignored Haymitch completely as he tried to defend his friend, and one skewered her throat with its beak before being killed by Haymitch. With Maysilee mortally wounded, the mutts cleared out and all that he could do was hold her hand as she died. Haymitch chose not to clean her up so as to make things harder for the people in the Capitol and took Maysilee's blowgun and her copper necklace with the flower as a reminder of her strength.<sup id="cite_ref-SOTR23_16-2" class="reference"><a href="#cite_note-SOTR23-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Stricken, Haymitch sat against a tree in shock as Maysilee's body was retrieved by a hovercraft and placed Maysilee's token alongside District 9's sunflower, <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>'s scrip coin and his flint striker from <a href="/wiki/Lenore_Dove" class="mw-redirect" title="Lenore Dove">Lenore Dove</a>. Having only taken the blowgun itself and not the pouch and poison vial, Haymitch was left with only the poison dart that the blowgun was loaded with. Haymitch was then sent the gift of strawberry ice cream and black coffee, presumably <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a>'s attempt to get Haymitch to stay positive by reminding him of Maysilee's sass.<sup id="cite_ref-SOTR23_16-3" class="reference"><a href="#cite_note-SOTR23-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>As night fell and with only two other tributes left, Haymitch decided to track down Wellie who would make a far better, far smarter and far more convincing victor to represent district rights than he would. Haymitch found <a href="/wiki/Wellie" title="Wellie">Wellie</a> and tended to the young girl, spending the night in a tree. Following a rainstorm, the two received a gift of vanilla pudding and chocolate for Wellie. In a strange moment of unity, Silka joined them at the base of the tree, simply huddling there and crying rather than trying to hunt the other two tributes and Haymitch dropped Silka some of the chocolate.<sup id="cite_ref-SOTR23_16-4" class="reference"><a href="#cite_note-SOTR23-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 2 - 1 Career, 1 Newcomer
+<ul><li><a href="/wiki/Maritte" title="Maritte">Maritte</a> - District 4</li>
+<li><a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> - District 12</li></ul></li></ul>
+<h4><span class="mw-headline" id="Day_7">Day 7</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The next morning, Silka was gone and Haymitch realized that the copper wire of Maysilee's token was actually a backup fuse for the sunflower bombs. Haymitch decided to target the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a>, staging a showdown with Silka and killing them both in the explosion to leave Wellie as the victor. If Haymitch survived, Snow was sure to have the Gamemakers kill him instead which would also leave Wellie as the victor. Using a tarp as cover, Haymitch unwound the fuse from Maysilee's token, but the scared and emaciated little girl begged him not to abandon her. Haymitch left Wellie with Maysilee's blowgun and hid her to gather things for a fire.<sup id="cite_ref-SOTR24_17-0" class="reference"><a href="#cite_note-SOTR24-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>As Haymitch searched, he received a pitcher of milk from the Capitol which Haymitch suspected was one of two things: a genuine gift from <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> or poison sent by Snow which Haymitch believed to be the more likely option. Due to it being publicly broadcast, Haymitch was forced into a position where he had to either give it to Wellie or drink it himself, but either way, the Newcomers wouldn't be allowed to win. However, before Haymitch could drink, Silka found and decapitated Wellie who managed to shoot her with the blowgun in return, but the dart was blocked by Silka's clothes.<sup id="cite_ref-SOTR24_17-1" class="reference"><a href="#cite_note-SOTR24-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Haymitch and Silka engaged in an <a href="/wiki/Weapons#Axe" title="Weapons">axe</a> to axe fight in which they were both fairly evenly matched. Eventually, Silka managed to slice open Haymitch's abdomen and disarm him while Haymitch stabbed out her eye with his knife. Haymitch fled, holding his intestines in while he fled.<sup id="cite_ref-SOTR24_17-2" class="reference"><a href="#cite_note-SOTR24-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Silka chased Haymitch to the cliff and threw her axe, but Haymitch collapsed on the ground, dodging the attack. Due to the severity of his wounds, she thought she could outlast him even without her weapon, but Haymitch knew the axe would be flung back by the force field and lodge itself in her head.<sup id="cite_ref-CF_14_4-13" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> However, Silka wasn't instantly killed, giving Haymitch the chance to use his sunflower bomb. Silka finally died as Haymitch prepared to throw the bomb off of the cliff at the arena's generator which was being protected by the force field. Despite the Gamemakers' frantic attempts to stop him, Haymitch successfully threw the bomb, causing a massive explosion that presumably destroyed the generator.<sup id="cite_ref-SOTR24_17-3" class="reference"><a href="#cite_note-SOTR24-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> It also caused an earthquake that literally and figuratively shook the Capitol.<sup id="cite_ref-SOTR27_18-0" class="reference"><a href="#cite_note-SOTR27-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Deaths: 2 - 1 Career, 1 Newcomer
+<ul><li><a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> - District 1</li>
+<li><a href="/wiki/Wellie" title="Wellie">Wellie</a> - District 6</li></ul></li></ul>
+<hr />
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Edited_footage">Edited footage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D18&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Because of the rebellious actions of the Newcomers, the footage of the 50th Hunger Games was heavily edited starting with the reaping of the District 12 tributes and continuing with the <a href="/wiki/Chariot_rides" title="Chariot rides">Chariot rides</a>. In the interviews, the Careers were made to look more intelligent and the Newcomers less unified with <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a> reduced to a girl wearing reptile fashion, <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> and <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>'s memorable turns completely ignored and Haymitch was reduced to one snarky exchange with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> that made him appear to be a stuck-up, selfish jerk.<sup id="cite_ref-SOTR25_8-6" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The recap of Day 1 was fairly accurate, but things got changed around on Day 2. While it accurately showed Maysilee killing <a href="/wiki/Loupe" title="Loupe">Loupe</a> on her own and the Careers hunting the Newcomers while the tributes were recovering from the arena's poisons, Haymitch's story was twisted around so that he fought the squirrels on Day 2 with no sign of Ampert even though the squirrels weren't there until Day 3 when they killed Ampert, thus making it look like Haymitch was only trying to save himself. <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>'s death was shown, but with Haymitch edited out. While Haymitch was shown fleeing from the butterflies, Lou Lou's body was removed so that he was no longer shown carrying it as he ran. As such, the Capitol made it seem like Haymitch had abandoned all of his allies.<sup id="cite_ref-SOTR25_8-7" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>For Day 3, the squirrels were made to magically reappear to kill Ampert with no sign of Haymitch. Haymitch's entire alliance with Ampert, their bombing of the tank and the arena going haywire were removed as well. Following the volcanic eruption, the footage made it seem like Haymitch's entire agenda was simply to reach the end of the arena. After Haymitch and Maysilee's alliance, things were on course again until the footage was once again edited to remove Maritte and Maysilee killing three Gamemakers and Haymitch and Maysilee drawing off the porcupine mutt. Instead, Silka and Maritte were shown chasing them through the woods while Buck, Chicory and Hull died from the quills, the porcupine just seeming to wander off on its own.<sup id="cite_ref-SOTR25_8-8" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>For Day 4 or 5, the attempts by Haymitch and Maysilee to carve through the hedge were edited into one big sequence involving the ladybugs and the blowtorch and the footage steered clear of showing the generator. The cannon announcing Maritte's death was edited out and it was made to look like Maysilee really ended her alliance with Haymitch, but his discovery of the <a href="/wiki/Force_field" title="Force field">force field</a> was kept in. For Maysilee's death, they once again made Haymitch look selfish rather than trying to help his friend.<sup id="cite_ref-SOTR25_8-9" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>For the final sequence of events, made to seem like Day 5 or 6, Snow's delivery of the poisoned milk was removed, and the sound of Wellie screaming was added which didn't happen in reality, making it appear as if Haymitch had finally remembered he belonged to a wider alliance and went to her rescue. It was then made to appear as if Maritte died next rather than her being already long dead. Haymitch and Silka's final confrontation was kept fairly accurate, but the ending was edited to make it appear as if Silka was instantly killed by her rebounding axe and the 50th Hunger Games ended there.<sup id="cite_ref-SOTR25_8-10" class="reference"><a href="#cite_note-SOTR25-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Twenty-five years later, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> watched this version of the 50th Hunger Games while they were preparing for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> with Haymitch as their mentor.<sup id="cite_ref-CF_14_4-14" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Retaliation">Retaliation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D19&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Haymitch's stunt with the force field made the Capitol look foolish. In retaliation, <a href="/wiki/Haymitch_Abernathy%27s_mother" class="mw-redirect" title="Haymitch Abernathy&#39;s mother">Haymitch's mother</a>, <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">younger brother</a>, and <a href="/wiki/Lenore_Dove" class="mw-redirect" title="Lenore Dove">girlfriend</a> were all killed in the two weeks after the Games.<sup id="cite_ref-MJ_12_19-0" class="reference"><a href="#cite_note-MJ_12-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> Upon Haymitch's return home, he found his house on fire with his mother and brother inside while Lenore Dove soon after fell victim to a poisoned sweet sent by Snow.<sup id="cite_ref-SOTR26_20-0" class="reference"><a href="#cite_note-SOTR26-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup> This caused Haymitch to push everyone away, sure that Snow would kill anyone that he loved.<sup id="cite_ref-SOTR27_18-1" class="reference"><a href="#cite_note-SOTR27-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup> Depressed by the loss of his family and forced to <a href="/wiki/Mentor" title="Mentor">mentor</a> year after year of doomed tributes, Haymitch developed an alcohol dependency and his life fell into disrepair.<sup id="cite_ref-THG_1_21-0" class="reference"><a href="#cite_note-THG_1-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Placing">Placing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D20&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>1st</b>: <a href="/wiki/District_12" title="District 12">District 12</a>: <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> - victor</li>
+<li><b>2nd</b>: <a href="/wiki/District_1" title="District 1">District 1</a>: <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> - killed by her axe when it rebounded after she threw it into the force field.</li>
+<li><b>3rd</b>: <a href="/wiki/District_6" title="District 6">District 6</a>: <a href="/wiki/Wellie" title="Wellie">Wellie</a> - decapitated by Silka. Later edited to appear to come in 4th.</li>
+<li><b>4th</b>: <a href="/wiki/District_12" title="District 12">District 12</a>: <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> - skewered through the neck by bird mutts. Later edited to appear to come in 5th.</li>
+<li><b>5th</b>: <a href="/wiki/District_4" title="District 4">District 4</a>: <a href="/wiki/Maritte" title="Maritte">Maritte</a> - killed by squirrel mutts. Later edited to appear to come in 3rd.</li>
+<li><b>6th</b>: <a href="/wiki/District_11" title="District 11">District 11</a>: <a href="/wiki/Hull" title="Hull">Hull</a> - poisoned by porcupine mutt.</li>
+<li><b>7th-8th</b> - poisoned by porcupine mutt.
+<ul><li><a href="/wiki/District_11" title="District 11">District 11</a>: <a href="/wiki/Chicory" title="Chicory">Chicory</a></li>
+<li><a href="/wiki/District_10" title="District 10">District 10</a>: <a href="/wiki/Buck" title="Buck">Buck</a></li></ul></li>
+<li><b>9th-10th</b> - killed by Silka and Maritte.
+<ul><li><a href="/wiki/District_7" title="District 7">District 7</a>: <a href="/wiki/Autumn" title="Autumn">Autumn</a> and <a href="/wiki/Ringina" title="Ringina">Ringina</a>.</li></ul></li>
+<li><b>11th</b>: <a href="/wiki/District_1" title="District 1">District 1</a>: <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> - killed by Maysilee with a poison dart.</li>
+<li><b>12th</b>: <a href="/wiki/District_4" title="District 4">District 4</a>: <a href="/wiki/Barba" title="Barba">Barba</a> - died after Haymitch stabbed her in the gut with his knife.</li>
+<li><b>13th</b>: <a href="/wiki/District_4" title="District 4">District 4</a>: <a href="/wiki/Angler" title="Angler">Angler</a> - killed by Haymitch with an axe.</li>
+<li><b>14th-25th</b> - killed by volcano.
+<ul><li><a href="/wiki/District_11" title="District 11">District 11</a>: <a href="/wiki/Blossom" title="Blossom">Blossom</a>.</li>
+<li><a href="/wiki/District_10" title="District 10">District 10</a>: <a href="/wiki/Stamp" title="Stamp">Stamp</a></li>
+<li><a href="/wiki/District_6" title="District 6">District 6</a>: <a href="/wiki/Atread" title="Atread">Atread</a>.</li>
+<li><a href="/wiki/District_5" title="District 5">District 5</a>: <a href="/wiki/Hychel" title="Hychel">Hychel</a> or <a href="/wiki/Fisser" title="Fisser">Fisser</a>, <a href="/wiki/Anion" title="Anion">Anion</a> or <a href="/wiki/Potena" title="Potena">Potena</a>.</li>
+<li><a href="/wiki/District_3" title="District 3">District 3</a>: <a href="/wiki/Dio" title="Dio">Dio</a>, <a href="/wiki/Lect" title="Lect">Lect</a> and <a href="/wiki/Coil" title="Coil">Coil</a>.</li>
+<li><a href="/wiki/District_2" title="District 2">District 2</a>: <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a>, <a href="/wiki/Camilla" title="Camilla">Camilla</a>, <a href="/wiki/Janus" title="Janus">Janus</a> and <a href="/wiki/Nona" title="Nona">Nona</a>.</li></ul></li>
+<li><b>26th</b>: <a href="/wiki/District_3" title="District 3">District 3</a>: <a href="/wiki/Ampert_Latier" title="Ampert Latier">Ampert Latier</a> - eaten by squirrel mutts.</li>
+<li><b>27th</b>: <a href="/wiki/District_12" title="District 12">District 12</a>: <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a> - poisoned by bee balm, mercy killed by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> (unplugged chest pump).</li>
+<li><b>28th</b>: <a href="/wiki/District_1" title="District 1">District 1</a>: <a href="/wiki/Loupe" title="Loupe">Loupe</a> - killed by Maysilee with a poison dart.</li>
+<li><b>29th-30th</b> - poisoned by the arena.
+<ul><li><a href="/wiki/District_4" title="District 4">District 4</a>: <a href="/wiki/Urchin" title="Urchin">Urchin</a>.</li>
+<li><a href="/wiki/District_1" title="District 1">District 1</a>: <a href="/wiki/Carat" title="Carat">Carat</a>.</li></ul></li>
+<li><b>31st-48th</b> (Day 1) - killed in the initial <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>. 1/3 killed by Panache Barker.
+<ul><li><a href="/wiki/District_12" title="District 12">District 12</a>: <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> – killed by Panache Barker trying to protect Lou Lou.</li>
+<li><a href="/wiki/District_11" title="District 11">District 11</a>: <a href="/wiki/Tile" title="Tile">Tile</a>.</li>
+<li><a href="/wiki/District_10" title="District 10">District 10</a>: <a href="/wiki/Lannie" title="Lannie">Lannie</a> and <a href="/wiki/Peeler" title="Peeler">Peeler</a>.</li>
+<li><a href="/wiki/District_9" title="District 9">District 9</a>: <a href="/wiki/Ryan" title="Ryan">Ryan</a>, <a href="/wiki/Kerna" title="Kerna">Kerna</a>, <a href="/wiki/Clayton" title="Clayton">Clayton</a> and <a href="/wiki/Midge" title="Midge">Midge</a>.</li>
+<li><a href="/wiki/District_8" title="District 8">District 8</a>: <a href="/wiki/Wefton" title="Wefton">Wefton</a>, <a href="/wiki/Notion" title="Notion">Notion</a>, <a href="/wiki/Ripman" title="Ripman">Ripman</a> and <a href="/wiki/Alawna" title="Alawna">Alawna</a>.</li>
+<li><a href="/wiki/District_7" title="District 7">District 7</a>: <a href="/wiki/Bircher" title="Bircher">Bircher</a> and <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a>.</li>
+<li><a href="/wiki/District_6" title="District 6">District 6</a>: <a href="/wiki/Miles" title="Miles">Miles</a> and <a href="/wiki/Velo" title="Velo">Velo</a>.</li>
+<li><a href="/wiki/District_5" title="District 5">District 5</a>: <a href="/wiki/Hychel" title="Hychel">Hychel</a> or <a href="/wiki/Fisser" title="Fisser">Fisser</a>, <a href="/wiki/Anion" title="Anion">Anion</a> or <a href="/wiki/Potena" title="Potena">Potena</a>.</li></ul></li>
+<li><b>49th</b>: <a href="/wiki/District_12" title="District 12">District 12</a>: <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> - fell from a chariot, causing a cracked skull at the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>.</li>
+<li><b>50th</b>: <a href="/wiki/District_12" title="District 12">District 12</a>: <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> - was shot by Peacekeepers at the reaping.</li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D21&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The Games started at 9 o'clock in the morning.</li>
+<li>The Games began on July 11th and ended on July 19th, as the reaping takes place on July 4th<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup> and is followed by a week of preparations in the capitol.</li>
+<li>Haymitch is the second District 12 victor,<sup id="cite_ref-THG_1_21-1" class="reference"><a href="#cite_note-THG_1-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup> the district's first male victor, and their first victor in forty years.<sup id="cite_ref-Ballad_20_23-0" class="reference"><a href="#cite_note-Ballad_20-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup> Haymitch is also the only victor from 12 who had to mentor tributes.</li>
+<li>Maysilee Donner was the only known District 12 tribute to make it to the final five who did not survive to become a victor. She was also one of only two known <a href="/wiki/Merchant" title="Merchant">merchant</a> tributes,<sup id="cite_ref-CF_14_4-15" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> the other being <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>.<sup id="cite_ref-THG_2_24-0" class="reference"><a href="#cite_note-THG_2-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>An entire chapter was dedicated to recounting the 50th Hunger Games in <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, when <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> watched an edited recap.<sup id="cite_ref-CF_14_4-16" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> This was not included in the <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">film adaptation</a>.<sup id="cite_ref-CF_film_25-0" class="reference"><a href="#cite_note-CF_film-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup> As revealed in <i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, this was the heavily edited version that the Capitol created rather than the actual sequence of events.</li>
+<li>In the second Quarter Quell, 18 out of 48 died in the bloodbath alone. This was the deadliest bloodbath in Hunger Games history.
+<ul><li>Despite this, it took four days for 75% to be killed because the number of tributes overall had been doubled. Nearly half the casualties were caused by <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a> traps.<sup id="cite_ref-CF_14_4-17" class="reference"><a href="#cite_note-CF_14-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>In the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">third Quarter Quell</a>, 18 out of 24 tributes (75%) died within three days, and most casualties were caused by other tributes.</li>
+<li>In a reversal of the 50th Hunger Games, the Cornucopia in the 75th Hunger Games only provided <a href="/wiki/Weapons" title="Weapons">weapons</a>, so food and water had to be acquired from the arena itself or through <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gifts</a>.<sup id="cite_ref-CF_19_26-0" class="reference"><a href="#cite_note-CF_19-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup></li></ul></li>
+<li>The footage of the 50th Hunger Games was heavily edited after the fact as seen in <i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>.</li>
+<li>This is the second Hunger Games where all the tributes are named.</li>
+<li>This is the only known games where a child of a former <a href="/wiki/Victor" title="Victor">victor</a> was reaped and participated as a tribute. However, Katniss says in the original trilogy that such a thing happens too often to be purely coincidental.</li>
+<li>Both the 50th and the 75th Hunger Games involved a plot by the <a href="/wiki/Rebels" title="Rebels">rebels</a> to destroy the arena and disrupt the Games.
+<ul><li>Both Games and plots involved <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>, <a href="/wiki/Wiress" title="Wiress">Wiress</a>, <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> and <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>.</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F50th_Hunger_Games%3Fveaction%3Dedit%26section%3D22&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://apnews.com/article/hunger-games-suzanne-collins-sunrise-reaping-b30163b4707f4db55eb68513f197affc">Associated Press - A new ‘Hunger Games’ book — and movie — is coming</a>.&#32;Retrieved on June 6, 2024.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 12</span>
+</li>
+<li id="cite_note-CF_14-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_14_4-0">4.00</a></sup> <sup><a href="#cite_ref-CF_14_4-1">4.01</a></sup> <sup><a href="#cite_ref-CF_14_4-2">4.02</a></sup> <sup><a href="#cite_ref-CF_14_4-3">4.03</a></sup> <sup><a href="#cite_ref-CF_14_4-4">4.04</a></sup> <sup><a href="#cite_ref-CF_14_4-5">4.05</a></sup> <sup><a href="#cite_ref-CF_14_4-6">4.06</a></sup> <sup><a href="#cite_ref-CF_14_4-7">4.07</a></sup> <sup><a href="#cite_ref-CF_14_4-8">4.08</a></sup> <sup><a href="#cite_ref-CF_14_4-9">4.09</a></sup> <sup><a href="#cite_ref-CF_14_4-10">4.10</a></sup> <sup><a href="#cite_ref-CF_14_4-11">4.11</a></sup> <sup><a href="#cite_ref-CF_14_4-12">4.12</a></sup> <sup><a href="#cite_ref-CF_14_4-13">4.13</a></sup> <sup><a href="#cite_ref-CF_14_4-14">4.14</a></sup> <sup><a href="#cite_ref-CF_14_4-15">4.15</a></sup> <sup><a href="#cite_ref-CF_14_4-16">4.16</a></sup> <sup><a href="#cite_ref-CF_14_4-17">4.17</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 14</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>, page 83-84</i></span>
+</li>
+<li id="cite_note-SR1-6"><span class="mw-cite-backlink"><a href="#cite_ref-SR1_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>, Chapter 1</i></span>
+</li>
+<li id="cite_note-SR17-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR17_7-0">7.0</a></sup> <sup><a href="#cite_ref-SR17_7-1">7.1</a></sup> <sup><a href="#cite_ref-SR17_7-2">7.2</a></sup> <sup><a href="#cite_ref-SR17_7-3">7.3</a></sup> <sup><a href="#cite_ref-SR17_7-4">7.4</a></sup> <sup><a href="#cite_ref-SR17_7-5">7.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-SOTR25-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR25_8-0">8.00</a></sup> <sup><a href="#cite_ref-SOTR25_8-1">8.01</a></sup> <sup><a href="#cite_ref-SOTR25_8-2">8.02</a></sup> <sup><a href="#cite_ref-SOTR25_8-3">8.03</a></sup> <sup><a href="#cite_ref-SOTR25_8-4">8.04</a></sup> <sup><a href="#cite_ref-SOTR25_8-5">8.05</a></sup> <sup><a href="#cite_ref-SOTR25_8-6">8.06</a></sup> <sup><a href="#cite_ref-SOTR25_8-7">8.07</a></sup> <sup><a href="#cite_ref-SOTR25_8-8">8.08</a></sup> <sup><a href="#cite_ref-SOTR25_8-9">8.09</a></sup> <sup><a href="#cite_ref-SOTR25_8-10">8.10</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-SOTR16-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR16_10-0">10.0</a></sup> <sup><a href="#cite_ref-SOTR16_10-1">10.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-SOTR20-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR20_11-0">11.0</a></sup> <sup><a href="#cite_ref-SOTR20_11-1">11.1</a></sup> <sup><a href="#cite_ref-SOTR20_11-2">11.2</a></sup> <sup><a href="#cite_ref-SOTR20_11-3">11.3</a></sup> <sup><a href="#cite_ref-SOTR20_11-4">11.4</a></sup> <sup><a href="#cite_ref-SOTR20_11-5">11.5</a></sup> <sup><a href="#cite_ref-SOTR20_11-6">11.6</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-SOTR18-12"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR18_12-0">12.0</a></sup> <sup><a href="#cite_ref-SOTR18_12-1">12.1</a></sup> <sup><a href="#cite_ref-SOTR18_12-2">12.2</a></sup> <sup><a href="#cite_ref-SOTR18_12-3">12.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-SOTR19-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR19_13-0">13.0</a></sup> <sup><a href="#cite_ref-SOTR19_13-1">13.1</a></sup> <sup><a href="#cite_ref-SOTR19_13-2">13.2</a></sup> <sup><a href="#cite_ref-SOTR19_13-3">13.3</a></sup> <sup><a href="#cite_ref-SOTR19_13-4">13.4</a></sup> <sup><a href="#cite_ref-SOTR19_13-5">13.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-SOTR21-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR21_14-0">14.0</a></sup> <sup><a href="#cite_ref-SOTR21_14-1">14.1</a></sup> <sup><a href="#cite_ref-SOTR21_14-2">14.2</a></sup> <sup><a href="#cite_ref-SOTR21_14-3">14.3</a></sup> <sup><a href="#cite_ref-SOTR21_14-4">14.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-SOTR22-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR22_15-0">15.0</a></sup> <sup><a href="#cite_ref-SOTR22_15-1">15.1</a></sup> <sup><a href="#cite_ref-SOTR22_15-2">15.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-SOTR23-16"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR23_16-0">16.0</a></sup> <sup><a href="#cite_ref-SOTR23_16-1">16.1</a></sup> <sup><a href="#cite_ref-SOTR23_16-2">16.2</a></sup> <sup><a href="#cite_ref-SOTR23_16-3">16.3</a></sup> <sup><a href="#cite_ref-SOTR23_16-4">16.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-SOTR24-17"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR24_17-0">17.0</a></sup> <sup><a href="#cite_ref-SOTR24_17-1">17.1</a></sup> <sup><a href="#cite_ref-SOTR24_17-2">17.2</a></sup> <sup><a href="#cite_ref-SOTR24_17-3">17.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-SOTR27-18"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SOTR27_18-0">18.0</a></sup> <sup><a href="#cite_ref-SOTR27_18-1">18.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-MJ_12-19"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_12_19-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-SOTR26-20"><span class="mw-cite-backlink"><a href="#cite_ref-SOTR26_20-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-THG_1-21"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_1_21-0">21.0</a></sup> <sup><a href="#cite_ref-THG_1_21-1">21.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_20-23"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_20_23-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-THG_2-24"><span class="mw-cite-backlink"><a href="#cite_ref-THG_2_24-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 2</span>
+</li>
+<li id="cite_note-CF_film-25"><span class="mw-cite-backlink"><a href="#cite_ref-CF_film_25-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-CF_19-26"><span class="mw-cite-backlink"><a href="#cite_ref-CF_19_26-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 19</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260101105941
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.262 seconds
+Real time usage: 0.446 seconds
+Preprocessor visited node count: 1468/1000000
+Post‐expand include size: 2057/2097152 bytes
+Template argument size: 1156/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 23139/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  214.923      1 -total
+ 33.89%   72.835      1 Template:Quell
+ 30.08%   64.658      1 Template:Reflist
+  2.04%    4.391      1 Template:Cite_web
+  1.79%    3.858      1 Template:BSS
+  1.19%    2.559      1 Template:SOTR
+  1.18%    2.536      1 Template:Quote
+  0.95%    2.042      1 Template:Dialogue
+  0.56%    1.193      1 Template:Main
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2270-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260101105941 and revision id 967555. Rendering was triggered because: api-parse
+ -->
+</div>

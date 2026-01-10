@@ -1,0 +1,310 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Casca Highbottom</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/89/CascaHighbottom-Poster.jpeg/revision/latest?cb=20230922111131" class="image image-thumbnail" title="CascaHighbottom-Poster">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/8/89/CascaHighbottom-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922111131" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/89/CascaHighbottom-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922111131 1x, https://static.wikia.nocookie.net/thehungergames/images/8/89/CascaHighbottom-Poster.jpeg/revision/latest/scale-to-width-down/535?cb=20230922111131 2x" class="pi-image-thumbnail" data-relevant="1" alt="CascaHighbottom-Poster" width="270" height="268" data-image-key="CascaHighbottom-Poster.jpeg" data-image-name="CascaHighbottom-Poster.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Dean of the <a href="/wiki/Academy" title="Academy">Academy</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased (poisoned by <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>)</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Peter_Dinklage" title="Peter Dinklage">Peter Dinklage</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>One look tells you [the children of the Capitol] have had more food, nicer clothing, and better dental care. Assuming anything more, a physical, mental, or especially a moral superiority, would be a mistake. That sort of hubris almost finished us off in the war.</i>"</span></dd>
+<dd>—Casca Highbottom challenging <a href="/wiki/Lucretius_Flickerman" title="Lucretius Flickerman">Lucretius Flickerman</a>'s prejudice against the people of the Districts.<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Casca Highbottom</b> was the Dean of the <a href="/wiki/Academy" title="Academy">Academy</a> and the unintentional creator of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>. When the creation of the games was officially announced, Highbottom served as the public face of the event, beginning a years-long downward spiral that would end with his assassination by future president <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>.<sup id="cite_ref-Ballad_Epilogue_1-0" class="reference"><a href="#cite_note-Ballad_Epilogue-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#University_days"><span class="tocnumber">1.1</span> <span class="toctext">University days</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Post-war"><span class="tocnumber">1.2</span> <span class="toctext">Post-war</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#10th_Hunger_Games"><span class="tocnumber">1.2.1</span> <span class="toctext">10th Hunger Games</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#After_the_10th_Hunger_Games"><span class="tocnumber">1.2.2</span> <span class="toctext">After the 10th Hunger Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Death"><span class="tocnumber">1.3</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37288" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What led to the intense animosity between Casca Highbottom and Coriolanus Snow?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Casca Highbottom's animosity towards Coriolanus Snow stemmed from a fallout with Snow's father at University. As the Dean of the Academy and unintentional creator of the Hunger Games, Highbottom held a grudge against Snow. This resentment intensified when Snow was compelled to join the Peacekeepers, a punishment Highbottom considered harsh. The feud culminated in Snow assassinating Highbottom using his preferred method - poison.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37289" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Casca Highbottom play in the creation of the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						As the Dean of the Academy, Casca Highbottom unintentionally conceived the Hunger Games during a university project with Crassus Snow. The project was to create an unforgettable punishment for enemies. Under alcohol's influence, Highbottom developed the idea of the Hunger Games, which Snow submitted. After the war, Highbottom was presented to Panem as the Hunger Games' creator, leading to his public decline and assassination by Coriolanus Snow.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37290" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Casca Highbottom meet his end and was Snow involved in his death?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Casca Highbottom, the Dean of the Academy, died from poisoning. The future president of Panem, Coriolanus Snow, orchestrated his death. Knowing Highbottom's morphling addiction, Snow discarded bottles of morphling laced with rat poison. Highbottom ingested the poisoned substance, resulting in his death. This marked the first use of Snow's signature assassination method.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37291" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why did Casca Highbottom serve as the public face of the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Dean of the Academy, Casca Highbottom, unintentionally created the Hunger Games and was its public representative. He announced and managed the event's public image. This role initiated a decline in his life, ending with his assassination by future president Coriolanus Snow.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Casca Highbottom","mainEntity":[{"@type":"Question","name":"What led to the intense animosity between Casca Highbottom and Coriolanus Snow?","acceptedAnswer":{"@type":"Answer","text":"Casca Highbottom's animosity towards Coriolanus Snow stemmed from a fallout with Snow's father at University. As the Dean of the Academy and unintentional creator of the Hunger Games, Highbottom held a grudge against Snow. This resentment intensified when Snow was compelled to join the Peacekeepers, a punishment Highbottom considered harsh. The feud culminated in Snow assassinating Highbottom using his preferred method - poison."}},{"@type":"Question","name":"What role did Casca Highbottom play in the creation of the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"As the Dean of the Academy, Casca Highbottom unintentionally conceived the Hunger Games during a university project with Crassus Snow. The project was to create an unforgettable punishment for enemies. Under alcohol's influence, Highbottom developed the idea of the Hunger Games, which Snow submitted. After the war, Highbottom was presented to Panem as the Hunger Games' creator, leading to his public decline and assassination by Coriolanus Snow."}},{"@type":"Question","name":"How did Casca Highbottom meet his end and was Snow involved in his death?","acceptedAnswer":{"@type":"Answer","text":"Casca Highbottom, the Dean of the Academy, died from poisoning. The future president of Panem, Coriolanus Snow, orchestrated his death. Knowing Highbottom's morphling addiction, Snow discarded bottles of morphling laced with rat poison. Highbottom ingested the poisoned substance, resulting in his death. This marked the first use of Snow's signature assassination method."}},{"@type":"Question","name":"Why did Casca Highbottom serve as the public face of the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Dean of the Academy, Casca Highbottom, unintentionally created the Hunger Games and was its public representative. He announced and managed the event's public image. This role initiated a decline in his life, ending with his assassination by future president Coriolanus Snow."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="University_days">University days</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>The evilest impulse, cleverly packaged into a sporting event. An entertainment. I was drunk, and your father got me drunker still, playing on my vanity as I fleshed the thing out, assuring me it was just a private joke.</i>"</span></dd>
+<dd>—Casca Highbottom, describing the creation of the Hunger Games to Coriolanus Snow<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>In his youth, Highbottom attended the <a href="/wiki/University" title="University">University</a> with <a href="/wiki/Crassus_Snow" title="Crassus Snow">Crassus Snow</a>, the father of <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>. They were known to be close, and often drunk in <a href="/wiki/Pluribus_Bell" title="Pluribus Bell">Pluribus Bell</a>'s nightclub every night.<sup id="cite_ref-Ballad_11_2-0" class="reference"><a href="#cite_note-Ballad_11-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> While studying under Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>, whom he loathed, Highbottom came close to failing her class. For the class's final project - which saw him paired up with Snow - the students were challenged to create a punishment for one's enemies so extreme that they would never be allowed to forget how they had wronged them. This suited Highbottom, as he had always excelled at puzzles, and in a drunken stupor he conceived what would become the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>. In the process, Snow got him even drunker, playing on his vanity as he fleshed out the project, all the while assuring him that it was just a private joke. The next morning, Highbottom awoke, horrified to find that Snow had turned in the project to get a good grade. He never forgave Snow for this betrayal.<sup id="cite_ref-Ballad_Epilogue_1-1" class="reference"><a href="#cite_note-Ballad_Epilogue-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-war">Post-war</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After <a href="/wiki/The_Dark_Days" class="mw-redirect" title="The Dark Days">The Dark Days</a>, Dr. Gaul pulled out Highbottom's Hunger Games idea and publicly credited Highbottom as its creator, introducing him to all of <a href="/wiki/Panem" title="Panem">Panem</a> as the architect of the event. That night, he took <a href="/wiki/Morphling_(drug)" title="Morphling (drug)">morphling</a> for the first time, which gradually led to heavy dependence on the drug. He thought that the Hunger Games would eventually die out, due to their ridiculous and horrific nature, but Dr. Gaul took the idea and ran with it. Highbottom even developed a grudge against <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> for his father's actions, maintaining a dislike of the boy throughout his years at the <a href="/wiki/Academy" title="Academy">Academy</a>.<sup id="cite_ref-Ballad_Epilogue_1-2" class="reference"><a href="#cite_note-Ballad_Epilogue-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Casca Highbottom personally oversaw the creation of the <a href="/wiki/Mentor" title="Mentor">mentor</a> program, presenting himself to the students and announcing who had been assigned to which tribute.<sup id="cite_ref-Ballad_1_3-0" class="reference"><a href="#cite_note-Ballad_1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> By this point, he was often heavily dosed up on morphling, causing Coriolanus Snow to mock him by creating the nickname "High-as-a-Kite Bottom," which quickly spread throughout the campus of the Academy. Snow initially suspected this nickname to be Highbottom's reason for hating him, supposing the Dean had caught wind of it (this later proved incorrect, however, as the grudge Highbottom held against Snow's father was made clear). At the time, there were also rumors circulating that, due to his declining health and addiction to morphling, the board of the Academy was losing patience with him.<sup id="cite_ref-Ballad_2_4-0" class="reference"><a href="#cite_note-Ballad_2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>During the buffet after <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a>, Highbottom handed Coriolanus Snow a large slice of pie and focused on him. He asked what Coriolanus's plans would be after the Games, reminding him of his family's poor financial situation and laughing at the mentor's discomfort.<sup id="cite_ref-Ballad_2_4-1" class="reference"><a href="#cite_note-Ballad_2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> Later, when <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> asked Coriolanus about his actions in the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>, the dean asked him what he thought the purpose of the Hunger Games was and told Dr. Gaul that it had been a failed experiment. Highbottom then gave Coriolanus a demerit for engaging in reckless behavior.<sup id="cite_ref-Ballad_4_5-0" class="reference"><a href="#cite_note-Ballad_4-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>When Highbottom was questioned by Dr. Gaul after <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> had spoken out rebelliously in the classroom, he fiddled with a pen and disagreed that their goal should be to make the audience feel passionately about the tributes, saying his idea had all been theoretical.<sup id="cite_ref-Ballad_6_6-0" class="reference"><a href="#cite_note-Ballad_6-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>After <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a>'s funeral, Highbottom gave his condolences to Coriolanus and admitted that he found the funeral excessive and in poor taste. Coriolanus blamed his loss of self-control on the dean, wanting him to be locked up or deported to a faraway outpost, although he didn't say it aloud.<sup id="cite_ref-Ballad_9_7-0" class="reference"><a href="#cite_note-Ballad_9-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>Highbottom made television appearances for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, alongside <a href="/wiki/Lucretius_Flickerman" title="Lucretius Flickerman">Lucretius Flickerman</a>. He seemed largely bored and disinterested with the proceedings, proving an uncharismatic companion for the weatherman. He was also not amused by Flickerman's magic tricks, or his antics with his pet bird.<sup id="cite_ref-Ballad_13_8-0" class="reference"><a href="#cite_note-Ballad_13-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> At five o'clock on the first day, Highbottom dismissed the student body and later the mentors, suggesting bringing a toothbrush and a change of clothes in the future.<sup id="cite_ref-Ballad_15_9-0" class="reference"><a href="#cite_note-Ballad_15-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>When <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> entered the arena, Highbottom observed him and, along with Dr. Gaul, sent Coriolanus into the arena to rescue his friend.<sup id="cite_ref-Ballad_15_9-1" class="reference"><a href="#cite_note-Ballad_15-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> The two adults debated audio levels and watched both versions of the feed, the real one and the artificially darkened one that was visible to normal viewers.<sup id="cite_ref-Ballad_16_10-0" class="reference"><a href="#cite_note-Ballad_16-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="After_the_10th_Hunger_Games">After the 10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Do you hear that, Coriolanus? It's the sound of Snow falling.</i>"</span></dd>
+<dd>—Casca Highbottom, taunting Coriolanus Snow upon expelling him from the Academy<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>Highbottom was instrumental in blackmailing Snow and forcing him to enlist as a <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a>: He presented evidence of Snow illegally assisting <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> in the <a href="/wiki/Capitol_Arena" title="Capitol Arena">arena</a>, cheating to ensure she would be safe from Dr. Gaul's <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a> and helping her poison others during the Games. He even appeared to take some level of pleasure in having Snow sent away, continuing to punish the boy for his father's actions.<sup id="cite_ref-Ballad_21_11-0" class="reference"><a href="#cite_note-Ballad_21-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p><p>Before Sejanus joined the Peacekeepers himself, he and <a href="/wiki/Strabo_Plinth" title="Strabo Plinth">Strabo Plinth</a> convinced the Academy to let both boys graduate. However, Highbottom brought up that Coriolanus had broke a rule in the Games to help Lucy Gray and technically had not graduated secondary school, and proposed he should be denied a diploma, but he was outvoted.<sup id="cite_ref-Ballad_22_12-0" class="reference"><a href="#cite_note-Ballad_22-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Snow eventually returned to the Capitol, where Highbottom returned his mother's compact and commented on his conscientiousness after Snow removed Sejanus Plinth's diploma from its frame. During this meeting, he finally divulged his reasons for hating the boy. This, however, would prove to be the his undoing: Thoroughly tired of Highbottom's obstructive actions, as well as the Dean's opposition and hatred of him, Snow slipped some poison into Highbottom's <a href="/wiki/Morphling_(drug)" title="Morphling (drug)">morphling</a>. The Dean cluelessly took it and died shortly after, becoming the very first victim of the future president's signature murder method.<sup id="cite_ref-Ballad_Epilogue_1-3" class="reference"><a href="#cite_note-Ballad_Epilogue-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Though he once possessed a fine physique, Casca Highbottom later became shrunken and draped with sagging skin. Doped up on <a href="/wiki/Morphling_(drug)" title="Morphling (drug)">morphling</a>, he had the appearance of a sleepwalker, with dreamy eyes, a close-cropped haircut and a crisp suit. Casca Highbottom also wore glasses.<sup id="cite_ref-Ballad_1_3-1" class="reference"><a href="#cite_note-Ballad_1-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="1a110af5a4c0851439f73c8024d35112" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="The_Ballad_of_Songbirds_and_Snakes_Character_Promo_-_Casca_Highbottom-jpg" style="position: relative; height:185px; width:120px;"><a class="image lightbox" href="/wiki/File:The_Ballad_of_Songbirds_and_Snakes_Character_Promo_-_Casca_Highbottom.jpg" title="The Ballad of Songbirds and Snakes Character Promo - Casca Highbottom.jpg (669 KB)" style="height:185px; width:120px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/4/4b/The_Ballad_of_Songbirds_and_Snakes_Character_Promo_-_Casca_Highbottom.jpg/revision/latest/scale-to-width-down/120?cb=20230906165154" title="The Ballad of Songbirds and Snakes Character Promo - Casca Highbottom.jpg (669 KB)" class="thumbimage" alt="" height="185" width="185" data-image-name="The Ballad of Songbirds and Snakes Character Promo - Casca Highbottom.jpg" data-image-key="The_Ballad_of_Songbirds_and_Snakes_Character_Promo_-_Casca_Highbottom.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="The Ballad of Songbirds and Snakes Character Promo - Casca Highbottom.jpg (669 KB)" class="thumbimage lazyload" alt="" height="185" width="185" data-image-name="The Ballad of Songbirds and Snakes Character Promo - Casca Highbottom.jpg" data-image-key="The_Ballad_of_Songbirds_and_Snakes_Character_Promo_-_Casca_Highbottom.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/4b/The_Ballad_of_Songbirds_and_Snakes_Character_Promo_-_Casca_Highbottom.jpg/revision/latest/scale-to-width-down/120?cb=20230906165154"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Casca_Highbottom-jpg" style="position: relative; height:185px; width:161px;"><a class="image lightbox" href="/wiki/File:Casca_Highbottom.jpg" title="Casca Highbottom.jpg (49 KB)" style="height:185px; width:161px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/2/29/Casca_Highbottom.jpg/revision/latest/scale-to-width-down/161?cb=20230508235351" title="Casca Highbottom.jpg (49 KB)" class="thumbimage" alt="" height="185" width="185" data-image-name="Casca Highbottom.jpg" data-image-key="Casca_Highbottom.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Casca Highbottom.jpg (49 KB)" class="thumbimage lazyload" alt="" height="185" width="185" data-image-name="Casca Highbottom.jpg" data-image-key="Casca_Highbottom.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/29/Casca_Highbottom.jpg/revision/latest/scale-to-width-down/161?cb=20230508235351"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="The_Hunger_Games-_Ballad_of_Songbirds_and_Snakes_-_Hunger_For_Change_Promo_Poster-jpg" style="position: relative; height:185px; width:185px;"><a class="image lightbox" href="/wiki/File:The_Hunger_Games-_Ballad_of_Songbirds_and_Snakes_-_Hunger_For_Change_Promo_Poster.jpg" title="The Hunger Games- Ballad of Songbirds and Snakes - Hunger For Change Promo Poster.jpg (320 KB)" style="height:185px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/b/b4/The_Hunger_Games-_Ballad_of_Songbirds_and_Snakes_-_Hunger_For_Change_Promo_Poster.jpg/revision/latest/scale-to-width-down/185?cb=20231107200047" title="The Hunger Games- Ballad of Songbirds and Snakes - Hunger For Change Promo Poster.jpg (320 KB)" class="thumbimage" alt="" height="185" width="185" data-image-name="The Hunger Games- Ballad of Songbirds and Snakes - Hunger For Change Promo Poster.jpg" data-image-key="The_Hunger_Games-_Ballad_of_Songbirds_and_Snakes_-_Hunger_For_Change_Promo_Poster.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="The Hunger Games- Ballad of Songbirds and Snakes - Hunger For Change Promo Poster.jpg (320 KB)" class="thumbimage lazyload" alt="" height="185" width="185" data-image-name="The Hunger Games- Ballad of Songbirds and Snakes - Hunger For Change Promo Poster.jpg" data-image-key="The_Hunger_Games-_Ballad_of_Songbirds_and_Snakes_-_Hunger_For_Change_Promo_Poster.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/b4/The_Hunger_Games-_Ballad_of_Songbirds_and_Snakes_-_Hunger_For_Change_Promo_Poster.jpg/revision/latest/scale-to-width-down/185?cb=20231107200047"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Highbottom_reaping_cards-jpg" style="position: relative; height:123px; width:185px; top:31px;"><a class="image lightbox" href="/wiki/File:Highbottom_reaping_cards.jpg" title="Highbottom reaping cards.jpg (283 KB)" style="height:123px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/0/0b/Highbottom_reaping_cards.jpg/revision/latest/scale-to-width-down/185?cb=20250613004654" title="Highbottom reaping cards.jpg (283 KB)" class="thumbimage" alt="" height="185" width="185" data-image-name="Highbottom reaping cards.jpg" data-image-key="Highbottom_reaping_cards.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Highbottom reaping cards.jpg (283 KB)" class="thumbimage lazyload" alt="" height="185" width="185" data-image-name="Highbottom reaping cards.jpg" data-image-key="Highbottom_reaping_cards.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0b/Highbottom_reaping_cards.jpg/revision/latest/scale-to-width-down/185?cb=20250613004654"></a></div></div></div></div>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It wasn't mentioned if Highbottom was the one who created the concept of and scenarios for the <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quells</a>. Given his disgust with his own creation, it's possible that these were created years later, perhaps even around the time when the <a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th Hunger Games</a> occurred.</li>
+<li>In <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>, Highbottom sitting down by the mentors at the reaping was adlibbed by <a href="/wiki/Peter_Dinklage" title="Peter Dinklage">Peter Dinklage</a>.<sup id="cite_ref-commentary_13-0" class="reference"><a href="#cite_note-commentary-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCasca_Highbottom%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_Epilogue-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_Epilogue_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_Epilogue_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_Epilogue_1-2">1.2</a></sup> <sup><a href="#cite_ref-Ballad_Epilogue_1-3">1.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-Ballad_11-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_11_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_1-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_1_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_2-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_2_4-0">4.0</a></sup> <sup><a href="#cite_ref-Ballad_2_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_4-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_4_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-Ballad_6-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_6_6-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_9-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_9_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-Ballad_13-8"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_13_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_15-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_15_9-0">9.0</a></sup> <sup><a href="#cite_ref-Ballad_15_9-1">9.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-Ballad_16-10"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_16_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-Ballad_21-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_21_11-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-Ballad_22-12"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_22_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-commentary-13"><span class="mw-cite-backlink"><a href="#cite_ref-commentary_13-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> audio commentary by <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a> and <a href="/wiki/Nina_Jacobson" title="Nina Jacobson">Nina Jacobson</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <strong class="mw-selflink selflink">Casca Highbottom</strong> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251228112705
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.090 seconds
+Real time usage: 0.156 seconds
+Preprocessor visited node count: 870/1000000
+Post‐expand include size: 5351/2097152 bytes
+Template argument size: 1287/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12869/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   71.882      1 -total
+ 38.12%   27.398      1 Template:Character
+ 23.08%   16.588      1 Template:Reflist
+  4.21%    3.029     12 Template:BSS
+  2.45%    1.763      3 Template:Quote
+  2.04%    1.469      1 Template:PrequelSeries
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:538812-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228112705 and revision id 967490. Rendering was triggered because: page-view
+ -->
+</div>

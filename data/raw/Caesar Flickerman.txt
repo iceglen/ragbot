@@ -1,0 +1,401 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Caesar Flickerman</h2>
+
+	<div class="pi-image-collection wds-tabber" data-source="image">
+		<div class="wds-tabs__wrapper">
+			<ul class="wds-tabs">
+				
+					<li class="wds-tabs__tab wds-is-current">
+						<span class="wds-tabs__tab-label">
+							Film
+							
+						</span>
+					</li>
+				
+					<li class="wds-tabs__tab">
+						<span class="wds-tabs__tab-label">
+							Illustrated Edition
+							
+						</span>
+					</li>
+				
+			</ul>
+		</div>
+		
+			<div class="wds-tab__content wds-is-current">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/8/84/CaesarCapitolCouture.jpg/revision/latest?cb=20231107225949" class="image image-thumbnail" title="Film">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/8/84/CaesarCapitolCouture.jpg/revision/latest/scale-to-width-down/268?cb=20231107225949" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/84/CaesarCapitolCouture.jpg/revision/latest/scale-to-width-down/268?cb=20231107225949 1x, https://static.wikia.nocookie.net/thehungergames/images/8/84/CaesarCapitolCouture.jpg/revision/latest/scale-to-width-down/536?cb=20231107225949 2x" data-relevant="1" class="pi-image-thumbnail" alt="Film" width="270" height="366" data-image-key="CaesarCapitolCouture.jpg" data-image-name="CaesarCapitolCouture.jpg">
+						
+					</a>
+				</figure>
+			</div>
+		
+			<div class="wds-tab__content">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/9/9d/CaesarSalad.png/revision/latest?cb=20250207083209" class="image image-thumbnail" title="Illustrated Edition">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/9/9d/CaesarSalad.png/revision/latest/scale-to-width-down/268?cb=20250207083209" srcset="https://static.wikia.nocookie.net/thehungergames/images/9/9d/CaesarSalad.png/revision/latest/scale-to-width-down/268?cb=20250207083209 1x, https://static.wikia.nocookie.net/thehungergames/images/9/9d/CaesarSalad.png/revision/latest?cb=20250207083209 2x" data-relevant="1" class="pi-image-thumbnail" alt="Illustrated Edition" width="270" height="335" data-image-key="CaesarSalad.png" data-image-name="CaesarSalad.png">
+						
+					</a>
+				</figure>
+			</div>
+		
+	</div>
+
+
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">Around 65 (implied)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Master of Ceremonies</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Unknown</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></li><li><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></li><li><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></li><li><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></li><li><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></li><li><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a></i></li><li><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></li><li><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i> <small>(upcoming)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Stanley_Tucci" title="Stanley Tucci">Stanley Tucci</a> <small>(original trilogy)</small></li><li><a href="/wiki/Kieran_Culkin" title="Kieran Culkin">Kieran Culkin</a> <small>(SOTR)</small></li><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.imdb.com/name/nm3553082/">Stavros Demetraki</a> <small>(<a href="/wiki/The_Hunger_Games_On_Stage" title="The Hunger Games On Stage">stage</a>)</small></li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>Handsome lad like you. There must be some special girl. Come on, what’s her name?</i>"</span></dd>
+<dd>—Caesar Flickerman asking <a href="/wiki/Peeta" class="mw-redirect" title="Peeta">Peeta</a> who he loves<sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<p><b>Caesar Flickerman</b> is the host for the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, responsible for <a href="/wiki/Interviews" title="Interviews">interviewing</a> <a href="/wiki/Tribute" title="Tribute">tributes</a> the night before the competition began.<sup id="cite_ref-THG_9_2-0" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_career"><span class="tocnumber">1.1</span> <span class="toctext">Early career</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#74th_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">74th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#75th_Hunger_Games"><span class="tocnumber">1.3</span> <span class="toctext">75th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Rebellion"><span class="tocnumber">1.4</span> <span class="toctext">Rebellion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37583" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who does Caesar Flickerman interview before the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Caesar Flickerman, the presenter of the Hunger Games, conducts interviews with each tribute on the eve of the games. The interviews are arranged by district, with the female tribute preceding the male. Flickerman's questions cover the tributes' life at home, experiences in the Capitol, training scores, and the reaping.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37584" data-revision-id="3">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How many years has Caesar Flickerman been the host of the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Caesar Flickerman, the renowned Hunger Games presenter, has held the position for more than 40 years. The earliest known Games he hosted was the 50th Hunger Games, which took place 24 years before the trilogy's onset. Flickerman is celebrated for his ability to transform mundane remarks into unforgettable statements and his empathetic approach towards the tributes.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Community
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37585" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What special event did Caesar Flickerman host during the 50th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						As the distinguished Hunger Games announcer, Caesar Flickerman hosted the pre-game interviews with the tributes. These interviews, a significant event preceding each Hunger Games, involved discussions about the tributes' lives, their experiences in the Capitol, and their training scores. This tradition was upheld during the 50th Hunger Games as well.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37586" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How does Caesar Flickerman's appearance change for the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, Caesar Flickerman, the Hunger Games announcer, adopts a powder blue color scheme. His hair, eyelids, and lips are all dyed to match his midnight blue suit, adorned with thousands of tiny twinkling electric bulbs. This annual transformation is a signature of Caesar's, known for his flamboyant and colorful attire.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37587" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is Caesar Flickerman's role in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Caesar Flickerman serves as the Master of Ceremonies. His duties include interviewing tributes on the eve of the competition. He possesses a knack for transforming lackluster responses into memorable moments. Despite being a favorite among Capitol citizens, he exhibits empathy for the tributes, striving to highlight their strengths to enhance their game prospects.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Caesar Flickerman","mainEntity":[{"@type":"Question","name":"Who does Caesar Flickerman interview before the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Caesar Flickerman, the presenter of the Hunger Games, conducts interviews with each tribute on the eve of the games. The interviews are arranged by district, with the female tribute preceding the male. Flickerman's questions cover the tributes' life at home, experiences in the Capitol, training scores, and the reaping."}},{"@type":"Question","name":"How many years has Caesar Flickerman been the host of the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Caesar Flickerman, the renowned Hunger Games presenter, has held the position for more than 40 years. The earliest known Games he hosted was the 50th Hunger Games, which took place 24 years before the trilogy's onset. Flickerman is celebrated for his ability to transform mundane remarks into unforgettable statements and his empathetic approach towards the tributes."}},{"@type":"Question","name":"What special event did Caesar Flickerman host during the 50th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"As the distinguished Hunger Games announcer, Caesar Flickerman hosted the pre-game interviews with the tributes. These interviews, a significant event preceding each Hunger Games, involved discussions about the tributes' lives, their experiences in the Capitol, and their training scores. This tradition was upheld during the 50th Hunger Games as well."}},{"@type":"Question","name":"How does Caesar Flickerman's appearance change for the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, Caesar Flickerman, the Hunger Games announcer, adopts a powder blue color scheme. His hair, eyelids, and lips are all dyed to match his midnight blue suit, adorned with thousands of tiny twinkling electric bulbs. This annual transformation is a signature of Caesar's, known for his flamboyant and colorful attire."}},{"@type":"Question","name":"What is Caesar Flickerman's role in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Caesar Flickerman serves as the Master of Ceremonies. His duties include interviewing tributes on the eve of the competition. He possesses a knack for transforming lackluster responses into memorable moments. Despite being a favorite among Capitol citizens, he exhibits empathy for the tributes, striving to highlight their strengths to enhance their game prospects."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_career">Early career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, he was the host of the Hunger Games for more than forty years.<sup id="cite_ref-THG_9_2-1" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> The earliest known edition he hosted was the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, 24 years prior to the start of the trilogy. That year, he had to interview twice the regular number of tributes in honor of the second <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>.<sup id="cite_ref-CF_14_3-0" class="reference"><a href="#cite_note-CF_14-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> It is suggested that he had hosted many games before that as Haymitch indicates he changes his suit every year, meaning this is not his first.
+</p>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/24/Hungergameshot.jpg/revision/latest?cb=20111115010015" class="mw-file-description image"><img alt="Caesar with Katniss for her 74th Hunger Games interview." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="99" class="thumbimage lazyload" data-image-name="Hungergameshot.jpg" data-image-key="Hungergameshot.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/24/Hungergameshot.jpg/revision/latest/scale-to-width-down/180?cb=20111115010015"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/2/24/Hungergameshot.jpg/revision/latest?cb=20111115010015" class="mw-file-description image"><img alt="Caesar with Katniss for her 74th Hunger Games interview." src="https://static.wikia.nocookie.net/thehungergames/images/2/24/Hungergameshot.jpg/revision/latest/scale-to-width-down/180?cb=20111115010015" decoding="async" loading="lazy" width="180" height="99" class="thumbimage" data-image-name="Hungergameshot.jpg" data-image-key="Hungergameshot.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/24/Hungergameshot.jpg/revision/latest/scale-to-width-down/180?cb=20111115010015"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Hungergameshot.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Caesar with Katniss for her 74th Hunger Games interview.</p> 		 	</figcaption> </figure>
+<p>Katniss says that his look in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a> looked much better. He is shown to help <a href="/wiki/Tribute" title="Tribute">tributes</a> in each <a href="/wiki/District" class="mw-redirect" title="District">district</a> with their interviews. In that year, his hair, lips and eyelids were dyed powder blue. While Caesar interviews <a href="/wiki/Rue" title="Rue">Rue</a>, they discuss her chances of winning, because the odds are against her. Rue says that she is fast and if they can't catch her they can't kill her and to not count her out, to which Caesar replies "<i>I wouldn't in a million years</i>."
+</p><p>While interviewing Katniss, he helps her because she doesn't do well in front of cameras. For example, when he asks Katniss what she liked the most since she came to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, she answers, "The lamb stew." He remarks that he can eat it by buckets and makes a horrified face when he asks the crowd if it shows. The crowd reassures him that it doesn't.<sup id="cite_ref-THG_9_2-2" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 226px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Article-2061577-0ECCEB5700000578-946_634x286.jpg/revision/latest?cb=20120112211817" class="mw-file-description image"><img alt="Caesar with Peeta the night of the 74th Hunger Games interviews." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="226" height="96" class="thumbimage lazyload" data-image-name="Article-2061577-0ECCEB5700000578-946 634x286.jpg" data-image-key="Article-2061577-0ECCEB5700000578-946_634x286.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Article-2061577-0ECCEB5700000578-946_634x286.jpg/revision/latest/scale-to-width-down/226?cb=20120112211817"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Article-2061577-0ECCEB5700000578-946_634x286.jpg/revision/latest?cb=20120112211817" class="mw-file-description image"><img alt="Caesar with Peeta the night of the 74th Hunger Games interviews." src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Article-2061577-0ECCEB5700000578-946_634x286.jpg/revision/latest/scale-to-width-down/226?cb=20120112211817" decoding="async" loading="lazy" width="226" height="96" class="thumbimage" data-image-name="Article-2061577-0ECCEB5700000578-946 634x286.jpg" data-image-key="Article-2061577-0ECCEB5700000578-946_634x286.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Article-2061577-0ECCEB5700000578-946_634x286.jpg/revision/latest/scale-to-width-down/226?cb=20120112211817"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Article-2061577-0ECCEB5700000578-946_634x286.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Caesar with Peeta the night of the 74th Hunger Games interviews.</p> 		 	</figcaption> </figure>
+<p>When he interviewed Peeta, the two of them were described as a good team, feeding off of each other and bantering easily. It was to Caesar in this interview that Peeta first revealed his love for Katniss, shocking everyone.<sup id="cite_ref-THG_9_2-3" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> The interview was said to have gone down amazingly with the audience<sup id="cite_ref-THG_10_4-0" class="reference"><a href="#cite_note-THG_10-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>.
+</p><p>After the Games were over and they had an interview with Katniss and Peeta, he mainly conversed with Peeta<sup id="cite_ref-THG_27_5-0" class="reference"><a href="#cite_note-THG_27-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_6-0" class="reference"><a href="#cite_note-THG-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> since Katniss is not very talented when it comes to speaking for the cameras and televised interviews<sup id="cite_ref-THG_9_2-4" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_27_5-1" class="reference"><a href="#cite_note-THG_27-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>.
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/77/CeasarTV.png/revision/latest?cb=20130416224023" class="mw-file-description image"><img alt="Flickerman during the ." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="134" class="thumbimage lazyload" data-image-name="CeasarTV.png" data-image-key="CeasarTV.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/77/CeasarTV.png/revision/latest/scale-to-width-down/180?cb=20130416224023"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/7/77/CeasarTV.png/revision/latest?cb=20130416224023" class="mw-file-description image"><img alt="Flickerman during the ." src="https://static.wikia.nocookie.net/thehungergames/images/7/77/CeasarTV.png/revision/latest/scale-to-width-down/180?cb=20130416224023" decoding="async" loading="lazy" width="180" height="134" class="thumbimage" data-image-name="CeasarTV.png" data-image-key="CeasarTV.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/77/CeasarTV.png/revision/latest/scale-to-width-down/180?cb=20130416224023"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:CeasarTV.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Flickerman during the <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="75th_Hunger_Games">75th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/ec/Caesar1.jpg/revision/latest?cb=20140121194801" class="mw-file-description image"><img alt="Caesar announces the 3rd Quarter Quell." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="90" class="thumbimage lazyload" data-image-name="Caesar1.jpg" data-image-key="Caesar1.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/ec/Caesar1.jpg/revision/latest/scale-to-width-down/180?cb=20140121194801"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/e/ec/Caesar1.jpg/revision/latest?cb=20140121194801" class="mw-file-description image"><img alt="Caesar announces the 3rd Quarter Quell." src="https://static.wikia.nocookie.net/thehungergames/images/e/ec/Caesar1.jpg/revision/latest/scale-to-width-down/180?cb=20140121194801" decoding="async" loading="lazy" width="180" height="90" class="thumbimage" data-image-name="Caesar1.jpg" data-image-key="Caesar1.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/ec/Caesar1.jpg/revision/latest/scale-to-width-down/180?cb=20140121194801"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Caesar1.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Caesar announces the 3rd Quarter Quell.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Catching Fire">"<i>We have never seen anything like it before... And we will never see anything like it again.</i>"</span></dd>
+<dd>—Caesar Flickerman in <i>The Hunger Games: Catching Fire</i><sup class="noprint"><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">[src]</a></sup></dd></dl></div>
+<p>As he did with the previous Games, Caesar helped the tributes in <a href="/wiki/The_75th_Hunger_Games" class="mw-redirect" title="The 75th Hunger Games">the 75th Hunger Games</a> with their interviews. This year, his hair, lips and eyelids were dyed lavender. While interviewing the tributes, his questions were met with snide remarks from tributes. Most of them were bad mouthing the Capitol as a sign of rebellion before they went into the <a href="/wiki/Arena" title="Arena">arena</a> for a second time. 
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 224px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a8/Katniss_caesar_quarter_quell_interview.jpg/revision/latest?cb=20250328053134" class="mw-file-description image"><img alt="Katniss and Caesar" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="224" height="149" class="thumbimage lazyload" data-image-name="Katniss caesar quarter quell interview.jpg" data-image-key="Katniss_caesar_quarter_quell_interview.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a8/Katniss_caesar_quarter_quell_interview.jpg/revision/latest/scale-to-width-down/224?cb=20250328053134"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/a/a8/Katniss_caesar_quarter_quell_interview.jpg/revision/latest?cb=20250328053134" class="mw-file-description image"><img alt="Katniss and Caesar" src="https://static.wikia.nocookie.net/thehungergames/images/a/a8/Katniss_caesar_quarter_quell_interview.jpg/revision/latest/scale-to-width-down/224?cb=20250328053134" decoding="async" loading="lazy" width="224" height="149" class="thumbimage" data-image-name="Katniss caesar quarter quell interview.jpg" data-image-key="Katniss_caesar_quarter_quell_interview.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a8/Katniss_caesar_quarter_quell_interview.jpg/revision/latest/scale-to-width-down/224?cb=20250328053134"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Katniss_caesar_quarter_quell_interview.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss and Caesar</p> 		 	</figcaption> </figure>
+<p>When he interviewed Katniss, he mentions her upcoming nuptials to Peeta. As per <a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">Snow</a>'s request, Katniss was wearing her wedding dress. Katniss was unaware that <a href="/wiki/Cinna" title="Cinna">Cinna</a> had made a few adjustments so that as she twirled, the dress would morph into a black mockingjay outfit.<sup id="cite_ref-CF_17_7-0" class="reference"><a href="#cite_note-CF_17-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Caesar then interviews Peeta, who claims that he had been unofficially married to Katniss for months and that she is pregnant. While both claims are false, they explain Katniss' sudden "breakdown" and obtain sympathy. This revelation caused the audience to go wild, upstaging all of the other tributes' interviews (as Peeta also did the year before<sup id="cite_ref-THG_10_4-1" class="reference"><a href="#cite_note-THG_10-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>). This also upset the Capitol audience enormously because they had grown to love Katniss and Peeta, and the thought that they would not both survive after being so close to each other, and that an unborn baby would probably be killed in the arena, overwhelmed them.<sup id="cite_ref-CF_18_8-0" class="reference"><a href="#cite_note-CF_18-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> This resulted in some of them supporting the rebellion, not the Games.
+</p><p>At the end of Caesar's interviews, all of the <a href="/wiki/Victors" class="mw-redirect" title="Victors">victors</a> stood and held hands as a show of unity; this influenced the Capitol audience further still<sup id="cite_ref-CF_18_8-1" class="reference"><a href="#cite_note-CF_18-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h3><span class="mw-headline" id="Rebellion">Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 350px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5f/MfilmPeetainterview.jpg/revision/latest?cb=20140915160047" class="mw-file-description image"><img alt="Caesar interviews Peeta" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="350" height="143" class="thumbimage lazyload" data-image-name="MfilmPeetainterview.jpg" data-image-key="MfilmPeetainterview.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5f/MfilmPeetainterview.jpg/revision/latest/scale-to-width-down/350?cb=20140915160047"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5f/MfilmPeetainterview.jpg/revision/latest?cb=20140915160047" class="mw-file-description image"><img alt="Caesar interviews Peeta" src="https://static.wikia.nocookie.net/thehungergames/images/5/5f/MfilmPeetainterview.jpg/revision/latest/scale-to-width-down/350?cb=20140915160047" decoding="async" loading="lazy" width="350" height="143" class="thumbimage" data-image-name="MfilmPeetainterview.jpg" data-image-key="MfilmPeetainterview.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5f/MfilmPeetainterview.jpg/revision/latest/scale-to-width-down/350?cb=20140915160047"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:MfilmPeetainterview.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Caesar interviews Peeta</p> 		 	</figcaption> </figure>
+<p>In <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Caesar interviews a tortured Peeta. Caesar asks him questions like how he feels about the rebels and Katniss. While Peeta is explaining, he tells him and the audience how it feels to be in the Hunger Games, which fascinates them because no victor has ever spoken of this. Caesar tries to make Peeta as comfortable as possible during the interview. It is cut short when Peeta asks to go back to his cell, due to Caesar's comments on Katniss and her place in the rebellion.<sup id="cite_ref-MJ_2_9-0" class="reference"><a href="#cite_note-MJ_2-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>Caesar interviews Peeta for the second time. This interview is short, during this interview the two exchange empty comments to each other. Caesar asks Peeta about the rumors of Katniss shooting a <a href="/wiki/Propo" title="Propo">propo</a>. Peeta tells him that she probably doesn't know what they are doing to her and to not trust them. The last thing Peeta says before the interview ends is for Katniss to find out what they are doing.<sup id="cite_ref-MJ_8_10-0" class="reference"><a href="#cite_note-MJ_8-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> 
+</p><p>In <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i>, Caesar interviews Peeta a third time in place of President Snow. During the interview, Peeta states he thinks they should end the war with a ceasefire because if they have a war it could mean the end of all living things. Caesar questions Peeta's statement and asks him more on his thoughts of the rebellion. Peeta warns the rebels of the impending bomb attack from the Capitol on <a href="/wiki/District_13" title="District 13">District 13</a>. The interview is cut short when the Peacekeepers go on stage and beat Peeta and take him away to receive a punishment.<sup id="cite_ref-MJ_9_11-0" class="reference"><a href="#cite_note-MJ_9-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-MJ-1_12-0" class="reference"><a href="#cite_note-MJ-1-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p><p>In <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i>, Caesar is featured in a Capitol announcement about the alleged death of Katniss and <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a> in a Peacekeeper attack, when actually only <a href="/wiki/Leeg_1" title="Leeg 1">Leeg 1</a> and <a href="/wiki/Leeg_2" title="Leeg 2">Leeg 2</a> were killed<sup id="cite_ref-MJ-2_13-0" class="reference"><a href="#cite_note-MJ-2-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>.
+</p><p>Caesar's ultimate fate is not revealed in the books or films, leaving it up for speculation whether he died or survived the war. Despite often-repeated claims that Suzanne Collins confirmed in a 2011 interview that he was spared from execution, no such statement can be located.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/19/Catching_fire_promo_caesar.jpeg/revision/latest?cb=20130306023224" class="mw-file-description image"><img alt="Caesar's Capitol Portrait" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="222" height="329" class="thumbimage lazyload" data-image-name="Catching fire promo caesar.jpeg" data-image-key="Catching_fire_promo_caesar.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/19/Catching_fire_promo_caesar.jpeg/revision/latest/scale-to-width-down/222?cb=20130306023224"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/1/19/Catching_fire_promo_caesar.jpeg/revision/latest?cb=20130306023224" class="mw-file-description image"><img alt="Caesar's Capitol Portrait" src="https://static.wikia.nocookie.net/thehungergames/images/1/19/Catching_fire_promo_caesar.jpeg/revision/latest/scale-to-width-down/222?cb=20130306023224" decoding="async" loading="lazy" width="222" height="329" class="thumbimage" data-image-name="Catching fire promo caesar.jpeg" data-image-key="Catching_fire_promo_caesar.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/19/Catching_fire_promo_caesar.jpeg/revision/latest/scale-to-width-down/222?cb=20130306023224"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Catching_fire_promo_caesar.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Caesar's Capitol Portrait</p> 		 	</figcaption> </figure>
+<p>He appeared virtually the same over the course of his career. Every year, he wore the same pure white makeup, the same hairstyle, and the same "ceremonial" midnight blue suit, "dotted with a thousand tiny electric bulbs that twinkle[d] like stars." The only thing that changed annually was the color of his hair, and his eyelids and lips were done up to match.<sup id="cite_ref-THG_9_2-5" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<ul><li><a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a> - Dark green<sup id="cite_ref-CF_14_3-1" class="reference"><a href="#cite_note-CF_14-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/73rd_Hunger_Games" title="73rd Hunger Games">73rd Hunger Games</a> - Crimson; it looked like he was bleeding<sup id="cite_ref-THG_9_2-6" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a> - Powder blue<sup id="cite_ref-THG_9_2-7" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> - Lavender<sup id="cite_ref-CF_17_7-1" class="reference"><a href="#cite_note-CF_17-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-right show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/fc/Peetaycom.jpg/revision/latest?cb=20120202195312" class="mw-file-description image"><img alt="Caesar makes Peeta feel at ease." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="106" class="thumbimage lazyload" data-image-name="Peetaycom.jpg" data-image-key="Peetaycom.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/f/fc/Peetaycom.jpg/revision/latest/scale-to-width-down/180?cb=20120202195312"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/f/fc/Peetaycom.jpg/revision/latest?cb=20120202195312" class="mw-file-description image"><img alt="Caesar makes Peeta feel at ease." src="https://static.wikia.nocookie.net/thehungergames/images/f/fc/Peetaycom.jpg/revision/latest/scale-to-width-down/180?cb=20120202195312" decoding="async" loading="lazy" width="180" height="106" class="thumbimage" data-image-name="Peetaycom.jpg" data-image-key="Peetaycom.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/f/fc/Peetaycom.jpg/revision/latest/scale-to-width-down/180?cb=20120202195312"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Peetaycom.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Caesar makes Peeta feel at ease.</p> 		 	</figcaption> </figure>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/92/Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg/revision/latest?cb=20130816085011" class="mw-file-description image"><img alt="Capitol Couture Portrait" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="245" class="thumbimage lazyload" data-image-name="Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg" data-image-key="Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/9/92/Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg/revision/latest/scale-to-width-down/180?cb=20130816085011"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/9/92/Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg/revision/latest?cb=20130816085011" class="mw-file-description image"><img alt="Capitol Couture Portrait" src="https://static.wikia.nocookie.net/thehungergames/images/9/92/Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg/revision/latest/scale-to-width-down/180?cb=20130816085011" decoding="async" loading="lazy" width="180" height="245" class="thumbimage" data-image-name="Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg" data-image-key="Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/9/92/Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg/revision/latest/scale-to-width-down/180?cb=20130816085011"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Caesar-Flickerman-New-Portrait-the-hunger-games-35303586-368-500.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Capitol Couture Portrait</p> 		 	</figcaption> </figure>
+<p>Caesar is known for being helpful and brings out the best in the tributes. Katniss also notes that she thinks Caesar acts like this so that the tributes don't get worried or nervous. He is also known to like the Capitol's lamb stew. He thinks of himself as a little on the "tubby" side and loves Katniss' interview dress in the first book and asks her to twirl. It says in the book that Caesar can make a weak response into a memorable one. Like most Capitol citizens and TV personalities, Flickerman has had noticeable surgery done on his face as noted by Katniss, and is rather interested in the arts of fashion as displayed with his vibrant and colorful costumes and suits. He is well liked by the Capitol citizens audiences, yet seems to have some sympathy for the tributes of the Games and honestly tries to bring the best out of them and increase their chances of survival.<sup id="cite_ref-THG_9_2-8" class="reference"><a href="#cite_note-THG_9-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>  
+</p><p>Stanley Tucci remarked that he thought Caesar to be "creepy, with the sort of false generosity and duplicity." Others view Flickerman's deameanor more as that of an amiable talk show host looking to help the tributes through the interviews.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the novel, <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> and Caesar have no known relationship. Yet, in the film adaptation, Caesar is placed as a co-host to Claudius during the <a href="/wiki/Chariot_rides" title="Chariot rides">chariot rides</a> and actual Hunger Games<sup id="cite_ref-THG_6-1" class="reference"><a href="#cite_note-THG-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-1" hash="7979553b49b8f49612aa3bfbc71ba49d" data-seq-no="1" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:79px;"><div class="gallery-image-wrapper accent" id="Hunger-games-movie-screencaps-com-8-jpg" style="position: relative; height:77px; width:185px;"><a class="image lightbox" href="/wiki/File:Hunger-games-movie-screencaps.com-8.jpg" title="Hunger-games-movie-screencaps.com-8.jpg (259 KB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/c/ce/Hunger-games-movie-screencaps.com-8.jpg/revision/latest/scale-to-width-down/185?cb=20210519010039" title="Hunger-games-movie-screencaps.com-8.jpg (259 KB)" class="thumbimage" alt="Caesar Flickerman's first appearance." height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-8.jpg" data-image-key="Hunger-games-movie-screencaps.com-8.jpg" data-relevant="1" data-caption="Caesar Flickerman's first appearance."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hunger-games-movie-screencaps.com-8.jpg (259 KB)" class="thumbimage lazyload" alt="Caesar Flickerman's first appearance." height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-8.jpg" data-image-key="Hunger-games-movie-screencaps.com-8.jpg" data-relevant="1" data-caption="Caesar Flickerman's first appearance." data-src="https://static.wikia.nocookie.net/thehungergames/images/c/ce/Hunger-games-movie-screencaps.com-8.jpg/revision/latest/scale-to-width-down/185?cb=20210519010039"></a></div></div><div class="lightbox-caption" style="width:185px;">Caesar Flickerman's first appearance.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:79px;"><div class="gallery-image-wrapper accent" id="Hunger-games-movie-screencaps-com-27-jpg" style="position: relative; height:77px; width:185px;"><a class="image lightbox" href="/wiki/File:Hunger-games-movie-screencaps.com-27.jpg" title="Hunger-games-movie-screencaps.com-27.jpg (196 KB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/c/c9/Hunger-games-movie-screencaps.com-27.jpg/revision/latest/scale-to-width-down/185?cb=20210519010107" title="Hunger-games-movie-screencaps.com-27.jpg (196 KB)" class="thumbimage" alt="" height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-27.jpg" data-image-key="Hunger-games-movie-screencaps.com-27.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hunger-games-movie-screencaps.com-27.jpg (196 KB)" class="thumbimage lazyload" alt="" height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-27.jpg" data-image-key="Hunger-games-movie-screencaps.com-27.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c9/Hunger-games-movie-screencaps.com-27.jpg/revision/latest/scale-to-width-down/185?cb=20210519010107"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:79px;"><div class="gallery-image-wrapper accent" id="Hunger-games-movie-screencaps-com-46-jpg" style="position: relative; height:77px; width:185px;"><a class="image lightbox" href="/wiki/File:Hunger-games-movie-screencaps.com-46.jpg" title="Hunger-games-movie-screencaps.com-46.jpg (173 KB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/0/06/Hunger-games-movie-screencaps.com-46.jpg/revision/latest/scale-to-width-down/185?cb=20210519010125" title="Hunger-games-movie-screencaps.com-46.jpg (173 KB)" class="thumbimage" alt="Caesar interviewing Seneca Crane." height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-46.jpg" data-image-key="Hunger-games-movie-screencaps.com-46.jpg" data-relevant="1" data-caption="Caesar interviewing Seneca Crane."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hunger-games-movie-screencaps.com-46.jpg (173 KB)" class="thumbimage lazyload" alt="Caesar interviewing Seneca Crane." height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-46.jpg" data-image-key="Hunger-games-movie-screencaps.com-46.jpg" data-relevant="1" data-caption="Caesar interviewing Seneca Crane." data-src="https://static.wikia.nocookie.net/thehungergames/images/0/06/Hunger-games-movie-screencaps.com-46.jpg/revision/latest/scale-to-width-down/185?cb=20210519010125"></a></div></div><div class="lightbox-caption" style="width:185px;">Caesar interviewing Seneca Crane.</div></div></div>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It is unknown whether any particular real-world talk show hosts were inspirational to the character of Caesar Flickerman, though Stanley Tucci did suggest that some existed in a special feature on the Blu-Ray of <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>. It appears that Caesar is a sort of conglomerate of them in general.</li>
+<li><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i> features a character named <a href="/wiki/Lucretius_Flickerman" title="Lucretius Flickerman">Lucretius "Lucky" Flickerman</a>, a popular weatherman for <a href="/wiki/Capitol_TV" title="Capitol TV">Capitol TV</a> who was tapped to be the first ever host for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. Their shared last name suggests a familial relation, and a legacy of involvement in both television and the Hunger Games.
+<ul><li>In <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>, Lucky could briefly be heard making a restaurant reservation for a "party of two and a high chair", hinting at having a child. Fans have speculated that he was referring to Caesar. This would also make Caesar 65-66 by the time of Mockingjay. <sup id="cite_ref-Ballad_film_14-0" class="reference"><a href="#cite_note-Ballad_film-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup></li></ul></li></ul>
+<ul><li>If Caesar's comments during his interview with <a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> are to be taken seriously, then Caesar failed biology.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup></li>
+<li>Caesar Flickerman is not allowed to bet on tributes contractually. <sup id="cite_ref-Interview_Deleted_Scene_16-0" class="reference"><a href="#cite_note-Interview_Deleted_Scene-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> - If Caesar is the son of <a href="/wiki/Lucretius_Flickerman" title="Lucretius Flickerman">Lucretius Flickerman</a>, he would have been an infant during the 10th Hunger Games.</span>
+</li>
+<li id="cite_note-THG_9-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_9_2-0">2.0</a></sup> <sup><a href="#cite_ref-THG_9_2-1">2.1</a></sup> <sup><a href="#cite_ref-THG_9_2-2">2.2</a></sup> <sup><a href="#cite_ref-THG_9_2-3">2.3</a></sup> <sup><a href="#cite_ref-THG_9_2-4">2.4</a></sup> <sup><a href="#cite_ref-THG_9_2-5">2.5</a></sup> <sup><a href="#cite_ref-THG_9_2-6">2.6</a></sup> <sup><a href="#cite_ref-THG_9_2-7">2.7</a></sup> <sup><a href="#cite_ref-THG_9_2-8">2.8</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-CF_14-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_14_3-0">3.0</a></sup> <sup><a href="#cite_ref-CF_14_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-THG_10-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_10_4-0">4.0</a></sup> <sup><a href="#cite_ref-THG_10_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-THG_27-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_27_5-0">5.0</a></sup> <sup><a href="#cite_ref-THG_27_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-THG-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_6-0">6.0</a></sup> <sup><a href="#cite_ref-THG_6-1">6.1</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></span>
+</li>
+<li id="cite_note-CF_17-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_17_7-0">7.0</a></sup> <sup><a href="#cite_ref-CF_17_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-CF_18-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_18_8-0">8.0</a></sup> <sup><a href="#cite_ref-CF_18_8-1">8.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-MJ_2-9"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_2_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-MJ_8-10"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_8_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-MJ_9-11"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_9_11-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-MJ-1-12"><span class="mw-cite-backlink"><a href="#cite_ref-MJ-1_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></span>
+</li>
+<li id="cite_note-MJ-2-13"><span class="mw-cite-backlink"><a href="#cite_ref-MJ-2_13-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span>
+</li>
+<li id="cite_note-Ballad_film-14"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_film_14-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-Interview_Deleted_Scene-16"><span class="mw-cite-backlink"><a href="#cite_ref-Interview_Deleted_Scene_16-0">↑</a></span> <span class="reference-text"> Tribute Interviews Deleted Scene: <a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.youtube.com/watch?v=Cinpd3zlqjU">https://www.youtube.com/watch?v=Cinpd3zlqjU</a> </span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <strong class="mw-selflink selflink">Caesar Flickerman</strong> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20260102220335
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.074 seconds
+Real time usage: 0.101 seconds
+Preprocessor visited node count: 579/1000000
+Post‐expand include size: 4124/2097152 bytes
+Template argument size: 479/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 14133/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   66.450      1 -total
+ 62.22%   41.344      1 Template:Character
+ 14.19%    9.432      1 Template:Reflist
+  2.34%    1.557      2 Template:Quote
+  2.32%    1.541      2 Template:THG
+  2.05%    1.363      1 Template:SOTRNav
+  2.01%    1.337      1 Template:BSS
+  1.90%    1.260      1 Template:SOTR
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2297-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102220335 and revision id 968072. Rendering was triggered because: edit-page
+ -->
+</div>

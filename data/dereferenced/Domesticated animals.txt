@@ -1,0 +1,31 @@
+Location
+District 12
+Cat
+Canary
+Dog
+Goat
+Goose
+Pig
+
+District 10
+This district's industry is livestock, so they are responsible for the meat supply. Bolded entries are confirmed district exports, while the others are suspected based on food items served or by butchers.
+Beef cattle
+Chicken
+Horse
+Pig
+Sheep
+
+Other districts
+District 13
+Cut off from the rest, this district had to become self-sufficient, building its own underground farms to sustain its population. In addition to growing crops, they raised chickens. They also had milk; since they lacked the space for cows, sheep, or horses to graze, and since the taste was not commented on as being different, it was likely goat's milk.
+
+The Capitol
+Cat
+Dog
+Fish
+Horse - used to pull chariots in the Tribute Parade
+Parrot
+
+Miscellaneous
+Dairy cattle
+Goat

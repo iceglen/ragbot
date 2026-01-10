@@ -1,0 +1,129 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">70th Hunger Games</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+	
+		<h3 class="pi-data-label pi-secondary-font">Type</h3>
+	
+	<div class="pi-data-value pi-font">Regular</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="district">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor's home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_4" title="District 4">District 4</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arena">
+	
+		<h3 class="pi-data-label pi-secondary-font">Arena</h3>
+	
+	<div class="pi-data-value pi-font">Dam</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/69th_Hunger_Games" title="69th Hunger Games">69th Hunger Games</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/71st_Hunger_Games" title="71st Hunger Games">71st Hunger Games</a></div>
+</div>
+</aside>
+
+</p><p>The <b>70th Hunger Games</b>&#160;was an edition of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> that took place four years before the <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy">trilogy</a>. The <a href="/wiki/Victor" title="Victor">victor</a> was <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a>, the female tribute from <a href="/wiki/District_4" title="District 4">District 4</a>.<sup id="cite_ref-CF_24_1-0" class="reference"><a href="#cite_note-CF_24-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Summary"><span class="tocnumber">1</span> <span class="toctext">Summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Known_tributes"><span class="tocnumber">1.1</span> <span class="toctext">Known tributes</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#The_Games"><span class="tocnumber">1.2</span> <span class="toctext">The Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Aftermath"><span class="tocnumber">1.3</span> <span class="toctext">Aftermath</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Trivia"><span class="tocnumber">2</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F70th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Known_tributes">Known tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F70th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> - <a href="/wiki/District_4" title="District 4">District 4</a> (victor)</li>
+<li><a href="/wiki/District_4_male_(70th_HG)" title="District 4 male (70th HG)">District 4 male</a> - District 4</li></ul>
+<h3><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F70th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At some point during the Games, Annie saw the boy from her district get beheaded. Traumatized, she ran off by herself and hid from her competitors. An earthquake broke a dam, flooding most of the <a href="/wiki/Arena" title="Arena">arena</a>; however, Annie came from the fishing district, so she outlasted the other tributes because she was the best swimmer.<sup id="cite_ref-CF_24_1-1" class="reference"><a href="#cite_note-CF_24-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/4c/Annie_being_reaped_a_second_time.jpg/revision/latest?cb=20160130135037" class="mw-file-description image"><img alt="Annie being reaped a second time" src="https://static.wikia.nocookie.net/thehungergames/images/4/4c/Annie_being_reaped_a_second_time.jpg/revision/latest/scale-to-width-down/180?cb=20160130135037" decoding="async" loading="lazy" width="180" height="135" class="thumbimage" data-image-name="Annie being reaped a second time.jpg" data-image-key="Annie_being_reaped_a_second_time.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Annie_being_reaped_a_second_time.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Annie being reaped for the third Quarter Quell in <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F70th_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> couldn't recall ever seeing Annie at the Games again,<sup id="cite_ref-CF_24_1-2" class="reference"><a href="#cite_note-CF_24-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> and when she was <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaped</a> for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> five years later, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> described her as being "hysterical" before <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> <a href="/wiki/Volunteer" title="Volunteer">volunteered</a> to take her place.<sup id="cite_ref-CF_14_2-0" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> When Katniss later personally met her, she noticed that Annie "[laughed] at odds points in the conversation or [dropped] out of it entirely".<sup id="cite_ref-MJ_16_3-0" class="reference"><a href="#cite_note-MJ_16-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> Annie also seemed to <a href="https://en.wikipedia.org/wiki/Dissociation_(psychology)" class="extiw" title="wikipedia:Dissociation (psychology)">dissociate</a><sup id="cite_ref-MJ_17_4-0" class="reference"><a href="#cite_note-MJ_17-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> and/or hallucinate; <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> said she asked him when she was uncertain if something was real.<sup id="cite_ref-MJ_19_5-0" class="reference"><a href="#cite_note-MJ_19-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F70th_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Katniss did not remember the 70th Hunger Games particularly well because it happened the summer after <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">her father</a> died, when she was just beginning to run the household.<sup id="cite_ref-CF_24_1-3" class="reference"><a href="#cite_note-CF_24-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>This also marked the first year that Katniss was eligible to have her name entered into the reaping.<sup id="cite_ref-CF_24_1-4" class="reference"><a href="#cite_note-CF_24-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li></ul></li>
+<li>The District 4 male was the second tribute known to be beheaded in the Games, with  <a href="/wiki/Wellie" title="Wellie">Wellie</a> in the 50th Hunger Games in <a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a> being the other.
+<ul><li>However, many characters were decapitated by <a href="/wiki/Lizard_mutt" title="Lizard mutt">lizard mutts</a> during the <a href="/wiki/Battle_of_the_Capitol" title="Battle of the Capitol">Battle of the Capitol</a>, including <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> and various members of <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a>. Annie's husband, Finnick, was one of the mutts' victims.<sup id="cite_ref-MJ_22_6-0" class="reference"><a href="#cite_note-MJ_22-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F70th_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-CF_24-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_24_1-0">1.0</a></sup> <sup><a href="#cite_ref-CF_24_1-1">1.1</a></sup> <sup><a href="#cite_ref-CF_24_1-2">1.2</a></sup> <sup><a href="#cite_ref-CF_24_1-3">1.3</a></sup> <sup><a href="#cite_ref-CF_24_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-CF_14-2"><span class="mw-cite-backlink"><a href="#cite_ref-CF_14_2-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 14</span>
+</li>
+<li id="cite_note-MJ_16-3"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_16_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-MJ_17-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_17_4-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 17</span>
+</li>
+<li id="cite_note-MJ_19-5"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_19_5-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 19</span>
+</li>
+<li id="cite_note-MJ_22-6"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_22_6-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 22</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260105015856
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.040 seconds
+Real time usage: 0.062 seconds
+Preprocessor visited node count: 217/1000000
+Post‐expand include size: 185/2097152 bytes
+Template argument size: 35/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3023/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   34.326      1 -total
+ 49.61%   17.030      1 Template:Games
+ 20.53%    7.047      1 Template:Reflist
+  3.96%    1.361      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2726-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105015856 and revision id 965941. Rendering was triggered because: page-view
+ -->
+</div>

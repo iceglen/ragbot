@@ -1,0 +1,128 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Catacombs</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/63/Katniss-with-peacekeepers-hunger-games1.jpg/revision/latest?cb=20111120025426" class="image image-thumbnail" title="Katniss-with-peacekeepers-hunger-games1">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/6/63/Katniss-with-peacekeepers-hunger-games1.jpg/revision/latest/scale-to-width-down/268?cb=20111120025426" srcset="https://static.wikia.nocookie.net/thehungergames/images/6/63/Katniss-with-peacekeepers-hunger-games1.jpg/revision/latest/scale-to-width-down/268?cb=20111120025426 1x, https://static.wikia.nocookie.net/thehungergames/images/6/63/Katniss-with-peacekeepers-hunger-games1.jpg/revision/latest/scale-to-width-down/536?cb=20111120025426 2x" class="pi-image-thumbnail" data-relevant="1" alt="Katniss-with-peacekeepers-hunger-games1" width="270" height="180" data-image-key="Katniss-with-peacekeepers-hunger-games1.jpg" data-image-name="Katniss-with-peacekeepers-hunger-games1.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font">Below each <a href="/wiki/Arena" title="Arena">arena</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="yearsinservice">
+	
+		<h3 class="pi-data-label pi-secondary-font">Years in Service</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th Hunger Games</a> – <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Unknown</div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></li><li><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>catacombs</b>, also known as  <b>Sub-A</b>,<sup id="cite_ref-Sunrise_10_1-0" class="reference"><a href="#cite_note-Sunrise_10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> was a huge subterranean floor built underneath the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> <a href="/wiki/Arena" title="Arena">arenas</a> with a series of underground passages and chambers.<sup id="cite_ref-THG_10_2-0" class="reference"><a href="#cite_note-THG_10-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose"><span class="tocnumber">1</span> <span class="toctext">Purpose</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Launch_Rooms"><span class="tocnumber">1.1</span> <span class="toctext">Launch Rooms</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Muttations"><span class="tocnumber">1.2</span> <span class="toctext">Muttations</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Tourism"><span class="tocnumber">1.3</span> <span class="toctext">Tourism</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCatacombs%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During each Games, the catacombs housed <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> who carried out manual tasks like releasing muttations and stocking up for a feast. Its existence was kept secret to keep up the pretense that the Games were controlled entirely from afar. The most important task here was managing the onsite computer system, which was integral when running the Games and kept in a restricted area with high-tech security. It also created and maintained the tribute ecosystem; providing the electricity, plumbing, heating, cooling, and ventilation among other things. Part of this was a giant water tank. They were reached from the arena by ladders through hatches hidden by the natural environment on the ground of the arena.<sup id="cite_ref-Sunrise_10_1-1" class="reference"><a href="#cite_note-Sunrise_10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Launch_Rooms">Launch Rooms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCatacombs%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/Launch_Room" title="Launch Room">Launch Room</a></i></center></div>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/87/The-Hunger-Games-52.jpg/revision/latest?cb=20120310213842" class="mw-file-description image"><img alt="Katniss Everdeen and Cinna in her Launch Room." src="https://static.wikia.nocookie.net/thehungergames/images/8/87/The-Hunger-Games-52.jpg/revision/latest/scale-to-width-down/180?cb=20120310213842" decoding="async" loading="lazy" width="180" height="123" class="thumbimage" data-image-name="The-Hunger-Games-52.jpg" data-image-key="The-Hunger-Games-52.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:The-Hunger-Games-52.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss and <a href="/wiki/Cinna" title="Cinna">Cinna</a> in her Launch Room.</p> 		 	</figcaption> </figure>
+<p>Within the catacombs, each <a href="/wiki/Tribute" title="Tribute">tribute</a> had a Launch Room where they were prepared by their <a href="/wiki/Stylist" title="Stylist">stylist</a> just before the Games began. When the time came, the tributes all stood on top of metal platforms and were lifted through <a href="/wiki/Tribute_tube" title="Tribute tube">tribute tubes</a> into the arena.<sup id="cite_ref-THG_10_2-1" class="reference"><a href="#cite_note-THG_10-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Muttations">Muttations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCatacombs%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gamemakers launched their <a href="/wiki/Muttation" title="Muttation">muttations</a> from the catacombs, then called them back when they were done.<sup id="cite_ref-Sunrise_10_1-2" class="reference"><a href="#cite_note-Sunrise_10-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Tourism">Tourism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCatacombs%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Prior to the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, arenas and their catacombs became vacation spots for <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a> citizens to tour after the Games concluded.<sup id="cite_ref-THG_10_2-2" class="reference"><a href="#cite_note-THG_10-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> However, after the war, the Hunger Games were abolished and all past arenas were "completely destroyed".<sup id="cite_ref-MJ_Epilogue_4-0" class="reference"><a href="#cite_note-MJ_Epilogue-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> This presumably included the catacombs underneath.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCatacombs%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/cd/Haymitchinfiltration.jpg/revision/latest?cb=20251121011946" class="mw-file-description image"><img alt=" entering the Catacombs." src="https://static.wikia.nocookie.net/thehungergames/images/c/cd/Haymitchinfiltration.jpg/revision/latest/scale-to-width-down/180?cb=20251121011946" decoding="async" loading="lazy" width="180" height="96" class="thumbimage" data-image-name="Haymitchinfiltration.jpg" data-image-key="Haymitchinfiltration.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Haymitchinfiltration.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Haymitch" class="mw-redirect" title="Haymitch">Haymitch</a> entering the Catacombs.</p> 		 	</figcaption> </figure>
+<p>During the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, the hatches to Sub-A were hidden by berms. Carrying out <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>'s plan, <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> and <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> pried one open and sabotaged the water tank on the second night with an explosion to break the arena. It was moderately successful at damaging the arena's systems, but the backup generator kicked in to resupply power. The Gamemakers retaliated by sending vicious mutts to attack Ampert.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> Later in the Games, three Gamemakers were sent to repair one of the mutt portals. Haymitch, <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>, <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a>, and <a href="/wiki/Maritte" title="Maritte">Maritte</a> caught them, and Maysilee and Maritte attacked and killed them when they tried to retreat back into Sub-A.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>During the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> watched <a href="/wiki/Wolf_mutt" title="Wolf mutt">wolf mutts</a> exit the arena this way through a hole that opened up in the ground.<sup id="cite_ref-THG_25_7-0" class="reference"><a href="#cite_note-THG_25-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCatacombs%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Sunrise_10-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Sunrise_10_1-0">1.0</a></sup> <sup><a href="#cite_ref-Sunrise_10_1-1">1.1</a></sup> <sup><a href="#cite_ref-Sunrise_10_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-THG_10-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_10_2-0">2.0</a></sup> <sup><a href="#cite_ref-THG_10_2-1">2.1</a></sup> <sup><a href="#cite_ref-THG_10_2-2">2.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-MJ_Epilogue-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_Epilogue_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-THG_25-7"><span class="mw-cite-backlink"><a href="#cite_ref-THG_25_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 25</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260105080033
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.043 seconds
+Real time usage: 0.072 seconds
+Preprocessor visited node count: 492/1000000
+Post‐expand include size: 829/2097152 bytes
+Template argument size: 36/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3414/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   43.526      1 -total
+ 45.15%   19.653      1 Template:Location
+ 30.34%   13.204      1 Template:Reflist
+  4.41%    1.920      5 Template:SOTR
+  3.10%    1.348      2 Template:THG
+  2.84%    1.238      1 Template:MJ
+  2.63%    1.143      1 Template:Main
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542419-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105080033 and revision id 967357. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,485 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Burdock Everdeen</h2>
+
+	<div class="pi-image-collection wds-tabber" data-source="image">
+		<div class="wds-tabs__wrapper">
+			<ul class="wds-tabs">
+				
+					<li class="wds-tabs__tab wds-is-current">
+						<span class="wds-tabs__tab-label">
+							Adult
+							
+						</span>
+					</li>
+				
+					<li class="wds-tabs__tab">
+						<span class="wds-tabs__tab-label">
+							Teen
+							
+						</span>
+					</li>
+				
+			</ul>
+		</div>
+		
+			<div class="wds-tab__content wds-is-current">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a5/Sr.Everdeen.png/revision/latest?cb=20140504225522" class="image image-thumbnail" title="Adult">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/a/a5/Sr.Everdeen.png/revision/latest/scale-to-width-down/268?cb=20140504225522" srcset="https://static.wikia.nocookie.net/thehungergames/images/a/a5/Sr.Everdeen.png/revision/latest/scale-to-width-down/268?cb=20140504225522 1x, https://static.wikia.nocookie.net/thehungergames/images/a/a5/Sr.Everdeen.png/revision/latest?cb=20140504225522 2x" data-relevant="1" class="pi-image-thumbnail" alt="Adult" width="270" height="281" data-image-key="Sr.Everdeen.png" data-image-name="Sr.Everdeen.png">
+						
+					</a>
+				</figure>
+			</div>
+		
+			<div class="wds-tab__content">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/8/81/BurdockSOTR.jpeg/revision/latest?cb=20251120170512" class="image image-thumbnail" title="Teen">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/8/81/BurdockSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120170512" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/81/BurdockSOTR.jpeg/revision/latest/scale-to-width-down/268?cb=20251120170512 1x, https://static.wikia.nocookie.net/thehungergames/images/8/81/BurdockSOTR.jpeg/revision/latest/scale-to-width-down/536?cb=20251120170512 2x" data-relevant="1" class="pi-image-thumbnail" alt="Teen" width="270" height="302" data-image-key="BurdockSOTR.jpeg" data-image-name="BurdockSOTR.jpeg">
+						
+					</a>
+				</figure>
+			</div>
+		
+	</div>
+
+
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>14-15 <small>(<i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>)</small><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li><li>34-35 <small>(at death)</small><sup id="cite_ref-CF_24_2-0" class="reference"><a href="#cite_note-CF_24-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Burdie <small>(by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>)</small><sup id="cite_ref-SR1_5-0" class="reference"><a href="#cite_note-SR1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Coal_miner" title="Coal miner">Coal miner</a><sup id="cite_ref-THG_22_3-0" class="reference"><a href="#cite_note-THG_22-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></li><li>Hunter<sup id="cite_ref-THG_7_4-0" class="reference"><a href="#cite_note-THG_7-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Seam" title="The Seam">The Seam</a> in <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> † <small>(distant cousin)</small></li><li><a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid Everdeen</a> <small>(wife)</small></li><li><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> <small>(oldest daughter)</small></li><li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> † <small>(youngest daughter)</small></li><li><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> <small>(son-in-law)</small></li><li><a href="/wiki/Katniss_and_Peeta_Mellark%27s_daughter" title="Katniss and Peeta Mellark's daughter">Unnamed granddaughter</a></li><li><a href="/wiki/Katniss_and_Peeta_Mellark%27s_son" title="Katniss and Peeta Mellark's son">Unnamed grandson</a></li><li><a href="/wiki/Covey" title="Covey">The Covey</a> <small>(implied/distant/supposed family)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bow_and_arrow" title="Bow and arrow">Bow and arrow</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font">Gray <small>(books)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Black <small>(books)</small></li><li>Brown <small>(film)</small></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></li><li><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></li><li><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games</a></i> <small>(flashbacks)</small></li><li><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i> (upcoming)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="moviemention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i><br><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Phillip_Troy_Linger" title="Phillip Troy Linger">Phillip Troy Linger</a></li><li><a href="/wiki/Scot_Greenan" title="Scot Greenan">Scot Greenan</a> (SOTR)</li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Burdock Everdeen</b>, nicknamed "<b>Burdie</b>" by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>,<sup id="cite_ref-SR1_5-1" class="reference"><a href="#cite_note-SR1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> was the father of <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> and <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose</a> Everdeen, as well as being <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid Everdeen</a>'s husband. He lived and worked inside the gates of <a href="/wiki/District_12" title="District 12">District 12</a> as a <a href="/wiki/Coal_miner" title="Coal miner">coal miner</a>, poacher, and Katniss's teacher when it came to hunting in the <a href="/wiki/Woods" title="Woods">woods</a>, singing, and making good quality <a href="/wiki/Bow_and_arrow" title="Bow and arrow">bows</a>.<sup id="cite_ref-THG_1_6-0" class="reference"><a href="#cite_note-THG_1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> His teachings are what allowed her to support her family after he died, and herself while she was in the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>.<sup id="cite_ref-THG_2_7-0" class="reference"><a href="#cite_note-THG_2-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_4_8-0" class="reference"><a href="#cite_note-THG_4-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Death"><span class="tocnumber">1.1</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Relationships"><span class="tocnumber">3</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Haymitch_Abernathy"><span class="tocnumber">3.1</span> <span class="toctext">Haymitch Abernathy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Family"><span class="tocnumber">4</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Etymology"><span class="tocnumber">7</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="51563" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What skills did Mr. Everdeen teach Katniss that helped her survive the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mr. Everdeen imparted survival skills to Katniss Everdeen that proved crucial in the Hunger Games. He trained her in hunting, crafting high-quality bows, and understanding woodcraft. Additionally, Katniss inherited her father's beautiful singing voice, which played a significant role in her survival.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51564" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Mr. Everdeen's death impact Katniss's life?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mr. Everdeen's death in a mining accident led to a significant shift in Katniss's life. His demise plunged Mrs. Everdeen into severe depression, causing her to neglect her children. Consequently, Katniss had to assume the role of the family's provider, utilizing the foraging and hunting skills her father had taught her. This event not only burdened her with responsibilities but also molded her into a resilient survivor.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51565" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Mr. Everdeen's occupation in District 12?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In District 12, Mr. Everdeen worked as a coal miner and a hunter. He imparted vital skills to his daughter, Katniss, including hunting, crafting quality bows, and singing. These skills later became crucial for Katniss in providing for her family post his demise and while participating in the Hunger Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51566" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why didn't Peeta's father buy Mr. Everdeen's entry out of the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						There's no mention in the source material that Peeta's father had the option or ability to buy Mr. Everdeen's entry out of the Hunger Games. The games are compulsory for all eligible children in the districts. The connection between Peeta's father and the Everdeen family is that he initially desired to marry Katniss's mother, but this doesn't imply he could influence the games' selection process.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Burdock Everdeen","mainEntity":[{"@type":"Question","name":"What skills did Mr. Everdeen teach Katniss that helped her survive the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Mr. Everdeen imparted survival skills to Katniss Everdeen that proved crucial in the Hunger Games. He trained her in hunting, crafting high-quality bows, and understanding woodcraft. Additionally, Katniss inherited her father's beautiful singing voice, which played a significant role in her survival."}},{"@type":"Question","name":"How did Mr. Everdeen's death impact Katniss's life?","acceptedAnswer":{"@type":"Answer","text":"Mr. Everdeen's death in a mining accident led to a significant shift in Katniss's life. His demise plunged Mrs. Everdeen into severe depression, causing her to neglect her children. Consequently, Katniss had to assume the role of the family's provider, utilizing the foraging and hunting skills her father had taught her. This event not only burdened her with responsibilities but also molded her into a resilient survivor."}},{"@type":"Question","name":"What was Mr. Everdeen's occupation in District 12?","acceptedAnswer":{"@type":"Answer","text":"In District 12, Mr. Everdeen worked as a coal miner and a hunter. He imparted vital skills to his daughter, Katniss, including hunting, crafting quality bows, and singing. These skills later became crucial for Katniss in providing for her family post his demise and while participating in the Hunger Games."}},{"@type":"Question","name":"Why didn't Peeta's father buy Mr. Everdeen's entry out of the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"There's no mention in the source material that Peeta's father had the option or ability to buy Mr. Everdeen's entry out of the Hunger Games. The games are compulsory for all eligible children in the districts. The connection between Peeta's father and the Everdeen family is that he initially desired to marry Katniss's mother, but this doesn't imply he could influence the games' selection process."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Burdock Everdeen was a friend of Haymitch Abernathy when they were children. Burdock used to sneak out of District 12 under the fence "all the time". When they were ten, he encouraged Haymitch to go under the fence and into the woods for the first time.<sup id="cite_ref-SR1_5-2" class="reference"><a href="#cite_note-SR1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Burdock was said to have had a beautiful voice, just like his daughter, Katniss<sup id="cite_ref-THG_22_3-1" class="reference"><a href="#cite_note-THG_22-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>, and it was claimed that even the birds would stop to listen when he sang<sup id="cite_ref-THG_3_9-0" class="reference"><a href="#cite_note-THG_3-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. On the way, he sang and showed Haymitch how the <a href="/wiki/Mockingjay" title="Mockingjay">mockingjays</a> would sing back. He then introduced Haymitch to his cousin, <a href="/wiki/Lenore_Dove" class="mw-redirect" title="Lenore Dove">Lenore Dove</a>, who Haymitch would later fall in love with.<sup id="cite_ref-SR1_5-3" class="reference"><a href="#cite_note-SR1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>When he was a teenager, he started hunting and trading game. He owned and cherished arrows made by <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a>. He also took up wildcrafting and traded them in the apothecary to <a href="/wiki/Asterid_March" class="mw-redirect" title="Asterid March">Asterid March</a>, a healer from the <a href="/wiki/Merchant" title="Merchant">merchant</a> area of District 12, while he was from <a href="/wiki/The_Seam" title="The Seam">the Seam</a>.<sup id="cite_ref-SR1_5-4" class="reference"><a href="#cite_note-SR1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> He impressed her with his singing voice.<sup id="cite_ref-THG_22_3-2" class="reference"><a href="#cite_note-THG_22-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Burdock and Haymitch used to sneak into the empty <a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> and peek into the windows.<sup id="cite_ref-SR11_10-0" class="reference"><a href="#cite_note-SR11-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> On the day of the reaping for the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, he went to the apothecary and gave her a sprig of chamomile for good luck.<sup id="cite_ref-SR1_5-5" class="reference"><a href="#cite_note-SR1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> After <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> was reaped, he saved <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> by punching his knee to get him on the ground and out of the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>' line of fire.<sup id="cite_ref-SR2_11-0" class="reference"><a href="#cite_note-SR2-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p><p>Burdock tried to help when the home of <a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae</a> and <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> was burned down. He stopped Haymitch from running into the fire and held onto him, asking Asterid to help soothe his pain with <a href="/wiki/Sleep_syrup" title="Sleep syrup">sleep syrup</a>. Later, Burdock was one of the people that carried Willamae and Sid's coffin. He and <a href="/wiki/Blair" title="Blair">Blair</a> caught Haymitch after he collapsed in grief, taking him to his new home in the <a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> and staying there overnight after bringing hand-me-down clothes and more sleep syrup.<sup id="cite_ref-SR26_12-0" class="reference"><a href="#cite_note-SR26-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> Following <a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a>'s death and Haymitch's subsequent withdrawal from his friends, Burdock and Asterid stayed with him longer than anyone else, only stopping when Haymitch threw a rock at Asterid.<sup id="cite_ref-SR27_13-0" class="reference"><a href="#cite_note-SR27-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p><p>Burdock found Haymitch in the woods weeks later, still searching for Lenore Dove. He led him to the <a href="/wiki/Covey" title="Covey">Covey</a> graveyard before leaving.<sup id="cite_ref-SR27_13-1" class="reference"><a href="#cite_note-SR27-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p><p>Sometime later, Burdock and Asterid married and had two daughters named Katniss and Prim together. Their lives were considerably different, and it was a big change for both of them to be together and to move on to their new life.<sup id="cite_ref-THG_1_6-1" class="reference"><a href="#cite_note-THG_1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> He taught his daughters <a href="/wiki/The_Hanging_Tree_(song)" title="The Hanging Tree (song)">"The Hanging Tree" song</a>, but Asterid yelled at him when she found the girls singing it and making rope necklaces. After that, he told Katniss they'd "better not sing that song anymore."<sup id="cite_ref-MJ_9_14-0" class="reference"><a href="#cite_note-MJ_9-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> He also taught Katniss survival skills in the woods and introduced her to the lake, she definitely looked up to her father.
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Mr._Everdeen.png/revision/latest?cb=20140217003859" class="mw-file-description image"><img alt="Mr" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="216" class="thumbimage lazyload" data-image-name="Mr. Everdeen.png" data-image-key="Mr._Everdeen.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Mr._Everdeen.png/revision/latest/scale-to-width-down/180?cb=20140217003859"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Mr._Everdeen.png/revision/latest?cb=20140217003859" class="mw-file-description image"><img alt="Mr" src="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Mr._Everdeen.png/revision/latest/scale-to-width-down/180?cb=20140217003859" decoding="async" loading="lazy" width="180" height="216" class="thumbimage" data-image-name="Mr. Everdeen.png" data-image-key="Mr._Everdeen.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c3/Mr._Everdeen.png/revision/latest/scale-to-width-down/180?cb=20140217003859"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mr._Everdeen.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mr. Everdeen in Katniss's flashback</p> 		 	</figcaption> </figure>
+<p>Mr. Everdeen died in a mine explosion in January five years before the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>. The explosion killed both him and <a href="/wiki/Mr._Hawthorne" title="Mr. Hawthorne">Mr. Hawthorne</a> as well as other workers<sup id="cite_ref-THG_8_15-0" class="reference"><a href="#cite_note-THG_8-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>, who were either vaporized or blown into bits<sup id="cite_ref-THG_1_6-2" class="reference"><a href="#cite_note-THG_1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>.
+</p><p>That day, sirens went off and all the kids were herded out of <a href="/wiki/School" title="School">school</a> to the entrance of the mine. The elevator brought up many men, but Katniss' father and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a>'s father never emerged and were instantly presumed dead.<sup id="cite_ref-MJ_15_16-0" class="reference"><a href="#cite_note-MJ_15-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>
+</p><p>Katniss had many nightmares about that day, which involved her screaming and telling her father to escape the mine before it exploded<sup id="cite_ref-THG_1_6-3" class="reference"><a href="#cite_note-THG_1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_7_4-1" class="reference"><a href="#cite_note-THG_7-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. Later, Katniss met Gale for the first time when they were given the Medal of Honor for their fathers' sacrifices.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As an adolescent, his voice was "high and sweet like a grown-up woman's but cleaner, nothing warbly about it."<sup id="cite_ref-SR1_5-6" class="reference"><a href="#cite_note-SR1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> According to Katniss, Mr. Everdeen liked to sing, swim, and hunt, and he had a very level head. He taught Katniss all of these things, and many songs as well<sup id="cite_ref-MJ_27_17-0" class="reference"><a href="#cite_note-MJ_27-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>.  He was well-liked all over District 12, his wife even leaving her merchant life for the Seam<sup id="cite_ref-THG_1_6-4" class="reference"><a href="#cite_note-THG_1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>.
+</p><p>In addition to being a loving father, Mr. Everdeen also seemed to have a rebellious streak, a trait inherited by his eldest daughter. For example, his work as a hunter and gatherer in the woods surrounding District 12 was technically illegal, although the relatively lenient government officials of District 12 allowed it, as they were among the customers who bought the hunted animals<sup id="cite_ref-THG_1_6-5" class="reference"><a href="#cite_note-THG_1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Haymitch_Abernathy"><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: Sunrise on the Reaping">"<i>He has not forgiven me, will never, but is not beyond pity. Perhaps because he knows what it is to love.</i>"</span></dd>
+<dd>—Haymitch Abernathy<sup class="noprint"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">[src]</a></sup></dd></dl></div>
+<p>Burdock and Haymitch were good friends as children and young men. He encouraged Haymitch to take risks, such as venturing beyond the <a href="/wiki/Fence" title="Fence">fence</a>,<sup id="cite_ref-SR1_5-7" class="reference"><a href="#cite_note-SR1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> and the two sometimes went skinny dipping together.<sup id="cite_ref-SR_5_18-0" class="reference"><a href="#cite_note-SR_5-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup> Burdock comforted Haymitch following the deaths of his family and girlfriend. After Haymitch injured Asterid in an attempt to get them to stop coming by, Burdock never forgave him, but still showed him the location of Lenore Dove's grave, revealing he still cared about Haymitch despite ending their friendship.<sup id="cite_ref-SR27_13-2" class="reference"><a href="#cite_note-SR27-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>His only known family members are his two children, Katniss and Primrose Everdeen, and his wife, <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid</a>. <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> later became his son-in-law, and he and Katniss bore him two grandchildren, a <a href="/wiki/Katniss_and_Peeta_Mellark%27s_daughter" title="Katniss and Peeta Mellark's daughter">girl</a> and a <a href="/wiki/Katniss_and_Peeta_Mellark%27s_son" title="Katniss and Peeta Mellark's son">boy</a><sup id="cite_ref-MJ_E_19-0" class="reference"><a href="#cite_note-MJ_E-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup>, but he didn't live to see it. He was a distant cousin to <a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a>. <sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup> and said to be related to the <a href="/wiki/Covey" title="Covey">Covey</a> (although the depth of the relation is not clarified, given that he is not shown to be a part of the Covey culture and lacks the color in his name, unlike Lenore Dove).
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-1" hash="5145d26db879fcb137abc71d230e4916" data-seq-no="1" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:79px;"><div class="gallery-image-wrapper accent" id="Hunger-games-movie-screencaps-com-10576-jpg" style="position: relative; height:77px; width:185px;"><a class="image lightbox" href="/wiki/File:Hunger-games-movie-screencaps.com-10576.jpg" title="Hunger-games-movie-screencaps.com-10576.jpg (765 KB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/9/99/Hunger-games-movie-screencaps.com-10576.jpg/revision/latest/scale-to-width-down/185?cb=20250321182234" title="Hunger-games-movie-screencaps.com-10576.jpg (765 KB)" class="thumbimage" alt="" height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-10576.jpg" data-image-key="Hunger-games-movie-screencaps.com-10576.jpg" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hunger-games-movie-screencaps.com-10576.jpg (765 KB)" class="thumbimage lazyload" alt="" height="77" width="185" data-image-name="Hunger-games-movie-screencaps.com-10576.jpg" data-image-key="Hunger-games-movie-screencaps.com-10576.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/9/99/Hunger-games-movie-screencaps.com-10576.jpg/revision/latest/scale-to-width-down/185?cb=20250321182234"></a></div></div></div></div>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Various facts about <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, the winner of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, prompted fan speculation that she could be a relative of Katniss and her father, either through one of her cousins (most popularly Maude Ivory or Barb Azure) or as a direct ancestor (making her Katniss's paternal grandmother or great-grandmother).
+<ul><li>Lucy Gray wrote The Hanging Tree, a song Mr. Everdeen taught to Katniss, and that was only sung once in public, not enough for the average person to learn it, meaning someone from the Covey or a Seam citizen who heard it in the Hob could have taught it to him. Lucy Gray also mentioned that Maude Ivory could memorize a song after just one listen, so she may have been able to repeat it.</li>
+<li>Lucy Gray and the Covey lived in the Seam, which is where Katniss' father was from.</li>
+<li>Lucy Gray knew of wild herbs such as katniss and stated her preference for that name, maybe becoming an influence for later naming his daughter that way.</li>
+<li>Lucy Gray and the rest of the Covey knew of the lake and the cabin outside of District 12.</li>
+<li>The Covey collected milk from their pet goat Shamus, similar to Primrose Everdeen with her goat Lady.</li>
+<li>Lucy Gray performed <a href="/wiki/The_Valley_Song" class="mw-redirect" title="The Valley Song">The Valley Song</a>, which she may have written, in the Capitol Zoo and at the Hob — in the 74th Games, Peeta mentions that on the first day of school, Katniss was the only one in their class who knew the Valley Song.</li>
+<li>Lucy Gray used to sing the <a href="/wiki/Deep_in_the_Meadow_(Lullaby)" title="Deep in the Meadow (Lullaby)">Deep in the Meadow</a> lullaby to Maude Ivory, which Katniss used to sing to her sister Prim and also sang to Rue when she died.</li></ul></li>
+<li>He was younger than <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, possibly by a few weeks or months.<sup id="cite_ref-SR1_5-8" class="reference"><a href="#cite_note-SR1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>His surname, Everdeen, comes from Bathsheba Everdene, the main character in <i><a href="https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd" class="extiw" title="wikipedia:Far from the Madding Crowd">Far from the Madding Crowd</a></i>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup> The first name Burdock, comes from the burdock plant of the daisy family (Asteraceae), specifically the genus Arctium.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup> "Bur" refers to the plant's burrs (prickly seed vessels), and "dock" refers to the plant's large dock-like leaves.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup>  The hardy, deep-rooted burdock symbolizes resilience<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">[</span>24<span class="cite-bracket">]</span></a></sup>, aligning with Collins’ plant-based naming pattern, as Burdock remains a guiding force in Katniss’ life.<sup id="cite_ref-THG_1_6-6" class="reference"><a href="#cite_note-THG_1-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurdock_Everdeen%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 1 - Burdock was younger than Haymitch, yet still in the section roped off for boys 14-16 years old</span>
+</li>
+<li id="cite_note-CF_24-2"><span class="mw-cite-backlink"><a href="#cite_ref-CF_24_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-THG_22-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_22_3-0">3.0</a></sup> <sup><a href="#cite_ref-THG_22_3-1">3.1</a></sup> <sup><a href="#cite_ref-THG_22_3-2">3.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-THG_7-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_7_4-0">4.0</a></sup> <sup><a href="#cite_ref-THG_7_4-1">4.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-SR1-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR1_5-0">5.0</a></sup> <sup><a href="#cite_ref-SR1_5-1">5.1</a></sup> <sup><a href="#cite_ref-SR1_5-2">5.2</a></sup> <sup><a href="#cite_ref-SR1_5-3">5.3</a></sup> <sup><a href="#cite_ref-SR1_5-4">5.4</a></sup> <sup><a href="#cite_ref-SR1_5-5">5.5</a></sup> <sup><a href="#cite_ref-SR1_5-6">5.6</a></sup> <sup><a href="#cite_ref-SR1_5-7">5.7</a></sup> <sup><a href="#cite_ref-SR1_5-8">5.8</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-THG_1-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_1_6-0">6.0</a></sup> <sup><a href="#cite_ref-THG_1_6-1">6.1</a></sup> <sup><a href="#cite_ref-THG_1_6-2">6.2</a></sup> <sup><a href="#cite_ref-THG_1_6-3">6.3</a></sup> <sup><a href="#cite_ref-THG_1_6-4">6.4</a></sup> <sup><a href="#cite_ref-THG_1_6-5">6.5</a></sup> <sup><a href="#cite_ref-THG_1_6-6">6.6</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-THG_2-7"><span class="mw-cite-backlink"><a href="#cite_ref-THG_2_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-THG_4-8"><span class="mw-cite-backlink"><a href="#cite_ref-THG_4_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-THG_3-9"><span class="mw-cite-backlink"><a href="#cite_ref-THG_3_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-SR11-10"><span class="mw-cite-backlink"><a href="#cite_ref-SR11_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-SR2-11"><span class="mw-cite-backlink"><a href="#cite_ref-SR2_11-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-SR26-12"><span class="mw-cite-backlink"><a href="#cite_ref-SR26_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-SR27-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR27_13-0">13.0</a></sup> <sup><a href="#cite_ref-SR27_13-1">13.1</a></sup> <sup><a href="#cite_ref-SR27_13-2">13.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-MJ_9-14"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_9_14-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-THG_8-15"><span class="mw-cite-backlink"><a href="#cite_ref-THG_8_15-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-MJ_15-16"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_15_16-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-MJ_27-17"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_27_17-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-SR_5-18"><span class="mw-cite-backlink"><a href="#cite_ref-SR_5_18-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-MJ_E-19"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_E_19-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Page 7 "She [Lenore Dove] wasn't one of Burdock's Everdeen cousins, but I knew he had some distant ones on his mom's side."</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://ew.com/article/2010/08/12/suzanne-collins-on-the-books-she-loves/">https://ew.com/article/2010/08/12/suzanne-collins-on-the-books-she-loves/</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.biodiversitylibrary.org/page/358837#page/258/mode/1up">Linnaeus, Carl von. 1753. Species Plantarum 2: 816</a></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.etymonline.com/word/burdock">https://www.etymonline.com/word/burdock</a></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.summitlawnslincoln.com/blog/what-is-burdock">https://www.summitlawnslincoln.com/blog/what-is-burdock</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <strong class="mw-selflink selflink">Burdock Everdeen</strong> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20251227191025
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.206 seconds
+Real time usage: 0.316 seconds
+Preprocessor visited node count: 1276/1000000
+Post‐expand include size: 7227/2097152 bytes
+Template argument size: 320/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15055/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  157.848      1 -total
+ 43.96%   69.385      1 Template:Character
+ 27.23%   42.985      1 Template:Reflist
+  2.02%    3.189      7 Template:SOTR
+  1.90%    3.003      7 Template:THG
+  1.54%    2.433      3 Template:MJ
+  1.20%    1.892      1 Template:W
+  1.09%    1.717      1 Template:CF
+  0.93%    1.469      1 Template:SeriesTP
+  0.85%    1.340      1 Template:SOTRNav
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2292-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227191025 and revision id 967799. Rendering was triggered because: unknown
+ -->
+</div>

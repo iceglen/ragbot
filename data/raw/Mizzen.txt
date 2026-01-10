@@ -1,0 +1,333 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Mizzen</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Mizzen.jpg/revision/latest?cb=20231110151114" class="image image-thumbnail" title="Mizzen">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Mizzen.jpg/revision/latest/scale-to-width-down/268?cb=20231110151114" srcset="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Mizzen.jpg/revision/latest/scale-to-width-down/268?cb=20231110151114 1x, https://static.wikia.nocookie.net/thehungergames/images/0/0e/Mizzen.jpg/revision/latest/scale-to-width-down/535?cb=20231110151114 2x" class="pi-image-thumbnail" data-relevant="1" alt="Mizzen" width="270" height="269" data-image-key="Mizzen.jpg" data-image-name="Mizzen.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">13<sup id="cite_ref-Ballad_8_1-0" class="reference"><a href="#cite_note-Ballad_8-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Merciless Mizzen (by <a href="/wiki/Lucky_Flickerman" class="mw-redirect" title="Lucky Flickerman">Lucky Flickerman</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_4" title="District 4">District 4</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Weapons#Trident" title="Weapons">Trident</a></li><li><a href="/wiki/Weapons#Knife" title="Weapons">Knife</a></li><li>Net (film)</li><li>Spear (film)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Cooper_Dillon" title="Cooper Dillon">Cooper Dillon</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>After performing some kind of dance over Lamina's body, Tanner bounded over to them. Mizzen grinned and raised his hands for a victory slap. Tanner had just made contact when Coral drove the second trident into his back. He fell forward into Mizzen, who, braced by the pole, shoved him away. Tanner turned in a circle, one hand swatting uselessly behind him as if to dislodge the trident, but the barbed tines were deep. He fell to his knees, his expression more wounded than shocked, and collapsed facedown in the dirt. Mizzen finished him with a knife to the neck.</i>"</span></dd>
+<dd>—Mizzen and <a href="/wiki/Coral" title="Coral">Coral</a>'s betrayal of <a href="/wiki/Tanner" title="Tanner">Tanner</a>.<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Mizzen</b> was the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_4" title="District 4">District 4</a> during the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. He finished in 5th place of the 24 tributes. He was preceded in death by his <a href="/wiki/District_partner" title="District partner">district partner</a> <a href="/wiki/Coral" title="Coral">Coral</a> and followed by the female tribute from <a href="/wiki/District_3" title="District 3">District 3</a>, <a href="/wiki/Teslee" title="Teslee">Teslee</a>.  His mentor was <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a>. He was in an <a href="/wiki/Alliance" title="Alliance">alliance</a> with Coral and the male tribute from <a href="/wiki/District_10" title="District 10">District 10</a>, <a href="/wiki/Tanner" title="Tanner">Tanner</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#10th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Death"><span class="tocnumber">1.2</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Film_adaptation"><span class="tocnumber">1.3</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37341" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Mizzen's mentor during the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the 10th Hunger Games, Mizzen was mentored by Persephone Price. She supported him with resources from sponsors throughout the games. However, Mizzen's journey ended in 5th place following his demise.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37342" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Mizzen's final ranking in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Mizzen from District 4 achieved the 5th position. He formed an alliance with Coral and Tanner, and was mentored by Persephone Price. His demise came from a snake attack initiated by a drone in the arena. Mizzen was the youngest participant in these Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37343" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who were the members of Mizzen's alliance in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mizzen, a participant in the 10th Hunger Games, allied with Coral, his district partner, and Tanner, a male tribute from District 10. This alliance was notable for their confrontations with mentors Coriolanus Snow and Sejanus Plinth.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37344" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Mizzen's district partner in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Mizzen was paired with Coral from District 4. They teamed up with Tanner from District 10 during the games. Mizzen secured the 5th position among 24 participants.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37345" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Mizzen become the male tribute from District 4 in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mizzen, from District 4, was chosen as the male tribute during the Reaping for the 10th Hunger Games. He was moved to the Capitol in a cattle car and kept in the monkey house at the Capitol Zoo. In the Games, Mizzen allied with Coral and Tanner under the guidance of mentor Persephone Price.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Mizzen","mainEntity":[{"@type":"Question","name":"Who was Mizzen's mentor during the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"During the 10th Hunger Games, Mizzen was mentored by Persephone Price. She supported him with resources from sponsors throughout the games. However, Mizzen's journey ended in 5th place following his demise."}},{"@type":"Question","name":"What was Mizzen's final ranking in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Mizzen from District 4 achieved the 5th position. He formed an alliance with Coral and Tanner, and was mentored by Persephone Price. His demise came from a snake attack initiated by a drone in the arena. Mizzen was the youngest participant in these Games."}},{"@type":"Question","name":"Who were the members of Mizzen's alliance in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Mizzen, a participant in the 10th Hunger Games, allied with Coral, his district partner, and Tanner, a male tribute from District 10. This alliance was notable for their confrontations with mentors Coriolanus Snow and Sejanus Plinth."}},{"@type":"Question","name":"Who was Mizzen's district partner in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Mizzen was paired with Coral from District 4. They teamed up with Tanner from District 10 during the games. Mizzen secured the 5th position among 24 participants."}},{"@type":"Question","name":"How did Mizzen become the male tribute from District 4 in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Mizzen, from District 4, was chosen as the male tribute during the Reaping for the 10th Hunger Games. He was moved to the Capitol in a cattle car and kept in the monkey house at the Capitol Zoo. In the Games, Mizzen allied with Coral and Tanner under the guidance of mentor Persephone Price."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 100px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/91/Mizzen_reaping.jpg/revision/latest?cb=20240215030737" class="mw-file-description image"><img alt="Mizzen at the reaping." src="https://static.wikia.nocookie.net/thehungergames/images/9/91/Mizzen_reaping.jpg/revision/latest?cb=20240215030737" decoding="async" loading="lazy" width="100" height="142" class="thumbimage" data-image-name="Mizzen reaping.jpg" data-image-key="Mizzen_reaping.jpg" data-relevant="0"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mizzen_reaping.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mizzen at the reaping.</p> 		 	</figcaption> </figure>
+<p>Mizzen grew up in District 4 and became his district's male tribute in <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a> for the 10th Hunger Games.<sup id="cite_ref-Ballad_7_2-0" class="reference"><a href="#cite_note-Ballad_7-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Along with the other tributes, Mizzen was taken to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in a dirty cattle car. From there, they were dumped into the monkey house at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>.<sup id="cite_ref-Ballad_3_3-0" class="reference"><a href="#cite_note-Ballad_3-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Early in the Games, Mizzen, Coral, Tanner and <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> taunted and attacked mentors <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> and <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> as they were exiting the <a href="/wiki/Arena" title="Arena">arena</a> after the former successfully coaxed the latter to leave. Plinth originally exposed himself and Snow to Mizzen and his alliance when he entered to die in protest of the Games while holding a traditional death ceremony for his assigned <a href="/wiki/District_2" title="District 2">District 2</a> male tribute, former fellow childhood district community neighbor and classmate, <a href="/wiki/Marcus" title="Marcus">Marcus</a>.<sup id="cite_ref-Ballad_15_4-0" class="reference"><a href="#cite_note-Ballad_15-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> Mizzen was unsuccessful in killing either but the alliance was able to significantly injure both mentors, though Bobbin was killed in the assault.<sup id="cite_ref-Ballad_16_5-0" class="reference"><a href="#cite_note-Ballad_16-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>On the second day of the Games, he, Coral and Tanner teamed together to kill <a href="/wiki/Sol" title="Sol">Sol</a>, the female tribute from <a href="/wiki/District_5" title="District 5">District 5</a>. The alliance chased Sol until Coral speared Sol's throat with a trident.<sup id="cite_ref-Ballad_16_5-1" class="reference"><a href="#cite_note-Ballad_16-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>On the third day, Mizzen mounted one of two 20 foot vertical poles connecting an equal in length horizontal wooden beam where <a href="/wiki/Lamina" title="Lamina">Lamina</a>, the female tribute from <a href="/wiki/District_7" title="District 7">District 7</a>, had strategically placed herself from early in the Games. Coral climbed the other pole while Tanner took guard of the ground underneath. Mizzen made it up to the beam first but Tanner unsuccessfully threw up Mizzen's <a href="/wiki/Weapons#Trident" title="Weapons">trident</a>, allowing Lamina to fight him off the beam. Mizzen survived by catching the beam with one hand, but his knee was injured in the skirmish. Lamina had been too distracted by Mizzen's attempt and by the time she realized Coral had reached the beam, it had been too late to fight her off in the close proximity advantage she would need by wielding the <a href="/wiki/Weapons" title="Weapons">axe</a>. Lamina was then stabbed in the abdomen by Coral and fell to her death.
+</p><p>Coral and Mizzen then descend down the pole with Coral assisting him with his knee. Meanwhile, Tanner was doing some sort of victory dance over Lamina's corpse. As a smiling Mizzen initiated a "victory slap" with the District 10 boy, Coral snuck up from behind and speared Tanner through the back. Mizzen, furthering the betrayal, finished him off with a knife to his neck. After bandaging Mizzen's knee, the district partners retreated to the tunnels.<sup id="cite_ref-Ballad_18_6-0" class="reference"><a href="#cite_note-Ballad_18-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>On Day 4, the <a href="/wiki/District_8" title="District 8">District 8</a> female tribute, <a href="/wiki/Wovey" title="Wovey">Wovey</a>, died of suspicious causes and the <a href="/wiki/District_11" title="District 11">District 11</a> boy tribute, <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a>, ignored her pile of sponsor gifts to take her to the tribute's remembrance pile of dead bodies. As he did, Mizzen and Coral arrived and consumed Wovey's <a href="/wiki/Sponsorship" title="Sponsorship">sponsor</a> gifts, oblivious to the cause of her death. Later that afternoon, <a href="/wiki/Dr._Gaul" class="mw-redirect" title="Dr. Gaul">Dr. Gaul</a>, in retaliation for mentor <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a>, who had earlier succumbed to injuries received by the arena <a href="/wiki/Bombings" title="Bombings">bombing</a>, released <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a> into the arena. Not long after, Coral shrieked and ran out of a tunnel, Mizzen ahead of her. As Coral died of the snake bites, Mizzen flung his trident and leapt onto the pole opposite of where Teslee was seeking refuge, halving the time it took when he had previously climbed it. Teslee cried for Mizzen's help, as she was not strong enough to climb up to the horizontal beam and her grip on the pole weakened. Mizzen only shook his head, shocked and terrified. Eventually, the snake mutts were drawn away by <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, the female tribute from <a href="/wiki/District_12" title="District 12">District 12</a>, and Teslee was able to retreat back to the tunnels.<sup id="cite_ref-Ballad_19_7-0" class="reference"><a href="#cite_note-Ballad_19-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Mizzen decided to stay on the beam and follow the strategy Lamina had created before him.<sup id="cite_ref-Ballad_20_8-0" class="reference"><a href="#cite_note-Ballad_20-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Seeking revenge for not helping her and/or because Mizzen was the only tribute in the open arena, Teslee came back to the beam he was stationed on during the fifth day. She presented an unknown device and a <a href="/wiki/Drone" title="Drone">drone</a> attached to her wrist by a string that she, and her now deceased district partner <a href="/wiki/Circ" title="Circ">Circ</a>, had modified earlier from parts of drones used to deliver sponsor gifts to the tributes. Mizzen, partially distracted by the bread he had just been gifted, was not worried by the District 3 girl. With this device, she caused the drones carrying her and Mizzen's sponsor gifts to continually circle around him, bumping into each other and hitting him, eventually damaging his eye. As Mizzen tried to escape the drones, he put too much weight on his injured knee, causing him to fall off the beam and die by snapping his neck upon impact with the ground.<sup id="cite_ref-Ballad_20_8-1" class="reference"><a href="#cite_note-Ballad_20-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When the gong rang, he sprinted to the pile of weapons and began to fight. During the <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">bloodbath</a>, Mizzen followed Teslee, who was crawling to the pile, and tried to strangle her before stabbing her with a knife. His alliance gathered on top of the pile and proceeded to chase <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> and <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a> into the tunnels. However, the two tributes narrowly escaped through a door, so they attacked the other alliance, killing <a href="/wiki/Hy" title="Hy">Hy</a>. They continued to inspect the tunnels until nightfall, when two of the group grabbed <a href="/wiki/Otto" title="Otto">Otto</a>, who had been killed by one of them, out of the rubble.
+</p><p>At night, the four saw <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> and <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> running towards the exit and decided to chase him, not stopping even when <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> was killed. After Coriolanus and Sejanus escaped, the tributes returned to the center of the arena. The next day, the four had cornered <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> when Coriolanus sent her several drones with water. The drones crashed into the alliance, and Lucy Gray was able to escape.
+</p><p>The group then attacked <a href="/wiki/Lamina" title="Lamina">Lamina</a>. Mizzen climbed up the beam she was standing on, attacking her despite Lamina's attempts to defend herself. After <a href="/wiki/Coral" title="Coral">Coral</a> killed her, the alliance saw Lucy Gray and chased her into a ventilation shaft. Mizzen witnessed and unsheathed his knife as <a href="/wiki/Tanner" title="Tanner">Tanner</a> began to reproach Coral and was punished by a trident to the chest.
+</p><p>Later, while Mizzen attacked Lucy Gray through the vent opening she was hiding in, Coral and Treech stood below as she ventured through the ducts, attacking her with a trident from beneath. When the vent collapsed, they chased her into the center of the arena, where a drone deposited a large tank that released hundreds of snakes.
+</p><p>The tributes all ran, but the snakes reached Mizzen before he could escape. He fell to the ground and got overwhelmed by the snakes, placing 4th.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mizzen was most likely named after a <a href="https://en.wikipedia.org/wiki/Mast_(sailing)#Nomenclature" class="extiw" title="wikipedia:Mast (sailing)">mizzen-mast</a>, a type of nomenclature for a type of boat mast.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Mizzen, Lamina, <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray</a>, and <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a> are the only tributes in the 10th Hunger Games to have their ages confirmed, being 13, 15, 16, and 18 respectively.</li>
+<li>Mizzen is the youngest known tribute in the 10th Hunger Games.</li>
+<li>Coral and Mizzen could be seen as an early iteration of a <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a>. For the 10th Hunger Games, several new systems and methods to further develop the Games were tested, and Mizzen could have inspired his district to begin producing Careers, as his performance in the 10th Hunger Games clearly showcased how his prior training with using a trident, knives and fishing nets greatly increased his chances of surviving.</li>
+<li>He dies in a similar way to Lamina. He originally undermines the threat directly under him and falls to his death.</li>
+<li>His death is also ironic due to the fact that not only was Teslee attacking him with his own hijacked drones, but he attempted to evade them by sliding down the same pole that Teslee was on when he refused her plea for rescue when she was evading the snake mutts.</li>
+<li>The relationship between Coral and Mizzen is reminiscent of the relationship between <a href="/wiki/Cato" title="Cato">Cato</a> and <a href="/wiki/Clove" title="Clove">Clove</a> in <i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>.</li>
+<li>Actor <a href="/wiki/Cooper_Dillon" title="Cooper Dillon">Cooper Dillon</a> auditioned using Mizzen's death scene.<sup id="cite_ref-commentary_10-0" class="reference"><a href="#cite_note-commentary-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="256a70f98819b97bb43b7b43af219398" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="D4MMizzen-jpg" style="position: relative; height:148px; width:185px; top:18.5px;"><a class="image lightbox" href="/wiki/File:D4MMizzen.jpg" title="D4MMizzen.jpg (33 KB)" style="height:148px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/6/6a/D4MMizzen.jpg/revision/latest/scale-to-width-down/185?cb=20250427055810" title="D4MMizzen.jpg (33 KB)" class="thumbimage" alt="Mizzen's face on the monitors." height="185" width="185" data-image-name="D4MMizzen.jpg" data-image-key="D4MMizzen.jpg" data-relevant="1" data-caption="Mizzen's face on the monitors."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D4MMizzen.jpg (33 KB)" class="thumbimage lazyload" alt="Mizzen's face on the monitors." height="185" width="185" data-image-name="D4MMizzen.jpg" data-image-key="D4MMizzen.jpg" data-relevant="1" data-caption="Mizzen's face on the monitors." data-src="https://static.wikia.nocookie.net/thehungergames/images/6/6a/D4MMizzen.jpg/revision/latest/scale-to-width-down/185?cb=20250427055810"></a></div></div><div class="lightbox-caption" style="width:185px;">Mizzen's face on the monitors.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="MizzenConceptArt-jpg" style="position: relative; height:185px; width:148px;"><a class="image lightbox" href="/wiki/File:MizzenConceptArt.jpg" title="MizzenConceptArt.jpg (331 KB)" style="height:185px; width:148px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/MizzenConceptArt.jpg/revision/latest/scale-to-width-down/148?cb=20250427070856" title="MizzenConceptArt.jpg (331 KB)" class="thumbimage" alt="Concept art of Mizzen's costume." height="185" width="185" data-image-name="MizzenConceptArt.jpg" data-image-key="MizzenConceptArt.jpg" data-relevant="1" data-caption="Concept art of Mizzen's costume."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="MizzenConceptArt.jpg (331 KB)" class="thumbimage lazyload" alt="Concept art of Mizzen's costume." height="185" width="185" data-image-name="MizzenConceptArt.jpg" data-image-key="MizzenConceptArt.jpg" data-relevant="1" data-caption="Concept art of Mizzen's costume." data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/MizzenConceptArt.jpg/revision/latest/scale-to-width-down/148?cb=20250427070856"></a></div></div><div class="lightbox-caption" style="width:185px;">Concept art of Mizzen's costume.</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_8-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_8_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-Ballad_7-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_2-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_15-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_15_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 15</span>
+</li>
+<li id="cite_note-Ballad_16-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_16_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ballad_16_5-1">5.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 16</span>
+</li>
+<li id="cite_note-Ballad_18-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_18_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 18</span>
+</li>
+<li id="cite_note-Ballad_19-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_19_7-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 19</span>
+</li>
+<li id="cite_note-Ballad_20-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_20_8-0">8.0</a></sup> <sup><a href="#cite_ref-Ballad_20_8-1">8.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 20</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-commentary-10"><span class="mw-cite-backlink"><a href="#cite_ref-commentary_10-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> audio commentary by <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a> and <a href="/wiki/Nina_Jacobson" title="Nina Jacobson">Nina Jacobson</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <strong class="mw-selflink selflink">Mizzen</strong> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251225213347
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.079 seconds
+Real time usage: 0.181 seconds
+Preprocessor visited node count: 343/1000000
+Post‐expand include size: 3283/2097152 bytes
+Template argument size: 756/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7483/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   70.678      1 -total
+ 54.75%   38.697      1 Template:Character
+ 15.86%   11.209      1 Template:Reflist
+  3.24%    2.292      1 Template:Quote
+  2.68%    1.892      1 Template:PrequelSeries
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539472-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251225213347 and revision id 959143. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,327 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Volumnia Gaul</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/84/VolumniaGaul-Poster.jpeg/revision/latest?cb=20230922111042" class="image image-thumbnail" title="VolumniaGaul-Poster">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/8/84/VolumniaGaul-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922111042" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/84/VolumniaGaul-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922111042 1x, https://static.wikia.nocookie.net/thehungergames/images/8/84/VolumniaGaul-Poster.jpeg/revision/latest/scale-to-width-down/536?cb=20230922111042 2x" class="pi-image-thumbnail" data-relevant="1" alt="VolumniaGaul-Poster" width="270" height="265" data-image-key="VolumniaGaul-Poster.jpeg" data-image-name="VolumniaGaul-Poster.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Head_Gamemaker" class="mw-redirect" title="Head Gamemaker">Head Gamemaker</a><p>Scientist<br><a href="/wiki/University" title="University">University</a> professor<br>Obstetrician <small>(formerly)</small></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased by the Original Trilogy</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Viola_Davis" title="Viola Davis">Viola Davis</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>What happened in the arena? That's humanity undressed. The tributes. And you, too. How quickly civilization disappears. All your fine manners, education, family background, everything you pride yourself on, stripped away in the blink of an eye, revealing everything you actually are.</i>"</span></dd>
+<dd>—Dr. Gaul to <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a><sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Volumnia Gaul</b>, usually known as <b>Dr. Gaul</b>, was <a href="/wiki/Head_Gamemaker" class="mw-redirect" title="Head Gamemaker">Head Gamemaker</a> and the overseer of every <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a> since their inception, at least up to and including the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. She was also a professor of military theory at the <a href="/wiki/University" title="University">University</a> and head of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>'s Experimental Weapons Division, based at the <a href="/wiki/Citadel" title="Citadel">Citadel</a> where she bred various twisted <a href="/wiki/Muttation" title="Muttation">muttations</a> in her laboratory. Gaul was a cruel woman who began her career as an <a href="https://en.wikipedia.org/wiki/Obstetrics" class="extiw" title="wikipedia:Obstetrics">obstetrician</a>, but found that it was not for her, as parents wanted reassurances that she felt she could not give.
+</p><p>Dr. Gaul was the person who coined the phrase, "<i>may the odds be EVER in your favor</i>" during the <a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th Hunger Games</a>, a saying which caught on in Panem and turned into a popular way to wish people good luck before a <a href="/wiki/Reaping" title="Reaping">reaping</a> or during the Games.<sup id="cite_ref-SR_13_1-0" class="reference"><a href="#cite_note-SR_13-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Film_adaptation"><span class="tocnumber">2.1</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37573" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Volumnia Gaul play in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Known as Dr. Gaul, Volumnia Gaul was the Head Gamemaker, supervising every Hunger Games from its inception to the 10th edition. She also held positions as a military theory professor at the University and the head of the Capitol's Experimental Weapons division. Her influence in the Hunger Games was substantial, notably guiding Snow on his dark trajectory.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37574" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Dr. Gaul's profession before becoming the Head Gamemaker?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Prior to her role as Head Gamemaker, Volumnia Gaul, or Dr. Gaul, started her career as an obstetrician, a profession she later abandoned. She then served as a professor of military theory at a university and led the Capitol's Experimental Weapons Division.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37575" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What kind of experiments did Dr. Gaul conduct at the Citadel?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						At the Citadel, Dr. Volumnia Gaul, head of the Experimental Weapons Division, bred a variety of twisted muttations in her lab. Initially an obstetrician, she later transitioned to military research, indicating a change in her experimental interests.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37576" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why did Volumnia Gaul leave her career as an obstetrician?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Volumnia Gaul, once an obstetrician, felt unable to offer the reassurances parents sought, leading her to leave the profession. She then became a professor of military theory and led the Experimental Weapons Division in the Capitol, breeding various mutations.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37577" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Dr. Gaul's role at the University?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Volumnia Gaul was a professor of military theory at the University and led the Capitol's Experimental Weapons Division. She bred muttations in her Citadel-based laboratory. Gaul was instrumental in the Hunger Games' creation, seeing them as a symbol of potential disorder without the Capitol. She tasked her students with creating punishments for enemies, contributing to the Games' development.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Volumnia Gaul","mainEntity":[{"@type":"Question","name":"What role did Volumnia Gaul play in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Known as Dr. Gaul, Volumnia Gaul was the Head Gamemaker, supervising every Hunger Games from its inception to the 10th edition. She also held positions as a military theory professor at the University and the head of the Capitol's Experimental Weapons division. Her influence in the Hunger Games was substantial, notably guiding Snow on his dark trajectory."}},{"@type":"Question","name":"What was Dr. Gaul's profession before becoming the Head Gamemaker?","acceptedAnswer":{"@type":"Answer","text":"Prior to her role as Head Gamemaker, Volumnia Gaul, or Dr. Gaul, started her career as an obstetrician, a profession she later abandoned. She then served as a professor of military theory at a university and led the Capitol's Experimental Weapons Division."}},{"@type":"Question","name":"What kind of experiments did Dr. Gaul conduct at the Citadel?","acceptedAnswer":{"@type":"Answer","text":"At the Citadel, Dr. Volumnia Gaul, head of the Experimental Weapons Division, bred a variety of twisted muttations in her lab. Initially an obstetrician, she later transitioned to military research, indicating a change in her experimental interests."}},{"@type":"Question","name":"Why did Volumnia Gaul leave her career as an obstetrician?","acceptedAnswer":{"@type":"Answer","text":"Volumnia Gaul, once an obstetrician, felt unable to offer the reassurances parents sought, leading her to leave the profession. She then became a professor of military theory and led the Experimental Weapons Division in the Capitol, breeding various mutations."}},{"@type":"Question","name":"What was Dr. Gaul's role at the University?","acceptedAnswer":{"@type":"Answer","text":"Volumnia Gaul was a professor of military theory at the University and led the Capitol's Experimental Weapons Division. She bred muttations in her Citadel-based laboratory. Gaul was instrumental in the Hunger Games' creation, seeing them as a symbol of potential disorder without the Capitol. She tasked her students with creating punishments for enemies, contributing to the Games' development."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVolumnia_Gaul%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Dr. Gaul did not breed lapdogs; she designed weapons.</i>"</span></dd>
+<dd>—Coriolanus's thoughts about Dr. Gaul<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>It was Dr. Gaul who was indirectly responsible for the creation of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, as she viewed the Games as a way to represent the lack of control and order that would overcome Panem without the Capitol. While serving as an instructor at the University, she assigned a project to her students: to create a punishment for one's enemies so extreme that they would never be allowed to forget how they had wronged them. Two of her students, <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> and <a href="/wiki/Crassus_Snow" title="Crassus Snow">Crassus Snow</a>, got together to work on the project. Highbottom was drunk at the time and Snow plied him with even more alcohol to draw out his darker impulses, leading him to create the Hunger Games. Snow assured him it was a private joke but then turned in the project to Dr. Gaul while Highbottom was sleeping off the alcohol. After the <a href="/wiki/Dark_Days" title="Dark Days">war</a> was over, Dr. Gaul pulled out the proposal and introduced Casca Highbottom to <a href="/wiki/Panem" title="Panem">Panem</a> as the creator of the Hunger Games.
+</p><p>She oversaw the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> and, although it was said to be Casca Highbottom who created the mentor program, she was, in fact, the one pulling the strings. Although not technically a staff member of the Academy, she appeared to the mentors throughout the Hunger Games, handing out various assignments and saying that she was mentoring their mentorships. One of these assignments was a group project to brainstorm a proposal on how betting and sponsorship might be integrated into the games. However, shortly afterwards, one of the mentors, <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a>, was killed, distracting their minds from the task. <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, however, suspected that she might still expect to have the assignment turned in and thus wrote up a version of the proposal. He also attached <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a>'s name to it, thinking that he was doing her a favor. Gaul, however, correctly figured out that the proposal was the work of only one person. She placed the proposal inside a tank of neon <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a> and ordered them both to reach into it. The snakes did not react to Snow as they recognized his scent, but a half dozen of them bit Dovecote. Her life was only saved by the quick administration of an anti-venom.
+</p><p>Afterwards, Gaul warned Snow not to lie to her again and that she would cut him off if he did so, not protecting him from Casca Highbottom. She praised his proposal and agreed to implement it, showing no concern whatsoever for Clemensia.<sup id="cite_ref-Ballad_8_2-0" class="reference"><a href="#cite_note-Ballad_8-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Dr. Gaul later appeared at the funeral of Arachne Crane, sitting directly beside the president of <a href="/wiki/Panem" title="Panem">Panem</a>, <a href="/wiki/President_Ravinstill" class="mw-redirect" title="President Ravinstill">President Ravinstill</a>. She swore that the Hunger Games would go forward with more energy and commitment than ever before, dedicating the 10th Hunger Games to her memory.<sup id="cite_ref-Ballad_9_3-0" class="reference"><a href="#cite_note-Ballad_9-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Later, during another class meeting, <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> confronted her, telling her that she and the Capitol had no right to starve and punish people. Rather than getting outwardly angry, she seemed amused by his behavior, and told the class that wars were won with heads and not hearts. She described the war as being endless and ordered the class to write an essay on everything that they found attractive about war.<sup id="cite_ref-Ballad_11_4-0" class="reference"><a href="#cite_note-Ballad_11-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> She was disappointed by Coriolanus Snow's essay, which seemed to be mostly drivel, while Sejanus Plinth tried to shock her by saying that he thought there was nothing attractive about the war, other than the opportunity to right wrongs, which it didn't. She also said herself that she loved how the war proved her right.<sup id="cite_ref-Ballad_12_5-0" class="reference"><a href="#cite_note-Ballad_12-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>Dr. Gaul showed up at the <a href="/wiki/Capitol_TV" title="Capitol TV">Capitol TV</a> broadcast of the games, where she was questioned by host <a href="/wiki/Lucretius_Flickerman" title="Lucretius Flickerman">Lucretius Flickerman</a> about their slow start. Normally, there was much more action at the start of the games. She explained however, that the bombing of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> created a number of new hiding spots and there was also a new element in the games with the <a href="/wiki/Tribute" title="Tribute">tributes</a> having the opportunity to receive food and water from <a href="/wiki/Sponsorship" title="Sponsorship">sponsors</a>. When she stated that the games might last indefinitely, Flickerman replied that he hoped she had more magic tricks up her sleeve. Gaul responded that she had rabbit muttation that was part pit bull that she would love to see him pull out of a hat. Lucky blanched at this, seemingly sickened and told her that he had his own pets. Coriolanus Snow whispered to <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> that he almost felt sorry for Flickerman, but she replied that the two deserved each other.<sup id="cite_ref-Ballad_14_6-0" class="reference"><a href="#cite_note-Ballad_14-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>Sejanus Plinth's tribute, <a href="/wiki/Marcus" title="Marcus">Marcus</a>, was strung up in the arena, having tried to escape in the wake of the bombing. Seeing this, Plinth was disgusted and sneaked into the arena, hoping to do something for Marcus. Upon discovering this, Dr. Gaul called Snow, ordering him and Plinth's <a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">mother</a>, who happened to be with him, to come to the arena. She then ordered Snow into the arena to rescue Plinth and he did so, knowing after the snake attack that she was not something to mess with. He succeeded in the mission but ended up having to kill one of the tributes, <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a>.<sup id="cite_ref-Ballad_15_7-0" class="reference"><a href="#cite_note-Ballad_15-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Following this, she described his experience in the arena as a "lesson," saying that what happened was humanity undressed and mankind in its natural state. She then called his essay drivel, except for a part about control at the end and ordered him to write another essay about the value of control and the social contract required for survival.<sup id="cite_ref-Ballad_16_8-0" class="reference"><a href="#cite_note-Ballad_16-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>After Snow became a <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeeper</a> in <a href="/wiki/District_12" title="District 12">District 12</a>, he sent Dr. Gaul a letter,<sup id="cite_ref-Ballad_25_9-0" class="reference"><a href="#cite_note-Ballad_25-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> and later, a <a href="/wiki/Jabberjay" title="Jabberjay">jabberjay</a> he'd used to secretly record Sejanus, who had confessed his complicity in a rebel plot. As a result, Sejanus was executed for treason.<sup id="cite_ref-Ballad_28_10-0" class="reference"><a href="#cite_note-Ballad_28-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> Afterwards, she engineered Snow's return to the Capitol, describing his time in District 12 as a "summer vacation" and stating that she had no intention of investing so much time in him to hand him off to the districts. She then revealed that he was to study under her at the University.<sup id="cite_ref-Ballad_30_11-0" class="reference"><a href="#cite_note-Ballad_30-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> Snow was then taken on as an apprentice Gamemaker and studied advanced military strategy in classes taught by Gaul. His murderous intentions were brought to the fore and he made Dean Highbottom the first victim of his signature method of killing: <a href="/wiki/Poison" title="Poison">poison</a>.<sup id="cite_ref-Ballad_Epilogue_12-0" class="reference"><a href="#cite_note-Ballad_Epilogue-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p><p>Dr. Gaul was still alive during the <a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th Hunger Games</a>, the first <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, where she was a commentator with host <a href="/wiki/Lucky_Flickerman" class="mw-redirect" title="Lucky Flickerman">Lucky Flickerman</a>. She coined the phrase "<i>may the odds be EVER in your favor</i>" for the first time, which caught on and turned into a popular way to wish someone good luck. Described then as looking like a relic, she likely died before the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a> for which she was not present.<sup id="cite_ref-SR_13_1-1" class="reference"><a href="#cite_note-SR_13-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVolumnia_Gaul%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ten years after the end of the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, Dr. Gaul is described as being a stooped, old woman with frizzy gray hair.<sup id="cite_ref-Ballad_4_13-0" class="reference"><a href="#cite_note-Ballad_4-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p><p>By the time of the <a href="/wiki/25th_Hunger_Games" title="25th Hunger Games">25th Hunger Games</a>, she was described as looking like a relic.<sup id="cite_ref-SR_13_1-2" class="reference"><a href="#cite_note-SR_13-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/ac/Volumnia_Gaul.png/revision/latest?cb=20230427234518" class="mw-file-description image"><img alt="Dr. Gaul in her purple reaping outfit." src="https://static.wikia.nocookie.net/thehungergames/images/a/ac/Volumnia_Gaul.png/revision/latest/scale-to-width-down/180?cb=20230427234518" decoding="async" loading="lazy" width="180" height="212" class="thumbimage" data-image-name="Volumnia Gaul.png" data-image-key="Volumnia_Gaul.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Volumnia_Gaul.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Dr. Gaul in her purple reaping outfit.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVolumnia_Gaul%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the film, she is portrayed as an older black woman with a gray Afro, growing white at the roots. She also has <a href="https://en.wikipedia.org/wiki/heterochromia" class="extiw" title="wikipedia:heterochromia">heterochromia</a>; one eye is dark brown and the other a piercing shade of blue. During the reaping, she wore a gold-purple dress with a ruffed neck.<sup id="cite_ref-Ballad_film_14-0" class="reference"><a href="#cite_note-Ballad_film-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p><p>Director <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a> referenced <a href="https://en.wikipedia.org/wiki/Gene_Wilder" class="extiw" title="wikipedia:Gene Wilder">Gene Wilder</a> as <a href="https://en.wikipedia.org/wiki/Willy_Wonka" class="extiw" title="wikipedia:Willy Wonka">Willy Wonka</a> for the "almost mad scientist look" given to Dr. Gaul. The character's heterochromia was a suggestion from actress <a href="/wiki/Viola_Davis" title="Viola Davis">Viola Davis</a> herself, made possible with contacts by Jessica Nelson at Veiled Optics. Tamar Aviv was responsible for the old-age makeup done on Davis for the role, and <a href="https://en.wikipedia.org/wiki/Sergio_Lopez-Rivera" class="extiw" title="wikipedia:Sergio Lopez-Rivera">Sergio Lopez-Rivera</a> was her personal makeup artist.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVolumnia_Gaul%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Hippy, hoppity, how did you fare? Did they greet you like friends or just sit there and stare?</i>"</span></dd>
+<dd>—Dr. Gaul, asking the mentors how they got along with their tributes during an interview session<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div><p>She spoke in a sing-song voice and often used silly phrases such as "Hippity, hoppity." Her playful personality belied her twisted nature. She had unnerved Coriolanus Snow since his childhood. Once, during a school field trip, she melted the flesh off a lab rat with a laser before the eyes of Snow's class of nine-year-olds, then asked if anyone in the class had any pets they were tired of. She was quick with praise for those that impressed her, but disliked betrayal and lying. As a result, she could turn quite vicious when she believed that she had been wronged. She also showed pleasure at the expense of others' suffering, as she eradicated all recordings of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> but kept a recording for herself for her own amusement. She also indirectly killed <a href="/wiki/Treech" title="Treech">Treech</a>, <a href="/wiki/Coral" title="Coral">Coral</a> and <a href="/wiki/Circ" title="Circ">Circ</a> with her snake mutts, showing that she is not fearful of killing others including children.
+</p><p>She was a morning person, energetic and ready during morning briefings.<sup id="cite_ref-Ballad_12_5-1" class="reference"><a href="#cite_note-Ballad_12-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVolumnia_Gaul%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Coriolanus and Volumnia are both names of characters in <a href="https://en.wikipedia.org/wiki/William_Shakespeare" class="extiw" title="wikipedia:William Shakespeare">William Shakespeare</a>'s <i><a href="https://en.wikipedia.org/wiki/Coriolanus" class="extiw" title="wikipedia:Coriolanus">Coriolanus</a></i>. In the play, Volumnia is Coriolanus's mother who prevents him from destroying Rome out of vengeance. Interestingly, in <i>The Ballad of Songbirds and Snakes</i>, Dr. Gaul is one of the main advocates of the Hunger Games, and she encourages Snow down his dark path.
+</p><p>Her surname, <a href="https://en.wikipedia.org/wiki/Gaul" class="extiw" title="wikipedia:Gaul">Gaul</a>, was a region and people in Western Europe taken over by the Romans under <a href="https://en.wikipedia.org/wiki/Julius_Caesar" class="extiw" title="wikipedia:Julius Caesar">Julius Caesar</a>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FVolumnia_Gaul%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-SR_13-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR_13_1-0">1.0</a></sup> <sup><a href="#cite_ref-SR_13_1-1">1.1</a></sup> <sup><a href="#cite_ref-SR_13_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-Ballad_8-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_8_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-Ballad_9-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_9_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 9</span>
+</li>
+<li id="cite_note-Ballad_11-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_11_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_12-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_12_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ballad_12_5-1">5.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_14-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_14_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_15-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_15_7-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 15</span>
+</li>
+<li id="cite_note-Ballad_16-8"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_16_8-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 16</span>
+</li>
+<li id="cite_note-Ballad_25-9"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_25_9-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 25</span>
+</li>
+<li id="cite_note-Ballad_28-10"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_28_10-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 28</span>
+</li>
+<li id="cite_note-Ballad_30-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_30_11-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 30</span>
+</li>
+<li id="cite_note-Ballad_Epilogue-12"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Epilogue_12-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Epilogue</span>
+</li>
+<li id="cite_note-Ballad_4-13"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_4_13-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 4</span>
+</li>
+<li id="cite_note-Ballad_film-14"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_film_14-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_and_Snakes" class="mw-redirect" title="The Hunger Games: The Ballad of Songbirds and Snakes">The Hunger Games: The Ballad of Songbirds and Snakes</a></i></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.panempropaganda.com/movie-countdown/2023/10/1/the-ballad-of-songbirds-snakes-makeup-designer-sherri-berman.html">https://www.panempropaganda.com/movie-countdown/2023/10/1/the-ballad-of-songbirds-snakes-makeup-designer-sherri-berman.html</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <strong class="mw-selflink selflink">Volumnia Gaul</strong> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251224111259
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.083 seconds
+Real time usage: 0.143 seconds
+Preprocessor visited node count: 529/1000000
+Post‐expand include size: 4300/2097152 bytes
+Template argument size: 1258/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6704/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   65.075      1 -total
+ 39.73%   25.852      1 Template:Character
+ 23.53%   15.315      1 Template:Reflist
+  6.38%    4.152      9 Template:W
+  2.97%    1.934      1 Template:PrequelSeries
+  2.74%    1.786      3 Template:Quote
+  2.15%    1.400      1 Template:SOTR
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539509-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251224111259 and revision id 964340. Rendering was triggered because: page-view
+ -->
+</div>

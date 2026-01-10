@@ -1,0 +1,288 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Grandma'am</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/8e/Grandma%27am_promo_still_9.28.png/revision/latest?cb=20230928191107" class="image image-thumbnail" title="Grandma'am promo still 9.28">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/8/8e/Grandma%27am_promo_still_9.28.png/revision/latest/scale-to-width-down/268?cb=20230928191107" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/8e/Grandma%27am_promo_still_9.28.png/revision/latest/scale-to-width-down/268?cb=20230928191107 1x, https://static.wikia.nocookie.net/thehungergames/images/8/8e/Grandma%27am_promo_still_9.28.png/revision/latest/scale-to-width-down/536?cb=20230928191107 2x" class="pi-image-thumbnail" data-relevant="1" alt="Grandma'am promo still 9.28" width="270" height="212" data-image-key="Grandma%27am_promo_still_9.28.png" data-image-name="Grandma'am promo still 9.28.png">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">Elderly</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Crassus_Snow" title="Crassus Snow">Crassus Snow</a> † <small> (son)</small></li><li>Unnamed child <small>(Tigris's parent)</small></li><li><a href="/wiki/Tigris" title="Tigris">Tigris</a> <small>(granddaughter)</small></li><li><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> † (grandson)</li><li><a href="/wiki/Coriolanus_Snow%27s_sister" title="Coriolanus Snow's sister">Unnamed granddaughter</a> †</li><li><a href="/wiki/Coriolanus_Snow%27s_granddaughter" title="Coriolanus Snow's granddaughter">Unnamed great-great-granddaughter</a></li><li><a href="/wiki/Coriolanus_Snow%27s_mother" title="Coriolanus Snow's mother">Unnamed daughter-in-law</a> †</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Fionnula_Flanagan" title="Fionnula Flanagan">Fionnula Flanagan</a></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>The Grandma'am</b> is the grandmother of <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> and <a href="/wiki/Tigris" title="Tigris">Tigris</a>. Her nickname was created by a young Tigris, who felt she deserved an imperial name.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#During_the_10th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">During the 10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#After_the_10th_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">After the 10th Hunger Games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="64849" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the significance of Grandma'am's nickname in the Snow family?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Snow family, Grandma'am is the grandmother of Coriolanus Snow and Tigris. The nickname 'Grandma'am' was bestowed by Tigris during her youth, as she believed her grandmother merited an imperial title. Grandma'am is characterized as an elderly lady with white hair and shaky hands. Despite the Snow family's declining finances, she maintained certain formalities, including carrying a clean handkerchief when leaving the house. Her grandson, Coriolanus Snow, portrays her as a woman holding onto the past.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64850" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Grandma'am contribute to the wealth and privilege of the Snow family?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Grandma'am was instrumental in the Snow family's ascent to affluence. After the First Rebellion, the Snows inherited the Plinths' wealth, establishing their elite status in the Capitol. Grandma'am's small military pension contributed to this wealth. The family's fortune grew with a family member becoming a head Gamemaker and an Academy hall named after them. The Snows' financial concerns ended when the Plinths purchased their flat, with Mrs. Plinth serving as a daily helper.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="64851" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Is there any connection between Grandma'am and Katniss's grandmother?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						No direct link exists between Grandma'am and Katniss's grandmother. Thresh's grandmother, a citizen of District 11, is noted for her appreciation of Katniss's speech at the Victory Tour for the 74th Hunger Games. The identity of Katniss's grandmother remains speculative, with theories suggesting she could be Lucy Gray Baird or Maude Ivory Baird.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Grandma'am","mainEntity":[{"@type":"Question","name":"What is the significance of Grandma'am's nickname in the Snow family?","acceptedAnswer":{"@type":"Answer","text":"In the Snow family, Grandma'am is the grandmother of Coriolanus Snow and Tigris. The nickname 'Grandma'am' was bestowed by Tigris during her youth, as she believed her grandmother merited an imperial title. Grandma'am is characterized as an elderly lady with white hair and shaky hands. Despite the Snow family's declining finances, she maintained certain formalities, including carrying a clean handkerchief when leaving the house. Her grandson, Coriolanus Snow, portrays her as a woman holding onto the past."}},{"@type":"Question","name":"How did Grandma'am contribute to the wealth and privilege of the Snow family?","acceptedAnswer":{"@type":"Answer","text":"Grandma'am was instrumental in the Snow family's ascent to affluence. After the First Rebellion, the Snows inherited the Plinths' wealth, establishing their elite status in the Capitol. Grandma'am's small military pension contributed to this wealth. The family's fortune grew with a family member becoming a head Gamemaker and an Academy hall named after them. The Snows' financial concerns ended when the Plinths purchased their flat, with Mrs. Plinth serving as a daily helper."}},{"@type":"Question","name":"Is there any connection between Grandma'am and Katniss's grandmother?","acceptedAnswer":{"@type":"Answer","text":"No direct link exists between Grandma'am and Katniss's grandmother. Thresh's grandmother, a citizen of District 11, is noted for her appreciation of Katniss's speech at the Victory Tour for the 74th Hunger Games. The identity of Katniss's grandmother remains speculative, with theories suggesting she could be Lucy Gray Baird or Maude Ivory Baird."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FGrandma%2527am%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She was born or married into the wealthy <a href="/wiki/Capitol_families#Snow_family" title="Capitol families">Snow family</a>, where she presumably gained much of their wealth and privilege after the death of her husband. She had at least two children, one of them being <a href="/wiki/Crassus_Xanthos_Snow" class="mw-redirect" title="Crassus Xanthos Snow">Crassus Xanthos Snow</a> and her other child being the father or mother of Tigris.
+</p><p>In the first year of the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, she would play the anthem on national holidays for Coriolanus, five years old at the time, and his cousin <a href="/wiki/Tigris" title="Tigris">Tigris</a>, eight years old at the time, in order to build their patriotism. When the Capitol was under siege, she would tell them "Remember, children, we are but besieged. We have not surrendered!" then warble the anthem as bombs rained down around their apartment. She could not cook, but often threatened to learn to do so. She had a saying regarding <a href="/wiki/Avox" title="Avox">Avoxes</a> that "tongueless workers make the best workers." Though Coriolanus loved her, he felt she had lost touch with reality a long time ago, maybe indicating some level of early dementia. Even when the Snow family was deep in poverty, she often began her sentences with the phrase "When Coriolanus is president..."<sup id="cite_ref-Ballad_1_1-0" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>When Coriolanus was still young, <a href="/wiki/Coriolanus_Snow%27s_mother" title="Coriolanus Snow's mother">his mother</a> went into labor, and the Grandma'am and <a href="/wiki/The_Snows%27_cook" title="The Snows' cook">the family's cook</a> attempted to stop the flow of blood before she died, as something had gone wrong.<sup id="cite_ref-Ballad_5_2-0" class="reference"><a href="#cite_note-Ballad_5-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>One October afternoon during the war, the Grandma'am and Coriolanus visited <a href="/wiki/Pluribus_Bell" title="Pluribus Bell">Pluribus Bell</a> at a nightclub. The Grandma'am decided to take thirty crates of lima beans home, which they hid.<sup id="cite_ref-Ballad_2_3-0" class="reference"><a href="#cite_note-Ballad_2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="During_the_10th_Hunger_Games">During the 10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FGrandma%2527am%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Grandma'am grew roses in a rooftop garden. She was very possessive of them, but was sometimes willing to part with a rose if it would help her grandson. The day of the reaping of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, where Coriolanus was to be a mentor, she offered him a fresh red rose.<sup id="cite_ref-Ballad_1_1-1" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>After Coriolanus returned home from eating in the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a> with <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, the tribute he was mentoring, the Grandma'am disapproved, taking the worst view of her as she was from <a href="/wiki/District_12" title="District 12">District 12</a>.<sup id="cite_ref-Ballad_6_4-0" class="reference"><a href="#cite_note-Ballad_6-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> However, she eventually warmed up to Lucy Gray when she saved Coriolanus.<sup id="cite_ref-Ballad_10_5-0" class="reference"><a href="#cite_note-Ballad_10-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>When <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> had been murdered by her own tribute, <a href="/wiki/Brandy" title="Brandy">Brandy</a>, the Grandma'am aired out her best black dress for Arachne's funeral and made sure Coriolanus was uninjured, later declaring him a hero for being the first to take action in the zoo.<sup id="cite_ref-Ballad_7_6-0" class="reference"><a href="#cite_note-Ballad_7-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> Upon hearing that he was to sing at Arachne's funeral, the Grandma'am had him up at dawn to coach him and sacrificed a rose for his appearance.<sup id="cite_ref-Ballad_9_7-0" class="reference"><a href="#cite_note-Ballad_9-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p><a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">Mrs. Plinth</a> arrived at the Snows' penthouse late one night when her son, <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>, had gone missing. The Grandma'am put on a robe, but treated her impatiently and suggested for her to leave.<sup id="cite_ref-Ballad_14_8-0" class="reference"><a href="#cite_note-Ballad_14-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> However, she was aghast upon seeing Sejanus in the arena.<sup id="cite_ref-Ballad_15_9-0" class="reference"><a href="#cite_note-Ballad_15-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="After_the_10th_Hunger_Games">After the 10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FGrandma%2527am%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As the Snow financial situation continued to worsen, the Grandma'am began to descend into denial and eventually despair. When her grandson was made to enroll in the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> and shipped to <a href="/wiki/District_12" title="District 12">District 12</a>, she asked when he would be back and kissed him goodbye, but did not quite seem to know what was going on and twice asked Tigris when he would be home and if they should wait on dinner.<sup id="cite_ref-Ballad_21_10-0" class="reference"><a href="#cite_note-Ballad_21-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p><p>Fortunately, her condition improved greatly after the Plinths arranged to buy the flat the family was living in and came to an arrangement so that the Snows could continue living there. The Plinths paid for everything, ending the Snow family's financial worries, though the Grandma'am had to resign herself to having a new "maid" in the form of <a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">Mrs. Plinth</a>, who came by every day to help.<sup id="cite_ref-Ballad_30_11-0" class="reference"><a href="#cite_note-Ballad_30-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p><p>Due to her age, she presumably died long before the time of <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><i>The Hunger Games</i> trilogy</a>, but the circumstances of her death are unknown.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FGrandma%2527am%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/cd/Snow_family_entertainment_weekly.png/revision/latest?cb=20230928191051" class="mw-file-description image"><img alt="The Grandma'am giving Coriolanus a yellow rose." src="https://static.wikia.nocookie.net/thehungergames/images/c/cd/Snow_family_entertainment_weekly.png/revision/latest/scale-to-width-down/180?cb=20230928191051" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Snow family entertainment weekly.png" data-image-key="Snow_family_entertainment_weekly.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Snow_family_entertainment_weekly.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Grandma'am giving Coriolanus a yellow rose.</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>She wore a long, black, flowing tunic, the kind so popular before the war and so outdated as to be laughable now, and a pair of embroidered slippers with curled toes that had once been part of a costume. Strands of her thin, white hair poked from the bottom of a rusty velvet turban. This was the tail end of a once-lavish wardrobe — her few decent items were saved for company or the rare foray into the city.</i>"</span></dd>
+<dd>—Description of the Grandma'am’s clothes<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>The Grandma'am often wore a long tunic, slippers and a turban, although she saved her more lavish clothing for times where she would be seen by others. An elderly woman, she also had thin, white hair and tremorous hands.<sup id="cite_ref-Ballad_1_1-2" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FGrandma%2527am%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Crazy old woman, still clinging to the prewar days. He loved her, but she'd lost touch with reality years ago.</i>"</span></dd>
+<dd>—Coriolanus Snow describing the Grandma'am<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>The Grandma'am was said to always take the worst view of anything related to the districts.<sup id="cite_ref-Ballad_6_4-1" class="reference"><a href="#cite_note-Ballad_6-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> Despite the Snow's worsening financial situation, she always insisted on certain civilities, such as leaving home with a clean handkerchief.<sup id="cite_ref-Ballad_5_2-1" class="reference"><a href="#cite_note-Ballad_5-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> However, she cared greatly for her grandchildren.
+</p><p>Especially after Coriolanus was sent to <a href="/wiki/District_12" title="District 12">District 12</a> to become a <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeeper</a>, she began to lose her mind and often forgot where he was.<sup id="cite_ref-Ballad_21_10-1" class="reference"><a href="#cite_note-Ballad_21-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FGrandma%2527am%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>She outlived all her known children: <a href="/wiki/Crassus_Snow" title="Crassus Snow">Crassus Snow</a> and his unnamed sibling, who was Tigris's parent.</li>
+<li>When a recording of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> anthem, "<a href="/wiki/Gem_of_Panem" title="Gem of Panem">Gem of Panem</a>" started playing, she began singing along in a tremulous soprano voice. She was badly off-key and slightly behind the song's tempo.<sup id="cite_ref-Ballad_1_1-3" class="reference"><a href="#cite_note-Ballad_1-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li>
+<li>In the Spanish translation of <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, her nickname is <i>abuelatriz</i>, a mix between <i>abuela</i> (grandmother) and <i>emperatriz</i> (female form of emperor), giving her an even higher position of power.</li>
+<li>According to Coriolanus, Grandma'am loves chocolate.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FGrandma%2527am%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_1_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ballad_1_1-2">1.2</a></sup> <sup><a href="#cite_ref-Ballad_1_1-3">1.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_5-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_5_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_5_2-1">2.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 5</span>
+</li>
+<li id="cite_note-Ballad_2-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_2_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_6-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_6_4-0">4.0</a></sup> <sup><a href="#cite_ref-Ballad_6_4-1">4.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_10-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_10_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_7-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_9-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_9_7-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 9</span>
+</li>
+<li id="cite_note-Ballad_14-8"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_14_8-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_15-9"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_15_9-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 15</span>
+</li>
+<li id="cite_note-Ballad_21-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_21_10-0">10.0</a></sup> <sup><a href="#cite_ref-Ballad_21_10-1">10.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 21</span>
+</li>
+<li id="cite_note-Ballad_30-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_30_11-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Epilogue</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <strong class="mw-selflink selflink">Grandma'am</strong> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20260105141935
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.072 seconds
+Real time usage: 0.135 seconds
+Preprocessor visited node count: 363/1000000
+Post‐expand include size: 3573/2097152 bytes
+Template argument size: 884/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5666/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   61.036      1 -total
+ 47.61%   29.057      1 Template:Character
+ 18.74%   11.438      1 Template:Reflist
+  3.26%    1.992      1 Template:PrequelSeries
+  2.87%    1.754      2 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539344-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105141935 and revision id 966567. Rendering was triggered because: page-view
+ -->
+</div>

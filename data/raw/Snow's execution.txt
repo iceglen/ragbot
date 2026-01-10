@@ -1,0 +1,31 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="redirectMsg"><p>Redirect to:</p><ul class="redirectText"><li><a href="/wiki/Execution#Mockingjay" title="Execution">Execution#Mockingjay</a></li></ul></div><p><b>Snow´s execution</b> was a planned execution where <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> was supposed to execute <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Coriolanus Snow</a> after overthrowing him as president of Panem but instead she ended up assasinating <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a>. However Snow was found dead soon after, presumably crushed by the crowd or choked in his own cough. 
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSnow%2527s_execution%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>There are few reasons why Katniss decided to assasinate Snow rather than Snow.</li>
+<li>Acorrding to Snow, Coin was responsible for the bombing that took Prim´s life.</li>
+<li>Coin proposed a new Hunger Games that Katniss could´t stand despite saying she supported it.</li>
+<li>Possibly she knew that Snow would die anyway so she decided to take Coin down in front of him to send message that no one can be like Snow again.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20260105173152
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.005 seconds
+Real time usage: 0.006 seconds
+Preprocessor visited node count: 6/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:544547-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105173152 and revision id 959729. Rendering was triggered because: api-parse
+ -->
+</div>

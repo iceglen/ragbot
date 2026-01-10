@@ -1,0 +1,135 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Peacekeepers&#39; base</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/District_2" title="District 2">District 2</a></li><li><a href="/wiki/District_8" title="District 8">District 8</a></li><li><a href="/wiki/District_12" title="District 12">District 12</a></li><li>Other districts (presumed)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a><ul><li><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a></li><li><a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a></li><li><a href="/wiki/Commander_Hoff" title="Commander Hoff">Commander Hoff</a></li><li><a href="/wiki/Smiley" title="Smiley">Smiley</a></li><li><a href="/wiki/Bug" title="Bug">Bug</a></li><li><a href="/wiki/Junius" title="Junius">Junius</a></li><li><a href="/wiki/Cookie" title="Cookie">Cookie</a></li></ul><p><a href="/wiki/District_12_doctor" title="District 12 doctor">District 12 doctor</a></p></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>A <b>Peacekeepers' base</b> was a military facility that trained and housed <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> who were assigned to serve in a particular <a href="/wiki/District" class="mw-redirect" title="District">district</a>. <a href="/wiki/Rebels" title="Rebels">Rebels</a> were also held in detention on base.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#District_2"><span class="tocnumber">1.1</span> <span class="toctext">District 2</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#District_12"><span class="tocnumber">1.2</span> <span class="toctext">District 12</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Hunger_Games_era"><span class="tocnumber">2.1</span> <span class="toctext">Hunger Games era</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Second_Rebellion"><span class="tocnumber">2.2</span> <span class="toctext">Second Rebellion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPeacekeepers%2527_base%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There was presumably at least one base in each of <a href="/wiki/Panem" title="Panem">Panem</a>'s twelve districts, but the only confirmed locations were <a href="/wiki/District_2" title="District 2">District 2</a>, <a href="/wiki/District_8" title="District 8">District 8</a>, and <a href="/wiki/District_12" title="District 12">District 12</a>.
+</p>
+<h3><span class="mw-headline" id="District_2">District 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPeacekeepers%2527_base%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Entire mining villages scattered across the mountains were eventually devoted to the training and housing of Peacekeepers instead. The district's main town had a mountain at its center that later came to be known as <a href="/wiki/The_Nut" title="The Nut">the Nut</a>. <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> established a new underground military base there in the passages and caverns that miners had cleared out inside. A <a href="/wiki/Train" title="Train">train</a> tunnel carried personnel from the base out into the town square.<sup id="cite_ref-MJ_14_1-0" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="District_12">District 12</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPeacekeepers%2527_base%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In District 12, the base was located an hour's walk away from the train station,<sup id="cite_ref-Ballad_21_2-0" class="reference"><a href="#cite_note-Ballad_21-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> and twenty minutes from <a href="/wiki/The_Hob" title="The Hob">the Hob</a> on foot.<sup id="cite_ref-Ballad_23_3-0" class="reference"><a href="#cite_note-Ballad_23-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> In <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, it was enclosed by a security fence and guarded by armed Peacekeepers. Its facilities were comprised of "nondescript gray buildings", which held the barracks, mess hall, latrines,<sup id="cite_ref-Ballad_21_2-1" class="reference"><a href="#cite_note-Ballad_21-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> clinic,<sup id="cite_ref-Ballad_22_4-0" class="reference"><a href="#cite_note-Ballad_22-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> and gymnasium.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> There was a desk at the front of the barracks,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> and each room had four sets of bunk beds and eight lockers. There was also a field where fitness training took place.<sup id="cite_ref-Ballad_21_2-2" class="reference"><a href="#cite_note-Ballad_21-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPeacekeepers%2527_base%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Before the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, <a href="/wiki/District_13" title="District 13">District 13</a> was the center of the Capitol's nuclear weapons development program, and they had a "substantial underground facility" that had been built over centuries as "a clandestine refuge for government leaders in times of war[,] or a last resort for humanity if life above became unlivable."<sup id="cite_ref-MJ_2_7-0" class="reference"><a href="#cite_note-MJ_2-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> Due to its military ties, it is possible that District 13 could be considered a former Peacekeepers' base.
+</p>
+<h3><span class="mw-headline" id="Hunger_Games_era">Hunger Games era</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPeacekeepers%2527_base%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Following the supposed destruction of District 13 during the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, District 2 became the new seat of the Capitol's military power.<sup id="cite_ref-MJ_13_8-0" class="reference"><a href="#cite_note-MJ_13-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> Its mining villages eventually served the function of military encampments, with one major base of operations concealed within the Nut.<sup id="cite_ref-MJ_14_1-1" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Around the time of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, the commander on base in District 12 was <a href="/wiki/Commander_Hoff" title="Commander Hoff">Commander Hoff</a>. He oversaw a new cohort of Peacekeepers, including <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> and <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>.<sup id="cite_ref-Ballad_21_2-3" class="reference"><a href="#cite_note-Ballad_21-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> After the <a href="/wiki/Execution" title="Execution">execution</a> of <a href="/wiki/Arlo_Chance" title="Arlo Chance">Arlo Chance</a>, <a href="/wiki/Lil" title="Lil">Lil</a> was taken into custody and held at the base. Her brother <a href="/wiki/Spruce" title="Spruce">Spruce</a> planned with <a href="/wiki/Billy_Taupe_Clade" title="Billy Taupe Clade">Billy Taupe Clade</a> and Sejanus to break in, free her, and escape from the districts altogether; however, Snow leaked word of the plot to <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Dr. Volumnia Gaul</a> using a <a href="/wiki/Jabberjay" title="Jabberjay">jabberjay</a>, so Sejanus and Lil were hanged for treason.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Decades later, several weeks after the <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a> for the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a> ended, <a href="/wiki/Bonnie" title="Bonnie">Bonnie</a> and <a href="/wiki/Twill" title="Twill">Twill</a> told <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> that one of the <a href="/wiki/Rebels" title="Rebels">rebels</a>' targets during the <a href="/wiki/Uprising_of_District_8" title="Uprising of District 8">uprising of District 8</a> was the Peacekeepers' base there. Either they or Katniss referred to it as the Peacekeepers' Headquarters.<sup id="cite_ref-CF_10_10-0" class="reference"><a href="#cite_note-CF_10-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion">Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPeacekeepers%2527_base%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/Battle_of_District_2" title="Battle of District 2">Battle of District 2</a>, rebels were keen to seize the base inside the Nut from Capitol loyalists, as it was the last major holdout in the country. However, after multiple failed attempts to storm the entrances, they resolved to strategically bomb avalanche paths and bury the base inside the mountain instead.<sup id="cite_ref-MJ_14_1-2" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> They left the train tunnel open for survivors to flee into the town square and surrender.<sup id="cite_ref-MJ_15_11-0" class="reference"><a href="#cite_note-MJ_15-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> This strategy wiped out a significant portion of the Capitol's air force, shifting the tide of the war in favor of newly united district rebels.<sup id="cite_ref-MJ_18_12-0" class="reference"><a href="#cite_note-MJ_18-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPeacekeepers%2527_base%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The term Peacekeepers' Headquarters was only used once throughout the entire <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy">trilogy</a>, in <i>Catching Fire</i>.<sup id="cite_ref-CF_10_10-1" class="reference"><a href="#cite_note-CF_10-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> In <i>The Ballad of Songbirds and Snakes</i>, the base in District 12 was consistently referred to as "the base" or just "base".</li>
+<li>At the time of the prequel, it was relatively common for Peacekeepers on base in District 12 to go by nicknames. For example, Coriolanus was given the nickname Gent because of his reputation of being from the Capitol,<sup id="cite_ref-Ballad_21_2-4" class="reference"><a href="#cite_note-Ballad_21-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> and Sejanus was known as Bull's Eye because he had such good aim.<sup id="cite_ref-Ballad_22_4-1" class="reference"><a href="#cite_note-Ballad_22-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPeacekeepers%2527_base%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-MJ_14-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_14_1-0">1.0</a></sup> <sup><a href="#cite_ref-MJ_14_1-1">1.1</a></sup> <sup><a href="#cite_ref-MJ_14_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_21-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_21_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_21_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_21_2-2">2.2</a></sup> <sup><a href="#cite_ref-Ballad_21_2-3">2.3</a></sup> <sup><a href="#cite_ref-Ballad_21_2-4">2.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-Ballad_23-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_23_3-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 23</span>
+</li>
+<li id="cite_note-Ballad_22-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_22_4-0">4.0</a></sup> <sup><a href="#cite_ref-Ballad_22_4-1">4.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 22</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 29</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 25</span>
+</li>
+<li id="cite_note-MJ_2-7"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_2_7-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 2</span>
+</li>
+<li id="cite_note-MJ_13-8"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_13_8-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 13</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 28</span>
+</li>
+<li id="cite_note-CF_10-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_10_10-0">10.0</a></sup> <sup><a href="#cite_ref-CF_10_10-1">10.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-MJ_15-11"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_15_11-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 15</span>
+</li>
+<li id="cite_note-MJ_18-12"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_18_12-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 18</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260104191008
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.065 seconds
+Real time usage: 0.110 seconds
+Preprocessor visited node count: 319/1000000
+Post‐expand include size: 140/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6153/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   65.669      1 -total
+ 49.15%   32.279      1 Template:Location
+ 23.77%   15.609      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542414-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104191008 and revision id 966331. Rendering was triggered because: page-view
+ -->
+</div>

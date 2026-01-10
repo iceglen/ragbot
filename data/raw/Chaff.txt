@@ -1,0 +1,354 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Chaff</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/23/Chaff_chariot.jpeg/revision/latest?cb=20200821105412" class="image image-thumbnail" title="Chaff chariot">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/2/23/Chaff_chariot.jpeg/revision/latest/scale-to-width-down/268?cb=20200821105412" srcset="https://static.wikia.nocookie.net/thehungergames/images/2/23/Chaff_chariot.jpeg/revision/latest/scale-to-width-down/268?cb=20200821105412 1x, https://static.wikia.nocookie.net/thehungergames/images/2/23/Chaff_chariot.jpeg/revision/latest/scale-to-width-down/535?cb=20200821105412 2x" class="pi-image-thumbnail" data-relevant="1" alt="Chaff chariot" width="266" height="500" data-image-key="Chaff_chariot.jpeg" data-image-name="Chaff chariot.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">15-18 (<a href="/wiki/45th_Hunger_Games" title="45th Hunger Games">45th Hunger Games</a>)<sup id="cite_ref-CF_15_1-0" class="reference"><a href="#cite_note-CF_15-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><br>45-48 (<a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor" title="Victor">Victor</a> (<a href="/wiki/45th_Hunger_Games" title="45th Hunger Games">45th Hunger Games</a>)<sup id="cite_ref-CF_15_1-1" class="reference"><a href="#cite_note-CF_15-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><br><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>)<sup id="cite_ref-CF_14_2-0" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor%27s_Village" class="mw-redirect" title="Victor's Village">Victor's Village</a> in <a href="/wiki/District_11" title="District 11">District 11</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Spear" class="mw-redirect" title="Spear">Spear</a> (training)<sup id="cite_ref-CF_16_3-0" class="reference"><a href="#cite_note-CF_16-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/E._Roger_Mitchell" title="E. Roger Mitchell">E. Roger Mitchell</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>I know Chaff by sight cause I've spent years watching him pass a bottle back and forth with Haymitch on television.</i>"</span></dd>
+<dd>—<a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> about Chaff<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p><b>Chaff</b> was the male <a href="/wiki/Tribute" title="Tribute">tribute</a> for <a href="/wiki/District_11" title="District 11">District 11</a> who participated in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> and was the <a href="/wiki/Victors" class="mw-redirect" title="Victors">victor</a> of the <a href="/wiki/45th_Hunger_Games" title="45th Hunger Games">45th Hunger Games</a>.<sup id="cite_ref-CF_15_1-2" class="reference"><a href="#cite_note-CF_15-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#75th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">75th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Training"><span class="tocnumber">1.1.1</span> <span class="toctext">Training</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Interview"><span class="tocnumber">1.1.2</span> <span class="toctext">Interview</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Cornucopia_bloodbath"><span class="tocnumber">1.1.3</span> <span class="toctext">Cornucopia bloodbath</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#The_Games"><span class="tocnumber">1.1.4</span> <span class="toctext">The Games</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Death"><span class="tocnumber">1.1.5</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Personality"><span class="tocnumber">3</span> <span class="toctext">Personality</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37467" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the outcome of Chaff's participation in the 75th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Chaff, a tribute from District 11, took part in the 3rd Quarter Quell, or the 75th Hunger Games. He was part of the rebellion, tasked by Haymitch Abernathy to safeguard Katniss and Peeta. However, Chaff was slain by Brutus towards the end of the games, shortly before Katniss Everdeen shattered the Arena's force field.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37468" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Chaff lose his hand during the 45th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the 45th Hunger Games, Chaff lost his hand, though the specific incident is not described. Katniss Everdeen surmised that Chaff declined a prosthetic hand offered by the Capitol. Post his victory, Chaff resorted to alcohol to manage his trauma and developed a friendship with Haymitch Abernathy.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37469" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the relationship between Chaff and Haymitch Abernathy?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Chaff and Haymitch Abernathy, both victors of the Hunger Games, share a longstanding friendship marked by a shared sense of humor and occasional bad attitude. Their relationship spans their mentoring careers, often characterized by their shared indulgence in alcohol and propensity for playing jokes on others.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37470" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why did Chaff turn to alcohol after his victory in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Chaff, winner of the 45th Hunger Games, resorted to alcohol to manage his traumatic experiences. His distress was compounded by the loss of his hand in the games and his decision to decline a prosthesis. The death of his family, orchestrated by President Snow after his defiant victory, intensified his alcoholism. He formed a bond with Haymitch Abernathy, a fellow victor, who similarly used alcohol to cope with his trauma.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37471" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Did Chaff accept a prosthesis for his lost hand from Capitol doctors?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Chaff, a victor of the 45th Hunger Games, lost his hand during the games. Katniss Everdeen speculated that he likely refused a prosthesis offered by Capitol doctors. Post-victory, he used alcohol as a coping mechanism and befriended Haymitch Abernathy. He was reaped again for the 75th Hunger Games, the 3rd Quarter Quell.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Chaff","mainEntity":[{"@type":"Question","name":"What was the outcome of Chaff's participation in the 75th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Chaff, a tribute from District 11, took part in the 3rd Quarter Quell, or the 75th Hunger Games. He was part of the rebellion, tasked by Haymitch Abernathy to safeguard Katniss and Peeta. However, Chaff was slain by Brutus towards the end of the games, shortly before Katniss Everdeen shattered the Arena's force field."}},{"@type":"Question","name":"How did Chaff lose his hand during the 45th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"During the 45th Hunger Games, Chaff lost his hand, though the specific incident is not described. Katniss Everdeen surmised that Chaff declined a prosthetic hand offered by the Capitol. Post his victory, Chaff resorted to alcohol to manage his trauma and developed a friendship with Haymitch Abernathy."}},{"@type":"Question","name":"What is the relationship between Chaff and Haymitch Abernathy?","acceptedAnswer":{"@type":"Answer","text":"Chaff and Haymitch Abernathy, both victors of the Hunger Games, share a longstanding friendship marked by a shared sense of humor and occasional bad attitude. Their relationship spans their mentoring careers, often characterized by their shared indulgence in alcohol and propensity for playing jokes on others."}},{"@type":"Question","name":"Why did Chaff turn to alcohol after his victory in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Chaff, winner of the 45th Hunger Games, resorted to alcohol to manage his traumatic experiences. His distress was compounded by the loss of his hand in the games and his decision to decline a prosthesis. The death of his family, orchestrated by President Snow after his defiant victory, intensified his alcoholism. He formed a bond with Haymitch Abernathy, a fellow victor, who similarly used alcohol to cope with his trauma."}},{"@type":"Question","name":"Did Chaff accept a prosthesis for his lost hand from Capitol doctors?","acceptedAnswer":{"@type":"Answer","text":"Chaff, a victor of the 45th Hunger Games, lost his hand during the games. Katniss Everdeen speculated that he likely refused a prosthesis offered by Capitol doctors. Post-victory, he used alcohol as a coping mechanism and befriended Haymitch Abernathy. He was reaped again for the 75th Hunger Games, the 3rd Quarter Quell."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Chaff won the <a href="/wiki/45th_Hunger_Games" title="45th Hunger Games">45th Hunger Games</a> between the ages of 15 and 18, but lost his left hand in the process. <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> speculated that he may have refused a prosthesis from <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a> doctors.<sup id="cite_ref-CF_15_1-3" class="reference"><a href="#cite_note-CF_15-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Following his victory, he turned to alcohol to cope with his trauma, and became friends and drinking buddies with <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>.<sup id="cite_ref-CF_14_2-1" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-CF_15_1-4" class="reference"><a href="#cite_note-CF_15-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="75th_Hunger_Games">75th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Being a previous victor, Chaff was reaped for the 75th Hunger Games (the 3rd <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>)<sup id="cite_ref-CF_14_2-2" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. Along with <a href="/wiki/Beetee" class="mw-redirect" title="Beetee">Beetee</a>, <a href="/wiki/Wiress" title="Wiress">Wiress</a>, <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick</a>, <a href="/wiki/Mags" class="mw-redirect" title="Mags">Mags</a>, <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna</a>, <a href="/wiki/Seeder" title="Seeder">Seeder</a>, <a href="/wiki/Woof" title="Woof">Woof</a>, <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a>, <a href="/wiki/Blight" title="Blight">Blight</a> and the <a href="/wiki/Morphlings" title="Morphlings">morphlings</a>, Chaff was part of the <a href="/wiki/Rebellion" title="Rebellion">rebellion</a> and was instructed by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> to try his best to find <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta</a> and to make sure they both lived after they were reaped during the 75th Hunger Games. He was one of the few tributes who knew about the plan to get Katniss out of the <a href="/wiki/Arena" title="Arena">arena</a>, to <a href="/wiki/District_13" title="District 13">District 13</a>.<sup id="cite_ref-CF_27_4-0" class="reference"><a href="#cite_note-CF_27-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/10/Chaff_parade_costume.JPG/revision/latest?cb=20230825233931" class="mw-file-description image"><img alt="Chaff's chariot costume" src="https://static.wikia.nocookie.net/thehungergames/images/1/10/Chaff_parade_costume.JPG/revision/latest/scale-to-width-down/180?cb=20230825233931" decoding="async" loading="lazy" width="180" height="351" class="thumbimage" data-image-name="Chaff parade costume.JPG" data-image-key="Chaff_parade_costume.JPG" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Chaff_parade_costume.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Chaff's chariot costume</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Training">Training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>After the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>, Chaff and Seeder rode back to the Training Center when all the other tributes had gotten together. After being introduced by Haymitch, Chaff gave Katniss a kiss on her lips which surprised her, causing her to push him away. Chaff and Haymitch laughed at her reaction.<sup id="cite_ref-CF_15_1-5" class="reference"><a href="#cite_note-CF_15-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> They were good friends and seemingly both alcoholics.
+</p><p>During training, Chaff and Peeta became close and talked often during training. They both were shown training together with <a href="/wiki/Brutus" title="Brutus">Brutus</a> at the spear throwing station, and had lunch together.<sup id="cite_ref-CF_16_3-1" class="reference"><a href="#cite_note-CF_16-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/8d/Chaff_interview_costume.JPG/revision/latest?cb=20230826002520" class="mw-file-description image"><img alt="Chaff's suit from his interview with Caesar" src="https://static.wikia.nocookie.net/thehungergames/images/8/8d/Chaff_interview_costume.JPG/revision/latest/scale-to-width-down/180?cb=20230826002520" decoding="async" loading="lazy" width="180" height="348" class="thumbimage" data-image-name="Chaff interview costume.JPG" data-image-key="Chaff_interview_costume.JPG" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Chaff_interview_costume.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Chaff's suit from his interview with Caesar</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Interview">Interview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During Chaff's <a href="/wiki/Interviews" title="Interviews">interview</a> with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>, he stated that <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> could change the Quell if he wanted to but wouldn't because he thought it doesn't matter to anyone<sup id="cite_ref-CF_17_5-0" class="reference"><a href="#cite_note-CF_17-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>. After all the interviews were finished, Chaff joined hands with the other victors as an act of solidarity, which Snow took as an act of outright rebellion. He and Katniss were the first to join hands at the interviews, suggesting he was one of the more rebellious victors.<sup id="cite_ref-CF_18_6-0" class="reference"><a href="#cite_note-CF_18-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Cornucopia_bloodbath">Cornucopia bloodbath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 240px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/57/Finnick_and_Chaff_pedestals.png/revision/latest?cb=20140311145408" class="mw-file-description image"><img alt="Finnick Odair (left), District 9 female (middle) and Chaff (right) on their metal plates." src="https://static.wikia.nocookie.net/thehungergames/images/5/57/Finnick_and_Chaff_pedestals.png/revision/latest/scale-to-width-down/240?cb=20140311145408" decoding="async" loading="lazy" width="240" height="135" class="thumbimage" data-image-name="Finnick and Chaff pedestals.png" data-image-key="Finnick_and_Chaff_pedestals.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Finnick_and_Chaff_pedestals.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Finnick Odair (left), District 9 female (middle) and Chaff (right) on their metal plates.</p> 		 	</figcaption> </figure><p> Chaff survived the initial <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a><sup id="cite_ref-CF_20_7-0" class="reference"><a href="#cite_note-CF_20-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>, he stood on the pedestal on the right of the <a href="/wiki/District_9_female_(75th_HG)" class="mw-redirect" title="District 9 female (75th HG)">District 9 female</a>. Although <a href="/wiki/Seeder" title="Seeder">Seeder</a>, his district partner, was killed, he managed to escape into the jungle to hide<sup id="cite_ref-CF_20_7-1" class="reference"><a href="#cite_note-CF_20-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>.
+</p><h4><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Chaff was not seen much during the Games, most likely seeking Katniss as it was his mission to protect and rescue her so she could help the rebels defeat the Capitol. Unfortunately, he could not locate her or Peeta until near the end of the Games.
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/bf/ChaffDeathPortrait.png/revision/latest?cb=20221111041611" class="mw-file-description image"><img alt="Chaff's death portrait." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="117" class="thumbimage lazyload" data-image-name="ChaffDeathPortrait.png" data-image-key="ChaffDeathPortrait.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/bf/ChaffDeathPortrait.png/revision/latest/scale-to-width-down/180?cb=20221111041611"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/b/bf/ChaffDeathPortrait.png/revision/latest?cb=20221111041611" class="mw-file-description image"><img alt="Chaff's death portrait." src="https://static.wikia.nocookie.net/thehungergames/images/b/bf/ChaffDeathPortrait.png/revision/latest/scale-to-width-down/180?cb=20221111041611" decoding="async" loading="lazy" width="180" height="117" class="thumbimage" data-image-name="ChaffDeathPortrait.png" data-image-key="ChaffDeathPortrait.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/bf/ChaffDeathPortrait.png/revision/latest/scale-to-width-down/180?cb=20221111041611"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:ChaffDeathPortrait.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Chaff's death portrait.</p> 		 	</figcaption> </figure>
+<p>Chaff was able to make it to the final 8. Later on in the Games, he finally met up with Peeta, only to be killed by <a href="/wiki/Brutus" title="Brutus">Brutus</a> moments later. Shortly after, Peeta avenged Chaff's death by killing Brutus.<sup id="cite_ref-MJ_2_8-0" class="reference"><a href="#cite_note-MJ_2-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> Chaff placed 8th out of 24, meaning he was one of the last tributes to die. This was unfortunate because with the right survival instincts, he and the other victors could have lived long enough for Katniss to blow up the force field and live.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>He's dark-skinned, about two meters tall, and one of his arms ends in a stump because he lost his hand in the Games he won thirty years ago.</i>"</span></dd>
+<dd>—Katniss about Chaff<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p>Chaff was at least six feet tall, probably as tall as <a href="/wiki/Thresh" title="Thresh">Thresh</a>, with dark skin, and had an arm that ended with a stump because he lost his hand in the 45th Hunger Games. He and Haymitch were friends, as they both turned to drinking after they won their Games.<sup id="cite_ref-CF_15_1-6" class="reference"><a href="#cite_note-CF_15-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Chaff was in his mid to late forties when he died. He was killed at the very end of the 75th Hunger Games by Brutus at the free-for-all just minutes before Katniss Everdeen destroyed the <a href="/wiki/Force_field" title="Force field">force field</a> surrounding the Arena.<sup id="cite_ref-MJ_2_8-1" class="reference"><a href="#cite_note-MJ_2-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality">Personality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Chaff seemed to be a troublemaker, as Effie implied when she said he "never could stay out of a fight".<sup id="cite_ref-CF_14_2-3" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Chaff loved to laugh and was one of Haymitch's close friends<sup id="cite_ref-CF_14_2-4" class="reference"><a href="#cite_note-CF_14-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>, whom he drank with. Chaff joked by kissing Katniss on her lips and laughing with Haymitch at her reaction<sup id="cite_ref-CF_15_1-7" class="reference"><a href="#cite_note-CF_15-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>. However, he did have a soft side, shown when he was friendly and kind to Katniss and Peeta during the training sessions<sup id="cite_ref-CF_16_3-2" class="reference"><a href="#cite_note-CF_16-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>, as well as when he backed Seeder up during her interview, and when he joined hands with the other Victors at the end of the interviews without hesitation, unlike <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> and <a href="/wiki/Gloss" title="Gloss">Gloss</a><sup id="cite_ref-CF_18_6-1" class="reference"><a href="#cite_note-CF_18-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Chaff" is a word for the outer hull of grain that is often removed during the refining process. It is a countermeasure used to spoof radar.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the film, Chaff's face is shown in the sky on the second day even though in the book he was killed by Brutus on the third day<sup id="cite_ref-CF_9-0" class="reference"><a href="#cite_note-CF-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>.</li>
+<li>In the film, Chaff has a scar along his left cheek<sup id="cite_ref-CF_9-1" class="reference"><a href="#cite_note-CF-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>.</li>
+<li>Chaff is the last District 11 tribute to die in the Hunger Games.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FChaff%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-CF_15-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_15_1-0">1.0</a></sup> <sup><a href="#cite_ref-CF_15_1-1">1.1</a></sup> <sup><a href="#cite_ref-CF_15_1-2">1.2</a></sup> <sup><a href="#cite_ref-CF_15_1-3">1.3</a></sup> <sup><a href="#cite_ref-CF_15_1-4">1.4</a></sup> <sup><a href="#cite_ref-CF_15_1-5">1.5</a></sup> <sup><a href="#cite_ref-CF_15_1-6">1.6</a></sup> <sup><a href="#cite_ref-CF_15_1-7">1.7</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-CF_14-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_14_2-0">2.0</a></sup> <sup><a href="#cite_ref-CF_14_2-1">2.1</a></sup> <sup><a href="#cite_ref-CF_14_2-2">2.2</a></sup> <sup><a href="#cite_ref-CF_14_2-3">2.3</a></sup> <sup><a href="#cite_ref-CF_14_2-4">2.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-CF_16-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_16_3-0">3.0</a></sup> <sup><a href="#cite_ref-CF_16_3-1">3.1</a></sup> <sup><a href="#cite_ref-CF_16_3-2">3.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-CF_27-4"><span class="mw-cite-backlink"><a href="#cite_ref-CF_27_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-CF_17-5"><span class="mw-cite-backlink"><a href="#cite_ref-CF_17_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-CF_18-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_18_6-0">6.0</a></sup> <sup><a href="#cite_ref-CF_18_6-1">6.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-CF_20-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_20_7-0">7.0</a></sup> <sup><a href="#cite_ref-CF_20_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-MJ_2-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_2_8-0">8.0</a></sup> <sup><a href="#cite_ref-MJ_2_8-1">8.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-CF-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_9-0">9.0</a></sup> <sup><a href="#cite_ref-CF_9-1">9.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <strong class="mw-selflink selflink">Chaff</strong> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251228145630
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.121 seconds
+Real time usage: 0.193 seconds
+Preprocessor visited node count: 454/1000000
+Post‐expand include size: 3407/2097152 bytes
+Template argument size: 418/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6929/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   91.028      1 -total
+ 45.96%   41.836      1 Template:Character
+ 25.87%   23.547      1 Template:Reflist
+  2.57%    2.343      1 Template:SeriesTP
+  1.94%    1.765      2 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:480651-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228145630 and revision id 965952. Rendering was triggered because: page-view
+ -->
+</div>

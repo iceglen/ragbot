@@ -1,0 +1,127 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">The Meadow</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Mockingjay2-movie-screencaps.com-14902.jpg/revision/latest?cb=20200919045119" class="image image-thumbnail" title="Mockingjay2-movie-screencaps.com-14902">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Mockingjay2-movie-screencaps.com-14902.jpg/revision/latest/scale-to-width-down/268?cb=20200919045119" srcset="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Mockingjay2-movie-screencaps.com-14902.jpg/revision/latest/scale-to-width-down/268?cb=20200919045119 1x, https://static.wikia.nocookie.net/thehungergames/images/f/f7/Mockingjay2-movie-screencaps.com-14902.jpg/revision/latest/scale-to-width-down/536?cb=20200919045119 2x" class="pi-image-thumbnail" data-relevant="1" alt="Mockingjay2-movie-screencaps.com-14902" width="270" height="112" data-image-key="Mockingjay2-movie-screencaps.com-14902.jpg" data-image-name="Mockingjay2-movie-screencaps.com-14902.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Seam" title="The Seam">The Seam</a> in <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></li><li><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></li><li><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></li><li><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></li><li><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>The Meadow&#160;</b>is a scruffy field on the outskirts of&#160;<a href="/wiki/District_12" title="District 12">District 12</a>, near <a href="/wiki/The_Seam" title="The Seam">the Seam</a>. It lies just inside the <a href="/wiki/Fence" title="Fence">fence</a>&#160;and before the <a href="/wiki/Woods" title="Woods">woods</a> where&#160;<a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>&#160;hunts.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_Ballad_of_Songbirds_and_Snakes"><span class="tocnumber">1.1</span> <span class="toctext"><i>The Ballad of Songbirds and Snakes</i></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Sunrise_on_the_Reaping"><span class="tocnumber">1.2</span> <span class="toctext"><i>Sunrise on the Reaping</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#The_Hunger_Games_trilogy"><span class="tocnumber">1.3</span> <span class="toctext"><i>The Hunger Games</i> trilogy</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Reconstruction_of_District_12"><span class="tocnumber">1.3.1</span> <span class="toctext">Reconstruction of District 12</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Resources"><span class="tocnumber">2</span> <span class="toctext">Resources</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Meadow%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_Ballad_of_Songbirds_and_Snakes"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Meadow%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> was known to work on her music in the Meadow early in the morning so as to avoid disturbing her neighbors. The <a href="/wiki/Covey" title="Covey">Covey</a>'s goat, <a href="/wiki/Shamus" title="Shamus">Shamus</a>, grazed there,<sup id="cite_ref-:2_2-0" class="reference"><a href="#cite_note-:2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> and the Covey entered the woods from there as well,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> though they didn't have to contend with the fence because it hadn't been built yet.
+</p>
+<h3><span class="mw-headline" id="Sunrise_on_the_Reaping"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Meadow%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Lenore_Dove" class="mw-redirect" title="Lenore Dove">Lenore Dove</a> called the Meadow "the friend of the condemned" because it was a safe refuge from <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Hunger_Games_trilogy"><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><i>The Hunger Games</i> trilogy</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Meadow%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Katniss recounted that the last time she'd sung "<a href="/wiki/The_Hanging_Tree_(song)" title="The Hanging Tree (song)">The Hanging Tree</a>" when she was seven, <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">her mother</a> had gotten very angry at <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">her father</a>. Frightened because Mrs. Everdeen never usually yelled, Katniss ran off to her only hiding spot: underneath a <a href="/wiki/Flowers#Honeysuckle" title="Flowers">honeysuckle</a> bush in the Meadow.<sup id="cite_ref-MJ_9_5-0" class="reference"><a href="#cite_note-MJ_9-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In the depths of Mrs. Everdeen's depression, Katniss saw a dandelion in the schoolyard, and she was inspired to harvest dandelions with her sister <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Prim</a> in the Meadow. They collected dandelion greens, stems, and flowers and used them to make salad.<sup id="cite_ref-:3_6-0" class="reference"><a href="#cite_note-:3-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> When Katniss later ventured into the woods, the Meadow became her usual route because it was near <a href="/wiki/Katniss_Everdeen%27s_house" title="Katniss Everdeen&#39;s house">her house</a>.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Reconstruction_of_District_12">Reconstruction of District 12</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Meadow%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>After the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, the Meadow was dug up, and it became a mass grave for the people who died in the <a href="/wiki/Bombing_of_District_12" class="mw-redirect" title="Bombing of District 12">bombing of District 12</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> Eventually the Meadow regrew, and twenty years after the war, Katniss&#160;watched her and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta</a>'s <a href="/wiki/Katniss_and_Peeta_Mellark%27s_son" title="Katniss and Peeta Mellark&#39;s son">son</a> and <a href="/wiki/Katniss_and_Peeta_Mellark%27s_daughter" title="Katniss and Peeta Mellark&#39;s daughter">daughter</a> play there together, unaware of what it used to be.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Resources">Resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Meadow%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dandelions,<sup id="cite_ref-:3_6-1" class="reference"><a href="#cite_note-:3-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Flowers#Rue" title="Flowers">rue</a>,<sup id="cite_ref-:4_9-0" class="reference"><a href="#cite_note-:4-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> and honeysuckle<sup id="cite_ref-MJ_9_5-1" class="reference"><a href="#cite_note-MJ_9-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> were all edible plants that grew in the Meadow. It was also a decent place for animals to graze, as Katniss said of Prim's goat <a href="/wiki/Lady" title="Lady">Lady</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Meadow%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It's possible that the District 12 Meadow features in the song <a href="/wiki/Deep_in_the_Meadow_(Lullaby)" title="Deep in the Meadow (Lullaby)">"Deep in the Meadow"</a><i>.</i><sup id="cite_ref-:1_11-0" class="reference"><a href="#cite_note-:1-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Katniss said that the yellow flowers in the Meadow made her think of her fallen ally, <a href="/wiki/Rue" title="Rue">Rue</a>, who had been named after a yellow flower herself.<sup id="cite_ref-:4_9-1" class="reference"><a href="#cite_note-:4-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> Katniss also sang "Deep in the Meadow" to her as she died.<sup id="cite_ref-:1_11-1" class="reference"><a href="#cite_note-:1-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Katniss<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> and the Covey<sup id="cite_ref-:2_2-1" class="reference"><a href="#cite_note-:2-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> both lived in the same part of the Seam near the Meadow, and they both let their goats graze there.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Meadow%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-:2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_2-0">2.0</a></sup> <sup><a href="#cite_ref-:2_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 27</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-MJ_9-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_9_5-0">5.0</a></sup> <sup><a href="#cite_ref-MJ_9_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-:3-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_6-0">6.0</a></sup> <sup><a href="#cite_ref-:3_6-1">6.1</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 4</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 27</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Epilogue</span>
+</li>
+<li id="cite_note-:4-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:4_9-0">9.0</a></sup> <sup><a href="#cite_ref-:4_9-1">9.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 20</span>
+</li>
+<li id="cite_note-:1-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_11-0">11.0</a></sup> <sup><a href="#cite_ref-:1_11-1">11.1</a></sup></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 18</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20251227151934
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.065 seconds
+Real time usage: 0.103 seconds
+Preprocessor visited node count: 321/1000000
+Post‐expand include size: 200/2097152 bytes
+Template argument size: 2/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5272/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   71.529      1 -total
+ 31.62%   22.616      1 Template:Reflist
+ 29.45%   21.066      1 Template:Location
+  2.22%    1.586      1 Template:SOTR
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:490441-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227151934 and revision id 962398. Rendering was triggered because: unknown
+ -->
+</div>

@@ -1,0 +1,143 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Uprising of District 8</h2>
+
+<figure class="pi-item pi-image" data-source="image1">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Uprd8.jpg/revision/latest?cb=20130723101546" class="image image-thumbnail" title="Uprd8">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Uprd8.jpg/revision/latest/scale-to-width-down/268?cb=20130723101546" srcset="https://static.wikia.nocookie.net/thehungergames/images/f/f1/Uprd8.jpg/revision/latest/scale-to-width-down/268?cb=20130723101546 1x, https://static.wikia.nocookie.net/thehungergames/images/f/f1/Uprd8.jpg/revision/latest/scale-to-width-down/536?cb=20130723101546 2x" class="pi-image-thumbnail" data-relevant="1" alt="Uprd8" width="270" height="113" data-image-key="Uprd8.jpg" data-image-name="Uprd8.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="conflict">
+	
+		<h3 class="pi-data-label pi-secondary-font">Conflict</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pre-Second_Rebellion_civil_unrest" title="Pre-Second Rebellion civil unrest">Pre-Second Rebellion civil unrest</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+	
+		<h3 class="pi-data-label pi-secondary-font">Date</h3>
+	
+	<div class="pi-data-value pi-font">Late 74 ADD (lasted approx. 2 days)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="place">
+	
+		<h3 class="pi-data-label pi-secondary-font">Place</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_8" title="District 8">District 8</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="outcome">
+	
+		<h3 class="pi-data-label pi-secondary-font">Outcome</h3>
+	
+	<div class="pi-data-value pi-font"><b>Decisive Capitol victory</b><ul><li><a href="/wiki/Rebels" title="Rebels">Rebels</a> temporarily gain control</li><li>Large parts of District 8 bombed</li><li>District 8 set under martial law for a week</li><li>Factory destroyed, upon reports that the rebellion was plotted there</li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Combatants</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row6">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li><a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row7">
+	
+	<div class="pi-data-value pi-font"><b>District 8</b><ul><li>District 8 rebels</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Casualties</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row12">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li>Peacekeepers (presumed)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row13">
+	
+	<div class="pi-data-value pi-font"><b>District 8</b><ul><li>Rebel leaders</li><li>Factory workers</li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>Uprising of<i> </i><a href="/wiki/District_8" title="District 8">District 8</a></b> was the first known uprising in <a href="/wiki/Panem" title="Panem">Panem</a> since the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>. <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> learned of the uprising from accidentally seeing a televised report in <a href="/wiki/Mayor_Undersee" title="Mayor Undersee">Mayor Undersee</a>'s office that she was not supposed to view.<sup id="cite_ref-CF_6_1-0" class="reference"><a href="#cite_note-CF_6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Uprising"><span class="tocnumber">2</span> <span class="toctext">Uprising</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notable_persons_involved"><span class="tocnumber">3</span> <span class="toctext">Notable persons involved</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Known_casualties"><span class="tocnumber">3.1</span> <span class="toctext">Known casualties</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_8%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 250px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/67/D8_Uprising.png/revision/latest?cb=20130720222644" class="mw-file-description image"><img alt="The Capitol emblem being set on fire." src="https://static.wikia.nocookie.net/thehungergames/images/6/67/D8_Uprising.png/revision/latest/scale-to-width-down/250?cb=20130720222644" decoding="async" loading="lazy" width="250" height="140" class="thumbimage" data-image-name="D8 Uprising.png" data-image-key="D8_Uprising.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:D8_Uprising.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Capitol emblem being set on fire.</p> 		 	</figcaption> </figure>
+<p>Since the unconventional victory of <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>, the citizens of District 8 had become emboldened. When the duo visited District 8 on their <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a>, the citizens had a dress rehearsal for the uprising in which they went to their planned positions they would attempt to take over in the real uprising. The district citizens were able to discuss planning for the uprising in the textile factories, as the machinery would drown out their conversations and make it impossible for Peacekeepers to overhear them.<sup id="cite_ref-CF_10_2-0" class="reference"><a href="#cite_note-CF_10-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Uprising">Uprising</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_8%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The uprising took place the night Peeta proposed to Katniss. Ordinarily, it would have been too suspicious for large groups of people to be gathering together in the town square, but this event gave the rebels the element of surprise, allowing them an opportunity to strike. 
+</p><p>The Peacekeepers were quickly caught off guard and overpowered by the crowds, and the district fell into rebel hands quickly. The rebels were able to take control of key positions, acquiring weapons and ammunition along the way. Hours later, however, reinforcements were sent in; the Capitol deployed its air force, bombing rebel strongholds and deploying mass numbers of ground troops to contain the unrest. Forty-eight hours later, the rebellion was subdued and the district was put in a state of lockdown, with all residents forbidden from leaving their homes. The following week, Peacekeepers arrested mass numbers of suspected rebel instigators, hanging them in the square and televising their <a href="/wiki/Execution" title="Execution">executions</a>.<sup id="cite_ref-CF_10_2-1" class="reference"><a href="#cite_note-CF_10-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The lockdown was lifted a week later, and normal life resume. <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a>, having learned that the idea of the rebellion had been planned in the factories, bombed one of them, which killed large numbers of District 8 citizens, including the families of Bonnie and Twill.
+</p><p>Katniss Everdeen found out about the uprising by coincidence. When she walked into the office of Mayor Undersee and saw that he was absent, she heard a beeping sound, which came from his personal television. Onscreen, a middle-aged woman was giving updates on the situation in District 8, stating that conditions were deteriorating and that a Level 3 Alert was called. By then, all textile production had ceased and additional Peacekeeping forces were being deployed into the district to help contain the unrest. 
+</p><p>The monitor then showed footage from the main square of District 8, where large numbers of citizens were waving banners with Katniss' face from the rooftops. The square was packed with angry citizens wearing homemade masks, throwing bricks. Buildings burned, and <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> shot into the raging crowd at random, killing indiscriminately.<sup id="cite_ref-CF_6_1-1" class="reference"><a href="#cite_note-CF_6-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<h2><span class="mw-headline" id="Notable_persons_involved">Notable persons involved</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_8%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Bonnie</li>
+<li>Twill</li></ul>
+<h3><span class="mw-headline" id="Known_casualties">Known casualties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_8%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Twill's husband</li>
+<li>Bonnie's entire family<sup id="cite_ref-CF_10_2-2" class="reference"><a href="#cite_note-CF_10-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_8%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the films, <a href="/wiki/District_11" title="District 11">District 11</a>'s riot during the 74th Hunger Games was the first known uprising since the Dark Days, rather than District 8's.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>In <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, Katniss heard of the District 8 uprising while passing by a control room on the <a href="/wiki/Train" title="Train">train</a> during her <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>. She also did not encounter Bonnie and Twill.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_8%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-CF_6-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_6_1-0">1.0</a></sup> <sup><a href="#cite_ref-CF_6_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-CF_10-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_10_2-0">2.0</a></sup> <sup><a href="#cite_ref-CF_10_2-1">2.1</a></sup> <sup><a href="#cite_ref-CF_10_2-2">2.2</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 10</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251223022101
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.033 seconds
+Real time usage: 0.049 seconds
+Preprocessor visited node count: 190/1000000
+Post‐expand include size: 140/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2056/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   30.392      1 -total
+ 61.59%   18.718      1 Template:Battle
+ 19.17%    5.825      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:68336-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251223022101 and revision id 945334. Rendering was triggered because: page-view
+ -->
+</div>

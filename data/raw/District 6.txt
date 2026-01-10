@@ -1,0 +1,255 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">District 6</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/9f/District_6_Seal.png/revision/latest?cb=20250622180101" class="image image-thumbnail" title="District 6 Seal">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/9/9f/District_6_Seal.png/revision/latest/scale-to-width-down/268?cb=20250622180101" srcset="https://static.wikia.nocookie.net/thehungergames/images/9/9f/District_6_Seal.png/revision/latest/scale-to-width-down/268?cb=20250622180101 1x, https://static.wikia.nocookie.net/thehungergames/images/9/9f/District_6_Seal.png/revision/latest/scale-to-width-down/536?cb=20250622180101 2x" class="pi-image-thumbnail" data-relevant="1" alt="District 6 Seal" width="270" height="321" data-image-key="District_6_Seal.png" data-image-name="District 6 Seal.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="industry">
+	
+		<h3 class="pi-data-label pi-secondary-font">Industry</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://en.wikipedia.org/wiki/Transportation" class="extiw" title="wikipedia:Transportation">Transportation</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victors">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victors</h3>
+	
+	<div class="pi-data-value pi-font"><ol><li><a href="/wiki/District_6_female_(75th_HG)" title="District 6 female (75th HG)">Female victor</a></li><li><a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">Male victor</a></li></ol></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mayor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Leader(s)</h3>
+	
+	<div class="pi-data-value pi-font">Unknown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rebels">
+	
+		<h3 class="pi-data-label pi-secondary-font">Rebels</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">Male morphling</a><br /><a href="/wiki/District_6_female_(75th_HG)" title="District 6 female (75th HG)">Female morphling</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="population">
+	
+		<h3 class="pi-data-label pi-secondary-font">Population</h3>
+	
+	<div class="pi-data-value pi-font">784,453</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="tesserae">
+	
+		<h3 class="pi-data-label pi-secondary-font">Tesserae</h3>
+	
+	<div class="pi-data-value pi-font">68,366</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="color">
+	
+		<h3 class="pi-data-label pi-secondary-font">Color</h3>
+	
+	<div class="pi-data-value pi-font"><span style="background-color:#708090; color:white; border:1px solid darkgray;">&#160;Slate Grey&#160;</span> (10th HG)<br /><p><span style="background-color:#b3ada7; color:white; border:1px solid darkgray;">&#160;Dove&#160;</span> (50th HG)<br /><span style="background-color:#a15431; color:white; border:1px solid darkgray;">&#160;Hello Fall Orange&#160;</span> (74th HG)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="present_location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Present-day location</h3>
+	
+	<div class="pi-data-value pi-font"><b>Michigan</b>, <b>Wisconsin</b>, <b>Ontario</b>, Minnesota</div>
+</div>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Tribute Guide">"<i>Our hovercraft, our high-speed trains, and our cargo trains come to us from District 6. Ironically, the citizens here have little love for travel.</i>"</span></dd>
+<dd>&#8212;Description from <i><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">The Hunger Games: Tribute Guide</a></i><sup class="noprint"><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">[src]</a></sup></dd></dl></div>
+<p><b>District 6</b> is one of the thirteen <a href="/wiki/Panem#Districts" title="Panem">districts</a> of <a href="/wiki/Panem" title="Panem">Panem</a>, whose principal industry is transportation.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#50th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">50th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#75th_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">75th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Second_Rebellion"><span class="tocnumber">1.3</span> <span class="toctext">Second Rebellion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Known_tributes"><span class="tocnumber">2</span> <span class="toctext">Known tributes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Tributes"><span class="tocnumber">2.1</span> <span class="toctext">Tributes</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Victors"><span class="tocnumber">2.2</span> <span class="toctext">Victors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Location_and_geography"><span class="tocnumber">3</span> <span class="toctext">Location and geography</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="50th_Hunger_Games"><a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>District 6 tributes <a href="/wiki/Miles" title="Miles">Miles</a>, <a href="/wiki/Atread" title="Atread">Atread</a>, <a href="/wiki/Velo" title="Velo">Velo</a> and <a href="/wiki/Wellie" title="Wellie">Wellie</a> joined the <a href="/wiki/Newcomers" class="mw-redirect" title="Newcomers">Newcomers</a> along with Districts 3, 7, 8, 9, 10, 11 and 12.<sup id="cite_ref-SOTR_8_1-0" class="reference"><a href="#cite_note-SOTR_8-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="75th_Hunger_Games"><a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the time of the third Quarter Quell, the <a href="/wiki/Tribute" title="Tribute">tributes</a> from Districts <a href="/wiki/District_3" title="District 3">3</a>, <a href="/wiki/District_4" title="District 4">4</a>, 6, <a href="/wiki/District_7" title="District 7">7</a>, <a href="/wiki/District_8" title="District 8">8</a>, and <a href="/wiki/District_11" title="District 11">11</a> were all involved in a rebel plan to protect Katniss and break out of the <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">75th Hunger Games arena</a>.<sup id="cite_ref-:3_2-0" class="reference"><a href="#cite_note-:3-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> The two District 6 <a href="/wiki/Victor" title="Victor">victors</a> <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaped</a> for these Games were heavily addicted to <a href="/wiki/Morphling_(drug)" title="Morphling (drug)">morphling</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> which could potentially imply the district at large has a drug problem.
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion"><a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One evening, the Capitol aired a live <a href="/wiki/Propo" title="Propo">propo</a> of <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>, who was made to recount war damage allegedly perpetrated by rebels. This included a derailed train leaking toxic waste,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> which could have been linked to District 6 on account of their industry.
+</p>
+<h2><span class="mw-headline" id="Known_tributes">Known tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Tributes">Tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 150px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e8/District_6_Tributes.png/revision/latest?cb=20111221044309" class="mw-file-description image"><img alt="District 6 Tributes, 74th Hunger Games" src="https://static.wikia.nocookie.net/thehungergames/images/e/e8/District_6_Tributes.png/revision/latest/scale-to-width-down/150?cb=20111221044309" decoding="async" loading="lazy" width="150" height="167" class="thumbimage" data-image-name="District 6 Tributes.png" data-image-key="District_6_Tributes.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_6_Tributes.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">District 6 Tributes, 74th Hunger Games</p> 		 	</figcaption> </figure><a href="/wiki/Otto" title="Otto">Otto</a> - Male tribute in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. Killed by shrapnel in the <a href="/wiki/Bombings#Bombing_of_the_Capitol_Arena" title="Bombings">Capitol Arena bombing</a> before the Games began. Placed 22nd-23rd.<sup id="cite_ref-:0_5-0" class="reference"><a href="#cite_note-:0-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> - Female tribute in the 10th Hunger Games. Killed by shrapnel in the Capitol Arena bombing, placing 22nd-23rd.<sup id="cite_ref-:0_5-1" class="reference"><a href="#cite_note-:0-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>District 6 male (49th HG) - Placed second.</li>
+<li><a href="/wiki/Miles" title="Miles">Miles</a> - Male tribute in the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, notably with asthma. He was killed on the first day along with 19 others.</li>
+<li><a href="/wiki/Wellie" title="Wellie">Wellie</a> - Female tribute in the 50th Hunger Games. She placed 3rd out of 48, being decapitated by <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> on the seventh and final day. In the official edited version of the Games, she appeared to have come 4th.</li>
+<li><a href="/wiki/Atread" title="Atread">Atread</a> - Male tribute in the 50th Hunger Games, he was killed on the fourth day along with 15 others following a volcanic eruption.</li>
+<li><a href="/wiki/Velo" title="Velo">Velo</a> - Female tribute in the 50th Hunger Games, she was killed on the first day along with 19 others.</li>
+<li><a href="/wiki/Titus" title="Titus">Titus</a> - Killed by an avalanche in an unknown Games. Infamously cannibalized his victims.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/District_6_male_(74th_HG)" class="mw-redirect" title="District 6 male (74th HG)">District 6 male (74th HG)</a> - Died in the <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>.<sup id="cite_ref-:1_7-0" class="reference"><a href="#cite_note-:1-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/District_6_female_(74th_HG)" title="District 6 female (74th HG)">District 6 female (74th HG)</a> - Died in the bloodbath.<sup id="cite_ref-:1_7-1" class="reference"><a href="#cite_note-:1-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/08/Morphlings2.png/revision/latest?cb=20140816194859" class="mw-file-description image"><img alt="The morphlings." src="https://static.wikia.nocookie.net/thehungergames/images/0/08/Morphlings2.png/revision/latest/scale-to-width-down/180?cb=20140816194859" decoding="async" loading="lazy" width="180" height="79" class="thumbimage" data-image-name="Morphlings2.png" data-image-key="Morphlings2.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Morphlings2.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The morphlings.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Victors">Victors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/District_6_female_(75th_HG)" title="District 6 female (75th HG)">District 6 female (75th HG)</a> - Victor of an unknown Hunger Games, and tribute in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. Killed by <a href="/wiki/Monkey_mutt" title="Monkey mutt">monkey mutts</a> on the second day.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">District 6 male (75th HG)</a> - Victor of an unknown Games and tribute in the 75th. Died in the bloodbath.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Location_and_geography">Location and geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the map of Panem featured in <i><a href="/wiki/The_Hunger_Games_Adventures" title="The Hunger Games Adventures">The Hunger Games Adventures</a></i>, District 6 is located in the midwest area of North America, primarily centered in the states of Michigan and Wisconsin and the southern part of the Canadian province of Ontario. This ties into its district industry as the Midwest, particularly Michigan, was renowned for its automotive industry during the 20th and 21st century. District 6 borders <a href="/wiki/District_3" title="District 3">District 3</a> (to the south and east), <a href="/wiki/District_9" title="District 9">District 9</a> (to the northwest), and <a href="/wiki/District_13" title="District 13">District 13</a> (to the east).
+</p><p>In <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, District 6 is mentioned as being the third district from the east, after Districts 12 and 8 and before District 11.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 258px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/86/District6CatchingFireFilmStill.jpeg/revision/latest?cb=20250326032307" class="mw-file-description image"><img alt="District 6 as seen in the Catching Fire film adaptation." src="https://static.wikia.nocookie.net/thehungergames/images/8/86/District6CatchingFireFilmStill.jpeg/revision/latest/scale-to-width-down/258?cb=20250326032307" decoding="async" loading="lazy" width="258" height="107" class="thumbimage" data-image-name="District6CatchingFireFilmStill.jpeg" data-image-key="District6CatchingFireFilmStill.jpeg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District6CatchingFireFilmStill.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">District 6 as seen in the <i>Catching Fire</i> film adaptation.</p> 		 	</figcaption> </figure>The district's industry, along with <a href="/wiki/District_5" title="District 5">District 5</a>, are the last ones to be revealed, only at the time the film adaptation of <i>The Hunger Games</i> has been announced. Nowhere in the original trilogy books suggest that District 6 provides transportation, unlike the case of <a href="/wiki/District_9" title="District 9">District 9</a> being hinted from the then-unidentified wheat and bread district.
+<ul><li>In fact, Katniss stated in <i>Catching Fire</i> that <a href="/wiki/District_3" title="District 3">District 3</a> manufactures automobiles.</li></ul></li>
+<li>In <i><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">The Hunger Games: Tribute Guide</a></i>, it says that the people of District 6 dislike traveling, even though their industry is transportation.</li>
+<li>District 6 was the 5th - 10th district to pry from Capitol rule.</li>
+<li>According to the Capitol.PN, District 6 has 52 active hubs with a population of 784,453, making it the largest district in Panem, in terms of population, with almost four times as many citizens as District 2, the second-place holder. If this is true, due to being the largest district in terms of population, it is also extremely unstable, making Morphling a district-wide problem.</li>
+<li>According to the Capitol.PN, District 6 claims 68,366 in tesserae, making it the sixth most impoverished district.&#160;
+<ul><li>If the population is 784,453 and they claim 68,366 tesserae, that would equal to 0.087 tesserae per person, ironically making it the 4th richest District.</li>
+<li>This would make District 6 the only other non-Career district (aside from District 5) richer than a Career district (District 4) and the second wealthiest non-Career district.</li></ul></li>
+<li>It is considered a lower middle-class district.</li>
+<li>According to <a href="/wiki/The_Hunger_Games_Adventures" title="The Hunger Games Adventures">The Hunger Games Adventures</a>, District 6 would be situated directly north of District 3, which fits more appropriately with what was seen in <i>Catching Fire</i>.</li>
+<li>In the film, District 6 was the first District to lose both of its tributes in the 74th Hunger Games.</li>
+<li>The people of District 6 seem to wear darker clothes as shown in Catching Fire during the victory tour. Their choice of clothes also seems to be more form-fitting to the body (People with skin-tight pants and shirts can be seen along with snug jackets).</li>
+<li>Despite District 6 being the district responsible for transportation, Katniss mentions that District 3 manufactures automobiles.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>This is known before District 6's district has been revealed.</li></ul></li>
+<li>Based on the <a href="/wiki/Arena_wear" title="Arena wear">arena wear</a> for the 74th Hunger Games, the district's color seems to be hello fall orange (#a15431 – <span style="background-color:#a15431; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+<ul><li>Although the final cut of <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> changed all the District banner colors to red, pre-release materials show District 6's color for the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a> appears to be slate grey (#708090 - <span style="background-color:#708090; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The arena wear for the 50th Hunger Games was dove (#B3ADA7 - <span style="background-color:#B3ADA7; color:; border:1px solid darkgray;">&#160;&#160;&#160;</span>).</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-SOTR_8-1"><span class="mw-cite-backlink"><a href="#cite_ref-SOTR_8_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-:3-2"><span class="mw-cite-backlink"><a href="#cite_ref-:3_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-:0-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_5-0">5.0</a></sup> <sup><a href="#cite_ref-:0_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-:1-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_7-0">7.0</a></sup> <sup><a href="#cite_ref-:1_7-1">7.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a href="/wiki/File:Anatomy_of_an_arena_costume.jpg" title="File:Anatomy of an arena costume.jpg">File:Anatomy of an arena costume.jpg</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a href="/wiki/File:TBOSASScreensLeft.jpg" title="File:TBOSASScreensLeft.jpg">File:TBOSASScreensLeft.jpg</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <strong class="mw-selflink selflink">District 6</strong> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251227213049
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.096 seconds
+Real time usage: 0.163 seconds
+Preprocessor visited node count: 476/1000000
+Post‐expand include size: 4195/2097152 bytes
+Template argument size: 479/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4981/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   70.332      1 -total
+ 33.53%   23.585      1 Template:District
+ 27.90%   19.622      1 Template:Reflist
+  2.52%    1.773      1 Template:SOTR
+  2.41%    1.698      6 Template:Colorbox
+  2.24%    1.578      1 Template:Quote
+  2.18%    1.534      1 Template:SeriesTP
+  1.44%    1.013      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2275-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227213049 and revision id 967809. Rendering was triggered because: unknown
+ -->
+</div>

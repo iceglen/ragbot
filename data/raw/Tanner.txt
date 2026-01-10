@@ -1,0 +1,322 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Tanner</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/95/Tanner.jpg/revision/latest?cb=20231122163212" class="image image-thumbnail" title="Tanner">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/9/95/Tanner.jpg/revision/latest/scale-to-width-down/267?cb=20231122163212" srcset="https://static.wikia.nocookie.net/thehungergames/images/9/95/Tanner.jpg/revision/latest/scale-to-width-down/267?cb=20231122163212 1x, https://static.wikia.nocookie.net/thehungergames/images/9/95/Tanner.jpg/revision/latest/scale-to-width-down/536?cb=20231122163212 2x" class="pi-image-thumbnail" data-relevant="1" alt="Tanner" width="270" height="180" data-image-key="Tanner.jpg" data-image-name="Tanner.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">12–18</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_10" title="District 10">District 10</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Sickle <br> Chain-sickle (film)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased (killed by <a href="/wiki/Coral" title="Coral">Coral</a> and <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a>)</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Kjell_Brutscheidt" title="Kjell Brutscheidt">Kjell Brutscheidt</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Bubbly by nature, [Domitia Whimsiwick] got her muscular District 10 tribute, Tanner, so engaged in talking about slaughterhouse techniques that Lucky had to cut them off when they ran over. Arachne had been wrong about the appeal of the topic, because Tanner garnered the most applause of the evening so far.</i>"</span></dd>
+<dd>—<a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> describing Tanner's interview.<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Tanner</b> was the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_10" title="District 10">District 10</a> in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. His <a href="/wiki/Mentor" title="Mentor">mentor</a> was <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a>. For a short amount of time, he was in an <a href="/wiki/Alliance" title="Alliance">alliance</a> with the <a href="/wiki/District_4" title="District 4">District 4</a> duo, <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> and <a href="/wiki/Coral" title="Coral">Coral</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#10th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Death"><span class="tocnumber">1.2</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Film_adaptation"><span class="tocnumber">1.3</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="47203" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Tanner's mentor in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Tanner was mentored by Domitia Whimsiwick, a high-achieving student from the Academy. This was in line with the mentorship program established during the 10th Hunger Games, which utilized top students as mentors.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47204" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What district was Tanner from in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games series, Tanner hailed from District 10. He represented his district as the male tribute during the 10th Hunger Games. His mentor was Domitia Whimsiwick, and he temporarily allied with Mizzen and Coral from District 4. Tanner's transport to the Capitol was a grubby cattle car, indicative of District 10's livestock-centric economy.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47205" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who were Tanner's allies in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the 10th Hunger Games, Tanner allied with Mizzen and Coral from District 4. They were later joined by Treech, who decided to leave his district partner, Lamina. This alliance worked together for survival, sharing resources and providing mutual protection.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47206" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How was Tanner transported to the Capitol for the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Tanner, participating in the 10th Hunger Games, journeyed to the Capitol using a cargo train. The tributes were subsequently housed in a cage at the Capitol Zoo. The length of the train journey was dependent on the tribute's district, with District 12 to Capitol travel estimated at about a day.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47207" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Tanner's experience at the Capitol Zoo during the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Tanner was brought to the Capitol Zoo with fellow tributes, housed in the war-ravaged monkey house. His partner Brandy was killed by Peacekeepers after murdering her mentor. Tanner's mentor, Domitia Whimsiwick, engaged him in discussions about slaughterhouse techniques, a topic he was acquainted with.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Tanner","mainEntity":[{"@type":"Question","name":"Who was Tanner's mentor in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Tanner was mentored by Domitia Whimsiwick, a high-achieving student from the Academy. This was in line with the mentorship program established during the 10th Hunger Games, which utilized top students as mentors."}},{"@type":"Question","name":"What district was Tanner from in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games series, Tanner hailed from District 10. He represented his district as the male tribute during the 10th Hunger Games. His mentor was Domitia Whimsiwick, and he temporarily allied with Mizzen and Coral from District 4. Tanner's transport to the Capitol was a grubby cattle car, indicative of District 10's livestock-centric economy."}},{"@type":"Question","name":"Who were Tanner's allies in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"During the 10th Hunger Games, Tanner allied with Mizzen and Coral from District 4. They were later joined by Treech, who decided to leave his district partner, Lamina. This alliance worked together for survival, sharing resources and providing mutual protection."}},{"@type":"Question","name":"How was Tanner transported to the Capitol for the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Tanner, participating in the 10th Hunger Games, journeyed to the Capitol using a cargo train. The tributes were subsequently housed in a cage at the Capitol Zoo. The length of the train journey was dependent on the tribute's district, with District 12 to Capitol travel estimated at about a day."}},{"@type":"Question","name":"What was Tanner's experience at the Capitol Zoo during the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Tanner was brought to the Capitol Zoo with fellow tributes, housed in the war-ravaged monkey house. His partner Brandy was killed by Peacekeepers after murdering her mentor. Tanner's mentor, Domitia Whimsiwick, engaged him in discussions about slaughterhouse techniques, a topic he was acquainted with."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTanner%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 131px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/62/Tanner_reaping.jpg/revision/latest?cb=20240215035917" class="mw-file-description image"><img alt="Tanner at the reaping." src="https://static.wikia.nocookie.net/thehungergames/images/6/62/Tanner_reaping.jpg/revision/latest?cb=20240215035917" decoding="async" loading="lazy" width="131" height="181" class="thumbimage" data-image-name="Tanner reaping.jpg" data-image-key="Tanner_reaping.jpg" data-relevant="0"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tanner_reaping.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tanner at the reaping.</p> 		 	</figcaption> </figure>
+<p>Tanner grew up in District 10 and became his district's male tribute in the <a href="/wiki/Reaping" title="Reaping">reaping</a> for the 10th Hunger Games.<sup id="cite_ref-Ballad_7_1-0" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Along with the other tributes, Tanner was taken to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in a dirty cattle car. From there, they were dumped into the monkey house at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>.<sup id="cite_ref-Ballad_3_2-0" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> While at the zoo, his <a href="/wiki/District_partner" title="District partner">district partner</a> <a href="/wiki/Brandy" title="Brandy">Brandy</a> killed her mentor, <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a>, so she was gunned down by <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a>.<sup id="cite_ref-Ballad_7_1-1" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>During the interviews before the Games began, Tanner's mentor, <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a>, used her knowledge of cows and bubbly nature to get Tanner speaking about slaughterhouse techniques, which he had grown familiar with during his time in District 10, the industry of which is livestock. He became so engaged in the conversation that <a href="/wiki/Lucretius_Flickerman" title="Lucretius Flickerman">Lucretius Flickerman</a>, the interviewer, had to cut them off when they ran out of time, and he garnered the most applause of the evening so far.<sup id="cite_ref-Ballad_11_3-0" class="reference"><a href="#cite_note-Ballad_11-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Because of the interview, many Capitol citizens favored Tanner to win.<sup id="cite_ref-Ballad_12_4-0" class="reference"><a href="#cite_note-Ballad_12-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTanner%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tanner was one of the few tributes that sprinted for the weapons in the center of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a> after the gong sounded to signal the beginning of the Games. However, like the others, he quickly dispersed after selecting his weapon. Later that morning, he was seen climbing up and strolling along the top of the arena, but only sat there for a while before vanishing again.<sup id="cite_ref-Ballad_14_5-0" class="reference"><a href="#cite_note-Ballad_14-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>During the Games, <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a> went into the arena to protest the death of <a href="/wiki/Marcus" title="Marcus">Marcus</a> and hold vigil over Marcus' body. <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> was sent into the arena to coax Sejanus out, but as they left, Tanner pursued them, along with Mizzen, Coral, and <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a>. He managed to cut open the back of Sejanus's calf with his <a href="/wiki/Weapons#Knife" title="Weapons">knife</a>, injuring him before Sejanus was able to escape. After this incident, Tanner, Coral and Mizzen formed an alliance.<sup id="cite_ref-Ballad_16_6-0" class="reference"><a href="#cite_note-Ballad_16-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>On the second day of the Games, he, Coral, and Mizzen teamed up once more to kill <a href="/wiki/Sol" title="Sol">Sol</a>, the female tribute from <a href="/wiki/District_5" title="District 5">District 5</a>. The alliance chased her until Coral speared Sol's throat with a trident.<sup id="cite_ref-Ballad_16_6-1" class="reference"><a href="#cite_note-Ballad_16-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> 
+</p><p>On the third day, the trio prepared to kill <a href="/wiki/Lamina" title="Lamina">Lamina</a>, the female <a href="/wiki/District_7" title="District 7">District 7</a> tribute. At first, Lamina took no notice, but was brought to attention when Tanner banged a <a href="/wiki/Weapons#Sword" title="Weapons">sword</a> against one of the poles, as she had taken shelter above. Tanner positioned himself underneath, holding a pair of <a href="/wiki/Weapons#Trident" title="Weapons">tridents</a> and directing the District 4 tributes while they climbed up, so they could corner Lamina and prevent her from escaping. When they reached the beam at the top, Tanner threw Mizzen's trident up for him to catch, but didn't toss it high enough and it fell back to the ground. Because Mizzen had been occupied with attempting to catch the trident, Lamina took the opportunity to injure him and knock him off balance. Tanner ran down to the other end and instead tossed a trident to Coral, who caught it easily and used it to kill Lamina.<sup id="cite_ref-Ballad_18_7-0" class="reference"><a href="#cite_note-Ballad_18-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTanner%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the alliance killed Lamina, Tanner rejoiced over her death, performing a kind of dance over her body. However, as he turned to congratulate Mizzen with a "victory slap," Coral drove a trident into his back. Tanner fell to the ground after being shoved away by Mizzen, who then finished him off using a knife to his neck.
+</p><p>Tanner's body was later collected by <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper Ash</a>, the <a href="/wiki/District_11" title="District 11">District 11</a> male tribute, and taken to his makeshift morgue.<sup id="cite_ref-Ballad_18_7-1" class="reference"><a href="#cite_note-Ballad_18-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTanner%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When the tributes and mentors visited the arena to devise strategies, Tanner was shown to have quickly formed an alliance with Coral and Mizzen, standing with them as they surveyed the arena. He watched as Coral invited <a href="/wiki/Treech" title="Treech">Treech</a> to join their alliance, and he witnessed Treech’s decision to abandon his district partner, Lamina.<sup id="cite_ref-Ballad_film_8-0" class="reference"><a href="#cite_note-Ballad_film-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>When the gong rang, Tanner pushed Lamina and headed to the center. He began fighting <a href="/wiki/Panlo" title="Panlo">Panlo</a>, who was soon killed by Coral. Tanner, Coral, Mizzen, and Treech gathered before chasing <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> and <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a> into the tunnels. However, the two tributes narrowly escaped through a door.<sup id="cite_ref-Ballad_film_8-1" class="reference"><a href="#cite_note-Ballad_film-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>They continued to inspect the tunnels until nightfall, when Tanner grabbed <a href="/wiki/Otto" title="Otto">Otto</a>, who had been killed by one of them, out of the rubble. At night, the four saw Coriolanus Snow and Sejanus Plinth running towards the exit and decided to chase them, not stopping even when <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> was killed. After Coriolanus and Sejanus escaped, the tributes returned to the center of the arena. The next day, the four had cornered Lucy Gray when Coriolanus sent her several drones with water. The drones crashed into the alliance, and Lucy Gray was able to escape.<sup id="cite_ref-Ballad_film_8-2" class="reference"><a href="#cite_note-Ballad_film-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>After killing Lamina, the group turned around to retrieve the water. They saw Lucy Gray and chased her into a ventilation duct. When Tanner reproached Coral for not being able to kill her, Coral stuck her trident into his chest. Tanner placed 8th.<sup id="cite_ref-Ballad_film_8-3" class="reference"><a href="#cite_note-Ballad_film-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTanner%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tanner was described as muscular.<sup id="cite_ref-Ballad_11_3-1" class="reference"><a href="#cite_note-Ballad_11-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTanner%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tanner's name comes from <a href="https://en.wikipedia.org/wiki/Tanning_(leather)" class="extiw" title="wikipedia:Tanning (leather)">tanning</a>, the process of creating leather from animal skin.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTanner%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Mizzen and Coral may have started the alliance with Tanner to specifically kill Lamina because it required three people to block all of her exits.</li>
+<li>Throughout the book, Tanner is referred to as strong. He was one of the only tributes along with Coral, Reaper, and Jessup to receive weapons from the weapons pile at the start of the Games.</li>
+<li>Tanner is the third male tribute from District 10 in the series to outlive his <a href="/wiki/Brandy" title="Brandy">female counterpart</a>, similar to District 10 males from the <a href="/wiki/District_10_male_(74th_HG)" class="mw-redirect" title="District 10 male (74th HG)">74th</a> and <a href="/wiki/District_10_male_(75th_HG)" title="District 10 male (75th HG)">75th</a> Hunger Games.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTanner%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="d410af9cfe478e50ee067b1fb9e9c832" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="D10MTanner-jpg" style="position: relative; height:185px; width:170px;"><a class="image lightbox" href="/wiki/File:D10MTanner.jpg" title="D10MTanner.jpg (53 KB)" style="height:185px; width:170px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/e/ec/D10MTanner.jpg/revision/latest/scale-to-width-down/170?cb=20250427065840" title="D10MTanner.jpg (53 KB)" class="thumbimage" alt="Tanner's face on the monitors." height="185" width="185" data-image-name="D10MTanner.jpg" data-image-key="D10MTanner.jpg" data-relevant="1" data-caption="Tanner's face on the monitors."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D10MTanner.jpg (53 KB)" class="thumbimage lazyload" alt="Tanner's face on the monitors." height="185" width="185" data-image-name="D10MTanner.jpg" data-image-key="D10MTanner.jpg" data-relevant="1" data-caption="Tanner's face on the monitors." data-src="https://static.wikia.nocookie.net/thehungergames/images/e/ec/D10MTanner.jpg/revision/latest/scale-to-width-down/170?cb=20250427065840"></a></div></div><div class="lightbox-caption" style="width:185px;">Tanner's face on the monitors.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BrandyTannerConceptArt-png" style="position: relative; height:85px; width:185px; top:50px;"><a class="image lightbox" href="/wiki/File:BrandyTannerConceptArt.png" title="BrandyTannerConceptArt.png (225 KB)" style="height:85px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/9/94/BrandyTannerConceptArt.png/revision/latest/scale-to-width-down/185?cb=20250427065804" title="BrandyTannerConceptArt.png (225 KB)" class="thumbimage" alt="Concept art of Tanner and Brandy's costumes." height="185" width="185" data-image-name="BrandyTannerConceptArt.png" data-image-key="BrandyTannerConceptArt.png" data-relevant="1" data-caption="Concept art of Tanner and Brandy's costumes."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="BrandyTannerConceptArt.png (225 KB)" class="thumbimage lazyload" alt="Concept art of Tanner and Brandy's costumes." height="185" width="185" data-image-name="BrandyTannerConceptArt.png" data-image-key="BrandyTannerConceptArt.png" data-relevant="1" data-caption="Concept art of Tanner and Brandy's costumes." data-src="https://static.wikia.nocookie.net/thehungergames/images/9/94/BrandyTannerConceptArt.png/revision/latest/scale-to-width-down/185?cb=20250427065804"></a></div></div><div class="lightbox-caption" style="width:185px;">Concept art of Tanner and Brandy's costumes.</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTanner%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ballad_7-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_7_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ballad_7_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_3_2-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_11-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_11_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_11_3-1">3.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_12-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_12_4-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_14-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_14_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_16-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_16_6-0">6.0</a></sup> <sup><a href="#cite_ref-Ballad_16_6-1">6.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 16</span>
+</li>
+<li id="cite_note-Ballad_18-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_18_7-0">7.0</a></sup> <sup><a href="#cite_ref-Ballad_18_7-1">7.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 18</span>
+</li>
+<li id="cite_note-Ballad_film-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_film_8-0">8.0</a></sup> <sup><a href="#cite_ref-Ballad_film_8-1">8.1</a></sup> <sup><a href="#cite_ref-Ballad_film_8-2">8.2</a></sup> <sup><a href="#cite_ref-Ballad_film_8-3">8.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <strong class="mw-selflink selflink">Tanner</strong> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20260102075041
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.064 seconds
+Real time usage: 0.149 seconds
+Preprocessor visited node count: 351/1000000
+Post‐expand include size: 3068/2097152 bytes
+Template argument size: 563/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8061/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   56.542      1 -total
+ 48.66%   27.513      1 Template:Character
+ 17.48%    9.886      1 Template:Reflist
+  2.68%    1.515      1 Template:Quote
+  2.53%    1.428      1 Template:PrequelSeries
+  2.27%    1.284      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539484-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102075041 and revision id 959132. Rendering was triggered because: page-view
+ -->
+</div>

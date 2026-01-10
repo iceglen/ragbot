@@ -1,0 +1,506 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Tigris</h2>
+
+	<div class="pi-image-collection wds-tabber" data-source="image">
+		<div class="wds-tabs__wrapper">
+			<ul class="wds-tabs">
+				
+					<li class="wds-tabs__tab wds-is-current">
+						<span class="wds-tabs__tab-label">
+							Old
+							
+						</span>
+					</li>
+				
+					<li class="wds-tabs__tab">
+						<span class="wds-tabs__tab-label">
+							Young
+							
+						</span>
+					</li>
+				
+			</ul>
+		</div>
+		
+			<div class="wds-tab__content wds-is-current">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/TIGRIS.png/revision/latest?cb=20151128175826" class="image image-thumbnail" title="Old">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/TIGRIS.png/revision/latest/scale-to-width-down/268?cb=20151128175826" srcset="https://static.wikia.nocookie.net/thehungergames/images/3/3b/TIGRIS.png/revision/latest/scale-to-width-down/268?cb=20151128175826 1x, https://static.wikia.nocookie.net/thehungergames/images/3/3b/TIGRIS.png/revision/latest?cb=20151128175826 2x" data-relevant="1" class="pi-image-thumbnail" alt="Old" width="270" height="363" data-image-key="TIGRIS.png" data-image-name="TIGRIS.png">
+						
+					</a>
+				</figure>
+			</div>
+		
+			<div class="wds-tab__content">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/2/25/TigrisSnow-Poster.jpeg/revision/latest?cb=20230922110955" class="image image-thumbnail" title="Young">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/2/25/TigrisSnow-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922110955" srcset="https://static.wikia.nocookie.net/thehungergames/images/2/25/TigrisSnow-Poster.jpeg/revision/latest/scale-to-width-down/268?cb=20230922110955 1x, https://static.wikia.nocookie.net/thehungergames/images/2/25/TigrisSnow-Poster.jpeg/revision/latest/scale-to-width-down/536?cb=20230922110955 2x" data-relevant="1" class="pi-image-thumbnail" alt="Young" width="270" height="266" data-image-key="TigrisSnow-Poster.jpeg" data-image-name="TigrisSnow-Poster.jpeg">
+						
+					</a>
+				</figure>
+			</div>
+		
+	</div>
+
+
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">8-11 <i>(<a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>)</i><br>21 <i>(<a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a>)</i><br>87 <i>(<a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a>)</i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Shopkeeper<br><a href="/wiki/Stylist" title="Stylist">Stylist</a> <small>(formerly)</small><br>Apprentice to <a href="/wiki/Fabricia_Whatnot" title="Fabricia Whatnot">Fabricia Whatnot</a> (TBOSAS)<br><a href="/wiki/Academy" title="Academy">Academy</a> Student (formerly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Unnamed parents</li><li><a href="/wiki/Crassus_Snow" title="Crassus Snow">Crassus Snow</a> (uncle)</li><li><a href="/wiki/Coriolanus_Snow%27s_mother" title="Coriolanus Snow's mother">Unnamed aunt</a></li><li><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> (cousin)</li><li><a href="/wiki/Coriolanus_Snow%27s_sister" title="Coriolanus Snow's sister">Unnamed cousin</a></li><li><a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> (grandmother)</li><li><a href="/wiki/Coriolanus_Snow%27s_granddaughter" title="Coriolanus Snow's granddaughter">Coriolanus Snow's granddaughter</a> <small>(first cousin twice removed)</small></li><li>Coriolanus Snow's child <small> (first cousin once removed)</small></li></ul></div><small>
+</small></div><small>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</small></section><small>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Blue <small>(TBOSAS film)</small></li><li>Yellow <small>(Mockingjay Part 2)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Blonde <small>(TBOSAS film)</small></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></li><li><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></li><li><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Eugenie_Bondurant" title="Eugenie Bondurant">Eugenie Bondurant</a> (original trilogy)<br><a href="/wiki/Hunter_Schafer" title="Hunter Schafer">Hunter Schafer</a> (TBOSAS)<br><a href="/wiki/Rosa_Gotzler" title="Rosa Gotzler">Rosa Gotzler</a> (Dark Days)</div>
+</div>
+
+</section>
+</small></aside></p><p><small>
+</small></p>
+
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Clothes speak to me, you know.</i>"</span></dd>
+<dd>—Tigris to her cousin Coriolanus Snow<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p><b>Tigris</b> is the cousin of <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> and was a prized <a href="/wiki/Stylist" title="Stylist">stylist</a> in early editions of the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> She is part of an underground rebel alliance to overthrow the Capitol and is an old acquaintance of <a href="/wiki/Cressida" title="Cressida">Cressida</a> and <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_10th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">The 10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Post-10th_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext">Post-10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Second_Rebellion"><span class="tocnumber">1.3</span> <span class="toctext">Second Rebellion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Coriolanus_Snow"><span class="tocnumber">4.1</span> <span class="toctext">Coriolanus Snow</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Grandma'am"><span class="tocnumber">4.2</span> <span class="toctext">Grandma'am</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Lucy_Gray_Baird"><span class="tocnumber">4.3</span> <span class="toctext">Lucy Gray Baird</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="12148" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Tigris's role in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Born into the influential Snow family, Tigris played a significant role in the Hunger Games. She was the first to style tributes for public appearances, possibly inspiring the official stylist role. During the Battle of the Capitol, she helped Squad 451 blend in with Capitol citizens, an event known as the '76th Hunger Games'. She maintained a close relationship with Coriolanus Snow.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12149" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How is Tigris related to Coriolanus Snow?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Tigris, an orphan, is the cousin of Coriolanus Snow and was raised alongside him from a young age. Their bond resembles that of siblings, with Tigris showing deep concern for Snow. The theory that Tigris shares the surname 'Snow' has gained popularity, especially after the Hunger Games exhibition named their Tigris costume 'Tigris Snow'.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12150" data-revision-id="3">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the significance of Tigris's name in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Tigris, a character in the Hunger Games, has a name with dual significance. It's the Latin term for 'tiger', mirroring her tiger-like appearance, and also refers to a swift Mesopotamian river, symbolizing speed.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Community
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12151" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What happened to Tigris after the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Following the Hunger Games, Tigris opted for surgical enhancements to make her look like a tiger. She served as a stylist for tributes from an unidentified district, which was not District 12. Katniss Everdeen recognized her from the earliest Games. Tigris had a relationship that ended due to her unwillingness to disclose her family's financial status. She was notably critical of the Hunger Games and the stress they imposed on Snow.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12152" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Tigris's profession before the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Tigris, before the inception of the Hunger Games, served as a stylist for tributes of an undisclosed district. She pioneered the practice of styling and dressing tributes for public appearances, with her first unofficial assignment being Lucy Gray Baird during the 10th Hunger Games. Additionally, Tigris underwent surgical enhancements to modify her appearance to mimic a tiger.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Tigris","mainEntity":[{"@type":"Question","name":"What was Tigris's role in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Born into the influential Snow family, Tigris played a significant role in the Hunger Games. She was the first to style tributes for public appearances, possibly inspiring the official stylist role. During the Battle of the Capitol, she helped Squad 451 blend in with Capitol citizens, an event known as the '76th Hunger Games'. She maintained a close relationship with Coriolanus Snow."}},{"@type":"Question","name":"How is Tigris related to Coriolanus Snow?","acceptedAnswer":{"@type":"Answer","text":"Tigris, an orphan, is the cousin of Coriolanus Snow and was raised alongside him from a young age. Their bond resembles that of siblings, with Tigris showing deep concern for Snow. The theory that Tigris shares the surname 'Snow' has gained popularity, especially after the Hunger Games exhibition named their Tigris costume 'Tigris Snow'."}},{"@type":"Question","name":"What is the significance of Tigris's name in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Tigris, a character in the Hunger Games, has a name with dual significance. It's the Latin term for 'tiger', mirroring her tiger-like appearance, and also refers to a swift Mesopotamian river, symbolizing speed."}},{"@type":"Question","name":"What happened to Tigris after the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Following the Hunger Games, Tigris opted for surgical enhancements to make her look like a tiger. She served as a stylist for tributes from an unidentified district, which was not District 12. Katniss Everdeen recognized her from the earliest Games. Tigris had a relationship that ended due to her unwillingness to disclose her family's financial status. She was notably critical of the Hunger Games and the stress they imposed on Snow."}},{"@type":"Question","name":"What was Tigris's profession before the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Tigris, before the inception of the Hunger Games, served as a stylist for tributes of an undisclosed district. She pioneered the practice of styling and dressing tributes for public appearances, with her first unofficial assignment being Lucy Gray Baird during the 10th Hunger Games. Additionally, Tigris underwent surgical enhancements to modify her appearance to mimic a tiger."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tigris was born into the affluent <a href="/wiki/Capitol_families#Snow_family" title="Capitol families">Snow family</a>, a part of an old guard of the elite from the Capitol, including other prominent families such as the <a href="/wiki/Capitol_families#Crane_family" title="Capitol families">Cranes</a>.<sup id="cite_ref-Ballad_7_2-0" class="reference"><a href="#cite_note-Ballad_7-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Her family status enabled her access to many exclusive privileges, including the employment of personal cooks and <a href="/wiki/Avox" title="Avox">Avoxs</a> and allowed her and her family entrance to the amphitheater (later repurposed as the arena of the earliest Hunger Games) through an exclusive entry reserved for elite patrons.<sup id="cite_ref-Ballad_9_3-0" class="reference"><a href="#cite_note-Ballad_9-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>  However, her family's wealth was primarily amassed through assets of laboratories situated in <a href="/wiki/District_13" title="District 13">District 13,</a> and as such they were thrown into abject poverty following the total destruction of District 13 from the conflict during the first rebellion.<sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>
+At an unknown point during or before the Dark Days, her parents were deceased, forcing her to live with her close cousin, Coriolanus Snow, and her grandmother, whom Tigris nicknamed "the <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a>", in one of the most opulent Capitol penthouses. When Tigris was eight, she started cooking for the family after the death of Coriolanus's parents as they could no longer employ cooks.<sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 230px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/cd/Snow_family_entertainment_weekly.png/revision/latest?cb=20230928191051" class="mw-file-description image"><img alt="Tigris with Coriolanus and Grandma'am" src="https://static.wikia.nocookie.net/thehungergames/images/c/cd/Snow_family_entertainment_weekly.png/revision/latest/scale-to-width-down/230?cb=20230928191051" decoding="async" loading="lazy" width="230" height="153" class="thumbimage" data-image-name="Snow family entertainment weekly.png" data-image-key="Snow_family_entertainment_weekly.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Snow_family_entertainment_weekly.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tigris with Coriolanus and the Grandma'am.</p> 		 	</figcaption> </figure>
+<p>She was also a former student at the <a href="/wiki/Academy" title="Academy">Academy</a> and was easily accepted due to her family’s long history and connection with the school. However, she chose to eschew education at the <a href="/wiki/University" title="University">University</a>, preferring instead to pursue a career in fashion.<sup id="cite_ref-Ballad_1_5-0" class="reference"><a href="#cite_note-Ballad_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>At some point in her final year at the Academy, she was in a relationship with an unknown individual. However, due to their poor lifestyle and the fact that she wanted to keep the family's financial situation a secret, Tigris was reluctant to invite them over. They interpreted this as a lack of commitment in the relationship, and it was one of the leading factors in their break-up.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_10th_Hunger_Games">The 10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tigris was 21 years old by the time of the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>, having graduated the Academy years earlier and managed employment under fashion designer, <a href="/wiki/Fabricia_Whatnot" title="Fabricia Whatnot">Fabricia Whatnot</a>, aspiring to work in the fashion industry, though Whatnot used her more as slave labor.<sup id="cite_ref-Ballad_1_5-1" class="reference"><a href="#cite_note-Ballad_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>. On the day of the <a href="/wiki/Reaping" title="Reaping">reaping</a> of the 10th Hunger Games, Coriolanus came to her for assistance on the clothing he was meant to wear and she assisted him by fixing his shirt in an attempt to make him look more appealing and wealthy in the eyes of his fellow academy peers and faculty, as many Capitol citizens started to regain their prior lifestyle and wealth by that point. With no money, he worried that she might trade herself in order to get something decent.<sup id="cite_ref-Ballad_1_5-2" class="reference"><a href="#cite_note-Ballad_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Coriolanus felt that she was not a great beauty but had a vulnerability and sweetness that caused people to take advantage of her. 
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 208px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/17/Tigris_Snow_TBOSAS.jpg/revision/latest?cb=20231229073842" class="mw-file-description image"><img alt="Tigris discussing mentorship with Coryo" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="208" height="194" class="thumbimage lazyload" data-image-name="Tigris Snow TBOSAS.jpg" data-image-key="Tigris_Snow_TBOSAS.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/17/Tigris_Snow_TBOSAS.jpg/revision/latest/scale-to-width-down/208?cb=20231229073842"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/1/17/Tigris_Snow_TBOSAS.jpg/revision/latest?cb=20231229073842" class="mw-file-description image"><img alt="Tigris discussing mentorship with Coryo" src="https://static.wikia.nocookie.net/thehungergames/images/1/17/Tigris_Snow_TBOSAS.jpg/revision/latest/scale-to-width-down/208?cb=20231229073842" decoding="async" loading="lazy" width="208" height="194" class="thumbimage" data-image-name="Tigris Snow TBOSAS.jpg" data-image-key="Tigris_Snow_TBOSAS.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/17/Tigris_Snow_TBOSAS.jpg/revision/latest/scale-to-width-down/208?cb=20231229073842"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tigris_Snow_TBOSAS.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tigris discussing mentorship with Coryo</p> 		 	</figcaption> </figure>
+<p>When Coriolanus was tapped for <a href="/wiki/Mentor" title="Mentor">mentorship</a> in the 10th edition of the Games, Tigris was mainly supportive of the opportunity. However, Tigris encouraged him into meeting <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> at the train station out of sympathy for the tribute, citing how alone she must feel.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> When the tributes were first displayed in the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a> alongside Coriolanus, she was disturbed at their mistreatment given their young age. She even lost sleep over it, choosing to cook throughout the night to try to get her mind off of it.<sup id="cite_ref-Ballad_6_8-0" class="reference"><a href="#cite_note-Ballad_6-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>Following the death of <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> by the hands of her tribute <a href="/wiki/Brandy" title="Brandy">Brandy</a>, Tigris wept in grief over her family friend. However, once she had calmed down, she and the Grandma'am both praised Coriolanus for his brave actions for comforting Arachne during her last moments.<sup id="cite_ref-Ballad_7_2-1" class="reference"><a href="#cite_note-Ballad_7-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>After Coriolanus came home one evening before the Games, he confided to Tigris that <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> was bitten by a <a href="/wiki/Muttation#Snake_mutts" title="Muttation">snake mutt</a> in a stunt engineered by Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a>. Tigris's face turned white with shock and horror, concluding that Dr. Gaul was sadistic and demented, and advised Coriolanus to avoid her.<sup id="cite_ref-Ballad_9_3-1" class="reference"><a href="#cite_note-Ballad_9-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>Following the bombing of the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a>, she and the Grandma'am visited Coriolanus at the hospital. She easily believed Coriolanus' story that Lucy Gray had effectively saved his life, despite the Grandma'am's refusal to accept due to her prejudices against the districts. Tigris told Coriolanus that knowing that he had been experiencing the bombing without her there with him was worse than actually experiencing it herself. Tigris informed Coriolanus of what had happened during and since the bombing, recounting the casualties of both tributes and mentors, and the Capitol's fearful response toward the threat of rebels.<sup id="cite_ref-Ballad_10_9-0" class="reference"><a href="#cite_note-Ballad_10-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>In preparation for the <a href="/wiki/Interview" class="mw-redirect" title="Interview">interviews</a>, Tigris gave Coriolanus an old dress of hers for Lucy Gray to wear. In return, Lucy Gray gave Tigris her rainbow dress, and Tigris worked her magic to clean and mend the dress in time for the tributes' interviews. Tigris even supplied make-up such as blush and lipstick, unofficially serving as the first Hunger Games stylist.<sup id="cite_ref-Ballad_11_10-0" class="reference"><a href="#cite_note-Ballad_11-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-10th_Hunger_Games">Post-10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the Games, she was shocked at the twist that fate had dealt the Snow family. Coriolanus was caught out by <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a>, dean of the Academy, having cheated to help Lucy Gray win the Hunger Games and made him either enroll in the <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> or be exposed. When he explained what had happened, she was as a still as statue. Nevertheless, she accepted the news with poise, telling him that wherever he went he was still a Snow, and nobody could take that from him. She then helped him to pack, not crying, and Coriolanus knew that she would hold her tears until after he left. That night, neither of them slept and she told him that he was set up to fail: the Hunger Games were a cruel, vicious punishment, and she felt that a good person like him couldn't be expected to go along with it. He warned her that it was unsafe to say that to anyone but him. She replied that she knew, and that that was wrong too. Before he left, she gave him an old sun hat and a pair of sunglasses that had been her father's, providing him with a sort of disguise for the trip.<sup id="cite_ref-Ballad_21_11-0" class="reference"><a href="#cite_note-Ballad_21-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p><p>After her cousin left for <a href="/wiki/District_12" title="District 12">District 12</a>, Tigris continued to update him on the events that had taken place back in the Capitol via letters. She told him that the family apartment was going on the market, them being unable to pay the taxes. She told him to write back of his life in District 12 and that it might not seem ideal, but he didn't know where it might lead.<sup id="cite_ref-Ballad_21_11-1" class="reference"><a href="#cite_note-Ballad_21-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> Eventually, however, Coriolanus returned to the Capitol, having been secured an honorable discharge from the Peacekeepers by Dr. Gaul, who had taken him on as her protege. Additionally, the Plinth family, headed by <a href="/wiki/Strabo_Plinth" title="Strabo Plinth">Strabo Plinth</a> took Coriolanus on as his heir, and with this, restored the Snow family fortune and allowed them to keep their apartment. Tigris got along swimmingly with <a href="/wiki/Mrs._Plinth" title="Mrs. Plinth">Ma Plinth</a>, who came by daily to help the Grandma'am.<sup id="cite_ref-Ballad_Epilogue_12-0" class="reference"><a href="#cite_note-Ballad_Epilogue-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 270px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/87/Tigris_tattoos.jpeg/revision/latest?cb=20200814064026" class="mw-file-description image"><img alt="Tigris’ neck and face tattoos." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="270" height="118" class="thumbimage lazyload" data-image-name="Tigris tattoos.jpeg" data-image-key="Tigris_tattoos.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/8/87/Tigris_tattoos.jpeg/revision/latest/scale-to-width-down/270?cb=20200814064026"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/8/87/Tigris_tattoos.jpeg/revision/latest?cb=20200814064026" class="mw-file-description image"><img alt="Tigris’ neck and face tattoos." src="https://static.wikia.nocookie.net/thehungergames/images/8/87/Tigris_tattoos.jpeg/revision/latest/scale-to-width-down/270?cb=20200814064026" decoding="async" loading="lazy" width="270" height="118" class="thumbimage" data-image-name="Tigris tattoos.jpeg" data-image-key="Tigris_tattoos.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/8/87/Tigris_tattoos.jpeg/revision/latest/scale-to-width-down/270?cb=20200814064026"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tigris_tattoos.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tigris’ neck and face tattoos.</p> 		 	</figcaption> </figure>
+<p>At some point in the Games' development, Tigris became a stylist for an unknown district's tributes, though it was not District 12. <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> said that she knew Tigris from the earliest Games she could remember. Over the years, Tigris started to get surgical enhancements, specifically to alter her looks to look somewhat like a tiger. Tigris got face and arm tattoos, flattened her nose, and got some of the largest whiskers Katniss had ever seen from a Capitol citizen.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Although Tigris and Coriolanus were on good terms at the end of <i>The Ballad of Songbirds and Snakes</i>, she eventually hated him so much that she smiled when Katniss announced her intent to kill him.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> She was also an associate of <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>; he told <a href="/wiki/Cressida" title="Cressida">Cressida</a> that Tigris could be trusted.<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion">Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By the time of the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, she owned a small shop selling fur-lined clothes in the Capitol and was no longer employed as a Hunger Games stylist. The shop's inventory consisted of fur underwear and other under-clothes, of which she gave a pair to Katniss when she was hiding in her basement.<sup id="cite_ref-:0_1-4" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> 
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 220px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/10/Tigris%27s_shop.jpeg/revision/latest?cb=20200730094325" class="mw-file-description image"><img alt="Tigris’ store." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="220" height="147" class="thumbimage lazyload" data-image-name="Tigris's shop.jpeg" data-image-key="Tigris%27s_shop.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/10/Tigris%27s_shop.jpeg/revision/latest/scale-to-width-down/220?cb=20200730094325"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/1/10/Tigris%27s_shop.jpeg/revision/latest?cb=20200730094325" class="mw-file-description image"><img alt="Tigris’ store." src="https://static.wikia.nocookie.net/thehungergames/images/1/10/Tigris%27s_shop.jpeg/revision/latest/scale-to-width-down/220?cb=20200730094325" decoding="async" loading="lazy" width="220" height="147" class="thumbimage" data-image-name="Tigris's shop.jpeg" data-image-key="Tigris%27s_shop.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/10/Tigris%27s_shop.jpeg/revision/latest/scale-to-width-down/220?cb=20200730094325"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tigris%27s_shop.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tigris’ store.</p> 		 	</figcaption> </figure>
+<p>After <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a> escaped an attack by <a href="/wiki/Muttation" title="Muttation">lizard mutts</a>, Cressida led the remaining members including <a href="/wiki/Pollux" title="Pollux">Pollux</a>, Katniss, <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> (still wearing his manacles) and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> to Tigris' shop in search of safety. Tigris was watching television while sitting by the counter in the midst of this and led the remnants of <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a> to a secret cellar inside her store, hidden by a rack of clothes. She fed them bread and cheese on the first day and chose not to eat alongside them, stating that she barely eats in the first place.
+</p><p>On the second day of Squad 451's stay, she left into the Capitol streets for the majority of the day to acquire intel for the team. She spied on the Capitol's current state until 6 o'clock, returning to fry meat and prepare ham and potatoes to feed them. She informed them that fur underwear is in high demand and that peacekeepers are going door to door to assign refugees, since many Capitol citizens around the city center blocked off their homes instead of welcoming them, and that rebels had begun moving into the city causing the displacement of many civilians. 
+</p><p>Eventually, Squad 451 was driven out of Tigris' shop after fear of being discovered by refugees. She then redesigned their looks to make them appear as Capitol citizens, and she sent them on their way to infiltrate Snow's mansion following his directive to house capitol refugees in his home.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>With her long, pointed nose and skinny body, Tigris was no great beauty, but she had a sweetness, a vulnerability that invited abuse. She would find takers, if she had a mind to.</i>"</span></dd>
+<dd>—Description of Tigris<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 167px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/78/Tigris_Snow.jpg/revision/latest?cb=20230501040114" class="mw-file-description image"><img alt="Tigris at the start of the 10th Hunger Games" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="167" height="142" class="thumbimage lazyload" data-image-name="Tigris Snow.jpg" data-image-key="Tigris_Snow.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/78/Tigris_Snow.jpg/revision/latest/scale-to-width-down/167?cb=20230501040114"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/7/78/Tigris_Snow.jpg/revision/latest?cb=20230501040114" class="mw-file-description image"><img alt="Tigris at the start of the 10th Hunger Games" src="https://static.wikia.nocookie.net/thehungergames/images/7/78/Tigris_Snow.jpg/revision/latest/scale-to-width-down/167?cb=20230501040114" decoding="async" loading="lazy" width="167" height="142" class="thumbimage" data-image-name="Tigris Snow.jpg" data-image-key="Tigris_Snow.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/78/Tigris_Snow.jpg/revision/latest/scale-to-width-down/167?cb=20230501040114"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tigris_Snow.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tigris at the start of the 10th Hunger Games</p> 		 	</figcaption> </figure>
+<p>In her youth, Tigris was described as being no great beauty; she had a long, pointed nose, and a skinny body, as well as golden brown eyes. Snow described her to have a certain sweetness and vulnerability that invited abuse.<sup id="cite_ref-Ballad_1_5-3" class="reference"><a href="#cite_note-Ballad_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> In <i>Mockingjay</i>, Katniss was unsure if her parents named her Tigris for inspiration for her future catty look, or if she had altered her name as well as her appearance to go together.<sup id="cite_ref-:0_1-5" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 300px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b5/Tigris_in_shop.jpeg/revision/latest?cb=20200619120246" class="mw-file-description image"><img alt="Tigris leading Squad 451 to her basement." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="300" height="123" class="thumbimage lazyload" data-image-name="Tigris in shop.jpeg" data-image-key="Tigris_in_shop.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/b5/Tigris_in_shop.jpeg/revision/latest/scale-to-width-down/300?cb=20200619120246"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/b/b5/Tigris_in_shop.jpeg/revision/latest?cb=20200619120246" class="mw-file-description image"><img alt="Tigris leading Squad 451 to her basement." src="https://static.wikia.nocookie.net/thehungergames/images/b/b5/Tigris_in_shop.jpeg/revision/latest/scale-to-width-down/300?cb=20200619120246" decoding="async" loading="lazy" width="300" height="123" class="thumbimage" data-image-name="Tigris in shop.jpeg" data-image-key="Tigris_in_shop.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/b/b5/Tigris_in_shop.jpeg/revision/latest/scale-to-width-down/300?cb=20200619120246"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tigris_in_shop.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tigris leading Squad 451 to her basement.</p> 		 	</figcaption> </figure>
+<p>By the time of the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, Tigris had her face stretched and tattooed with black and gold tiger stripes. Her nose was flattened until it barely showed, forming a short snout. <a href="/wiki/Katniss" class="mw-redirect mw-disambig" title="Katniss">Katniss</a> says her age has made her skin wrinkly. She also has surgically implanted whiskers, longer than anyone else's in the <a href="/wiki/Capitol" class="mw-redirect" title="Capitol">Capitol</a>, as well as what Katniss described to be tawny eyes.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Imagine how terrified she must be, Coryo. How alone she must feel.</i>"</span></dd>
+<dd>—Tigris to Coriolanus Snow about Lucy Gray<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 330px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e3/Mockingjay-23.jpg/revision/latest?cb=20151017140817" class="mw-file-description image"><img alt="Tigris disguises Gale as a Capitol citizen." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="330" height="136" class="thumbimage lazyload" data-image-name="Mockingjay-23.jpg" data-image-key="Mockingjay-23.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/e3/Mockingjay-23.jpg/revision/latest/scale-to-width-down/330?cb=20151017140817"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/e/e3/Mockingjay-23.jpg/revision/latest?cb=20151017140817" class="mw-file-description image"><img alt="Tigris disguises Gale as a Capitol citizen." src="https://static.wikia.nocookie.net/thehungergames/images/e/e3/Mockingjay-23.jpg/revision/latest/scale-to-width-down/330?cb=20151017140817" decoding="async" loading="lazy" width="330" height="136" class="thumbimage" data-image-name="Mockingjay-23.jpg" data-image-key="Mockingjay-23.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/e3/Mockingjay-23.jpg/revision/latest/scale-to-width-down/330?cb=20151017140817"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mockingjay-23.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tigris disguises Gale as a Capitol citizen.</p> 		 	</figcaption> </figure><p>Tigris is a sympathetic, generous and hospitable individual overall, though this can be attributed to her poor upbringing during the dark days. She cares for others deeply, as she originally proposed the idea of Snow meeting Lucy Gray at the train station simply out of sympathy. She cooked for Snow and the Grandma’am regularly and did tedious work for Fabricia Whatnot.<sup id="cite_ref-Ballad_1_5-4" class="reference"><a href="#cite_note-Ballad_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> She even baked sweet food for Lucy Gray.<sup id="cite_ref-Ballad_6_8-1" class="reference"><a href="#cite_note-Ballad_6-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> Despite her caring nature, Snow believed that her characteristics and kind nature would invite abuse, believing that others would manipulate and exploit her vulnerability, as proven with Fabricia. 
+</p><p>Tigris not only felt sympathy toward Lucy Gray but felt frustrated at the Hunger Games overall that she hastily hit the pan on the oven when cooking for Snow and lost sleep at the thought of the tributes in the 10th Hunger Games. She also stated that it was horrible to see anyone in the arena and expressed sympathy toward Lucy Gray.<sup id="cite_ref-Ballad_16_14-0" class="reference"><a href="#cite_note-Ballad_16-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> She, unlike her grandmother, was less hateful toward the districts and often rebuked the Grandma'am's claims against the districts and other individuals. Tigris was also quite intelligent, as she managed to conclude that Snow killed <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> and piece together what specifically had occurred in the altercation accurately from the clothing Snow wore.<sup id="cite_ref-Ballad_17_15-0" class="reference"><a href="#cite_note-Ballad_17-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p><p>She was against the Hunger Games itself throughout Snow’s time as a mentor for the 10th Hunger Games, as before Snow was discharged as a peacekeeper in District 12, she revealed that she believed the Hunger Games was an unnatural and vicious punishment.<sup id="cite_ref-Ballad_21_11-2" class="reference"><a href="#cite_note-Ballad_21-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p><p>She wore her dead mother's fur coat when things were too overwhelming and frustrating for her.<sup id="cite_ref-Ballad_16_14-1" class="reference"><a href="#cite_note-Ballad_16-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> 
+</p><p>She acts much like a tiger in the sense that she moves similar to a cat, eats only raw meat, growls and purrs. She speaks with a gravelly voice that sounds similar to a cat's purr. She dislikes President Snow, showing happiness when Katniss mentioned she planned on killing him. Tigris is kind and loyal to the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, an insider from the Capitol entrusted by <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Coriolanus_Snow">Coriolanus Snow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>We've gotten through worse than this. Snow lands on top?</i>"</span></dd>
+<dd>—Tigris to Snow<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 212px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Young_Coriolanus_and_Tigris.png/revision/latest?cb=20230924064415" class="mw-file-description image"><img alt="Coryo and Tigris during the Dark Days" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="212" height="178" class="thumbimage lazyload" data-image-name="Young Coriolanus and Tigris.png" data-image-key="Young_Coriolanus_and_Tigris.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Young_Coriolanus_and_Tigris.png/revision/latest/scale-to-width-down/212?cb=20230924064415"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Young_Coriolanus_and_Tigris.png/revision/latest?cb=20230924064415" class="mw-file-description image"><img alt="Coryo and Tigris during the Dark Days" src="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Young_Coriolanus_and_Tigris.png/revision/latest/scale-to-width-down/212?cb=20230924064415" decoding="async" loading="lazy" width="212" height="178" class="thumbimage" data-image-name="Young Coriolanus and Tigris.png" data-image-key="Young_Coriolanus_and_Tigris.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a3/Young_Coriolanus_and_Tigris.png/revision/latest/scale-to-width-down/212?cb=20230924064415"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Young_Coriolanus_and_Tigris.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coryo and Tigris during the Dark Days</p> 		 	</figcaption> </figure>
+<p>Tigris and Coriolanus had a sibling-like relationship, having been raised together at a young age since she was an orphan. She cared deeply for Snow, as could be seen by certain examples like when Snow lost consciousness due to the swan flu in the middle of the street. In that instance, Tigris found him and managed to bring him back home.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> Tigris cooked many of Snow's meals at a young age and was incredibly kind-hearted to Snow. At one instance, when Snow was tired of his mentorship, she answered calls for him to allow him to rest and woke him up so he could eat. Snow trusted Tigris so much that he told Tigris almost everything, such as the truth of Clemensia's hospitalization. In response, she attempted to make him feel better by concluding that he should try to his best to avoid Dr. Gaul.<sup id="cite_ref-Ballad_9_3-2" class="reference"><a href="#cite_note-Ballad_9-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Tigris appears to be more empathetic than Coriolanus; when he shares his mixed feelings of Lucy Gray's performance of "The Ballad of Lucy Gray Baird," she snaps, "Be kind, Coryo. And try not to look down on people who had to choose between death and disgrace." Later, when she figures out that Coriolanus killed Bobbin, she is shocked because she believed that he couldn't hurt a fly.<sup id="cite_ref-Ballad_17_15-1" class="reference"><a href="#cite_note-Ballad_17-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 226px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Tigris_and_Coryo.jpg/revision/latest?cb=20231229074220" class="mw-file-description image"><img alt="Coryo and Tigris celebrating the end of the 10th Hunger Games" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="226" height="159" class="thumbimage lazyload" data-image-name="Tigris and Coryo.jpg" data-image-key="Tigris_and_Coryo.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Tigris_and_Coryo.jpg/revision/latest/scale-to-width-down/226?cb=20231229074220"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Tigris_and_Coryo.jpg/revision/latest?cb=20231229074220" class="mw-file-description image"><img alt="Coryo and Tigris celebrating the end of the 10th Hunger Games" src="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Tigris_and_Coryo.jpg/revision/latest/scale-to-width-down/226?cb=20231229074220" decoding="async" loading="lazy" width="226" height="159" class="thumbimage" data-image-name="Tigris and Coryo.jpg" data-image-key="Tigris_and_Coryo.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Tigris_and_Coryo.jpg/revision/latest/scale-to-width-down/226?cb=20231229074220"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tigris_and_Coryo.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Coryo and Tigris celebrating the end of the 10th Hunger Games</p> 		 	</figcaption> </figure>
+<p>Although their relationship was rather favorable by the beginning of the 10th Hunger Games, as they grew older their relationship presumably soured. In fact, when Katniss mentioned that she was going to kill Snow, she smiled in return. This can be attributed to their different perspectives on the Districts and the Hunger Games itself, as Tigris was rather sympathetic, easily believing <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata's</a> story that the <a href="/wiki/District_12" title="District 12">District 12</a> tribute, <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>, protected her in the arena bombing and lost sleep over the way the tributes were treated. She was also against the games itself, whilst Snow believed the Districts were below him and continued working to implement new aspects of the games. Their relationship was so undesirable that Snow fired Tigris as a stylist personally. However, despite the fact that they drifted apart, Snow still seems to have cared for her in small fashion by sparing her, despite her implicit resistance against his regime and Tigris may have considered Snow's death as a simple necessity, rather than source of pleasure, smiling only due to the fact that the dictatorship would end.
+</p>
+<h3><span id="Grandma.27am"></span><span class="mw-headline" id="Grandma'am">Grandma'am</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Perhaps the people of District 12 are not quite so bad as you paint them.</i>"</span></dd>
+<dd>—Tigris to the Grandma'am, who believed that Lysistrata was lying about Jessup saving her<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>Tigris had a family-bond relationship with the Grandma'am, although she often disagreed with her. Despite cooking and raising money to better help the family, she had a rather complex relationship with her grandmother, as both disagreed with one another in many aspects. When the Grandma'am believed that Lysistrata was lying about her tribute, Jessup, saving her, Tigris rebuked her comments by claiming that District 12 citizens aren't as bad as the Grandma'am believes.<sup id="cite_ref-Ballad_10_9-1" class="reference"><a href="#cite_note-Ballad_10-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> Despite their differences in views and values, Tigris continued to care for the Grandma'am when Snow was discharged as a peacekeeper.
+</p>
+<h3><span class="mw-headline" id="Lucy_Gray_Baird">Lucy Gray Baird</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Ballad of Songbirds and Snakes">"<i>Poor Lucy Gray.</i>"</span></dd>
+<dd>—Tigris expressing sympathy to Lucy Gray<sup class="noprint"><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">[src]</a></sup></dd></dl></div>
+<p>Tigris was largely sympathetic toward Lucy Gray even before she arrived in the Capitol, as she convinced Snow to meet her at the train station and gift her a flower simply because she thought Lucy Gray was lonely.<sup id="cite_ref-Ballad_1_5-5" class="reference"><a href="#cite_note-Ballad_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Above that, after Snow mentioned the Lucy Gray liked sweets, she started baking sweet food for him to bring her, showing consideration and care toward her desires.<sup id="cite_ref-Ballad_6_8-2" class="reference"><a href="#cite_note-Ballad_6-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> Before the interviews, she gave Coriolanus a cake of soap for Lucy Gray, which was shaped liked a flower and lavender-scented. She was also kind enough to clean Lucy Gray's rainbow dress for her interview.<sup id="cite_ref-Ballad_10_9-2" class="reference"><a href="#cite_note-Ballad_10-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>After Snow arrived home from the arena, she expressed sorrow again for Lucy Gray, believing that no one deserved to be placed in the arena.<sup id="cite_ref-Ballad_17_15-2" class="reference"><a href="#cite_note-Ballad_17-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://en.wiktionary.org/wiki/tigris#Latin">Tigris</a> is the Latin word for "tiger". It is also the name of a major Mesopotamian <a href="https://en.wikipedia.org/wiki/Tigris" class="extiw" title="wikipedia:Tigris">river</a>, whose original Sumerian name could be literally translated as "<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://en.wiktionary.org/wiki/Tigris#English">fast as an arrow</a>".
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 189px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/da/Tigris_full_body_2.png/revision/latest?cb=20160617163851" class="mw-file-description image"><img alt="Tigris full body 2" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="189" height="406" class="thumbimage lazyload" data-image-name="Tigris full body 2.png" data-image-key="Tigris_full_body_2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/da/Tigris_full_body_2.png/revision/latest?cb=20160617163851"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/d/da/Tigris_full_body_2.png/revision/latest?cb=20160617163851" class="mw-file-description image"><img alt="Tigris full body 2" src="https://static.wikia.nocookie.net/thehungergames/images/d/da/Tigris_full_body_2.png/revision/latest?cb=20160617163851" decoding="async" loading="lazy" width="189" height="406" class="thumbimage" data-image-name="Tigris full body 2.png" data-image-key="Tigris_full_body_2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/da/Tigris_full_body_2.png/revision/latest?cb=20160617163851"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tigris_full_body_2.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<ul><li>As the prequel revealed that Tigris is Coriolanus Snow's cousin, speculation has occurred on whether Tigris shares the surname Snow. Fans speculate in favor of Tigris' surname being Snow due to the shared statement "Snow lands on top", which was meant to motivate them throughout the war.<sup id="cite_ref-Ballad_1_5-6" class="reference"><a href="#cite_note-Ballad_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> The Hunger Games exhibition has named their Tigris costume Tigris Snow, further aiding in this theory's popularity.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup></li>
+<li>Katniss speculates on whether Tigris might have been deemed "too altered" by the Capitol itself.</li>
+<li>Tigris came up with her cousin's nickname, "Coryo", when he was a newborn.<sup id="cite_ref-Ballad_1_5-7" class="reference"><a href="#cite_note-Ballad_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></li>
+<li>She implied to Coriolanus that she may have done sex work to help support the family.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup></li>
+<li>She was the first to style and dress a tribute in the Games for public appearances, having done so unofficially during the 10th Hunger Games for Lucy Gray Baird.
+<ul><li>Given Tigris being the first to style a tribute for public appearances, her close relationship with Coriolanus Snow, and her having styled the tribute he was responsible for as a mentor, it's possible that Tigris herself inspired the creation of the official <a href="/wiki/Stylist" title="Stylist">stylist</a> position—especially when considering how Coriolanus himself implemented many changes in the Hunger Games.
+<ul><li>Given how effective her actions of preparing a tribute for public appearances during the 10th Hunger Games's <a href="/wiki/Interviews" title="Interviews">interviews</a> contributed to <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> gaining better <a href="/wiki/Sponsorship" title="Sponsorship">sponsorship</a>, it's possible that Tigris had also indirectly inspired the creation of <a href="/wiki/Prep_team" title="Prep team">prep teams</a> to further assist stylists.</li></ul></li>
+<li>She was also the last person to style "tributes," in an unofficial role, when she helped Squad 451 blend in with Capitol citizens during the Battle of the Capitol, which Katniss and Finnick called the "<a href="/wiki/76th_Hunger_Games" title="76th Hunger Games">76th Hunger Games</a>".</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FTigris%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup> <sup><a href="#cite_ref-:0_1-3">1.3</a></sup> <sup><a href="#cite_ref-:0_1-4">1.4</a></sup> <sup><a href="#cite_ref-:0_1-5">1.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-Ballad_7-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_7_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_7_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_9-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_9_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_9_3-1">3.1</a></sup> <sup><a href="#cite_ref-Ballad_9_3-2">3.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 9</span>
+</li>
+<li id="cite_note-:1-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_4-0">4.0</a></sup> <sup><a href="#cite_ref-:1_4-1">4.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 2</span>
+</li>
+<li id="cite_note-Ballad_1-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_1_5-0">5.0</a></sup> <sup><a href="#cite_ref-Ballad_1_5-1">5.1</a></sup> <sup><a href="#cite_ref-Ballad_1_5-2">5.2</a></sup> <sup><a href="#cite_ref-Ballad_1_5-3">5.3</a></sup> <sup><a href="#cite_ref-Ballad_1_5-4">5.4</a></sup> <sup><a href="#cite_ref-Ballad_1_5-5">5.5</a></sup> <sup><a href="#cite_ref-Ballad_1_5-6">5.6</a></sup> <sup><a href="#cite_ref-Ballad_1_5-7">5.7</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 1</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 13</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_6-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_6_8-0">8.0</a></sup> <sup><a href="#cite_ref-Ballad_6_8-1">8.1</a></sup> <sup><a href="#cite_ref-Ballad_6_8-2">8.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_10-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_10_9-0">9.0</a></sup> <sup><a href="#cite_ref-Ballad_10_9-1">9.1</a></sup> <sup><a href="#cite_ref-Ballad_10_9-2">9.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_11-10"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_11_10-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 11</span>
+</li>
+<li id="cite_note-Ballad_21-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_21_11-0">11.0</a></sup> <sup><a href="#cite_ref-Ballad_21_11-1">11.1</a></sup> <sup><a href="#cite_ref-Ballad_21_11-2">11.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 21</span>
+</li>
+<li id="cite_note-Ballad_Epilogue-12"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_Epilogue_12-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Epilogue</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 24</span>
+</li>
+<li id="cite_note-Ballad_16-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_16_14-0">14.0</a></sup> <sup><a href="#cite_ref-Ballad_16_14-1">14.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 16</span>
+</li>
+<li id="cite_note-Ballad_17-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_17_15-0">15.0</a></sup> <sup><a href="#cite_ref-Ballad_17_15-1">15.1</a></sup> <sup><a href="#cite_ref-Ballad_17_15-2">15.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 17</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 4</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Instagram announcement, <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.instagram.com/hungergamesexhibition/p/CwN5wEUunEY/?hl=en">The Hunger Games exhibition</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 12</span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><strong class="mw-selflink selflink">Tigris</strong> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <a href="/wiki/Reaper_Ash" title="Reaper Ash">Reaper</a> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20260102171636
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.141 seconds
+Real time usage: 0.166 seconds
+Preprocessor visited node count: 758/1000000
+Post‐expand include size: 7394/2097152 bytes
+Template argument size: 1489/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12445/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   80.355      1 -total
+ 43.28%   34.778      1 Template:Character
+ 21.10%   16.958      1 Template:Reflist
+  4.28%    3.439      1 Template:SeriesTP
+  2.42%    1.943      6 Template:Quote
+  1.93%    1.553      1 Template:PrequelSeries
+  1.65%    1.328      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3370-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102171636 and revision id 966576. Rendering was triggered because: page-view
+ -->
+</div>

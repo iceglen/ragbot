@@ -1,0 +1,135 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Katniss Everdeen's house</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/93/Everdeen_House_Henry_River_Mill_Village.jpg/revision/latest?cb=20230611000118" class="image image-thumbnail" title="Everdeen House Henry River Mill Village">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/9/93/Everdeen_House_Henry_River_Mill_Village.jpg/revision/latest/scale-to-width-down/268?cb=20230611000118" srcset="https://static.wikia.nocookie.net/thehungergames/images/9/93/Everdeen_House_Henry_River_Mill_Village.jpg/revision/latest/scale-to-width-down/268?cb=20230611000118 1x, https://static.wikia.nocookie.net/thehungergames/images/9/93/Everdeen_House_Henry_River_Mill_Village.jpg/revision/latest/scale-to-width-down/536?cb=20230611000118 2x" class="pi-image-thumbnail" data-relevant="1" alt="Everdeen House Henry River Mill Village" width="270" height="203" data-image-key="Everdeen_House_Henry_River_Mill_Village.jpg" data-image-name="Everdeen House Henry River Mill Village.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Seam" title="The Seam">The Seam</a> in <a href="/wiki/District_12" title="District 12">District 12</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a></li><li><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a></li><li><a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a></li><li><a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a></li><li><a href="/wiki/Buttercup" title="Buttercup">Buttercup</a></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Katniss Everdeen's house</b> is where <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> lived with <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">her mother</a> and her sister <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose</a><sup id="cite_ref-THG_1_1-0" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> up until her joint victory with <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>.<sup id="cite_ref-CF_1_2-0" class="reference"><a href="#cite_note-CF_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Location"><span class="tocnumber">1</span> <span class="toctext">Location</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Childhood"><span class="tocnumber">3.1</span> <span class="toctext">Childhood</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Loss_of_Mr._Everdeen"><span class="tocnumber">3.2</span> <span class="toctext">Loss of Mr. Everdeen</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Move_to_Victors&#39;_Village"><span class="tocnumber">3.3</span> <span class="toctext">Move to Victors' Village</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Bombing"><span class="tocnumber">3.4</span> <span class="toctext">Bombing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FKatniss_Everdeen%2527s_house%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The house was located nearly at the edge of <a href="/wiki/District_12" title="District 12">District 12</a> in <a href="/wiki/The_Seam" title="The Seam">the Seam</a>, a few gates down from <a href="/wiki/The_Meadow" title="The Meadow">the Meadow</a>, the <a href="/wiki/Fence" title="Fence">fence</a>, and the <a href="/wiki/Woods" title="Woods">woods</a>.<sup id="cite_ref-THG_1_1-1" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> In an early version of <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a> script, it was said to be on Holler Street.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p><a href="/wiki/Leevy" title="Leevy">Leevy</a> and <a href="/wiki/Leevy%27s_brother" title="Leevy&#39;s brother">her brother</a> were the Everdeens' only named neighbors, living just a few houses away.<sup id="cite_ref-CF_8_4-0" class="reference"><a href="#cite_note-CF_8-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> Additionally, while not immediate neighbors, Katniss could get to <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a>'s house from hers within a few minutes if she cut through alleyways and backyards.<sup id="cite_ref-CF_1_2-1" class="reference"><a href="#cite_note-CF_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 250px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/cf/THG_illustrated_edition_everdeens.webp/revision/latest?cb=20240118201641" class="mw-file-description image"><img alt="The Everdeens in front of the cracked mirror in The Hunger Games: Illustrated Edition." src="https://static.wikia.nocookie.net/thehungergames/images/c/cf/THG_illustrated_edition_everdeens.webp/revision/latest/scale-to-width-down/250?cb=20240118201641" decoding="async" loading="lazy" width="250" height="250" class="thumbimage" data-image-name="THG illustrated edition everdeens.webp" data-image-key="THG_illustrated_edition_everdeens.webp" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:THG_illustrated_edition_everdeens.webp" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Everdeens in front of the cracked mirror in <i><a href="/wiki/The_Hunger_Games:_Illustrated_Edition" title="The Hunger Games: Illustrated Edition">The Hunger Games: Illustrated Edition</a></i>.</p> 		 	</figcaption> </figure>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FKatniss_Everdeen%2527s_house%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Katniss described the house as a "squat little place".<sup id="cite_ref-CF_1_2-2" class="reference"><a href="#cite_note-CF_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> In the bedroom, Katniss and Prim generally slept in the same bed on a rough canvas-covered mattress, and their mother slept separately. Outside the bedroom, there was a tub and a cracked mirror leaning against the wall,<sup id="cite_ref-THG_1_1-2" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> as well as a cloth-covered dining table, a kitchen, a hearth, and a back door.<sup id="cite_ref-CF_1_2-3" class="reference"><a href="#cite_note-CF_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> They also seemed to have a problem with rats and mice, which Prim's cat <a href="/wiki/Buttercup" title="Buttercup">Buttercup</a> was responsible for curbing.<sup id="cite_ref-THG_1_1-3" class="reference"><a href="#cite_note-THG_1-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FKatniss_Everdeen%2527s_house%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Childhood">Childhood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FKatniss_Everdeen%2527s_house%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This house was the place where Katniss was raised,<sup id="cite_ref-CF_1_2-4" class="reference"><a href="#cite_note-CF_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> so it was also her childhood home when <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">her father</a> was still alive. When Katniss was seven, she and Prim once sat on the floor and made necklaces of rope like <a href="/wiki/The_Hanging_Tree_(song)" title="The Hanging Tree (song)">"The Hanging Tree" song</a>.<sup id="cite_ref-MJ_9_5-0" class="reference"><a href="#cite_note-MJ_9-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Loss_of_Mr._Everdeen">Loss of Mr. Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FKatniss_Everdeen%2527s_house%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After her husband died, Mrs. Everdeen fell into a deep depression, so severe that most days she was unable to move from a chair or her bed, leaving her homebound. Prim brushed and braided their mother's hair, and she polished Mr. Everdeen's shaving mirror in his absence, since he hated the coal dust that settled on everything.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Months later, once Mrs. Everdeen recovered, she began to run a small apothecary business for people in the Seam out of her home.<sup id="cite_ref-THG_3_7-0" class="reference"><a href="#cite_note-THG_3-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> Sometime between the ages of twelve and sixteen, Katniss saw her mother treat a severe burn victim from the mines on their kitchen table and ran from the house, hunting in the woods for the entire day.<sup id="cite_ref-THG_13_8-0" class="reference"><a href="#cite_note-THG_13-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span id="Move_to_Victors.27_Village"></span><span class="mw-headline" id="Move_to_Victors'_Village">Move to Victors' Village</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FKatniss_Everdeen%2527s_house%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After surviving the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, Katniss was given <a href="/wiki/Victors%27_Village#Katniss&#39;s_house_(Victors&#39;_Village)" title="Victors&#39; Village">a new house</a> in the <a href="/wiki/Victors%27_Village" title="Victors&#39; Village">Victors' Village</a> as part of her winnings, and her family moved in with her. The old house remained Mrs. Everdeen and Prim's designated residence, and they would have to move back there if Katniss died. However, Katniss was the only person who still made use of the old place, stopping there to change clothes after hunting. Buttercup also visited the house, often leaving Victors' Village while Prim was at <a href="/wiki/School" title="School">school</a>.<sup id="cite_ref-CF_1_2-5" class="reference"><a href="#cite_note-CF_1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> Katniss and Buttercup met up there more than once.<sup id="cite_ref-MJ_1_9-0" class="reference"><a href="#cite_note-MJ_1-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Bombing">Bombing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FKatniss_Everdeen%2527s_house%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Katniss returned to District 12 a month after its <a href="/wiki/Bombing_of_District_12" class="mw-redirect" title="Bombing of District 12">bombing</a> by <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> and discovered that her old house had been reduced to ashes, and the chimney was a collapsed heap of bricks. She was glad that she had moved her father's hunting jacket from the old house to Victors' Village before the <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, as this had spared it from the flames.<sup id="cite_ref-MJ_1_9-1" class="reference"><a href="#cite_note-MJ_1-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> About six days later, she went back again to film <a href="/wiki/Propo" title="Propo">propos</a> in the ruins of the kitchen, but found herself "drowning" in "too many memories", so they moved along.<sup id="cite_ref-MJ_9_5-1" class="reference"><a href="#cite_note-MJ_9-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FKatniss_Everdeen%2527s_house%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="https://en.wikipedia.org/wiki/Henry_River_Mill_Village" class="extiw" title="wikipedia:Henry River Mill Village">Henry River Mill Village</a> in <a href="https://en.wikipedia.org/wiki/Hickory,_North_Carolina" class="extiw" title="wikipedia:Hickory, North Carolina">Hickory, North Carolina</a> was used as a <a href="/wiki/Filming_locations" title="Filming locations">filming location</a> for a number of District 12 scenes in <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>, including the Everdeen house and the Mellarks' <a href="/wiki/Bakery" title="Bakery">bakery</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> The village's onscreen fame later led to its purchase and use in tours, both for fans of the film and those interested in the place's history.</li>
+<li>Based on its proximity to the Meadow, this house was probably in the same part of the Seam as <a href="/wiki/The_Covey%27s_house" title="The Covey&#39;s house">the Covey's house</a>.<sup id="cite_ref-Ballad_24_11-0" class="reference"><a href="#cite_note-Ballad_24-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FKatniss_Everdeen%2527s_house%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-THG_1-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_1_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_1_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_1_1-2">1.2</a></sup> <sup><a href="#cite_ref-THG_1_1-3">1.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-CF_1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_1_2-0">2.0</a></sup> <sup><a href="#cite_ref-CF_1_2-1">2.1</a></sup> <sup><a href="#cite_ref-CF_1_2-2">2.2</a></sup> <sup><a href="#cite_ref-CF_1_2-3">2.3</a></sup> <sup><a href="#cite_ref-CF_1_2-4">2.4</a></sup> <sup><a href="#cite_ref-CF_1_2-5">2.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf">https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf</a></span>
+</li>
+<li id="cite_note-CF_8-4"><span class="mw-cite-backlink"><a href="#cite_ref-CF_8_4-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 8</span>
+</li>
+<li id="cite_note-MJ_9-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_9_5-0">5.0</a></sup> <sup><a href="#cite_ref-MJ_9_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 2</span>
+</li>
+<li id="cite_note-THG_3-7"><span class="mw-cite-backlink"><a href="#cite_ref-THG_3_7-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 3</span>
+</li>
+<li id="cite_note-THG_13-8"><span class="mw-cite-backlink"><a href="#cite_ref-THG_13_8-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 13</span>
+</li>
+<li id="cite_note-MJ_1-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_1_9-0">9.0</a></sup> <sup><a href="#cite_ref-MJ_1_9-1">9.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 1</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.imdb.com/title/tt1392170/locations/?item=lc2220133">https://www.imdb.com/title/tt1392170/locations/?item=lc2220133</a></span>
+</li>
+<li id="cite_note-Ballad_24-11"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_24_11-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 24</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251227022617
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.051 seconds
+Real time usage: 0.106 seconds
+Preprocessor visited node count: 337/1000000
+Post‐expand include size: 242/2097152 bytes
+Template argument size: 94/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6440/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   62.627      1 -total
+ 37.06%   23.207      1 Template:Location
+ 30.45%   19.071      1 Template:Reflist
+  2.65%    1.662      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542037-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227022617 and revision id 954494. Rendering was triggered because: page-view
+ -->
+</div>

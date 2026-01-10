@@ -1,0 +1,38 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><b>This article is a disambiguation page for Tribute outfit</b>
+<p>The following is a list of links to pages that might share the same title.<br />
+</p>
+Please follow one of the disambiguation links below or <a href="/wiki/Special:Search" title="Special:Search">search</a> to find the page you were looking for if it is not listed. If an <a href="/wiki/Special:WhatLinksHere/Tribute_outfit" title="Special:WhatLinksHere/Tribute outfit">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</center></div>
+<p><br />
+<b>Tribute outfit</b> may refer to:
+</p>
+<ul><li><a href="/wiki/Chariot_costumes" title="Chariot costumes">Chariot costumes</a> - costumes worn by <a href="/wiki/Tribute" title="Tribute">tributes</a> during the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>.</li>
+<li><a href="/wiki/Training_outfits" title="Training outfits">Training outfits</a> - clothing tributes wore during <a href="/wiki/Training_stations" title="Training stations">training</a> for the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>.</li>
+<li><a href="/wiki/Interview_outfits" title="Interview outfits">Interview outfits</a> - clothing worn by tributes during <a href="/wiki/Interviews" title="Interviews">interviews</a>.</li>
+<li><a href="/wiki/Arena_wear" title="Arena wear">Arena wear</a> - outfits worn by tributes in the <a href="/wiki/Arena" title="Arena">arena</a>.</li>
+<li><a href="/wiki/Film_costumes" title="Film costumes">Film costumes</a> - a collection of costumes worn in <i>The Hunger Games</i> film franchise, including various outfits worn by tributes.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20260103211439
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.010 seconds
+Real time usage: 0.015 seconds
+Preprocessor visited node count: 6/1000000
+Post‐expand include size: 565/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    1.835      1 Template:Disambig
+100.00%    1.835      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542977-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103211439 and revision id 953941. Rendering was triggered because: page-view
+ -->
+</div>

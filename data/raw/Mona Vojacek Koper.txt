@@ -1,0 +1,80 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Mona Vojacek Koper</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/20/Mona_Vojacek_Koper.jpg/revision/latest?cb=20231110005616" class="image image-thumbnail" title="Mona Vojacek Koper">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/2/20/Mona_Vojacek_Koper.jpg/revision/latest/scale-to-width-down/268?cb=20231110005616" srcset="https://static.wikia.nocookie.net/thehungergames/images/2/20/Mona_Vojacek_Koper.jpg/revision/latest/scale-to-width-down/268?cb=20231110005616 1x, https://static.wikia.nocookie.net/thehungergames/images/2/20/Mona_Vojacek_Koper.jpg/revision/latest/scale-to-width-down/536?cb=20231110005616 2x" class="pi-image-thumbnail" data-relevant="1" alt="Mona Vojacek Koper" width="270" height="359" data-image-key="Mona_Vojacek_Koper.jpg" data-image-name="Mona Vojacek Koper.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Lil" title="Lil">Lil</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthday">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthday</h3>
+	
+	<div class="pi-data-value pi-font">1992</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birthplace">
+	
+		<h3 class="pi-data-label pi-secondary-font">Birthplace</h3>
+	
+	<div class="pi-data-value pi-font">Los Angeles, California</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
+	
+		<h3 class="pi-data-label pi-secondary-font">Years active</h3>
+	
+	<div class="pi-data-value pi-font">2020-present</div>
+</div>
+</aside>
+
+</p><p><b>Mona Vojacek Koper</b> is an actress who portrayed <a href="/wiki/Lil" title="Lil">Lil</a> in <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMona_Vojacek_Koper%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/name/nm8711014" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/name/nm8711014">Mona Vojacek Koper</a> at the Internet Movie Database</span></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.instagram.com/mo_vo_ko/">Mona Vojacek Koper</a> on Instagram</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20260105153946
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.024 seconds
+Real time usage: 0.030 seconds
+Preprocessor visited node count: 56/1000000
+Post‐expand include size: 256/2097152 bytes
+Template argument size: 28/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   19.342      1 -total
+ 90.52%   17.509      1 Template:Actor
+  8.53%    1.649      1 Template:Imdb
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542659-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260105153946 and revision id 938385. Rendering was triggered because: api-parse
+ -->
+</div>

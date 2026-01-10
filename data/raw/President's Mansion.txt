@@ -1,0 +1,78 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">President's mansion</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/cd/Snow_Manison.png/revision/latest?cb=20130729130239" class="image image-thumbnail" title="Snow Manison">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/c/cd/Snow_Manison.png/revision/latest/scale-to-width-down/268?cb=20130729130239" srcset="https://static.wikia.nocookie.net/thehungergames/images/c/cd/Snow_Manison.png/revision/latest/scale-to-width-down/268?cb=20130729130239 1x, https://static.wikia.nocookie.net/thehungergames/images/c/cd/Snow_Manison.png/revision/latest/scale-to-width-down/536?cb=20130729130239 2x" class="pi-image-thumbnail" data-relevant="1" alt="Snow Manison" width="270" height="112" data-image-key="Snow_Manison.png" data-image-name="Snow Manison.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a>'s <a href="/wiki/City_Circle" title="City Circle">City Circle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">President Snow</a> (previous resident)</li><li><a href="/wiki/President_Coin" class="mw-redirect" title="President Coin">President Coin</a> (briefly)</li><li><a href="/wiki/Commander_Paylor" title="Commander Paylor">President Paylor</a> (currently)</li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>The <b>President's mansion</b>, also known as the <b>Presidential Palace</b>, is a location which appears in all three books. Found in the <a href="/wiki/City_Circle" title="City Circle">City Circle</a> of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, it was home to President <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, and briefly, President <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a>. After being elected the new president of <a href="/wiki/Panem" title="Panem">Panem</a>, <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> presumably resides there as well.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPresident%2527s_mansion%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the <a href="/wiki/Chariot_rides" title="Chariot rides">chariot rides</a>, the <a href="/wiki/Tributes" class="mw-redirect" title="Tributes">tributes</a> rode their chariots in a procession through the Capitol into the City Circle, where they stopped in front of the mansion to listen to a welcoming speech given by Snow.
+</p><p>Following the end of their <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a> and arrival in <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> attended a grand party put on in the banquet room. When <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> danced with Katniss, he showed her his watch on the pretext of indicating the lateness of the hour and quickly flashed an image of a <a href="/wiki/Mockingjay" title="Mockingjay">mockingjay</a> by rubbing the watch face. This was a subtle hint at the nature of the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">arena</a>, as well as Plutarch's true allegiance to the <a href="/wiki/Rebellion" title="Rebellion">rebellion</a>. During the 75th Games, the tributes also rode by Snow's mansion.
+</p><p>In <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Katniss told <a href="/wiki/Squad_451" title="Squad 451">Squad 451</a> that she was on a mission to infiltrate the mansion to kill Snow on Coin's orders. However, the squad never did infiltrate the mansion, because President Snow surrendered to the rebels after a Capitol <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a> (operated by Coin) dropped bombs on the Capitol children and some rebel medics, including <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a>. Later, the mansion became the new home of President Coin. Katniss woke up inside the mansion and went to the <a href="/wiki/Rose_garden" title="Rose garden">rose garden</a>, where she met some rebel soldiers guarding it, but was let in with Commander Paylor's permission. Inside, she found Snow, shackled to a chair and awaiting execution. Snow told Katniss that he himself did not order the bombing; rather, Coin did to force the Capitol to surrender. Later, the surviving <a href="/wiki/Victors" class="mw-redirect" title="Victors">victors</a> met and voted to have a Hunger Games including Capitol children. Immediately following this, Katniss was to shoot Snow with an arrow (firing the symbolic "last shot" of the rebellion), but shot and killed Coin instead to avenge Prim's death.
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 220px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/9c/IMG_2767.jpg/revision/latest?cb=20160616020043" class="mw-file-description image"><img alt="The mansion in the last moments of the war, with the human shield of children being formed" src="https://static.wikia.nocookie.net/thehungergames/images/9/9c/IMG_2767.jpg/revision/latest/scale-to-width-down/220?cb=20160616020043" decoding="async" loading="lazy" width="220" height="170" class="thumbimage" data-image-name="IMG 2767.jpg" data-image-key="IMG_2767.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:IMG_2767.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The mansion in the last moments of the war, with the human shield of children being formed</p> 		 	</figcaption> </figure>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 220px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/6d/IMG_2763.jpg/revision/latest?cb=20160616013120" class="mw-file-description image"><img alt="The mansion seen in the Holo map during the beginning invasion of the capitol" src="https://static.wikia.nocookie.net/thehungergames/images/6/6d/IMG_2763.jpg/revision/latest/scale-to-width-down/220?cb=20160616013120" decoding="async" loading="lazy" width="220" height="119" class="thumbimage" data-image-name="IMG 2763.jpg" data-image-key="IMG_2763.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:IMG_2763.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The mansion seen in the Holo map during the beginning invasion of the capitol</p> 		 	</figcaption> </figure>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPresident%2527s_mansion%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The President's mansion is very large and Katniss presumes it to be full of <a href="/wiki/Pods" class="mw-redirect" title="Pods">pods</a> to discourage intruders. It contains a garden, where Snow grows his genetically enhanced roses. It also contains a ballroom, and a meeting room. 
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FPresident%2527s_mansion%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i> utilizes the <a href="https://en.wikipedia.org/wiki/Swan_House_(Atlanta)" class="extiw" title="wikipedia:Swan House (Atlanta)">Swan House</a> (an historic mansion in Atlanta, Georgia) as the real life Presidential Palace. However, in <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a></i> and <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i> the <i>Château de Voisins</i> (Saint-Hilarion, near Paris) was used for filming the presidential reception rooms and the rear facade of the mansion.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20251230152821
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.037 seconds
+Real time usage: 0.076 seconds
+Preprocessor visited node count: 80/1000000
+Post‐expand include size: 81/2097152 bytes
+Template argument size: 30/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   28.467      1 -total
+ 93.13%   26.511      1 Template:Location
+  6.27%    1.786      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:142953-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230152821 and revision id 943105. Rendering was triggered because: page-view
+ -->
+</div>

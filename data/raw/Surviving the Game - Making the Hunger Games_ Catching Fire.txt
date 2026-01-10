@@ -1,0 +1,204 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><i>Surviving the Game - Making the Hunger Games: Catching Fire</i></h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0b/Surviving_the_games_CF_documentary.jpg/revision/latest?cb=20231229195055" class="image image-thumbnail" title="Surviving the games CF documentary">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/0/0b/Surviving_the_games_CF_documentary.jpg/revision/latest/scale-to-width-down/268?cb=20231229195055" srcset="https://static.wikia.nocookie.net/thehungergames/images/0/0b/Surviving_the_games_CF_documentary.jpg/revision/latest/scale-to-width-down/268?cb=20231229195055 1x, https://static.wikia.nocookie.net/thehungergames/images/0/0b/Surviving_the_games_CF_documentary.jpg/revision/latest?cb=20231229195055 2x" class="pi-image-thumbnail" data-relevant="1" alt="Surviving the games CF documentary" width="270" height="383" data-image-key="Surviving_the_games_CF_documentary.jpg" data-image-name="Surviving the games CF documentary.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="director">
+	
+		<h3 class="pi-data-label pi-secondary-font">Director</h3>
+	
+	<div class="pi-data-value pi-font">Jon Mefford</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="producer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Producer</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Craig Lenti</li><li>Jon Mefford</li><li>Cliff Stephenson</li><li>Lisa Stephenson</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="based on">
+	
+		<h3 class="pi-data-label pi-secondary-font">Based on</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="starring">
+	
+		<h3 class="pi-data-label pi-secondary-font">Starring</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="https://en.wikipedia.org/wiki/Nina_Jacobson" class="extiw" title="wikipedia:Nina Jacobson">Nina Jacobson</a></li><li><a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a></li><li><a href="/wiki/Jennifer_Lawrence" title="Jennifer Lawrence">Jennifer Lawrence</a></li></ul><p><small><a class="mw-selflink-fragment" href="#Cast">more...</a></small></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="studio">
+	
+		<h3 class="pi-data-label pi-secondary-font">Studio</h3>
+	
+	<div class="pi-data-value pi-font">Five by Five</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
+	
+		<h3 class="pi-data-label pi-secondary-font">Length</h3>
+	
+	<div class="pi-data-value pi-font">2h 25m</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+	
+		<h3 class="pi-data-label pi-secondary-font">Date(s)</h3>
+	
+	<div class="pi-data-value pi-font">November 14, 2013</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="country">
+	
+		<h3 class="pi-data-label pi-secondary-font">Country</h3>
+	
+	<div class="pi-data-value pi-font">United States</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_World_Is_Watching:_Making_the_Hunger_Games" title="The World Is Watching: Making the Hunger Games">The World Is Watching: Making the Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Mockingjay_Lives:_The_Making_of_the_Hunger_Games:_Mockingjay_Part_1" title="The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1">The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1</a></i></div>
+</div>
+</aside>
+
+</p><p><i><b>Surviving the Game - Making the Hunger Games: Catching Fire</b></i> is a feature-length documentary film about the making of <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>. It was included as a featurette on DVD releases.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Summary"><span class="tocnumber">1</span> <span class="toctext">Summary</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cast"><span class="tocnumber">2</span> <span class="toctext">Cast</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSurviving_the_Game_-_Making_the_Hunger_Games%3A_Catching_Fire%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The documentary is organized into nine sections.
+</p>
+<ol><li>A New Kind of Hunger: Continuing the Saga</li>
+<li>Visual Vocabulary: Building a World</li>
+<li>Stirring Things Up: The Cast</li>
+<li>Fashion Forward: Costume, Make-up &amp; Hair</li>
+<li>Let It Fly: Production in Atlanta</li>
+<li>Moves and Countermoves: Stunts &amp; Weapons</li>
+<li>Tick Tock: Production in Hawaii</li>
+<li>Threading the Needle: Post-Production</li>
+<li>The Revolution Lives: Reflections &amp; Looking Forward</li></ol>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSurviving_the_Game_-_Making_the_Hunger_Games%3A_Catching_Fire%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="center">
+<tbody><tr>
+<td valign="top" width="50%">
+<ul><li><a href="https://en.wikipedia.org/wiki/Nina_Jacobson" class="extiw" title="wikipedia:Nina Jacobson">Nina Jacobson</a></li>
+<li><a href="/wiki/Jennifer_Lawrence" title="Jennifer Lawrence">Jennifer Lawrence</a></li>
+<li><a href="/wiki/Josh_Hutcherson" title="Josh Hutcherson">Josh Hutcherson</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jon_Kilik" class="extiw" title="wikipedia:Jon Kilik">Jon Kilik</a></li>
+<li><a href="/wiki/Elizabeth_Banks" title="Elizabeth Banks">Elizabeth Banks</a></li>
+<li><a href="/wiki/Donald_Sutherland" title="Donald Sutherland">Donald Sutherland</a></li>
+<li><a href="https://en.wikipedia.org/wiki/David_Levithan" class="extiw" title="wikipedia:David Levithan">David Levithan</a></li>
+<li><a href="/wiki/Lenny_Kravitz" title="Lenny Kravitz">Lenny Kravitz</a></li>
+<li><a href="/wiki/Stanley_Tucci" title="Stanley Tucci">Stanley Tucci</a></li>
+<li><a href="/wiki/Liam_Hemsworth" title="Liam Hemsworth">Liam Hemsworth</a></li>
+<li><a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a></li>
+<li>Philip Messina</li>
+<li><a href="https://en.wikipedia.org/wiki/Jo_Willems" class="extiw" title="wikipedia:Jo Willems">Jo Willems</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Larry_Dias" class="extiw" title="wikipedia:Larry Dias">Larry Dias</a></li>
+<li><a href="/wiki/Sam_Claflin" title="Sam Claflin">Sam Claflin</a></li>
+<li>Steve Cremin</li>
+<li><a href="/wiki/Woody_Harrelson" title="Woody Harrelson">Woody Harrelson</a></li>
+<li><a href="/wiki/Willow_Shields" title="Willow Shields">Willow Shields</a></li>
+<li><a href="/wiki/Paula_Malcomson" title="Paula Malcomson">Paula Malcomson</a></li>
+<li><a href="/wiki/Jena_Malone" title="Jena Malone">Jena Malone</a></li>
+<li><a href="/wiki/Philip_Seymour_Hoffman" title="Philip Seymour Hoffman">Philip Seymour Hoffman</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Debra_Zane" class="extiw" title="wikipedia:Debra Zane">Debra Zane</a></li>
+<li><a href="/wiki/Jeffrey_Wright" title="Jeffrey Wright">Jeffrey Wright</a></li>
+<li><a href="/wiki/Amanda_Plummer" title="Amanda Plummer">Amanda Plummer</a></li>
+<li><a href="/wiki/Bruno_Gunn" title="Bruno Gunn">Bruno Gunn</a></li>
+<li><a href="/wiki/Meta_Golding" title="Meta Golding">Meta Golding</a></li>
+<li><a href="/wiki/Stephanie_Leigh_Schlund" title="Stephanie Leigh Schlund">Stephanie Leigh Schlund</a></li>
+<li><a href="/wiki/Alan_Ritchson" title="Alan Ritchson">Alan Ritchson</a></li>
+<li><a href="/wiki/Lynn_Cohen" title="Lynn Cohen">Lynn Cohen</a></li></ul>
+</td>
+<td valign="top" width="50%">
+<ul><li><a href="https://en.wikipedia.org/wiki/Ve_Neill" class="extiw" title="wikipedia:Ve Neill">Ve Neill</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Trish_Summerville" class="extiw" title="wikipedia:Trish Summerville">Trish Summerville</a></li>
+<li>Linda D. Flowers</li>
+<li><a href="https://en.wikipedia.org/wiki/Tex_Saverio" class="extiw" title="wikipedia:Tex Saverio">Tex Saverio</a></li>
+<li>Nikoletta Skarlatos</li>
+<li><a href="https://en.wikipedia.org/wiki/Chad_Stahelski" class="extiw" title="wikipedia:Chad Stahelski">Chad Stahelski</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sam_Hargrave" class="extiw" title="wikipedia:Sam Hargrave">Sam Hargrave</a></li>
+<li>Andrew Petrotta</li>
+<li>Jackson Spidell</li>
+<li>Gregor Tavenner</li>
+<li>Doug Lavender</li>
+<li><a href="https://en.wikipedia.org/wiki/Alan_Edward_Bell" class="extiw" title="wikipedia:Alan Edward Bell">Alan Edward Bell</a></li>
+<li>Jeremy Peirson</li>
+<li><a href="https://en.wikipedia.org/wiki/Janek_Sirrs" class="extiw" title="wikipedia:Janek Sirrs">Janek Sirrs</a></li>
+<li>Adrian De Wet</li>
+<li>Melinka Thompson-Godoy</li>
+<li>Julia Reinhard</li>
+<li>Dan Neal</li>
+<li>Michael Brazelton</li>
+<li>Fabio Zangla</li>
+<li>May Leung</li>
+<li>Viktor Rietveld</li>
+<li>Jordan Kirk</li>
+<li>Richard R. Reed</li>
+<li>Huw J. Evans</li>
+<li>Greg Foster</li>
+<li>Hugh Murray</li>
+<li><a href="/wiki/James_Newton_Howard" title="James Newton Howard">James Newton Howard</a></li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSurviving_the_Game_-_Making_the_Hunger_Games%3A_Catching_Fire%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This is the only documentary that has nine parts instead of eight.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSurviving_the_Game_-_Making_the_Hunger_Games%3A_Catching_Fire%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSurviving_the_Game_-_Making_the_Hunger_Games%3A_Catching_Fire%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/title/tt4041372/" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/title/tt4041372/">Surviving the Game - Making the Hunger Games: Catching Fire</a> at the Internet Movie Database</span></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20260104141340
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.042 seconds
+Real time usage: 0.070 seconds
+Preprocessor visited node count: 226/1000000
+Post‐expand include size: 988/2097152 bytes
+Template argument size: 368/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   34.987      1 -total
+ 93.29%   32.639      1 Template:Film
+  6.09%    2.130     14 Template:W
+  3.84%    1.345      1 Template:Imdb
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:543017-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104141340 and revision id 944713. Rendering was triggered because: page-view
+ -->
+</div>

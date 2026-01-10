@@ -1,0 +1,75 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="quote">
+<dl><dd><span title="Source: https&#58;//www.thecapitol.pn/capitoltv/special-counsel-peeta-mellark">"<i>He's the kindest man, truly. People rarely appreciate you in this profession, and he takes his time with everyone he encounters. He is in such a special position to have a serious impact on our country, and I wholeheartedly believe he is the best man for the job. You can quote me on that.</i>"</span></dd>
+<dd>&#8212;Hazel Frand on <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a><sup class="noprint">[<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.thecapitol.pn/capitoltv/special-counsel-peeta-mellark%7C">[src</a>]]</sup></dd></dl></div><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Hazel Frand</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Personal assistant<br /><a href="/wiki/Stylist" title="Stylist">Stylist</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Unknown</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Hazel Frand</b> was <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>'s personal assistant and part-time <a href="/wiki/Stylist" title="Stylist">stylist</a>. She gave <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> touch-ups before his interview with Flickerman on <a href="/wiki/Capitol_TV" title="Capitol TV">Capitol TV</a>.<sup><i>&#91;citation&#160;needed&#93;</i></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_Scenes">Behind the Scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FHazel_Frand%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hazel Frand was created for promotion of <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>The Hunger Games: Mockingjay - Part 2</i></a> and was mentioned in an article on Capitol TV's website.<sup><i>&#91;citation&#160;needed&#93;</i></sup>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20260102033836
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.022 seconds
+Real time usage: 0.034 seconds
+Preprocessor visited node count: 95/1000000
+Post‐expand include size: 927/2097152 bytes
+Template argument size: 588/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   18.904      1 -total
+ 74.93%   14.164      1 Template:Character
+ 13.05%    2.467      2 Template:Cite
+  9.68%    1.830      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:536124-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102033836 and revision id 941287. Rendering was triggered because: page-view
+ -->
+</div>

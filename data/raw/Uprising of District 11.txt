@@ -1,0 +1,113 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Uprising of District 11</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="conflict">
+	
+		<h3 class="pi-data-label pi-secondary-font">Conflict</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pre-Second_Rebellion_civil_unrest" title="Pre-Second Rebellion civil unrest">Pre-Second Rebellion civil unrest</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+	
+		<h3 class="pi-data-label pi-secondary-font">Date</h3>
+	
+	<div class="pi-data-value pi-font">Mid to late July, 74 ADD</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="place">
+	
+		<h3 class="pi-data-label pi-secondary-font">Place</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_11" title="District 11">District 11</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="outcome">
+	
+		<h3 class="pi-data-label pi-secondary-font">Outcome</h3>
+	
+	<div class="pi-data-value pi-font"><b>Decisive Capitol victory</b><ul><li>Destruction of property and resources</li><li><a href="/wiki/Rebels" title="Rebels">Rebels</a> subdued</li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Combatants</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row6">
+	
+	<div class="pi-data-value pi-font"><b>The Capitol</b><ul><li><a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row7">
+	
+	<div class="pi-data-value pi-font"><b>District 11</b><ul><li>District 11 citizens</li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p><p>In <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>, the <b>uprising of District 11</b> was the first known uprising to have taken place since the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>. It was a response to the death of <a href="/wiki/Rue" title="Rue">Rue</a> in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_Uprising"><span class="tocnumber">2</span> <span class="toctext">The Uprising</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_11%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/dd/Untitled3.png/revision/latest?cb=20140608143210" class="mw-file-description image"><img alt="The fence surrounding District 11 in The Hunger Games: Catching Fire." src="https://static.wikia.nocookie.net/thehungergames/images/d/dd/Untitled3.png/revision/latest/scale-to-width-down/180?cb=20140608143210" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="Untitled3.png" data-image-key="Untitled3.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Untitled3.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The fence surrounding District 11 in <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>.</p> 		 	</figcaption> </figure>
+<p>Even by the standards of <a href="/wiki/Panem" title="Panem">Panem</a>'s other outer <a href="/wiki/District" class="mw-redirect" title="District">districts</a>, District 11 was heavily impoverished, policed, and repressed.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> Despite its industry being agriculture,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> nearly all of their produce was shipped off to serve <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>'s overwhelming greed. The local government was very strict, and its <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a> were particularly brutal. For example, any citizen caught eating the crops would be publicly whipped, and Peacekeepers shot a developmentally disabled boy named <a href="/wiki/Martin" title="Martin">Martin</a> on sight for trying to keep a pair of night vision glasses to play with.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="The_Uprising">The Uprising</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_11%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/35/Salute_2.jpg/revision/latest?cb=20120523202015" class="mw-file-description image"><img alt="District 11 returning Katniss&#39;s salute." src="https://static.wikia.nocookie.net/thehungergames/images/3/35/Salute_2.jpg/revision/latest/scale-to-width-down/180?cb=20120523202015" decoding="async" loading="lazy" width="180" height="98" class="thumbimage" data-image-name="Salute 2.jpg" data-image-key="Salute_2.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Salute_2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">District 11 returning Katniss's salute.</p> 		 	</figcaption> </figure>
+<p>During the 74th Hunger Games, District 11's 12-year-old female <a href="/wiki/Tribute" title="Tribute">tribute</a>, Rue, was fatally wounded by <a href="/wiki/Marvel" title="Marvel">Marvel</a>, the male tribute from <a href="/wiki/District_1" title="District 1">District 1</a>. After <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> killed him, she sang to Rue as she died, then covered the girl's wounds and wreathed her body with nearby flowers. Finally, Katniss performed <a href="/wiki/District_12" title="District 12">District 12</a>'s <a href="/wiki/Three_Finger_Salute" class="mw-redirect" title="Three Finger Salute">three-finger salute</a>. Moved by Katniss's act of kindness, citizens watching on a large screen in District 11 returned the gesture.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>A muscular man in his thirties (often thought to be Rue's father) then decided to attack a Peacekeeper, and other citizens quickly followed suit. They fought Peacekeepers and overturned bins of grain and other produce. The riot lasted until after dark, when Peacekeeper reinforcements arrived with batons, shields, and water cannons to quell the uprising. It can be assumed that the Capitol was able to subdue the uprising within a few days, then <a href="/wiki/Execution" title="Execution">executed</a> the instigators.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="mw-default-size mw-halign-center" typeof="mw:File"> <a href="https://thehungergames.fandom.com/wiki/File:Rue%27s_Death_and_District_11_Uprising_-_The_Hunger_Games" class="video video-thumbnail large "> 	<img src="https://static.wikia.nocookie.net/thehungergames/images/2/21/Rue%27s_Death_and_District_11_Uprising_-_The_Hunger_Games/revision/latest?cb=20230920232511" alt="Rue&#39;s_Death_and_District_11_Uprising_-_The_Hunger_Games" height="360" width="480" data-video-key="Rue&#39;s_Death_and_District_11_Uprising_-_The_Hunger_Games" data-video-name="Rue&#39;s Death and District 11 Uprising - The Hunger Games" class="" /> 	<span class="thumbnail-play-icon-container"> 		<svg class="thumbnail-play-icon wds-icon"><use xlink:href="#wds-player-icon-play"></use></svg>	</span> </a> <figcaption></figcaption></figure>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_11%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the books, the first known uprising since the Dark Days was the <a href="/wiki/Uprising_of_District_8" title="Uprising of District 8">uprising of District 8</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> Despite careful planning and coordination on the part of the rebels, it was subdued within 48 hours, and suspected instigators were executed.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>In <i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> novel, there was no riot, and the people of District 11 sent a <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gift</a> of <a href="/wiki/Bread" title="Bread">bread</a> to Katniss as a symbol of gratitude.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FUprising_of_District_11%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 4</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 5</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 15</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 6</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 10</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 18</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20251228144927
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.050 seconds
+Real time usage: 0.112 seconds
+Preprocessor visited node count: 193/1000000
+Post‐expand include size: 59/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2737/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   20.586      1 Template:Battle
+100.00%   20.586      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542362-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251228144927 and revision id 959911. Rendering was triggered because: page-view
+ -->
+</div>

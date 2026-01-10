@@ -1,0 +1,322 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Reaper Ash</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f0/Reaper.jpg/revision/latest?cb=20231102210327" class="image image-thumbnail" title="Reaper">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/f/f0/Reaper.jpg/revision/latest/scale-to-width-down/267?cb=20231102210327" srcset="https://static.wikia.nocookie.net/thehungergames/images/f/f0/Reaper.jpg/revision/latest/scale-to-width-down/267?cb=20231102210327 1x, https://static.wikia.nocookie.net/thehungergames/images/f/f0/Reaper.jpg/revision/latest/scale-to-width-down/535?cb=20231102210327 2x" class="pi-image-thumbnail" data-relevant="1" alt="Reaper" width="270" height="405" data-image-key="Reaper.jpg" data-image-name="Reaper.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">12–18</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_11" title="District 11">District 11</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Pitchfork<p>Long knife</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dimitri_Abold" title="Dimitri Abold">Dimitri Abold</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span>"<i>He might kill you now. He killed a Peacekeeper back in Eleven. They never found out who did it.</i>"</span></dd>
+<dd>—Dill regarding Reaper.</dd></dl></div>
+<p><b>Reaper Ash</b> was the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_11" title="District 11">District 11</a> in the <a href="/wiki/10th_Hunger_Games" title="10th Hunger Games">10th Hunger Games</a>. His <a href="/wiki/Mentor" title="Mentor">mentor</a> was <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#10th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">10th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Death"><span class="tocnumber">1.2</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Film_adaptation"><span class="tocnumber">1.3</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37545" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Reaper Ash's mentor in the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 10th Hunger Games, Reaper Ash from District 11 was guided by his mentor, Clemensia Dovecote.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37546" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What significant act did Reaper Ash commit before the reaping?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Reaper Ash undertook the grim task of collecting the bodies of fallen tributes. His name, Reaper, is a nod to both the agricultural act of harvesting and the Grim Reaper, underscoring his role in the Games. His surname, Ash, signifies the remnants of a fire, alluding to the First Rebellion's aftermath. Additionally, he had a mutual bond with Dill, another tribute from District 11.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37547" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How was Reaper Ash transported from District 11 to the Capitol?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Reaper Ash traveled from District 11 to the Capitol using the Capitol's high-speed train system, capable of covering extensive distances in under a day. For aerial transit, hovercrafts are utilized, some specifically designed for passenger transport. Once in the Capitol, the Transfer, a network of tunnels, facilitates internal movement.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37548" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Reaper Ash become the male tribute for the 10th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Reaper Ash, hailing from District 11, was chosen as the male tribute during the Reaping for the 10th Hunger Games. Before this event, he had committed an undetected crime of killing a Peacekeeper.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Reaper Ash","mainEntity":[{"@type":"Question","name":"Who was Reaper Ash's mentor in the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 10th Hunger Games, Reaper Ash from District 11 was guided by his mentor, Clemensia Dovecote."}},{"@type":"Question","name":"What significant act did Reaper Ash commit before the reaping?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Reaper Ash undertook the grim task of collecting the bodies of fallen tributes. His name, Reaper, is a nod to both the agricultural act of harvesting and the Grim Reaper, underscoring his role in the Games. His surname, Ash, signifies the remnants of a fire, alluding to the First Rebellion's aftermath. Additionally, he had a mutual bond with Dill, another tribute from District 11."}},{"@type":"Question","name":"How was Reaper Ash transported from District 11 to the Capitol?","acceptedAnswer":{"@type":"Answer","text":"Reaper Ash traveled from District 11 to the Capitol using the Capitol's high-speed train system, capable of covering extensive distances in under a day. For aerial transit, hovercrafts are utilized, some specifically designed for passenger transport. Once in the Capitol, the Transfer, a network of tunnels, facilitates internal movement."}},{"@type":"Question","name":"How did Reaper Ash become the male tribute for the 10th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Reaper Ash, hailing from District 11, was chosen as the male tribute during the Reaping for the 10th Hunger Games. Before this event, he had committed an undetected crime of killing a Peacekeeper."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/db/Reaper_Ash_reaping.jpg/revision/latest?cb=20240215040142" class="mw-file-description image"><img alt="Reaper being manhandled by a Peacekeeper at the reaping." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="215" class="thumbimage lazyload" data-image-name="Reaper Ash reaping.jpg" data-image-key="Reaper_Ash_reaping.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/db/Reaper_Ash_reaping.jpg/revision/latest/scale-to-width-down/180?cb=20240215040142"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/d/db/Reaper_Ash_reaping.jpg/revision/latest?cb=20240215040142" class="mw-file-description image"><img alt="Reaper being manhandled by a Peacekeeper at the reaping." src="https://static.wikia.nocookie.net/thehungergames/images/d/db/Reaper_Ash_reaping.jpg/revision/latest/scale-to-width-down/180?cb=20240215040142" decoding="async" loading="lazy" width="180" height="215" class="thumbimage" data-image-name="Reaper Ash reaping.jpg" data-image-key="Reaper_Ash_reaping.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/d/db/Reaper_Ash_reaping.jpg/revision/latest/scale-to-width-down/180?cb=20240215040142"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Reaper_Ash_reaping.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Reaper being manhandled by a Peacekeeper at the reaping.</p> 		 	</figcaption> </figure>
+<p>Reaper grew up in District 11 and became his district's male tribute in <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the Reaping</a> for the 10th Hunger Games.<sup id="cite_ref-Ballad_7_1-0" class="reference"><a href="#cite_note-Ballad_7-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Sometime before the reaping, Reaper killed a <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeper</a>, and nobody ever found out who did it.<sup id="cite_ref-Ballad_3_2-0" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Along with the other tributes, he was transported from his district to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a> in a cattle car. After <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> got into a truck with the tributes in order to spend time with his own tribute, <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, Reaper taunted Coriolanus and pinned him to the bars, his fingers around the mentor's throat. Coriolanus was only released after driving his knee into Reaper's crotch. Soon after, they were dumped into the monkey house at the <a href="/wiki/Capitol_Zoo" title="Capitol Zoo">Capitol Zoo</a>.<sup id="cite_ref-Ballad_3_2-1" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>During his interview session with <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a>, Reaper refused to utter a single word.<sup id="cite_ref-Ballad_6_3-0" class="reference"><a href="#cite_note-Ballad_6-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> While at another mentor-tribute meeting, Reaper sat at his table with a stained bandage around his head, supposedly having been injured from the bombing in the <a href="/wiki/Capitol_Arena" title="Capitol Arena">Capitol Arena</a>. However, he was alone, as his mentor had been taken ill earlier.<sup id="cite_ref-Ballad_10_4-0" class="reference"><a href="#cite_note-Ballad_10-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>The night before the Games, he spoke with the other tributes, apologizing to them personally for having to kill them and claiming that upon becoming <a href="/wiki/Victor" title="Victor">victor</a>, he would take revenge upon <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>. Most people merely stared at him, but <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup Diggs</a> spit in his eye, leading to him unknowingly contracting rabies.<sup id="cite_ref-Ballad_12_5-0" class="reference"><a href="#cite_note-Ballad_12-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="10th_Hunger_Games">10th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Reaper was one of the few tributes to run for weaponry when the gong first went off, although by the time he positioned himself in a fighting stance, the area had already been cleared of other tributes. Frustrated, Reaper climbed into the stands, ready to hunt. Later that day, he emerged from a tunnel carrying <a href="/wiki/Dill" title="Dill">Dill</a>, his district partner, laying her down in the sun before her death from illness.<sup id="cite_ref-Ballad_14_6-0" class="reference"><a href="#cite_note-Ballad_14-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>After Jessup's death, Reaper appeared at the end of the arena and went to collect the remaining water bottles around him, though they were intended for Lucy Gray, who had fled.<sup id="cite_ref-Ballad_17_7-0" class="reference"><a href="#cite_note-Ballad_17-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>Later, Reaper cut a deal with the female tribute from <a href="/wiki/District_7" title="District 7">District 7</a>, <a href="/wiki/Lamina" title="Lamina">Lamina</a>, who had been sitting for long hours directly underneath the sun. He tore the <a href="/wiki/Panem_flag" title="Panem flag">Panem flag</a> and tossed it up to her in exchange for food, though this led to objections, and his mentor doubted any sponsors would be willing to aid him following such a display. Reaper then withdrew behind the barricade when Lamina pointed out <a href="/wiki/Coral" title="Coral">Coral</a>, <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> and <a href="/wiki/Tanner" title="Tanner">Tanner</a> approaching. After Lamina was killed by the pack, Reaper made a makeshift morgue of all the tributes that had died in the arena so far, with the exception of Jessup (whose body he did collect later), and covered them with a second piece of the flag. He then took Lamina's flag remnant for himself, using it as a cape.<sup id="cite_ref-Ballad_18_8-0" class="reference"><a href="#cite_note-Ballad_18-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>After <a href="/wiki/Wovey" title="Wovey">Wovey</a>, the female tribute from <a href="/wiki/District_8" title="District 8">District 8</a>, died from Lucy Gray's poisoning, Reaper seemed suspicious as he examined her face. He suspected it was unnatural, and lined up Wovey with the other dead tributes as well, abandoning her food and water on the ground. When Dr. <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> released <a href="/wiki/Snake_mutt" title="Snake mutt">snake mutts</a> into the arena to punish them for <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a>'s death, Reaper found refuge on the roof of the press box.<sup id="cite_ref-Ballad_19_9-0" class="reference"><a href="#cite_note-Ballad_19-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>The first time Clemensia sent Reaper food, he brushed it off, drinking water from a puddle instead. He descended from the press box and cut off another piece of flag, using it to cover <a href="/wiki/Teslee" title="Teslee">Teslee</a> and <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> after they had been added to his morgue. At this point, he was unsteady from lack of food and water, as well as the rabies he had contracted earlier.<sup id="cite_ref-Ballad_20_10-0" class="reference"><a href="#cite_note-Ballad_20-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/35/Reaper_Ash.jpg/revision/latest?cb=20230508191523" class="mw-file-description image"><img alt="Reaper Ash" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="124" class="thumbimage lazyload" data-image-name="Reaper Ash.jpg" data-image-key="Reaper_Ash.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/35/Reaper_Ash.jpg/revision/latest/scale-to-width-down/180?cb=20230508191523"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/3/35/Reaper_Ash.jpg/revision/latest?cb=20230508191523" class="mw-file-description image"><img alt="Reaper Ash" src="https://static.wikia.nocookie.net/thehungergames/images/3/35/Reaper_Ash.jpg/revision/latest/scale-to-width-down/180?cb=20230508191523" decoding="async" loading="lazy" width="180" height="124" class="thumbimage" data-image-name="Reaper Ash.jpg" data-image-key="Reaper_Ash.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/35/Reaper_Ash.jpg/revision/latest/scale-to-width-down/180?cb=20230508191523"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Reaper_Ash.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Reaper Ash</p> 		 	</figcaption> </figure>
+<p>When only she and Reaper remained, Lucy Gray went over to the body of <a href="/wiki/Treech" title="Treech">Treech</a>, the male tribute from <a href="/wiki/District_7" title="District 7">District 7</a> whom she had just killed. She began to drag him to Reaper's morgue, but Reaper assumed the job himself. When he finished, Lucy Gray taunted Reaper by wreaking havoc upon the pieces of Panem's flag meant for covering the fallen tributes' corpses, moving them about aimlessly as he gave chase, insistent of keeping them covered. Aware of Jessup having previously spat at him, she purposely used the fact that Reaper had not eaten much for many days as a symptom of the rabies he had contracted to tire him out. With his attempts to give chase turning out to be futile, he desperately drank out of his puddle that, unbeknownst to him, had been contaminated with rat poison by Lucy Gray. Reaper barely made it to Treech's body before covering half of his form with the flag when his body gave out. It took the <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> half an hour to fully acknowledge his passing, only doing so when Lucy Gray herself came out to check his pulse and, finding nothing, shut his eyelids.<sup id="cite_ref-Ballad_20_10-1" class="reference"><a href="#cite_note-Ballad_20-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Reaper first appeared during the reaping ceremony on the screen when his mentor, Clemensia Dovecote, was assigned to him. He got off at the platform with the other tributes before being taken to the Capitol Zoo. When Coriolanus Snow joined him and the rest of the other tributes inside the truck, Reaper taunted him and asked him if he was in the wrong cage before grabbing the boy and slamming him up against the wall of the truck, threatening to kill him. His district partner Dill claimed that he had killed a Peacekeeper back in District 11. Just before Reaper and the rest of the tributes were about to attack, Lucy Gray commented that if they killed Coriolanus the Capitol would kill their families and then them. He was dumped at the zoo along with the rest of the tributes and trapped in a cage where a news team and a few Capitol citizens gawked at them.
+</p><p>A few days later, the tributes were chained and brought to meet their mentors and talk strategy with them for the upcoming interviews and Games ahead. Reaper met his mentor, Clemensia, when she she sat down and attempted to talk to him, but he regarded her coldly and tried to attack her but was stopped by his chains, frightening the girl. When the tributes and their mentors went to scope out the arena, Reaper was left without his mentor as she had been bitten by a snake mutt. Reaper pulled Dill aside and told her to stick by him, allying himself with her.
+</p><p>When the gong rang, Reaper ran as fast as he could towards the pile of weapons, where he grabbed a sword and fought a couple of tributes. Seeing <a href="/wiki/Dill" title="Dill">Dill</a> scared, he decided to protect her when <a href="/wiki/Circ" title="Circ">Circ</a> appeared and attacked him. After escaping, Reaper and Dill observed the bloodbath until the scene was clear, then stayed in the tunnels for the rest of the day. However, Dill eventually walked away, and Reaper followed her only to find her lying on the ground. Reaper tried to help her, but discovered that she had been killed from drinking water poisoned by <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>.
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/01/Reaper_challenging_the_Capitol.JPG/revision/latest?cb=20240228173857" class="mw-file-description image"><img alt="Reaper challenging the Capitol." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="101" class="thumbimage lazyload" data-image-name="Reaper challenging the Capitol.JPG" data-image-key="Reaper_challenging_the_Capitol.JPG" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/01/Reaper_challenging_the_Capitol.JPG/revision/latest/scale-to-width-down/180?cb=20240228173857"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/0/01/Reaper_challenging_the_Capitol.JPG/revision/latest?cb=20240228173857" class="mw-file-description image"><img alt="Reaper challenging the Capitol." src="https://static.wikia.nocookie.net/thehungergames/images/0/01/Reaper_challenging_the_Capitol.JPG/revision/latest/scale-to-width-down/180?cb=20240228173857" decoding="async" loading="lazy" width="180" height="101" class="thumbimage" data-image-name="Reaper challenging the Capitol.JPG" data-image-key="Reaper_challenging_the_Capitol.JPG" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/01/Reaper_challenging_the_Capitol.JPG/revision/latest/scale-to-width-down/180?cb=20240228173857"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Reaper_challenging_the_Capitol.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Reaper challenging the Capitol.</p> 		 	</figcaption> </figure>
+<p>Afterward, he decided to place all the corpses he could find under the broken beam in the arena. To cover them, he tore down the Panem flag, approaching the morgue that he had made and placing the flag over all the bodies. Suddenly, a <a href="/wiki/Drone" title="Drone">drone</a> appeared carrying a large tank, which it deposited in the middle of the sand. Seeing <a href="/wiki/Wovey" title="Wovey">Wovey</a> approaching the tank, Reaper warned her to stay away, but Wovey was killed as the tank released hundreds of deadly snakes. Rather than trying to fight them off, Reaper stayed completely still and allowed them to overcome him, placing 3rd.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reaper was rangy, tall and muscular, with dark brown skin and patched burlap clothing.<sup id="cite_ref-Ballad_3_2-2" class="reference"><a href="#cite_note-Ballad_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> After the bombing in the arena, Reaper had a bandage stained with dried, rusty blood wrapped around his head.<sup id="cite_ref-Ballad_10_4-1" class="reference"><a href="#cite_note-Ballad_10-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> When he was ill from hunger in the Games, he became gaunt and unsteady, rocking back and forth.<sup id="cite_ref-Ballad_20_10-2" class="reference"><a href="#cite_note-Ballad_20-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>His mentor, Clemensia, found his name quite ironic, given that he was <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">reaped</a> for the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>. However, Reaper's given name is just a farming name;<sup id="cite_ref-Ballad_6_3-1" class="reference"><a href="#cite_note-Ballad_6-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> it refers to reaping, which is the cutting of grain for the harvest. His surname Ash refers to what is left behind by a fire, as in the aftermath of the First Rebellion. His first name is also reminiscent of the Grim Reaper, as he collected the bodies of the tributes after they died in the Games.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>His morning line odds has been shown to be 2-1, which is above <a href="/wiki/Cato" title="Cato">Cato</a>'s 3-1 and the highest known in the film series.</li>
+<li>Reaper could be seen having some sort of mutual bond with his fellow District 11 tribute, <a href="/wiki/Dill" title="Dill">Dill</a>. In the moments leading up to her death during the first day of the Games, Reaper carried her out of the tunnels and made a lackluster attempt of comforting her, ultimately leaving her be. Their relationship vaguely paralleled that of <a href="/wiki/Thresh" title="Thresh">Thresh</a> and <a href="/wiki/Rue" title="Rue">Rue</a> during the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>.</li>
+<li>Despite being one of the stronger tributes and armed with a weapon, Reaper did not make a single kill throughout the Games, instead using intimidation as a defense mechanism. Furthermore, he was the only tribute to stay in the main portion of the arena during the beginning of the Games.</li>
+<li>He was one of only three tributes in the 10th Hunger Games whose last name was revealed. The others were the pair from <a href="/wiki/District_12" title="District 12">District 12</a>.</li>
+<li>In the film adaptation, actor <a href="/wiki/Dimitri_Abold" title="Dimitri Abold">Dimitri Abold</a> adlibbed Reaper fake-lunging at Clemensia during the tribute-mentor meeting. He ran this by director <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a> first, but Clemensia's actress, <a href="/wiki/Ashley_Liao" title="Ashley Liao">Ashley Liao</a>, was not told ahead of time.<sup id="cite_ref-commentary_12-0" class="reference"><a href="#cite_note-commentary-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="0e239c7c69fc8b32755cf28f9d096b91" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="D11MReaper-jpg" style="position: relative; height:185px; width:180px;"><a class="image lightbox" href="/wiki/File:D11MReaper.jpg" title="D11MReaper.jpg (49 KB)" style="height:185px; width:180px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/9/94/D11MReaper.jpg/revision/latest/scale-to-width-down/180?cb=20250427070217" title="D11MReaper.jpg (49 KB)" class="thumbimage" alt="Reaper's face on the monitors." height="185" width="185" data-image-name="D11MReaper.jpg" data-image-key="D11MReaper.jpg" data-relevant="1" data-caption="Reaper's face on the monitors."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D11MReaper.jpg (49 KB)" class="thumbimage lazyload" alt="Reaper's face on the monitors." height="185" width="185" data-image-name="D11MReaper.jpg" data-image-key="D11MReaper.jpg" data-relevant="1" data-caption="Reaper's face on the monitors." data-src="https://static.wikia.nocookie.net/thehungergames/images/9/94/D11MReaper.jpg/revision/latest/scale-to-width-down/180?cb=20250427070217"></a></div></div><div class="lightbox-caption" style="width:185px;">Reaper's face on the monitors.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ReaperDillConceptArt-png" style="position: relative; height:129px; width:185px; top:28px;"><a class="image lightbox" href="/wiki/File:ReaperDillConceptArt.png" title="ReaperDillConceptArt.png (156 KB)" style="height:129px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/5/53/ReaperDillConceptArt.png/revision/latest/scale-to-width-down/185?cb=20250427070149" title="ReaperDillConceptArt.png (156 KB)" class="thumbimage" alt="Concept art of Reaper and Dill's costumes." height="185" width="185" data-image-name="ReaperDillConceptArt.png" data-image-key="ReaperDillConceptArt.png" data-relevant="1" data-caption="Concept art of Reaper and Dill's costumes."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="ReaperDillConceptArt.png (156 KB)" class="thumbimage lazyload" alt="Concept art of Reaper and Dill's costumes." height="185" width="185" data-image-name="ReaperDillConceptArt.png" data-image-key="ReaperDillConceptArt.png" data-relevant="1" data-caption="Concept art of Reaper and Dill's costumes." data-src="https://static.wikia.nocookie.net/thehungergames/images/5/53/ReaperDillConceptArt.png/revision/latest/scale-to-width-down/185?cb=20250427070149"></a></div></div><div class="lightbox-caption" style="width:185px;">Concept art of Reaper and Dill's costumes.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Vlcsnap-2025-04-16-17h15m50s137-png" style="position: relative; height:77px; width:185px; top:54px;"><a class="image lightbox" href="/wiki/File:Vlcsnap-2025-04-16-17h15m50s137.png" title="Vlcsnap-2025-04-16-17h15m50s137.png (7.08 MB)" style="height:77px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/5/52/Vlcsnap-2025-04-16-17h15m50s137.png/revision/latest/scale-to-width-down/185?cb=20250427064221" title="Vlcsnap-2025-04-16-17h15m50s137.png (7.08 MB)" class="thumbimage" alt="" height="185" width="185" data-image-name="Vlcsnap-2025-04-16-17h15m50s137.png" data-image-key="Vlcsnap-2025-04-16-17h15m50s137.png" data-relevant="1"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Vlcsnap-2025-04-16-17h15m50s137.png (7.08 MB)" class="thumbimage lazyload" alt="" height="185" width="185" data-image-name="Vlcsnap-2025-04-16-17h15m50s137.png" data-image-key="Vlcsnap-2025-04-16-17h15m50s137.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/52/Vlcsnap-2025-04-16-17h15m50s137.png/revision/latest/scale-to-width-down/185?cb=20250427064221"></a></div></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ballad_7-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_7_1-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-Ballad_3-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_3_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ballad_3_2-1">2.1</a></sup> <sup><a href="#cite_ref-Ballad_3_2-2">2.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 3</span>
+</li>
+<li id="cite_note-Ballad_6-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_6_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ballad_6_3-1">3.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 6</span>
+</li>
+<li id="cite_note-Ballad_10-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_10_4-0">4.0</a></sup> <sup><a href="#cite_ref-Ballad_10_4-1">4.1</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 10</span>
+</li>
+<li id="cite_note-Ballad_12-5"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_12_5-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 12</span>
+</li>
+<li id="cite_note-Ballad_14-6"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_14_6-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 14</span>
+</li>
+<li id="cite_note-Ballad_17-7"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_17_7-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 17</span>
+</li>
+<li id="cite_note-Ballad_18-8"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_18_8-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 18</span>
+</li>
+<li id="cite_note-Ballad_19-9"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_19_9-0">↑</a></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 19</span>
+</li>
+<li id="cite_note-Ballad_20-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ballad_20_10-0">10.0</a></sup> <sup><a href="#cite_ref-Ballad_20_10-1">10.1</a></sup> <sup><a href="#cite_ref-Ballad_20_10-2">10.2</a></sup></span> <span class="reference-text"><i>The Ballad of Songbirds and Snakes</i>, Chapter 20</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></span>
+</li>
+<li id="cite_note-commentary-12"><span class="mw-cite-backlink"><a href="#cite_ref-commentary_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> audio commentary by <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a> and <a href="/wiki/Nina_Jacobson" title="Nina Jacobson">Nina Jacobson</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#1b590c; text-align:center; color:white; width:100%;"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes"><span style="color:white">The Ballad of Songbirds and Snakes</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> • <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a> • <a href="/wiki/Sejanus_Plinth" title="Sejanus Plinth">Sejanus Plinth</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Tigris" title="Tigris">Tigris</a> • <a href="/wiki/Grandma%27am" title="Grandma'am">Grandma'am</a> • <a href="/wiki/Volumnia_Gaul" title="Volumnia Gaul">Volumnia Gaul</a> • <a href="/wiki/Casca_Highbottom" title="Casca Highbottom">Casca Highbottom</a> • <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> • <a href="/wiki/Lysistrata_Vickers" title="Lysistrata Vickers">Lysistrata Vickers</a> • <a href="/wiki/Festus_Creed" title="Festus Creed">Festus Creed</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Facet" title="Facet">Facet</a> • <a href="/wiki/Velvereen" title="Velvereen">Velvereen</a> • <a href="/wiki/Marcus" title="Marcus">Marcus</a> • <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> • <a href="/wiki/Circ" title="Circ">Circ</a> • <a href="/wiki/Teslee" title="Teslee">Teslee</a> • <a href="/wiki/Mizzen" title="Mizzen">Mizzen</a> • <a href="/wiki/Coral" title="Coral">Coral</a> • <a href="/wiki/Hy" title="Hy">Hy</a> • <a href="/wiki/Sol" title="Sol">Sol</a> • <a href="/wiki/Otto" title="Otto">Otto</a> • <a href="/wiki/Ginnee" title="Ginnee">Ginnee</a> • <a href="/wiki/Treech" title="Treech">Treech</a> • <a href="/wiki/Lamina" title="Lamina">Lamina</a> • <a href="/wiki/Bobbin" title="Bobbin">Bobbin</a> • <a href="/wiki/Wovey" title="Wovey">Wovey</a> • <a href="/wiki/Panlo" title="Panlo">Panlo</a> • <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> • <a href="/wiki/Tanner" title="Tanner">Tanner</a> • <a href="/wiki/Brandy" title="Brandy">Brandy</a> • <strong class="mw-selflink selflink">Reaper</strong> • <a href="/wiki/Dill" title="Dill">Dill</a> • <a href="/wiki/Jessup_Diggs" title="Jessup Diggs">Jessup</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> • <a href="/wiki/Palmyra_Monty" title="Palmyra Monty">Palmyra Monty</a> • <a href="/wiki/Florus_Friend" title="Florus Friend">Florus Friend</a> • <a href="/wiki/Io_Jasper" title="Io Jasper">Io Jasper</a> • <a href="/wiki/Urban_Canville" title="Urban Canville">Urban Canville</a> • <a href="/wiki/Persephone_Price" title="Persephone Price">Persephone Price</a> • <a href="/wiki/Dennis_Fling" title="Dennis Fling">Dennis Fling</a> • <a href="/wiki/Iphigenia_Moss" title="Iphigenia Moss">Iphigenia Moss</a> • <a href="/wiki/Apollo_Ring" title="Apollo Ring">Apollo Ring</a> • <a href="/wiki/Diana_Ring" title="Diana Ring">Diana Ring</a> • <a href="/wiki/Vipsania_Sickle" title="Vipsania Sickle">Vipsania Sickle</a> • <a href="/wiki/Pliny_Harrington" title="Pliny Harrington">Pliny Harrington</a> • <a href="/wiki/Juno_Phipps" title="Juno Phipps">Juno Phipps</a> • <a href="/wiki/Hilarius_Heavensbee" title="Hilarius Heavensbee">Hilarius Heavensbee</a> • <a href="/wiki/Gaius_Breen" title="Gaius Breen">Gaius Breen</a> • <a href="/wiki/Androcles_Anderson" title="Androcles Anderson">Androcles Anderson</a> • <a href="/wiki/Domitia_Whimsiwick" title="Domitia Whimsiwick">Domitia Whimsiwick</a> • <a href="/wiki/Arachne_Crane" title="Arachne Crane">Arachne Crane</a> • <a href="/wiki/Felix_Ravinstill" title="Felix Ravinstill">Felix Ravinstill</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Academy" title="Academy">Academy</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/Peacekeeper" class="mw-redirect" title="Peacekeeper">Peacekeepers</a> • <a href="/wiki/University" title="University">University</a> • <a href="/wiki/Capitol_families" title="Capitol families">Capitol families</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<th style="background:#1b590c; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Santino_Fontana" title="Santino Fontana">Santino Fontana</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20251223000759
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.073 seconds
+Real time usage: 0.127 seconds
+Preprocessor visited node count: 389/1000000
+Post‐expand include size: 2546/2097152 bytes
+Template argument size: 125/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10680/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   53.352      1 -total
+ 38.31%   20.441      1 Template:Character
+ 20.65%   11.017      1 Template:Reflist
+  6.44%    3.437      1 Template:PrequelSeries
+  2.50%    1.335      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:539486-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251223000759 and revision id 964130. Rendering was triggered because: page-view
+ -->
+</div>

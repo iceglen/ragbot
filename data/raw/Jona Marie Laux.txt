@@ -1,0 +1,61 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Jona Marie Laux</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Jona_Marie_Laux.jpg/revision/latest?cb=20231105121651" class="image image-thumbnail" title="Jona Marie Laux">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Jona_Marie_Laux.jpg/revision/latest/scale-to-width-down/268?cb=20231105121651" srcset="https://static.wikia.nocookie.net/thehungergames/images/d/d7/Jona_Marie_Laux.jpg/revision/latest/scale-to-width-down/268?cb=20231105121651 1x, https://static.wikia.nocookie.net/thehungergames/images/d/d7/Jona_Marie_Laux.jpg/revision/latest?cb=20231105121651 2x" class="pi-image-thumbnail" data-relevant="1" alt="Jona Marie Laux" width="270" height="396" data-image-key="Jona_Marie_Laux.jpg" data-image-name="Jona Marie Laux.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Sheaf" title="Sheaf">Sheaf</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
+	
+		<h3 class="pi-data-label pi-secondary-font">Years active</h3>
+	
+	<div class="pi-data-value pi-font">2022-present</div>
+</div>
+</aside>
+
+</p><p><b>Jona Marie Laux</b> is a martial artist and stunt performer who portrayed <a href="/wiki/Sheaf" title="Sheaf">Sheaf</a> in <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20260103083808
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.014 seconds
+Real time usage: 0.021 seconds
+Preprocessor visited node count: 36/1000000
+Post‐expand include size: 51/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   16.359      1 Template:Actor
+100.00%   16.359      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542588-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103083808 and revision id 938356. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,509 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">75th Hunger Games</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b6/75th_Hunger_Games_Logo.png/revision/latest?cb=20250622223400" class="image image-thumbnail" title="75th Hunger Games Logo">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/b/b6/75th_Hunger_Games_Logo.png/revision/latest/scale-to-width-down/268?cb=20250622223400" srcset="https://static.wikia.nocookie.net/thehungergames/images/b/b6/75th_Hunger_Games_Logo.png/revision/latest/scale-to-width-down/268?cb=20250622223400 1x, https://static.wikia.nocookie.net/thehungergames/images/b/b6/75th_Hunger_Games_Logo.png/revision/latest/scale-to-width-down/536?cb=20250622223400 2x" class="pi-image-thumbnail" data-relevant="1" alt="75th Hunger Games Logo" width="270" height="297" data-image-key="75th_Hunger_Games_Logo.png" data-image-name="75th Hunger Games Logo.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="aka">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="special">
+	
+		<h3 class="pi-data-label pi-secondary-font">Special features</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor" title="Victor">Victors</a> competed again as <a href="/wiki/Tribute" title="Tribute">tributes</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor</h3>
+	
+	<div class="pi-data-value pi-font">None</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arena">
+	
+		<h3 class="pi-data-label pi-secondary-font">Arena</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">Clock arena</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gamemaker">
+	
+		<h3 class="pi-data-label pi-secondary-font">Head Gamemaker</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="duration">
+	
+		<h3 class="pi-data-label pi-secondary-font">Duration</h3>
+	
+	<div class="pi-data-value pi-font">3 days</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i><br /><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a><p><i>Quarter Quell: <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a></i></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/76th_Hunger_Games" title="76th Hunger Games">76th Hunger Games</a> (unofficial)</div>
+</div>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>On the 75th anniversary, as a reminder to the rebels that even the strongest among them cannot overcome the power of <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, the male and female tributes will be reaped from their existing pool of victors.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">President Snow</a> announcing the 75th Hunger Games<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p>The <b>75th Hunger Games</b>, also known as the <b>Third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a></b>, was the final Hunger Games ever held in <a href="/wiki/Panem" title="Panem">Panem</a>.&#160;As a Quarter Quell, it featured a special modification to the standard <a href="/wiki/Reaping" title="Reaping">reaping</a> rules. During the Quell's announcement, President <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a> read off a card stating that, to remind all the <a href="/wiki/District" class="mw-redirect" title="District">districts</a> that even the strongest among them could not overcome <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>, each district would reap their <a href="/wiki/Tribute" title="Tribute">tributes</a> from their existing pool of <a href="/wiki/Victor" title="Victor">victors</a>. For these Hunger Games, <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> replaced <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a> as Head <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a>. No <a href="/wiki/Victor" title="Victor">victor</a> was crowned because the Games were disrupted, leaving six tributes still alive.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tributes"><span class="tocnumber">1</span> <span class="toctext">Tributes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Arena"><span class="tocnumber">2</span> <span class="toctext">Arena</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Sectors"><span class="tocnumber">2.1</span> <span class="toctext">Sectors</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Arena_uniform"><span class="tocnumber">2.2</span> <span class="toctext">Arena uniform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Summary"><span class="tocnumber">3</span> <span class="toctext">Summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Pre-Games"><span class="tocnumber">3.1</span> <span class="toctext">Pre-Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Reaping"><span class="tocnumber">3.1.1</span> <span class="toctext">Reaping</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Tribute_Parade"><span class="tocnumber">3.1.2</span> <span class="toctext">Tribute Parade</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Training_scores"><span class="tocnumber">3.1.3</span> <span class="toctext">Training scores</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Interviews"><span class="tocnumber">3.1.4</span> <span class="toctext">Interviews</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#The_Games"><span class="tocnumber">3.2</span> <span class="toctext">The Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Day_1_-_July_11th"><span class="tocnumber">3.2.1</span> <span class="toctext">Day 1 - July 11th</span></a>
+<ul>
+<li class="toclevel-4 tocsection-13"><a href="#Cornucopia_bloodbath"><span class="tocnumber">3.2.1.1</span> <span class="toctext">Cornucopia bloodbath</span></a></li>
+<li class="toclevel-4 tocsection-14"><a href="#Fallen_Tributes:_8"><span class="tocnumber">3.2.1.2</span> <span class="toctext">Fallen Tributes: 8</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-15"><a href="#Day_2_-_July_12th"><span class="tocnumber">3.2.2</span> <span class="toctext">Day 2 - July 12th</span></a>
+<ul>
+<li class="toclevel-4 tocsection-16"><a href="#Fallen_Tributes:_8_2"><span class="tocnumber">3.2.2.1</span> <span class="toctext">Fallen Tributes: 8</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-17"><a href="#Day_3_-_July_13th"><span class="tocnumber">3.2.3</span> <span class="toctext">Day 3 - July 13th</span></a>
+<ul>
+<li class="toclevel-4 tocsection-18"><a href="#Fallen_Tributes:_2"><span class="tocnumber">3.2.3.1</span> <span class="toctext">Fallen Tributes: 2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-19"><a href="#Day_4_-_July_14th"><span class="tocnumber">3.2.4</span> <span class="toctext">Day 4 - July 14th</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Rebel_plan"><span class="tocnumber">3.3</span> <span class="toctext">Rebel plan</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Placing"><span class="tocnumber">4</span> <span class="toctext">Placing</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Aftermath"><span class="tocnumber">5</span> <span class="toctext">Aftermath</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Tributes">Tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/56/Ffimage.jpg/revision/latest?cb=20140215213842" class="mw-file-description image"><img alt="The tributes of the 75th Hunger Games." src="https://static.wikia.nocookie.net/thehungergames/images/5/56/Ffimage.jpg/revision/latest/scale-to-width-down/180?cb=20140215213842" decoding="async" loading="lazy" width="180" height="56" class="thumbimage" data-image-name="Ffimage.jpg" data-image-key="Ffimage.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ffimage.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The tributes of the 75th Hunger Games.</p> 		 	</figcaption> </figure>
+<p>This year, tributes were reaped from a pool of 59 victors. The <a href="/wiki/Career" class="mw-redirect" title="Career">Career</a> districts had the largest pools of victors, but each district had managed to secure at least one male and one female victor to meet this year's premise.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<table class="fandom-table">
+
+<tbody><tr>
+<td align="center" style="background: #d4af37;"><b>District</b>
+</td>
+<td align="center" style="background: #d4af37;"><b>Tribute</b>
+</td>
+<td align="center" style="background: #d4af37;"><b>Age</b>
+</td>
+<td align="center" style="background: #d4af37;"><b>Mentor</b>
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #808000;"><b>District 1</b>
+</td>
+<td><a href="/wiki/Gloss" title="Gloss">Gloss</a>
+</td>
+<td>27
+</td>
+<td rowspan="22" align="center" style="background: #000000;">Unnamed Victors
+</td></tr>
+<tr>
+<td><a href="/wiki/Cashmere" title="Cashmere">Cashmere</a>
+</td>
+<td>26
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #8b0000;"><b>District 2</b>
+</td>
+<td><a href="/wiki/Brutus" title="Brutus">Brutus</a>
+</td>
+<td>40-49
+</td></tr>
+<tr>
+<td><a href="/wiki/Enobaria" title="Enobaria">Enobaria</a>
+</td>
+<td>28-31
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #ff7f50;"><b>District 3</b>
+</td>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>
+</td>
+<td>55-59
+</td></tr>
+<tr>
+<td><a href="/wiki/Wiress" title="Wiress">Wiress</a>
+</td>
+<td>41-44
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #008080;"><b>District 4</b>
+</td>
+<td><a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a>
+</td>
+<td>24
+</td></tr>
+<tr>
+<td><a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a>
+</td>
+<td>80
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #663399;"><b>District 5</b>
+</td>
+<td><a href="/wiki/District_5_male_(75th_HG)" title="District 5 male (75th HG)">District 5 male (75th HG)</a>
+</td>
+<td>40-49
+</td></tr>
+<tr>
+<td><a href="/wiki/District_5_female_(75th_HG)" title="District 5 female (75th HG)">District 5 female (75th HG)</a>
+</td>
+<td>30-39
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #d2691e;"><b>District 6</b>
+</td>
+<td><a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">District 6 male (75th HG)</a>
+</td>
+<td>?
+</td></tr>
+<tr>
+<td><a href="/wiki/District_6_female_(75th_HG)" title="District 6 female (75th HG)">District 6 female (75th HG)</a>
+</td>
+<td>30-39
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #bc8f8f;"><b>District 7</b>
+</td>
+<td><a href="/wiki/Blight" title="Blight">Blight</a>
+</td>
+<td>?
+</td></tr>
+<tr>
+<td><a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a>
+</td>
+<td>21
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #a0522d;"><b>District 8</b>
+</td>
+<td><a href="/wiki/Woof" title="Woof">Woof</a>
+</td>
+<td>?
+</td></tr>
+<tr>
+<td><a href="/wiki/Cecelia" title="Cecelia">Cecelia</a>
+</td>
+<td>around 30
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #1d2e23;"><b>District 9</b>
+</td>
+<td><a href="/wiki/District_9_male_(75th_HG)" title="District 9 male (75th HG)">District 9 male (75th HG)</a>
+</td>
+<td>?
+</td></tr>
+<tr>
+<td><a href="/wiki/Sylva_Mayleaf" title="Sylva Mayleaf">Sylva Mayleaf</a>
+</td>
+<td>50-59
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #363131;"><b>District 10</b>
+</td>
+<td><a href="/wiki/District_10_male_(75th_HG)" title="District 10 male (75th HG)">District 10 male (75th HG)</a>
+</td>
+<td>?
+</td></tr>
+<tr>
+<td><a href="/wiki/District_10_female_(75th_HG)" title="District 10 female (75th HG)">District 10 female (75th HG)</a>
+</td>
+<td>?
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #2b2620;"><b>District 11</b>
+</td>
+<td><a href="/wiki/Chaff" title="Chaff">Chaff</a>
+</td>
+<td>45-48
+</td></tr>
+<tr>
+<td><a href="/wiki/Seeder" title="Seeder">Seeder</a>
+</td>
+<td>around 60
+</td></tr>
+<tr>
+<td rowspan="2" align="center" style="background: #000000;"><b>District 12</b>
+</td>
+<td><a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>
+</td>
+<td>17
+</td>
+<td rowspan="2" align="center"><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>
+</td>
+<td>17
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="border:4px double #ffe600; border-radius:1em;"><center><i>Main article: <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">75th Hunger Games arena</a></i></center></div>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/b/b2/Catching-Fire-Arena2.jpg/revision/latest?cb=20120330194527" class="mw-file-description image"><img alt="The Plan of the 75th Hunger Games Arena." src="https://static.wikia.nocookie.net/thehungergames/images/b/b2/Catching-Fire-Arena2.jpg/revision/latest/scale-to-width-down/180?cb=20120330194527" decoding="async" loading="lazy" width="180" height="101" class="thumbimage" data-image-name="Catching-Fire-Arena2.jpg" data-image-key="Catching-Fire-Arena2.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Catching-Fire-Arena2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Plan of the 75th Hunger Games Arena.</p> 		 	</figcaption> </figure>
+<p>The <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a> sat on an island in the center of a large, round pool of salt water, with twelve rocky spokes radiating out to the mainland. Encircling the water was a strip of beach, with the jungle sloping up behind it. The only fresh water was stored inside the trees, and the Cornucopia only provided weapons. There were a number of food sources in the arena though, including nuts, "tree rats," and shellfish.
+</p><p>The arena was a circle designed to mimic a clock, divided into 12 sectors. For every hour, some form of torture or hazard designed by the Gamemakers would be activated in a specific sector of the arena. Each of the 12 sectors was assigned to a specific hour of the day, with the hazards assigned to the sector activating twice in one day at its appointed hour.
+</p>
+<h3><span class="mw-headline" id="Sectors">Sectors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>12-1</b>: Bursts of lightning hit a single tree.</li>
+<li><b>1-2</b>: Blood rains from the sky.</li>
+<li><b>2-3</b>: Corrosive fog spreads through the jungle.</li>
+<li><b>3-4</b>: Orange <a href="/wiki/Monkey_mutt" title="Monkey mutt">monkey mutts</a> attack.</li>
+<li><b>4-5</b>: <a href="/wiki/Jabberjay" title="Jabberjay">Jabberjays</a> torture the tributes with their loved ones' screams.</li>
+<li><b>5-6</b>: Unknown hazard.</li>
+<li><b>6-7</b>: Unspecified <a href="/wiki/Muttation" title="Muttation">muttation</a>; Peeta called it the "Beast."</li>
+<li><b>7-8</b>: Unknown hazard.</li>
+<li><b>8-9</b>: Unknown hazard.</li>
+<li><b>9-10</b>: Unknown hazard.</li>
+<li><b>10-11</b>: A huge tidal wave drowns the whole sector.</li>
+<li><b>11-12</b>: From the sound of clicking, tributes speculated that it could be insect mutts with pinchers.</li></ul>
+<p>This cycle was repeated periodically to match the time, with each hour triggering a new event. Each event therefore occurred twice a day. The cycle began at midnight on the second day, and the Quarter Quell ended just after midnight on the third night, right as the fourth day would have begun.
+</p>
+<h3><span class="mw-headline" id="Arena_uniform"><a href="/wiki/Arena_wear#75th_Hunger_Games" title="Arena wear">Arena uniform</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 160px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/ac/Quarter_quell_katniss.jpg/revision/latest?cb=20140218191519" class="mw-file-description image"><img alt="Katniss wearing her arena uniform" src="https://static.wikia.nocookie.net/thehungergames/images/a/ac/Quarter_quell_katniss.jpg/revision/latest/scale-to-width-down/160?cb=20140218191519" decoding="async" loading="lazy" width="160" height="246" class="thumbimage" data-image-name="Quarter quell katniss.jpg" data-image-key="Quarter_quell_katniss.jpg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Quarter_quell_katniss.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss wearing her arena uniform</p> 		 	</figcaption> </figure>
+<p>The outfits in the book were fitted blue jumpsuits made of sheer, billowy material&#160;with zippers down the front. Each suit came with a six inch wide padded belt covered in plastic, which was filled with purple liquid and could be used as a flotation device. The shoes were nylon with rubber soles.<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In the film, every tribute wore the same outfit: a black wetsuit with white and gray accents and short white sleeves, though longer, removable black sleeves covered the rest of the arm. The use of black, white, and grey were supposed to represent a <a href="/wiki/Mockingjay_(bird)" title="Mockingjay (bird)">mockingjay</a>. The outfit didn't come with a padded belt, and they wore black boots.<sup id="cite_ref-:2_3-0" class="reference"><a href="#cite_note-:2-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pre-Games">Pre-Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Reaping"><a href="/wiki/Reaping" title="Reaping">Reaping</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Brutus" title="Brutus">Brutus</a> and <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> <a href="/wiki/Volunteer" title="Volunteer">volunteered</a> to compete. In District 4, <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> and <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> were reaped as tributes, although <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> volunteered in Annie's stead.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>  Based on comments made by <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>, there's a possibility that <a href="/wiki/Chaff" title="Chaff">Chaff</a> volunteered as District 11's male tribute.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>For District 12, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> were reaped as tributes, although <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> volunteered in Haymitch's stead, despite some protest from Haymitch.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Tribute_Parade"><a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Cinna" title="Cinna">Cinna</a>'s fire motif from the year previous inspired copycats in other districts. District 3's tributes were given <a href="/wiki/Chariot_costumes" title="Chariot costumes">outfits</a> studded with electrical lights, and the pair from 10 were dressed as cows with flaming belts. Notably, Finnick Odair was draped in a golden net that was "strategically knotted at his groin", while Johanna Mason wore a zippered tree costume with forest green slippers and a headdress of leafy branches.<sup id="cite_ref-:3_5-0" class="reference"><a href="#cite_note-:3-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Finally, from District 12, Katniss and Peeta both wore fitted black jumpsuits that covered them from the neck down, and they each wore a half-crown of heavy black metal. The suits had a button just inside the fabric around their wrists; when pressed, this gave the appearance of smoldering embers.<sup id="cite_ref-:3_5-1" class="reference"><a href="#cite_note-:3-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Training_scores"><a href="/wiki/Training_score" title="Training score">Training scores</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Because Katniss fired an arrow at an apple in a roast pig's mouth in her private session the previous year, a <a href="/wiki/Force_field" title="Force field">force field</a> was put in place between the Gamemakers and the tributes for the duration of training.<sup id="cite_ref-:4_6-0" class="reference"><a href="#cite_note-:4-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> This year, for her private session, Katniss hanged a practice dummy and painted Seneca Crane's name across its body.<sup id="cite_ref-:4_6-1" class="reference"><a href="#cite_note-:4-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> In his own session, Peeta used the <a href="/wiki/Camouflage" title="Camouflage">camouflage</a> station to paint a portrait of <a href="/wiki/Rue" title="Rue">Rue</a>, Katniss's young <a href="/wiki/Ally" class="mw-redirect" title="Ally">ally</a> who had been killed last year.<sup id="cite_ref-:5_7-0" class="reference"><a href="#cite_note-:5-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>
+"Predictably high" scores were given to tributes from Career districts— Gloss, Cashmere, Brutus, Enobaria, and Finnick— while "low to medium" scores were given to the rest. For the first time in Hunger Games history, Peeta and Katniss were both given scores of 12, making them instant targets as retaliation for their respective stunts.<sup id="cite_ref-:5_7-1" class="reference"><a href="#cite_note-:5-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></p><figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/ee/Catchingfire_06714.jpg/revision/latest?cb=20140519192528" class="mw-file-description image"><img alt="The victors holding hands at the end of interviews." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="75" class="thumbimage lazyload" data-image-name="Catchingfire 06714.jpg" data-image-key="Catchingfire_06714.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/ee/Catchingfire_06714.jpg/revision/latest/scale-to-width-down/180?cb=20140519192528" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/e/ee/Catchingfire_06714.jpg/revision/latest?cb=20140519192528" class="mw-file-description image"><img alt="The victors holding hands at the end of interviews." src="https://static.wikia.nocookie.net/thehungergames/images/e/ee/Catchingfire_06714.jpg/revision/latest/scale-to-width-down/180?cb=20140519192528" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="Catchingfire 06714.jpg" data-image-key="Catchingfire_06714.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/ee/Catchingfire_06714.jpg/revision/latest/scale-to-width-down/180?cb=20140519192528" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Catchingfire_06714.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The victors holding hands at the end of interviews.</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Interviews"><a href="/wiki/Interviews" title="Interviews">Interviews</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Throughout their interviews, the assembled victors made a concentrated but ultimately futile effort to have the Quarter Quell cancelled. Cashmere and Gloss appealed to the audience's sympathies; Beetee questioned the legality of the Quell; Finnick recited a poem to his "one true love"; Johanna emphasized the bonds the Capitol has formed with victors; and Seeder and Chaff suggested that President Snow could use his power to change the rules.<sup id="cite_ref-:5_7-2" class="reference"><a href="#cite_note-:5-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Katniss was made to wear a wedding dress that was voted on by the Capitol audience: heavy white silk with a low neckline and tight waist, with sleeves that draped down to the floor. Pearls were stitched into the dress, in ropes around her throat, and forming the crown for the veil. At the end of her interview, she spun around as she had the year before, and the dress burned away to reveal the same design in black, made of tiny feathers, with white patches on the sleeves: a mockingjay.<sup id="cite_ref-:5_7-3" class="reference"><a href="#cite_note-:5-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In the last interview, Peeta falsely confessed that he and Katniss had already married secretly, and he claimed that she was pregnant, garnering the biggest audience reaction of the night. The <a href="/wiki/Horn_of_Plenty" title="Horn of Plenty">anthem</a> started to play to drown out the citizens' outrage, and with this chaotic backdrop, all twenty-four tributes stood together and held hands in a show of unity before the cameras were finally cut.<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<hr />
+<h3><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Day_1_-_July_11th">Day 1 - July 11th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span class="mw-headline" id="Cornucopia_bloodbath"><a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h5>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/70/The_hunger_games_catching_fire-still_2.jpg/revision/latest?cb=20131127063323" class="mw-file-description image"><img alt="Katniss entering the arena" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="97" class="thumbimage lazyload" data-image-name="The hunger games catching fire-still 2.jpg" data-image-key="The_hunger_games_catching_fire-still_2.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/70/The_hunger_games_catching_fire-still_2.jpg/revision/latest/scale-to-width-down/180?cb=20131127063323" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/7/70/The_hunger_games_catching_fire-still_2.jpg/revision/latest?cb=20131127063323" class="mw-file-description image"><img alt="Katniss entering the arena" src="https://static.wikia.nocookie.net/thehungergames/images/7/70/The_hunger_games_catching_fire-still_2.jpg/revision/latest/scale-to-width-down/180?cb=20131127063323" decoding="async" loading="lazy" width="180" height="97" class="thumbimage" data-image-name="The hunger games catching fire-still 2.jpg" data-image-key="The_hunger_games_catching_fire-still_2.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/7/70/The_hunger_games_catching_fire-still_2.jpg/revision/latest/scale-to-width-down/180?cb=20131127063323" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:The_hunger_games_catching_fire-still_2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss entering the arena</p> 		 	</figcaption> </figure>
+<p>Katniss is the first tribute to reach the Cornucopia, and she seizes a bow and arrows when she turns to aim at the next arrival, Finnick. He shows her that Haymitch has given him a golden bangle to wear, so she reluctantly goes along with him as an ally. Finnick spears the District 5 male with his trident and warns Katniss not to trust Districts 1 and 2. Enobaria and Gloss reach land, but Enobaria anticipates the arrow Katniss fires and dives into the water to avoid it. Gloss, meanwhile, gets an arrow to the calf and stumbles back into the water as well.<sup id="cite_ref-:6_8-0" class="reference"><a href="#cite_note-:6-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Next, Brutus approaches with his belt stretched out in front of him as a shield. One of Katniss's arrows lodges into the belt, and before she can let loose another, he drops to the ground and rolls into the water. Then Katniss and Finnick take off along a spoke, and he swims to retrieve Peeta while Katniss covers him with her bow. At this time, she sees that the Careers have regrouped at the Cornucopia, and Mags starts paddling over to Katniss. Once the tributes from District 4 and District 12 are united, they seek refuge in the jungle.<sup id="cite_ref-:6_8-1" class="reference"><a href="#cite_note-:6-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Meanwhile, Beetee uses his belt as a floatation device to get to the Cornucopia.<sup id="cite_ref-:6_8-2" class="reference"><a href="#cite_note-:6-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> Once he gets there, he gets a shallow, six-inch-long cut across his back grabbing a coil of wire from the Cornucopia,<sup id="cite_ref-:7_9-0" class="reference"><a href="#cite_note-:7-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> but he's ultimately able to get away alongside Wiress and the two tributes from District 7, Johanna Mason and Blight.<sup id="cite_ref-:8_10-0" class="reference"><a href="#cite_note-:8-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> At some point amidst all of this, the District 6 male, Woof, Cecelia,&#160;both from 9, the District 10 female, and Seeder are killed.<sup id="cite_ref-:9_11-0" class="reference"><a href="#cite_note-:9-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>As Peeta cuts his way through the foliage, he accidentally strikes the force field surrounding the arena, stopping his heart.<sup id="cite_ref-:6_8-3" class="reference"><a href="#cite_note-:6-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> Fortunately, Finnick performs chest compressions and mouth-to-mouth, saving his life. Haymitch sends them a <a href="/wiki/Sponsor_gift" class="mw-redirect" title="Sponsor gift">sponsor gift</a> they initially don't know what to make of, but Katniss eventually realizes it's a spile, and they use it to tap the trees for fresh water. Later that night. Katniss hears twelve gongs, which signal the beginning of the hourly horrors.<sup id="cite_ref-:9_11-1" class="reference"><a href="#cite_note-:9-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h5><span class="mw-headline" id="Fallen_Tributes:_8">Fallen Tributes: 8</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/District_5_male_(75th_HG)" title="District 5 male (75th HG)">District 5 male</a></li>
+<li><a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">District 6 male</a></li>
+<li><a href="/wiki/Woof" title="Woof">Woof</a></li>
+<li><a href="/wiki/Cecelia" title="Cecelia">Cecelia</a></li>
+<li><a href="/wiki/District_9_male_(75th_HG)" title="District 9 male (75th HG)">District 9 male</a></li>
+<li><a href="/wiki/District_9_female_(75th_HG)" class="mw-redirect" title="District 9 female (75th HG)">District 9 female</a></li>
+<li><a href="/wiki/District_10_female_(75th_HG)" title="District 10 female (75th HG)">District 10 female</a></li>
+<li><a href="/wiki/Seeder" title="Seeder">Seeder</a></li></ul>
+<hr />
+<h4><span class="mw-headline" id="Day_2_-_July_12th">Day 2 - July 12th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Following a lightning storm and rain which doesn't seem to move closer to the alliance, they hear a cannon. Shortly afterwards, Katniss notices the unnatural uniformity of an approaching fog and wakes the others as her skin starts to blister.<sup id="cite_ref-:9_11-2" class="reference"><a href="#cite_note-:9-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>While fleeing through the jungle, Katniss and the others find their motor controls failing. In order for Finnick to save Peeta, Mags sacrifices herself by walking into the fog. Katniss, Peeta, and Finnick collapse in the jungle and notice monkeys lining the trees. They crawl to the lake to purge themselves of the fog poison. Then Peeta tries to tap a tree and they notice the monkeys again, at which point they are attacked. When Katniss runs out of arrows she beckons to Peeta for more, momentarily distracting him. However, when a monkey attacks him, the District 6 female appears from behind the foliage and sacrifices herself to save Peeta.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup> She dies on the beach as Peeta comforts her.<sup id="cite_ref-:8_10-1" class="reference"><a href="#cite_note-:8-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Katniss and the alliance rest while Finnick remains on watch, grieving for Mags. In the morning, they receive a sponsor gift of skin ointment. Finnick and Katniss scare Peeta awake and receive another gift of bread from District 4. The 10 o'clock wave occurs and they hear a cannon<sup id="cite_ref-:8_10-2" class="reference"><a href="#cite_note-:8-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> along with the District 5 female's scream.<sup id="cite_ref-:2_3-1" class="reference"><a href="#cite_note-:2-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> Sometime later, Johanna, Wiress and Beetee join the alliance and fill them in on what happened to Blight. The cannon they heard before the fog signaled his death; blinded by blood rain, he ran straight into the force field, killing him instantly. Katniss and Peeta tend to Beetee's injuries and Wiress keeps mumbling "Tick tock". Shortly before 2pm, this leads Katniss to the revelation that the arena is set up like a giant clock.<sup id="cite_ref-:8_10-3" class="reference"><a href="#cite_note-:8-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The alliance heads to the Cornucopia to verify their theory and resupply. Over a span of just a few minutes, Wiress is killed by Gloss, Katniss shoots Gloss, Johanna kills Cashmere, and the Cornucopia starts to spin. This disorients the alliance and removes their strategic advantage: the certainty of which sector corresponds to which hour.<sup id="cite_ref-:7_9-1" class="reference"><a href="#cite_note-:7-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Finnick and Katniss then become trapped in the jabberjay section, where they're forced to listen to artificial sounds of their loved ones being tortured. Between 6 and 7pm, another cannon sounds and the District 10 male is collected in pieces by hovercraft, killed by an unknown mutt. The alliance settles down for the night again, and Peeta attempts to persuade Katniss not to sacrifice her life for his.<sup id="cite_ref-:10_13-0" class="reference"><a href="#cite_note-:10-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h5><span class="mw-headline" id="Fallen_Tributes:_8_2">Fallen Tributes: 8</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/Gloss" title="Gloss">Gloss</a></li>
+<li><a href="/wiki/Cashmere" title="Cashmere">Cashmere</a></li>
+<li><a href="/wiki/Wiress" title="Wiress">Wiress</a></li>
+<li><a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a></li>
+<li><a href="/wiki/District_5_female_(75th_HG)" title="District 5 female (75th HG)">District 5 female</a></li>
+<li><a href="/wiki/District_6_female_(75th_HG)" title="District 6 female (75th HG)">District 6 female</a></li>
+<li><a href="/wiki/Blight" title="Blight">Blight</a></li>
+<li><a href="/wiki/District_10_male_(75th_HG)" title="District 10 male (75th HG)">District 10 male</a></li></ul>
+<hr />
+<h4><span class="mw-headline" id="Day_3_-_July_13th">Day 3 - July 13th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The next day, Beetee comes up with a plan to kill off the remaining Careers. The plan, as he tells it, is to take the coil of wire down to the beach, flee into the jungle in another sector, and leave Brutus and Enobaria to be electrocuted on the wet sand.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Katniss and the others make it to the tree in ample time, and Beetee has Katniss and Johanna take the wire and take it to the beach as quickly as possible. On their way down, the wire snaps. Johanna knocks Katniss over the head with the coil of wire and cuts her arm, telling her to stay down. Once Katniss gathers her strength, she leaves to look for Peeta, and Finnick calls out looking for Katniss and Johanna. A cannon fires,<sup id="cite_ref-:11_15-0" class="reference"><a href="#cite_note-:11-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> signaling that Brutus has killed Chaff.<sup id="cite_ref-:12_16-0" class="reference"><a href="#cite_note-:12-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/36/Force_field_destruction.png/revision/latest?cb=20131207055925" class="mw-file-description image"><img alt="The destruction of the force field." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="79" class="thumbimage lazyload" data-image-name="Force field destruction.png" data-image-key="Force_field_destruction.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/36/Force_field_destruction.png/revision/latest/scale-to-width-down/180?cb=20131207055925" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/3/36/Force_field_destruction.png/revision/latest?cb=20131207055925" class="mw-file-description image"><img alt="The destruction of the force field." src="https://static.wikia.nocookie.net/thehungergames/images/3/36/Force_field_destruction.png/revision/latest/scale-to-width-down/180?cb=20131207055925" decoding="async" loading="lazy" width="180" height="79" class="thumbimage" data-image-name="Force field destruction.png" data-image-key="Force_field_destruction.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/3/36/Force_field_destruction.png/revision/latest/scale-to-width-down/180?cb=20131207055925" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Force_field_destruction.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The destruction of the force field.</p> 		 	</figcaption> </figure>
+<p>After coming upon the wire again, Katniss follows it back to the lightning tree; there she comes upon an injured Beetee, who has attempted to drive a knife into the force field. Katniss begins calling out to Peeta to draw the other tributes to her. Finnick and Enobaria reach the tree at the same time, and Katniss, hidden up on the slope above them, aims to kill Enobaria when a second cannon fires:<sup id="cite_ref-:11_15-1" class="reference"><a href="#cite_note-:11-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> in the jungle, Peeta has killed Brutus,<sup id="cite_ref-:12_16-1" class="reference"><a href="#cite_note-:12-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup> and now he calls out for Katniss. She recalls something Haymitch told her— "You just remember who the real enemy is"— and wraps the wire around her arrow. When the lightning strikes, she shoots the force field, blowing it out.<sup id="cite_ref-:11_15-2" class="reference"><a href="#cite_note-:11-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h5><span class="mw-headline" id="Fallen_Tributes:_2">Fallen Tributes: 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D18&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/Brutus" title="Brutus">Brutus</a></li>
+<li>&#160;<a href="/wiki/Chaff" title="Chaff">Chaff</a></li></ul>
+<h4><span class="mw-headline" id="Day_4_-_July_14th">Day 4 - July 14th</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D19&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Following the destruction of the force field, Katniss, Finnick, and Beetee are recovered by <a href="/wiki/District_13" title="District 13">District 13</a> rebels and evacuated back to the district shortly after midnight. Meanwhile, Johanna, Peeta, and Enobaria, having been left behind in the arena, were taken into custody by the Capitol as hostages.<sup id="cite_ref-:13_17-0" class="reference"><a href="#cite_note-:13-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> With the abrupt disruption of the 75th Hunger Games and subsequent onset of the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, the Quell effectively ended with no declared victor. 
+</p>
+<hr />
+<h3><span class="mw-headline" id="Rebel_plan">Rebel plan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D20&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In this year's Games, the tributes from Districts 3, 4, 6, 7, 8&#160;and 11 had varying degrees of knowledge about a plan to break the tributes out of the arena. They were also willing to give up their lives in order to keep Katniss alive, because her status as a symbol of rebellion was vital to the movement. Plutarch Heavensbee had ensured that the coil of wire would be at the Cornucopia, and Beetee was supposed to blow the force field. Sponsor gifts of bread were used to convey to rebel tributes the day and hour to carry out the mission: twenty-four rolls from District 3,<sup id="cite_ref-:10_13-1" class="reference"><a href="#cite_note-:10-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> indicating midnight at the end of the third day.<sup id="cite_ref-:13_17-1" class="reference"><a href="#cite_note-:13-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Seemingly, Johanna's role was to protect Beetee,<sup id="cite_ref-:8_10-4" class="reference"><a href="#cite_note-:8-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> up until the final stage where Katniss became her responsibility.<sup id="cite_ref-:11_15-3" class="reference"><a href="#cite_note-:11-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> She cut Katniss's <a href="/wiki/Tracker" title="Tracker">tracker</a> out of her arm and led Brutus and Enobaria away, ensuring that the rebels could extract Katniss by hovercraft without being followed or shot down by Capitol forces.<sup id="cite_ref-:13_17-2" class="reference"><a href="#cite_note-:13-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Finnick's role seemed to be to protect Katniss and Peeta throughout the Games, but his role in the final stage is unclear. Based on the fact that Finnick left the lightning tree to look for Katniss and Johanna,<sup id="cite_ref-:11_15-4" class="reference"><a href="#cite_note-:11-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> the wire being cut was probably the work of the Careers rather than a part of the rebel plan, and Peeta may not have been his primary responsibility.
+</p><p>Chaff's involvement is nearly certain because he was able to meet up with Peeta in the lightning sector, suggesting that he may have known something about the plan. However, his role in it is entirely unknown, as he was killed by Brutus.<sup id="cite_ref-:12_16-2" class="reference"><a href="#cite_note-:12-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Placing">Placing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D21&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Final 6</b> - no victor
+<ul><li>Captured by the Capitol - <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a>, <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a>, <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a></li>
+<li>Rescued by District 13 - <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>, <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a></li></ul></li>
+<li><b>7th</b>&#160;(Day 3) - <a href="/wiki/Brutus" title="Brutus">Brutus</a> - Killed by Peeta [shortly before 12am]</li>
+<li><b>8th</b> (Day 3) - <a href="/wiki/Chaff" title="Chaff">Chaff</a> - Killed by Brutus [before 12am]</li>
+<li><b>9th</b> (Day 2) - <a href="/wiki/District_10_male_(75th_HG)" title="District 10 male (75th HG)">District 10 male</a> - Ripped apart by an unidentified mutt [6-7pm]</li>
+<li><b>10th</b> (Day 2) - <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> - Killed by Johanna with an axe to the chest [3-4pm]</li>
+<li><b>11th</b> (Day 2) - <a href="/wiki/Gloss" title="Gloss">Gloss</a> - Shot in the throat by Katniss [3-4pm]</li>
+<li><b>12th</b> (Day 2) - <a href="/wiki/Wiress" title="Wiress">Wiress</a> - Throat slit by Gloss [3-4pm]</li>
+<li><b>13th</b> (Day 2) - <a href="/wiki/District_5_female_(75th_HG)" title="District 5 female (75th HG)">District 5 female</a> - Killed by tidal wave [10am]</li>
+<li><b>14th</b> (Day 2) - <a href="/wiki/District_6_female_(75th_HG)" title="District 6 female (75th HG)">District 6 female</a> - Bitten in the chest by a monkey mutt, died on the beach [3-4am]</li>
+<li><b>15th</b> (Day 2) - <a href="/wiki/Mags" class="mw-redirect" title="Mags">Mags</a> - Killed by poisonous fog [2-3am]</li>
+<li><b>16th</b> (Day 2) - <a href="/wiki/Blight" title="Blight">Blight</a> - Blinded by the blood rain and ran into the force field [1-2am]</li>
+<li><b>17th-23rd</b> (Day 1) - Killed in the Cornucopia bloodbath
+<ul><li><a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">District 6 male</a>, <a href="/wiki/Woof" title="Woof">Woof</a>, <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a>, <a href="/wiki/District_9_male_(75th_HG)" title="District 9 male (75th HG)">District 9 male</a>, <a href="/wiki/District_9_female_(75th_HG)" class="mw-redirect" title="District 9 female (75th HG)">District 9 female</a>, <a href="/wiki/District_10_female_(75th_HG)" title="District 10 female (75th HG)">District 10 female</a>, and <a href="/wiki/Seeder" title="Seeder">Seeder</a></li></ul></li>
+<li><b>24th</b> (Day 1):&#160;<a href="/wiki/District_5_male_(75th_HG)" title="District 5 male (75th HG)">District 5 male</a>&#160;- Impaled by Finnick's trident</li></ul>
+<h2><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D22&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fifteen minutes after the force field was blown, the Capitol carried out the <a href="/wiki/Bombing_of_District_12" class="mw-redirect" title="Bombing of District 12">bombing of District 12</a>,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup> and the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a> broke out. The Hunger Games themselves were rendered defunct as the civil war progressed through the remainder of the year. By winter of 75 ADD, the rebels had liberated all of the districts and subseqeuntly overthrew of the Snow regime. Following this, the Hunger Games were officially abolished by the new democratic administration headed by President <a href="/wiki/Commander_Paylor" title="Commander Paylor">Paylor</a>.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D23&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The prequel novel, <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, confirmed that the reaping was held annually on July 4th.<sup id="cite_ref-Ballad_1_19-0" class="reference"><a href="#cite_note-Ballad_1-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> Katniss's description of pre-Games events spanned seven days (July 4th-10th), and the Games lasted for three days after that (July 11th-14th).
+<ul><li>This was the shortest (second shortest per the films) known Hunger Games, lasting 3 whole days when the Quell was abruptly ended just after midnight on Day 4 (July 14th).</li>
+<li>Katniss, Beetee, and Finnick were rescued after midnight on July 14th. This coincides with the anniversary of the <a href="https://en.wikipedia.org/wiki/Storming_of_the_Bastille" class="extiw" title="wikipedia:Storming of the Bastille">Storming of the Bastille</a>, when French insurgents freed inmates at a political prison.</li></ul></li>
+<li>This is the only Hunger Games where the age restriction (12-18) was ignored. At 17 years old, Katniss and Peeta were the only tributes under the age of 18 this year and were the only two victors still of reaping age.
+<ul><li>The next youngest tributes were Johanna and Finnick, who were 21 and 24, respectively.</li>
+<li>The oldest tribute in the arena was Mags at 80, with the next known oldest tribute being Woof, who was in his seventies.</li></ul></li>
+<li>The Rebel alliance had the second largest non-Career alliance and third largest overall known in Hunger Games history, consisting of fourteen members.
+<ul><li>The <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a> had the largest non-Career alliance and largest overall ever in <a href="/wiki/The_Newcomers" title="The Newcomers">the Newcomers</a>, several of whom were also rebels, consisting of 32 tributes.</li></ul></li>
+<li>Katniss and Johanna were both the only living female victors from their districts, leaving their participation in the Quell a certainty.<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>In the Third Quarter Quell, 18 out of 24 tributes (75%) were dead within three days. Most casualties were caused by other tributes, with only five being caused by the clock arena's mutts and traps.
+<ul><li>In the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">Second Quarter Quell</a>, 18 out of 48 died in the bloodbath alone, but it took four days to meet the same percentage because the number of tributes overall had been doubled from the usual 24. Nearly half the casualties were caused by Gamemaker traps.<sup id="cite_ref-:0_1-4" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li></ul></li>
+<li>In the 50th Hunger Games, the only sources of safe <a href="/wiki/Food_and_drink" title="Food and drink">food and drink</a> in the arena were the Cornucopia and rainwater. In the 75th Hunger Games, this was reversed: the Cornucopia only provided weapons, so food and water had to be acquired from the arena itself or through sponsors.</li>
+<li>Both the 50th and the 75th Hunger Games involved a plot by the <a href="/wiki/Rebels" title="Rebels">rebels</a> to destroy the arena and disrupt the Games.
+<ul><li>Both Games and plots involved <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a>, <a href="/wiki/Wiress" title="Wiress">Wiress</a>, <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> and <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a></li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F75th_Hunger_Games%3Fveaction%3Dedit%26section%3D24&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup> <sup><a href="#cite_ref-:0_1-3">1.3</a></sup> <sup><a href="#cite_ref-:0_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-:1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_2-0">2.0</a></sup> <sup><a href="#cite_ref-:1_2-1">2.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-:2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_3-0">3.0</a></sup> <sup><a href="#cite_ref-:2_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 13</span>
+</li>
+<li id="cite_note-:3-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_5-0">5.0</a></sup> <sup><a href="#cite_ref-:3_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-:4-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:4_6-0">6.0</a></sup> <sup><a href="#cite_ref-:4_6-1">6.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-:5-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:5_7-0">7.0</a></sup> <sup><a href="#cite_ref-:5_7-1">7.1</a></sup> <sup><a href="#cite_ref-:5_7-2">7.2</a></sup> <sup><a href="#cite_ref-:5_7-3">7.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-:6-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:6_8-0">8.0</a></sup> <sup><a href="#cite_ref-:6_8-1">8.1</a></sup> <sup><a href="#cite_ref-:6_8-2">8.2</a></sup> <sup><a href="#cite_ref-:6_8-3">8.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-:7-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:7_9-0">9.0</a></sup> <sup><a href="#cite_ref-:7_9-1">9.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-:8-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:8_10-0">10.0</a></sup> <sup><a href="#cite_ref-:8_10-1">10.1</a></sup> <sup><a href="#cite_ref-:8_10-2">10.2</a></sup> <sup><a href="#cite_ref-:8_10-3">10.3</a></sup> <sup><a href="#cite_ref-:8_10-4">10.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-:9-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:9_11-0">11.0</a></sup> <sup><a href="#cite_ref-:9_11-1">11.1</a></sup> <sup><a href="#cite_ref-:9_11-2">11.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-:10-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:10_13-0">13.0</a></sup> <sup><a href="#cite_ref-:10_13-1">13.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-:11-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:11_15-0">15.0</a></sup> <sup><a href="#cite_ref-:11_15-1">15.1</a></sup> <sup><a href="#cite_ref-:11_15-2">15.2</a></sup> <sup><a href="#cite_ref-:11_15-3">15.3</a></sup> <sup><a href="#cite_ref-:11_15-4">15.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-:12-16"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:12_16-0">16.0</a></sup> <sup><a href="#cite_ref-:12_16-1">16.1</a></sup> <sup><a href="#cite_ref-:12_16-2">16.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-:13-17"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:13_17-0">17.0</a></sup> <sup><a href="#cite_ref-:13_17-1">17.1</a></sup> <sup><a href="#cite_ref-:13_17-2">17.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-Ballad_1-19"><span class="mw-cite-backlink"><a href="#cite_ref-Ballad_1_19-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 1</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260103104728
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.164 seconds
+Real time usage: 0.334 seconds
+Preprocessor visited node count: 781/1000000
+Post‐expand include size: 1000/2097152 bytes
+Template argument size: 392/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12980/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  214.709      1 -total
+ 36.93%   79.301      1 Template:Reflist
+ 34.68%   74.471      1 Template:Quell
+  1.65%    3.544      1 Template:Main
+  0.69%    1.491      1 Template:Quote
+  0.59%    1.275      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2207-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103104728 and revision id 967767. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,229 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Fulvia Cardew</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Assistant to <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a><p><a href="/wiki/The_Rebels" class="mw-redirect" title="The Rebels">Rebel</a></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a><br><a href="/wiki/District_13" title="District 13">District 13</a> (briefly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Propos" class="mw-redirect" title="Propos">Propaganda</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>So well intended, and yet so insulting.</i>"</span></dd>
+<dd>—<a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> referring to Fulvia<sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div>
+<p><b>Fulvia Cardew</b>, originally a <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> citizen, is <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>'s assistant. She works for the <a href="/wiki/Squad_451" title="Squad 451">rebels</a> alongside him in <a href="/wiki/District_13" title="District 13">District 13</a>, and is always by his side.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="51577" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role does Fulvia Cardew play in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games series, Fulvia Cardew is an assistant to Plutarch Heavensbee. Originally a citizen of the Capitol, she works with the rebels in District 13, using propaganda as her weapon. She may have familial ties to Livia Cardew.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51578" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Fulvia Cardew's original idea for Katniss in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Fulvia Cardew proposed filming 'propos' on a stage with a script for Katniss. This strategy failed as Katniss' authenticity was lost when she was made to perform for cameras.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51579" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why was Fulvia Cardew's action of throwing out a piece of paper considered a crime in District 13?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the strict society of District 13, Fulvia Cardew's disposal of a paper with minimal text was seen as a criminal act. Additionally, Fulvia Cardew played a role in the unsuccessful attempt to create scripted propos for Katniss, who struggled to convincingly perform on demand.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51580" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who is Fulvia Cardew's main associate in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games, Fulvia Cardew is closely associated with Plutarch Heavensbee, serving as his assistant. They work together for the rebels in District 13, with Fulvia consistently at Plutarch's side.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="51581" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is Fulvia Cardew's background before joining the rebels in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Before joining the rebels in the Hunger Games, Fulvia Cardew was a citizen of the Capitol and served as Plutarch Heavensbee's assistant. She had a rich upbringing, which made it challenging for her to integrate with District 13 citizens. Known for her calculating nature, Fulvia often came across as rude, particularly towards Katniss. Her identity was further marked by silver flower tattoos on her cheeks.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Fulvia Cardew","mainEntity":[{"@type":"Question","name":"What role does Fulvia Cardew play in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games series, Fulvia Cardew is an assistant to Plutarch Heavensbee. Originally a citizen of the Capitol, she works with the rebels in District 13, using propaganda as her weapon. She may have familial ties to Livia Cardew."}},{"@type":"Question","name":"What was Fulvia Cardew's original idea for Katniss in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Fulvia Cardew proposed filming 'propos' on a stage with a script for Katniss. This strategy failed as Katniss' authenticity was lost when she was made to perform for cameras."}},{"@type":"Question","name":"Why was Fulvia Cardew's action of throwing out a piece of paper considered a crime in District 13?","acceptedAnswer":{"@type":"Answer","text":"In the strict society of District 13, Fulvia Cardew's disposal of a paper with minimal text was seen as a criminal act. Additionally, Fulvia Cardew played a role in the unsuccessful attempt to create scripted propos for Katniss, who struggled to convincingly perform on demand."}},{"@type":"Question","name":"Who is Fulvia Cardew's main associate in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games, Fulvia Cardew is closely associated with Plutarch Heavensbee, serving as his assistant. They work together for the rebels in District 13, with Fulvia consistently at Plutarch's side."}},{"@type":"Question","name":"What is Fulvia Cardew's background before joining the rebels in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Before joining the rebels in the Hunger Games, Fulvia Cardew was a citizen of the Capitol and served as Plutarch Heavensbee's assistant. She had a rich upbringing, which made it challenging for her to integrate with District 13 citizens. Known for her calculating nature, Fulvia often came across as rude, particularly towards Katniss. Her identity was further marked by silver flower tattoos on her cheeks."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFulvia_Cardew%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fulvia threw out a piece of paper with only a few words on it, which was treated as a crime in <a href="/wiki/District_13" title="District 13">District 13</a>.<sup id="cite_ref-MJ_2_1-0" class="reference"><a href="#cite_note-MJ_2-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>It was originally her idea to film <a href="/wiki/Propo" title="Propo">propos</a> on a stage with a script for Katniss to read; however, it was unsuccessful because Katniss' persona didn't translate well unless she was being authentic, not performing for cameras on command.<sup id="cite_ref-MJ_5_2-0" class="reference"><a href="#cite_note-MJ_5-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Fulvia's pride is wounded when <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> comes up with a better plan to put her out where the real action is and film her when she is being herself, under the direction of <a href="/wiki/Cressida" title="Cressida">Cressida</a> and her team.<sup id="cite_ref-MJ_6_3-0" class="reference"><a href="#cite_note-MJ_6-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>Later, Fulvia redeems herself by coming up with the idea of doing a montage of propos dedicated to the fallen <a href="/wiki/Tribute" title="Tribute">tributes</a> of the <a href="/wiki/Districts" class="mw-redirect" title="Districts">districts</a>, such as <a href="/wiki/Rue" title="Rue">Rue</a> or <a href="/wiki/Mags" class="mw-redirect" title="Mags">Mags</a>, an idea which is then supported by Cressida. They would contain commentary from <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> with the theme being "We Remember," read out by <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a>. This would then appeal to the people of the districts on a closer level since many of them would have had personal feelings towards their own tributes.<sup id="cite_ref-MJ_8_4-0" class="reference"><a href="#cite_note-MJ_8-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>Fulvia is one of the few named rebels that survived the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFulvia_Cardew%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fulvia has silver flowers tattooed onto her plump cheeks.<sup id="cite_ref-MJ_2_1-1" class="reference"><a href="#cite_note-MJ_2-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFulvia_Cardew%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fulvia is calculating,<sup id="cite_ref-MJ_1_5-0" class="reference"><a href="#cite_note-MJ_1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> but struggles with her rich Capitol upbringing when she tries to fit in with District 13 citizens.<sup id="cite_ref-MJ_2_1-2" class="reference"><a href="#cite_note-MJ_2-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Despite her good intentions, Fulvia is quite rude, as shown when she constantly insults Katniss.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFulvia_Cardew%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the <i>Mockingjay</i> films, the character of Fulvia was replaced with <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+<ul><li>On this matter, director <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a> said, "How can anybody replace <a href="/wiki/Elizabeth_Banks" title="Elizabeth Banks">Elizabeth Banks</a> as Effie Trinket in these movies? When <a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> saw <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">Catching Fire</a></i>, she called and one of the first things she said was, ‘There’s no way Effie Trinket cannot be in the Mockingjay films.’ Effie brings such warmth and fun and levity to these dark stories. She’s the fish out of water in this one and fans will love how she has adapted to the world of District 13."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup></li></ul></li>
+<li>There may be a chance that Fulvia was a relative or descendant of <a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a>.
+<ul><li>They share some traits in common; their general rudeness being one of them.</li>
+<li>Both their names end with "via."</li>
+<li>As <a href="/wiki/Livia_Cardew" title="Livia Cardew">Livia Cardew</a> is implied to have married <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, and he has children and grandchildren, Fulvia may be related to <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>'s descendants, which makes her status as a rebel ironic.</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FFulvia_Cardew%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MJ_2-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_2_1-0">1.0</a></sup> <sup><a href="#cite_ref-MJ_2_1-1">1.1</a></sup> <sup><a href="#cite_ref-MJ_2_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-MJ_5-2"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_5_2-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 5</span>
+</li>
+<li id="cite_note-MJ_6-3"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_6_3-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 6</span>
+</li>
+<li id="cite_note-MJ_8-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_8_4-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 8</span>
+</li>
+<li id="cite_note-MJ_1-5"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_1_5-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 1</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.vulture.com/2014/08/why-is-effie-trinket-in-the-mockingjay-posters.html">https://www.vulture.com/2014/08/why-is-effie-trinket-in-the-mockingjay-posters.html</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260102174639
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.047 seconds
+Real time usage: 0.126 seconds
+Preprocessor visited node count: 242/1000000
+Post‐expand include size: 410/2097152 bytes
+Template argument size: 122/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3058/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   45.794      1 -total
+ 51.40%   23.538      1 Template:Character
+ 23.66%   10.833      1 Template:Reflist
+  4.19%    1.920      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3410-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102174639 and revision id 958609. Rendering was triggered because: page-view
+ -->
+</div>

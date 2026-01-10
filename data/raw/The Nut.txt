@@ -1,0 +1,102 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">The Nut</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/9b/Screen_Shot_2015-06-09_at_9.59.44_AM.png/revision/latest?cb=20150609170520" class="image image-thumbnail" title="Screen Shot 2015-06-09 at 9.59.44 AM">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/9/9b/Screen_Shot_2015-06-09_at_9.59.44_AM.png/revision/latest/scale-to-width-down/268?cb=20150609170520" srcset="https://static.wikia.nocookie.net/thehungergames/images/9/9b/Screen_Shot_2015-06-09_at_9.59.44_AM.png/revision/latest/scale-to-width-down/268?cb=20150609170520 1x, https://static.wikia.nocookie.net/thehungergames/images/9/9b/Screen_Shot_2015-06-09_at_9.59.44_AM.png/revision/latest?cb=20150609170520 2x" class="pi-image-thumbnail" data-relevant="1" alt="Screen Shot 2015-06-09 at 9.59.44 AM" width="270" height="101" data-image-key="Screen_Shot_2015-06-09_at_9.59.44_AM.png" data-image-name="Screen Shot 2015-06-09 at 9.59.44 AM.png" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_2" title="District 2">District 2</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="inhabitants">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inhabitants</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeepers</a></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>The Nut was established directly after the Dark Days, when the Capitol had lost 13 and was desperate for a new underground stronghold. They had some of their military resources situated on the outskirts of the Capitol itself—nuclear missiles, aircraft, troops—but a significant chunk of their power was now under an enemy's control.</i>"</span></dd>
+<dd>&#8212;Description of the Nut<sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div>
+<p><b>The Nut</b> is a virtually impenetrable mountain in <a href="/wiki/District_2" title="District 2">District 2</a>, where the heart of the Capitol's military was housed. It was nicknamed the Nut after <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> relayed <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a>'s comment about the district being a "<i>tough nut to crack</i>".
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_Second_Rebellion"><span class="tocnumber">2</span> <span class="toctext">The Second Rebellion</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Description"><span class="tocnumber">3</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Nut%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the <a href="/wiki/Dark_Days" title="Dark Days">Dark Days</a>, <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>'s military command was relocated from <a href="/wiki/District_13" title="District 13">District 13</a>; its <a href="/wiki/Peacekeepers" title="Peacekeepers">Peacekeeping force</a>, along with a large portion of its fleet of <a href="/wiki/Hovercraft" title="Hovercraft">hoverplanes</a>, were housed in a large mountain in the middle of District 2, which was previously used for mining. Train tracks from the mountain led into District 2's square. After the mountain was thoroughly mined, the internal infrastructure was reinforced, and barracks, arsenals, computer terminals, and meeting rooms were constructed, turning the mountain into a military base and the Capitol's main source of weapons production after losing District 13.
+</p>
+<h2><span class="mw-headline" id="The_Second_Rebellion">The Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Nut%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>, the rebels struggled to come up with plans to invade the Nut and weaken the Capitol. <a href="/wiki/Lyme" title="Lyme">Lyme</a>, the commander of District 2's rebel forces, guided a virtual tour of the Nut and recounted previously failed attacks. After hours of discussion, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> noticed avalanche paths on the sides of the mountain and realized that an alternative to capturing the Nut would be to simply disable it; the rebels could use hovercraft to bomb the avalanche paths on the sides of the mountains and trigger avalanches, burying the Nut. 
+</p><p><a href="/wiki/Boggs" title="Boggs">Boggs</a> realized from examining the Nut's blueprints that its ventilation system was its weak point, as these would be blocked up by avalanches. To minimize casualties, <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> suggested leaving the train tunnel to the square open as the only means of escape. However, Gale was against such a proposal, as he was seeking retribution for the <a href="/wiki/Fire" title="Fire">fire</a> <a href="/wiki/Bombings#District_12" title="Bombings">bombing of District 12</a>.<sup id="cite_ref-MJ_14_1-0" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> The rebels eventually agreed to leave the tunnel intact to give the survivors a chance to surrender, but anticipating that the escapees would be armed and desperate, the rebels fortified the buildings surrounding the square with machine-gun nests.
+</p><p>When the Nut was bombed by rebellion <a href="/wiki/Hovercrafts" class="mw-redirect" title="Hovercrafts">hovercrafts</a>, the resulting avalanches shut off many entrances and air vents. Initially, it appeared that the survivors did not escape through the tunnel, but suddenly two trains rushed into the station, where Katniss had started to broadcast an appeal to surrender. In the process, she was shot by an <a href="/wiki/Pugnax" title="Pugnax">injured soldier</a>,<sup id="cite_ref-MJ_15_2-0" class="reference"><a href="#cite_note-MJ_15-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> and the District 2 workers who had escaped turned on the Peacekeepers, taking the Nut and the district.<sup id="cite_ref-MJ_16_3-0" class="reference"><a href="#cite_note-MJ_16-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The Bombing of the Nut was decidedly the winning move for the rebels during the Second Rebellion. This event led to the loss of the Capitol's logistical capabilities, air force, as well as large numbers of ground troops. Following this, the Capitol could only put up token resistance against the rebels, and was conquered weeks later. 
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Nut%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Nut was a mountain located at the center of District 2. It had a few entrances on its faces, and inside were large spaces where stone had been cut out. Large pillars and walls of stone supported the infrastructure. A <a href="/wiki/Train" title="Train">train</a> system transported miners to the center of the main town in the district. The terrain around it was plagued with mudslides, floods, and avalanches, and the exterior of the mountain had a tangle of wildlife. The Nut's ventilation system depended entirely on pumping in air from the mountainsides.<sup id="cite_ref-MJ_14_1-1" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FThe_Nut%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MJ_14-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_14_1-0">1.0</a></sup> <sup><a href="#cite_ref-MJ_14_1-1">1.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-MJ_15-2"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_15_2-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 15</span>
+</li>
+<li id="cite_note-MJ_16-3"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_16_3-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 16</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260103163009
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.038 seconds
+Real time usage: 0.054 seconds
+Preprocessor visited node count: 146/1000000
+Post‐expand include size: 678/2097152 bytes
+Template argument size: 398/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1351/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   32.987      1 -total
+ 60.73%   20.032      1 Template:Location
+ 16.31%    5.379      1 Template:Reflist
+  5.70%    1.882      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:541468-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103163009 and revision id 954484. Rendering was triggered because: page-view
+ -->
+</div>

@@ -1,0 +1,120 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Sage Blanken</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">12–18</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Seam" title="The Seam">The Seam</a> in <a href="/wiki/District_12" title="District 12">District 12</a><sup id="cite_ref-THG_3_1-0" class="reference"><a href="#cite_note-THG_3-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Corrina_Blanken" title="Corrina Blanken">Corrina Blanken</a> (mother)</li><li><a href="/wiki/Tygart_Blanken" title="Tygart Blanken">Tygart Blanken</a> (father)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="moviemention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i>The Hunger Games</i> film script (early draft)<sup id="cite_ref-script_2-0" class="reference"><a href="#cite_note-script-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>At least you two have manners, The pair last year ate everything with their hands like a couple of savages. It completely upset my digestion.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a><sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<p><b>Sage Blanken</b> was a <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_12" title="District 12">District 12</a> who participated in the <a href="/wiki/73rd_Hunger_Games" title="73rd Hunger Games">73rd Hunger Games</a>.<sup id="cite_ref-THG_3_1-1" class="reference"><a href="#cite_note-THG_3-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSage_Blanken%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sage was born in <a href="/wiki/The_Seam" title="The Seam">the Seam</a>, as was his <a href="/wiki/District_12_female_(73rd_HG)" title="District 12 female (73rd HG)">district partner</a>, and they were both <a href="/wiki/Reaped" class="mw-redirect" title="Reaped">reaped</a> for the 73rd Hunger Games. He was mentored by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>. <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> mentioned to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> that he and his district partner ate like "savages". This upset Katniss greatly, as they came from the poorest region of District 12, where access to food was limited.<sup id="cite_ref-THG_3_1-2" class="reference"><a href="#cite_note-THG_3-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Early_script">Early script</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSage_Blanken%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An early version of a script for <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a> gave his name as Sage Blanken, and his parents, <a href="/wiki/Corrina_Blanken" title="Corrina Blanken">Corrina</a> and <a href="/wiki/Tygart_Blanken" title="Tygart Blanken">Tygart Blanken</a>, were vendors at <a href="/wiki/The_Hob" title="The Hob">the Hob</a>. He was killed with a bar mace on the second day by <a href="/wiki/Prospero" title="Prospero">Prospero</a>, the District 3 male.<sup id="cite_ref-script_2-1" class="reference"><a href="#cite_note-script-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FSage_Blanken%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-THG_3-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_3_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_3_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_3_1-2">1.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-script-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-script_2-0">2.0</a></sup> <sup><a href="#cite_ref-script_2-1">2.1</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf">https://www.screenwritersnetwork.org/wp-content/uploads/2021/02/The-Hunger-Games-1-Script.pdf</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260101055708
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.028 seconds
+Real time usage: 0.043 seconds
+Preprocessor visited node count: 174/1000000
+Post‐expand include size: 502/2097152 bytes
+Template argument size: 230/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1705/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   28.631      1 -total
+ 69.22%   19.817      1 Template:Character
+ 16.49%    4.721      1 Template:Reflist
+  4.79%    1.371      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:540744-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260101055708 and revision id 967653. Rendering was triggered because: page-view
+ -->
+</div>

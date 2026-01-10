@@ -1,0 +1,426 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">"Foxface"</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/ad/Tribute_D5_Female_copy.jpg/revision/latest?cb=20120214004426" class="image image-thumbnail" title="Tribute D5 Female copy">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/a/ad/Tribute_D5_Female_copy.jpg/revision/latest/scale-to-width-down/268?cb=20120214004426" srcset="https://static.wikia.nocookie.net/thehungergames/images/a/ad/Tribute_D5_Female_copy.jpg/revision/latest/scale-to-width-down/268?cb=20120214004426 1x, https://static.wikia.nocookie.net/thehungergames/images/a/ad/Tribute_D5_Female_copy.jpg/revision/latest?cb=20120214004426 2x" class="pi-image-thumbnail" data-relevant="1" alt="Tribute D5 Female copy" width="270" height="410" data-image-key="Tribute_D5_Female_copy.jpg" data-image-name="Tribute D5 Female copy.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>14 <small>(film)</small><sup id="cite_ref-stats_1-0" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li><li>15 <small>(<i>The Hunger Games: Tribute Guide</i>)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font"><a class="mw-selflink-fragment" href="#Name">(Jump to Trivia)</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tribute" title="Tribute">Tribute</a><sup id="cite_ref-THG_3_2-0" class="reference"><a href="#cite_note-THG_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_5" title="District 5">District 5</a><sup id="cite_ref-THG_3_2-1" class="reference"><a href="#cite_note-THG_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Stealth" class="mw-redirect" title="Stealth">Stealth</a>, <a href="/wiki/Knife" class="mw-redirect" title="Knife">Knife</a> <small>(film)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">5'5"<sup id="cite_ref-stats_1-1" class="reference"><a href="#cite_note-stats-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Amber <small>(book)</small><sup id="cite_ref-THG_25_3-0" class="reference"><a href="#cite_note-THG_25-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></li><li>Green <small>(film)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Red <small>(book<sup id="cite_ref-THG_25_3-1" class="reference"><a href="#cite_note-THG_25-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> and film)</small></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games (film)</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Jacqueline_Emerson" title="Jacqueline Emerson">Jacqueline Emerson</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games">"<i>And she's very clever, Peeta. Well, she was. Until you outfoxed her. </i>"</span></dd>
+<dd>—<a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> to <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> about Foxface<sup class="noprint"><a href="/wiki/The_Hunger_Games" title="The Hunger Games">[src]</a></sup></dd></dl></div>
+<p><b>"Foxface"</b> was the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_5" title="District 5">District 5</a> in the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a><sup id="cite_ref-THG_3_2-2" class="reference"><a href="#cite_note-THG_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. Katniss Everdeen nicknamed her "Foxface" because of her sly, fox-like appearance<sup id="cite_ref-THG_11_4-0" class="reference"><a href="#cite_note-THG_11-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_20_5-0" class="reference"><a href="#cite_note-THG_20-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>. 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#74th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">74th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Reaping"><span class="tocnumber">1.1.1</span> <span class="toctext">Reaping</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Tribute_Parade"><span class="tocnumber">1.1.2</span> <span class="toctext">Tribute Parade</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Training"><span class="tocnumber">1.1.3</span> <span class="toctext">Training</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Interview"><span class="tocnumber">1.1.4</span> <span class="toctext">Interview</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Bloodbath"><span class="tocnumber">1.1.5</span> <span class="toctext">Bloodbath</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#The_Games"><span class="tocnumber">1.1.6</span> <span class="toctext">The Games</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#The_Feast"><span class="tocnumber">1.1.7</span> <span class="toctext">The Feast</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Death"><span class="tocnumber">1.1.8</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Tactics"><span class="tocnumber">2</span> <span class="toctext">Tactics</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Physical_description"><span class="tocnumber">3</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Personality_and_traits"><span class="tocnumber">4</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Name"><span class="tocnumber">5.1</span> <span class="toctext">Name</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37322" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the strategy Foxface used in the 74th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, Foxface used a strategy of evasion and stealth. She avoided confrontations, stayed hidden, and survived by scavenging, foraging, and stealing from other contestants. She also observed other tributes from afar to decipher their plans. Her strategy ended in failure when she unwittingly consumed poisonous nightlock berries.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37323" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why was Foxface given her nickname by Katniss Everdeen?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The female tribute from District 5 in the 74th Hunger Games was dubbed 'Foxface' by Katniss Everdeen because of her sly, fox-like appearance, characterized by her small size, red coat, and amber eyes. Her fox-like features were further highlighted in the movie where she had green eyes and wore her hair in braids resembling 'fox ears'.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37324" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the real name of Foxface in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						'Foxface' from the Hunger Games, a tribute from District 5 in the 74th Hunger Games, does not have a disclosed real name in English. Her nickname 'Foxface' was attributed by Katniss Everdeen, inspired by her cunning, fox-like features.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37325" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Foxface meet her end in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, Foxface, the tribute from District 5, died by unintentionally eating poisonous nightlock berries she had stolen from Katniss and Peeta. This fatal error resulted in her finishing 4th in the Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37326" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the significance of Foxface's character in the Hunger Games narrative?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 74th Hunger Games, Foxface, a tribute from District 5, is known for her cunning and stealth. Her nickname, given by Katniss Everdeen, reflects her fox-like appearance. She survives without killing any other tribute, relying on theft from the Career's supplies. Her death is accidental, caused by the poisonous Nightlock berry while stealing food from Peeta and Katniss. She finishes fourth in the Games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"\"Foxface\"","mainEntity":[{"@type":"Question","name":"What was the strategy Foxface used in the 74th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, Foxface used a strategy of evasion and stealth. She avoided confrontations, stayed hidden, and survived by scavenging, foraging, and stealing from other contestants. She also observed other tributes from afar to decipher their plans. Her strategy ended in failure when she unwittingly consumed poisonous nightlock berries."}},{"@type":"Question","name":"Why was Foxface given her nickname by Katniss Everdeen?","acceptedAnswer":{"@type":"Answer","text":"The female tribute from District 5 in the 74th Hunger Games was dubbed 'Foxface' by Katniss Everdeen because of her sly, fox-like appearance, characterized by her small size, red coat, and amber eyes. Her fox-like features were further highlighted in the movie where she had green eyes and wore her hair in braids resembling 'fox ears'."}},{"@type":"Question","name":"What is the real name of Foxface in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"'Foxface' from the Hunger Games, a tribute from District 5 in the 74th Hunger Games, does not have a disclosed real name in English. Her nickname 'Foxface' was attributed by Katniss Everdeen, inspired by her cunning, fox-like features."}},{"@type":"Question","name":"How did Foxface meet her end in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, Foxface, the tribute from District 5, died by unintentionally eating poisonous nightlock berries she had stolen from Katniss and Peeta. This fatal error resulted in her finishing 4th in the Games."}},{"@type":"Question","name":"What is the significance of Foxface's character in the Hunger Games narrative?","acceptedAnswer":{"@type":"Answer","text":"In the 74th Hunger Games, Foxface, a tribute from District 5, is known for her cunning and stealth. Her nickname, given by Katniss Everdeen, reflects her fox-like appearance. She survives without killing any other tribute, relying on theft from the Career's supplies. Her death is accidental, caused by the poisonous Nightlock berry while stealing food from Peeta and Katniss. She finishes fourth in the Games."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="74th_Hunger_Games">74th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Reaping">Reaping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Foxface was <a href="/wiki/Reaping" title="Reaping">reaped</a> into the Hunger Games as the female tribute from District 5 in the 74th Hunger Games. She was one of the few tributes Katniss took note of at the Reaping.<sup id="cite_ref-THG_3_2-3" class="reference"><a href="#cite_note-THG_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Tribute_Parade">Tribute Parade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>, Foxface waved nervously to the audience from her chariot, while representing her <a href="/wiki/District_5" title="District 5">district</a>'s main export (power) to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>.<sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/52/District_5_Tribute_parade.png/revision/latest?cb=20121228032111" class="mw-file-description image"><img alt="The District 5 tributes in their Tribute Parade costumes." src="https://static.wikia.nocookie.net/thehungergames/images/5/52/District_5_Tribute_parade.png/revision/latest/scale-to-width-down/180?cb=20121228032111" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-image-name="District 5 Tribute parade.png" data-image-key="District_5_Tribute_parade.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:District_5_Tribute_parade.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The District 5 tributes in their Tribute Parade costumes.</p> 		 	</figcaption> </figure>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/54/4.D5%2B6parade.jpg/revision/latest?cb=20140321074655" class="mw-file-description image"><img alt="District 5 and 6 at the Tribute Parade." src="https://static.wikia.nocookie.net/thehungergames/images/5/54/4.D5%2B6parade.jpg/revision/latest/scale-to-width-down/180?cb=20140321074655" decoding="async" loading="lazy" width="180" height="79" class="thumbimage" data-image-name="4.D5+6parade.jpg" data-image-key="4.D5%2B6parade.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:4.D5%2B6parade.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">District 5 and 6 at the Tribute Parade.</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Training">Training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the novel, Foxface is never mentioned during training, nor was her training score given. In the film, she could be seen testing her knowledge of plants in a fast-paced matching test. Foxface received a score of 5 during her private training session with the <a href="/wiki/Gamemakers" class="mw-redirect" title="Gamemakers">Gamemakers</a>.
+</p>
+<h4><span class="mw-headline" id="Interview">Interview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During her <a href="/wiki/Interviews" title="Interviews">interview</a> with <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a>, Foxface was nervous and quiet, only speaking one line in the interview, which was “I will always analyze the situation and apply myself”. In the bonus features of <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>, Foxface says that she is very smart, and that "no weapon can match a brain".<sup id="cite_ref-:0_6-1" class="reference"><a href="#cite_note-:0-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>For her interview, she wore a light blue strapless dress with a ruffled skirt. She answered her questions fast and short. Katniss described her as being "sly and elusive"<sup id="cite_ref-THG_9_7-0" class="reference"><a href="#cite_note-THG_9-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>. Later Katniss said that if all the tributes had took a test, she thinks Foxface would've been the smartest<sup id="cite_ref-THG_24_8-0" class="reference"><a href="#cite_note-THG_24-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/27/Foxface_at_interview.jpg/revision/latest?cb=20240217021800" class="mw-file-description image"><img alt="Foxface during her interview with Caesar." src="https://static.wikia.nocookie.net/thehungergames/images/2/27/Foxface_at_interview.jpg/revision/latest/scale-to-width-down/180?cb=20240217021800" decoding="async" loading="lazy" width="180" height="210" class="thumbimage" data-image-name="Foxface at interview.jpg" data-image-key="Foxface_at_interview.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Foxface_at_interview.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Foxface during her interview with Caesar.</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Bloodbath">Bloodbath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Like <a href="/wiki/Rue" title="Rue">Rue</a>, Foxface ran away from the <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a> when she entered the arena as she had no <a href="/wiki/Weapons" title="Weapons">weapons</a> or supplies to help her. In the <a href="/wiki/The_Hunger_Games_film" class="mw-redirect" title="The Hunger Games film">film</a>, a scene was added where she and Katniss bumped into each other while fleeing the Cornucopia, but stared at each other in shock for a moment before going in opposite directions.<sup id="cite_ref-:0_6-2" class="reference"><a href="#cite_note-:0-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Later on during the Games, she was spotted by Katniss at the Cornucopia near the <a href="/wiki/Careers" class="mw-redirect" title="Careers">Careers</a>' camp. After skulking around to make sure she was unidentified by any of the other tributes, Foxface made a variety of movements, which Katniss described as a dance sequence. Foxface had a close encounter with death as she landed wrong in the Careers' minefield and squealed, but she kept going. Foxface demonstrated her cleverness by figuring out the path into the Careers' pyramid of useful supplies, reaching the bulk of supplies, taking a small, unnoticeable amount of supplies, and then running back to the safety of the woods.<sup id="cite_ref-THG_16_9-0" class="reference"><a href="#cite_note-THG_16-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>Katniss noticed a bag of apples hanging on the pyramid, which could well be some of the apples Foxface took from a burlap sack, and fired three arrows at it; the bag of apples ripped apart, fell, and set off the land mines. It caused a huge explosion after and destroyed all of the supplies.<sup id="cite_ref-THG_16_9-1" class="reference"><a href="#cite_note-THG_16-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> This resulted in the destruction of the Careers' supplies, and the <a href="/wiki/District_3_male_(74th_HG)" class="mw-redirect" title="District 3 male (74th HG)">District 3 male</a>'s death by <a href="/wiki/Cato" title="Cato">Cato</a>'s hands. In the ruins of the explosion, Katniss saw Foxface laughing as she was able to find a knife blade and a metal pot. At first, she didn't understand why but later came to the conclusion that with the Careers supplies destroyed, Foxface realized that she might actually stand a chance of surviving. At one point, Katniss considered letting Foxface into her alliance with Rue, but quickly dismissed the idea, suspecting Foxface would backstab her.<sup id="cite_ref-THG_17_10-0" class="reference"><a href="#cite_note-THG_17-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="The_Feast">The Feast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>After several days in the arena, all the remaining tributes needed something desperately. Due to this, <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> announced that there would be a <a href="/wiki/Feast" title="Feast">feast</a>.<sup id="cite_ref-THG_20_5-1" class="reference"><a href="#cite_note-THG_20-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Foxface, as well as the other tributes, prepared herself for the upcoming event.
+</p><p>When the other tributes arrived at the feast, Foxface was already well hidden within the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a>. When the table rose from the ground with the bags containing each of the tributes' items that they "desperately needed," Foxface didn't waste her time with battle; instead, she sprinted out, took her bag, and quickly evacuated the area. She was not attacked, as the other tributes feared to confront each other, and she was very quick. Katniss was both impressed and angry that she had not come up with a plan so risky and devious. Katniss pulled out one of her arrows to shoot at Foxface, but let her grab her backpack and flee back into the woods.<sup id="cite_ref-THG_21_11-0" class="reference"><a href="#cite_note-THG_21-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> Foxface's green pack most likely contained food, as her strategy was to stay hidden and avoid any confrontation between any of the tributes. Throughout the games, she managed to survive by scavenging, foraging and occasionally stealing from other contestants<sup id="cite_ref-THG_16_9-2" class="reference"><a href="#cite_note-THG_16-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. This strategy worked until she unwittingly stole and ate poisonous <a href="/wiki/Nightlock" title="Nightlock">nightlock</a> berries from Katniss and Peeta<sup id="cite_ref-THG_24_8-1" class="reference"><a href="#cite_note-THG_24-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Foxfacedead.png/revision/latest?cb=20240223071644" class="mw-file-description image"><img alt="Foxface after eating the nightlock berries." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="119" class="thumbimage lazyload" data-image-name="Foxfacedead.png" data-image-key="Foxfacedead.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Foxfacedead.png/revision/latest/scale-to-width-down/180?cb=20240223071644"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Foxfacedead.png/revision/latest?cb=20240223071644" class="mw-file-description image"><img alt="Foxface after eating the nightlock berries." src="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Foxfacedead.png/revision/latest/scale-to-width-down/180?cb=20240223071644" decoding="async" loading="lazy" width="180" height="119" class="thumbimage" data-image-name="Foxfacedead.png" data-image-key="Foxfacedead.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c4/Foxfacedead.png/revision/latest/scale-to-width-down/180?cb=20240223071644"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Foxfacedead.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Foxface after eating the nightlock berries.</p> 		 	</figcaption> </figure>
+<p>Foxface placed 4th in the Games. Katniss and Peeta found her body holding <a href="/wiki/Nightlock" title="Nightlock">nightlock</a> berries Peeta had collected, which she <a href="/wiki/Theft" class="mw-redirect" title="Theft">stole</a> and ate.<sup id="cite_ref-THG_23_12-0" class="reference"><a href="#cite_note-THG_23-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> Katniss believed that if Peeta had known about the poison and was attempting to trick Foxface, she would have known not to eat them and could have won.<sup id="cite_ref-THG_24_8-2" class="reference"><a href="#cite_note-THG_24-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> Katniss questions the circumstances of her death. When her body was then taken away by a <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a>, Katniss mentioned that her body was emaciated, so she would've died sooner or later from her lack of food supplies.<sup id="cite_ref-THG_23_12-1" class="reference"><a href="#cite_note-THG_23-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Tactics">Tactics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/1/19/FoxfaceTHG.jpg/revision/latest?cb=20120329215213" class="mw-file-description image"><img alt="Foxface's profile in ." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="135" class="thumbimage lazyload" data-image-name="FoxfaceTHG.jpg" data-image-key="FoxfaceTHG.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/19/FoxfaceTHG.jpg/revision/latest/scale-to-width-down/180?cb=20120329215213"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/1/19/FoxfaceTHG.jpg/revision/latest?cb=20120329215213" class="mw-file-description image"><img alt="Foxface's profile in ." src="https://static.wikia.nocookie.net/thehungergames/images/1/19/FoxfaceTHG.jpg/revision/latest/scale-to-width-down/180?cb=20120329215213" decoding="async" loading="lazy" width="180" height="135" class="thumbimage" data-image-name="FoxfaceTHG.jpg" data-image-key="FoxfaceTHG.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/1/19/FoxfaceTHG.jpg/revision/latest/scale-to-width-down/180?cb=20120329215213"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:FoxfaceTHG.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Foxface's profile in <i><a href="/wiki/The_Hunger_Games:_Tribute_Guide" title="The Hunger Games: Tribute Guide">The Hunger Games: Tribute Guide</a></i>.</p> 		 	</figcaption> </figure><p>Foxface avoided confronting the other tributes and kept a reasonable distance between her and anyone else. She intelligently observed other tributes from afar, which allowed her to understand their plans. She took an unnoticeable amount of food from others without their knowledge, and was careful when she was in the Careers' camp, for she knew that it contained mines<sup id="cite_ref-THG_16_9-3" class="reference"><a href="#cite_note-THG_16-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. She was clever enough to trace a path through the mines where she could step without being blown to pieces<sup id="cite_ref-THG_16_9-4" class="reference"><a href="#cite_note-THG_16-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. She had no alliances with other tributes and kept completely to herself.
+</p><p>She also demonstrated the attribute of being wily, when she deciphers a path through the explosives to reach the Careers' pyramid of food and supplies, making sure to take enough to survive, but not so much that it would be noticed by the others when they arrived back at their camp<sup id="cite_ref-THG_16_9-5" class="reference"><a href="#cite_note-THG_16-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. She was independent, always working alone and was sly, elusive, and probably untrustworthy<sup id="cite_ref-THG_17_10-1" class="reference"><a href="#cite_note-THG_17-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>.
+</p>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 260px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/ad/Tumblr_m9fn7sMxvC1qi04n6o1_500.png/revision/latest?cb=20130906145857" class="mw-file-description image"><img alt="Foxface in the Training Center." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="107" class="thumbimage lazyload" data-image-name="Tumblr m9fn7sMxvC1qi04n6o1 500.png" data-image-key="Tumblr_m9fn7sMxvC1qi04n6o1_500.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/ad/Tumblr_m9fn7sMxvC1qi04n6o1_500.png/revision/latest/scale-to-width-down/260?cb=20130906145857"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/a/ad/Tumblr_m9fn7sMxvC1qi04n6o1_500.png/revision/latest?cb=20130906145857" class="mw-file-description image"><img alt="Foxface in the Training Center." src="https://static.wikia.nocookie.net/thehungergames/images/a/ad/Tumblr_m9fn7sMxvC1qi04n6o1_500.png/revision/latest/scale-to-width-down/260?cb=20130906145857" decoding="async" loading="lazy" width="260" height="107" class="thumbimage" data-image-name="Tumblr m9fn7sMxvC1qi04n6o1 500.png" data-image-key="Tumblr_m9fn7sMxvC1qi04n6o1_500.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/ad/Tumblr_m9fn7sMxvC1qi04n6o1_500.png/revision/latest/scale-to-width-down/260?cb=20130906145857"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tumblr_m9fn7sMxvC1qi04n6o1_500.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Foxface in the Training Center.</p> 		 	</figcaption> </figure>
+<p>Another one of her clever ideas was demonstrated at the feast. Foxface hid in the Cornucopia, waiting for the others to come<sup id="cite_ref-THG_23_12-2" class="reference"><a href="#cite_note-THG_23-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>. She didn't waste time with a battle — she ran up, snatched her bag, and quickly evacuated the area. No one would follow her in fear of not getting their own bags, containing something they "desperately needed", taken away by another tribute. Katniss was also envious of her plan, how strategic and risky it was, and how it trapped the other tributes.<sup id="cite_ref-THG_21_11-1" class="reference"><a href="#cite_note-THG_21-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p><p>Foxface was careful not to make enemies<sup id="cite_ref-THG_17_10-2" class="reference"><a href="#cite_note-THG_17-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-THG_21_11-2" class="reference"><a href="#cite_note-THG_21-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> or even to make herself noticed<sup id="cite_ref-THG_16_9-6" class="reference"><a href="#cite_note-THG_16-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. Remarkably, she managed to get through to the final four tributes without making a single kill, showing either her morals, luck, or her intelligence.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Foxface-DIP1.jpg/revision/latest?cb=20120311014906" class="mw-file-description image"><img alt="Foxface's Tribute Identification Card." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="120" class="thumbimage lazyload" data-image-name="Foxface-DIP1.jpg" data-image-key="Foxface-DIP1.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Foxface-DIP1.jpg/revision/latest/scale-to-width-down/180?cb=20120311014906"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Foxface-DIP1.jpg/revision/latest?cb=20120311014906" class="mw-file-description image"><img alt="Foxface's Tribute Identification Card." src="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Foxface-DIP1.jpg/revision/latest/scale-to-width-down/180?cb=20120311014906" decoding="async" loading="lazy" width="180" height="120" class="thumbimage" data-image-name="Foxface-DIP1.jpg" data-image-key="Foxface-DIP1.jpg" data-relevant="0" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0d/Foxface-DIP1.jpg/revision/latest/scale-to-width-down/180?cb=20120311014906"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Foxface-DIP1.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Foxface's Tribute Identification Card.</p> 		 	</figcaption> </figure>
+<p>Foxface had sleek red hair, and Katniss compared her face to that of a fox, inspiring her nickname.<sup id="cite_ref-THG_3_2-4" class="reference"><a href="#cite_note-THG_3-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Katniss later recognized the <a href="/wiki/Wolf_mutt" title="Wolf mutt">wolf mutt</a> that resembled her based on its small size, red coat, and amber eyes.<sup id="cite_ref-THG_25_3-2" class="reference"><a href="#cite_note-THG_25-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> In the movie, her eyes were green, and she wore her hair in two animal ear-like braids (also known as "fox ears") in the arena.<sup id="cite_ref-:0_6-3" class="reference"><a href="#cite_note-:0-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Foxface proved to be one of the smartest, trickiest, and stealthiest tributes in the Games. She demonstrated this several times throughout the book by doing various things, such as stealing supplies from other tributes, letting herself to become a forgettable tribute in order to not draw attention to herself<sup id="cite_ref-THG_16_9-7" class="reference"><a href="#cite_note-THG_16-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>, and she could find things that others didn't look hard enough for<sup id="cite_ref-THG_17_10-3" class="reference"><a href="#cite_note-THG_17-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>She is the first character introduced to be from District 5.</li>
+<li>In the film, Foxface's odds of winning were 7–1, the same as <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a>.</li>
+<li>Foxface is often confused with the <a href="/wiki/District_9_female_(74th_HG)" title="District 9 female (74th HG)">District 9 female</a> because they are around the same size and both have red hair.</li>
+<li>Foxface, Katniss, and Peeta are the only known tributes to receive training scores that matched the number of their district (12 in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> for both of them, and 5 for her in the 74th).</li>
+<li>Foxface was the last female tribute to die in the 74th Hunger Games, and she was the lowest scoring tribute in the final eight. She finished fourth in the novel and fifth in the movie.</li>
+<li>Foxface is from District <b>5</b>, received a training score of <b>5</b>, placed <b>5th</b> in the movie, and is <b>5'5"</b> in height.</li>
+<li>Foxface's actress, <a href="/wiki/Jacqueline_Emerson" title="Jacqueline Emerson">Jacqueline Emerson</a>, has said she made up a little story in her mind for Foxface so it wouldn't bother her that her character rarely spoke.</li>
+<li>A common source of fan speculation is whether Foxface's death was an accident or an intentional act of suicide.
+<ul><li>At the Los Angeles premiere of <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i> on November 13, 2023, Jacqueline Emerson was asked to share her opinion on the theory. She said that director <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> told her Foxface's death was accidental; however, Emerson personally believed it was suicide because the film showed the character quizzing herself on plants.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup></li></ul></li></ul>
+<h3><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Although Foxface's real name is never revealed in the books, she is given a name in subsequent material.
+<ul><li>In the film adaptation of <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i></a>, Caesar calls her <b>Finch</b> during her interview. In various dubs of the film, including Brazilian Portuguese, Spanish and Italian, Caesar also refers to her as Finch, alternatively spelled as Fynch in some subtitles. The English audio description of the film also calls her Finch. However, in an early draft of the film's script, Caesar mentions that Foxface's name is <b>Marissa</b> during the interview.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup></li>
+<li>In <i><a href="/wiki/The_Hunger_Games_On_Stage" title="The Hunger Games On Stage">The Hunger Games On Stage</a></i>, her name is <b>Fossa</b>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> This name may be derived from <a href="https://en.wikipedia.org/wiki/fossil_fuel" class="extiw" title="wikipedia:fossil fuel">fossil fuel</a>, related to District 5's industry of power.
+<ul><li>It could also be in reference to a <a href="https://en.wikipedia.org/wiki/Fossa_(animal)" class="extiw" title="wikipedia:Fossa (animal)">fossa</a>, an animal similar in nature to a fox, known for their solitude and stealth.</li></ul></li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F%2522Foxface%2522%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-stats-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-stats_1-0">1.0</a></sup> <sup><a href="#cite_ref-stats_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/File:Full_stats_board.png" title="File:Full stats board.png">File:Full stats board.png</a></span>
+</li>
+<li id="cite_note-THG_3-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_3_2-0">2.0</a></sup> <sup><a href="#cite_ref-THG_3_2-1">2.1</a></sup> <sup><a href="#cite_ref-THG_3_2-2">2.2</a></sup> <sup><a href="#cite_ref-THG_3_2-3">2.3</a></sup> <sup><a href="#cite_ref-THG_3_2-4">2.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-THG_25-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_25_3-0">3.0</a></sup> <sup><a href="#cite_ref-THG_25_3-1">3.1</a></sup> <sup><a href="#cite_ref-THG_25_3-2">3.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-THG_11-4"><span class="mw-cite-backlink"><a href="#cite_ref-THG_11_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-THG_20-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_20_5-0">5.0</a></sup> <sup><a href="#cite_ref-THG_20_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_6-0">6.0</a></sup> <sup><a href="#cite_ref-:0_6-1">6.1</a></sup> <sup><a href="#cite_ref-:0_6-2">6.2</a></sup> <sup><a href="#cite_ref-:0_6-3">6.3</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a></span>
+</li>
+<li id="cite_note-THG_9-7"><span class="mw-cite-backlink"><a href="#cite_ref-THG_9_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-THG_24-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_24_8-0">8.0</a></sup> <sup><a href="#cite_ref-THG_24_8-1">8.1</a></sup> <sup><a href="#cite_ref-THG_24_8-2">8.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 24</span>
+</li>
+<li id="cite_note-THG_16-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_16_9-0">9.0</a></sup> <sup><a href="#cite_ref-THG_16_9-1">9.1</a></sup> <sup><a href="#cite_ref-THG_16_9-2">9.2</a></sup> <sup><a href="#cite_ref-THG_16_9-3">9.3</a></sup> <sup><a href="#cite_ref-THG_16_9-4">9.4</a></sup> <sup><a href="#cite_ref-THG_16_9-5">9.5</a></sup> <sup><a href="#cite_ref-THG_16_9-6">9.6</a></sup> <sup><a href="#cite_ref-THG_16_9-7">9.7</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-THG_17-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_17_10-0">10.0</a></sup> <sup><a href="#cite_ref-THG_17_10-1">10.1</a></sup> <sup><a href="#cite_ref-THG_17_10-2">10.2</a></sup> <sup><a href="#cite_ref-THG_17_10-3">10.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 17</span>
+</li>
+<li id="cite_note-THG_21-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_21_11-0">11.0</a></sup> <sup><a href="#cite_ref-THG_21_11-1">11.1</a></sup> <sup><a href="#cite_ref-THG_21_11-2">11.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-THG_23-12"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_23_12-0">12.0</a></sup> <sup><a href="#cite_ref-THG_23_12-1">12.1</a></sup> <sup><a href="#cite_ref-THG_23_12-2">12.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 23</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://twitter.com/Variety/status/1724229263875063989">https://twitter.com/Variety/status/1724229263875063989</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://assets.scriptslug.com/live/pdf/scripts/the-hunger-games-2012.pdf">https://assets.scriptslug.com/live/pdf/scripts/the-hunger-games-2012.pdf</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.instagram.com/artemisstamouli/p/DNF1oGJKzUZ/">https://www.instagram.com/artemisstamouli/p/DNF1oGJKzUZ/</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20251230045944
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.097 seconds
+Real time usage: 0.183 seconds
+Preprocessor visited node count: 976/1000000
+Post‐expand include size: 4017/2097152 bytes
+Template argument size: 275/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11861/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   92.206      1 -total
+ 32.24%   29.731      1 Template:Reflist
+ 28.88%   26.633      1 Template:Character
+  5.28%    4.868     12 Template:THG
+  1.56%    1.440      1 Template:Quote
+  1.55%    1.428      1 Template:SeriesTP
+  1.43%    1.321      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2086-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230045944 and revision id 967773. Rendering was triggered because: page-view
+ -->
+</div>

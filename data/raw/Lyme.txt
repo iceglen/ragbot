@@ -1,0 +1,341 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Commander Lyme</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/9/96/Lyme.jpeg/revision/latest?cb=20200828092800" class="image image-thumbnail" title="Lyme">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/9/96/Lyme.jpeg/revision/latest/scale-to-width-down/268?cb=20200828092800" srcset="https://static.wikia.nocookie.net/thehungergames/images/9/96/Lyme.jpeg/revision/latest/scale-to-width-down/268?cb=20200828092800 1x, https://static.wikia.nocookie.net/thehungergames/images/9/96/Lyme.jpeg/revision/latest?cb=20200828092800 2x" class="pi-image-thumbnail" data-relevant="1" alt="Lyme" width="270" height="340" data-image-key="Lyme.jpeg" data-image-name="Lyme.jpeg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">Middle-aged</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor" title="Victor">Victor</a><br><a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a><br> Commander of <a href="/wiki/District_2" title="District 2">District 2</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> in <a href="/wiki/District_2" title="District 2">District 2</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Shotgun<br><p>Bombs</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">Over 6 feet<sup id="cite_ref-MJ_14_1-0" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><br>6'3" (film)</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gwendoline_Christie" title="Gwendoline Christie">Gwendoline Christie</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games: Mockingjay - Part 2">"<i>You've been long underground Madam Coin. This isn't like the rest of Panem. Support for the Capitol runs deep here.</i>"</span></dd>
+<dd>—Lyme on Coin's proposal to use Katniss to evoke support in District 2<sup class="noprint"><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">[src]</a></sup></dd></dl></div>
+<p><b>Lyme</b> was a <a href="/wiki/Victor" title="Victor">victor</a> of an unspecified edition of the <a href="/wiki/The_Hunger_Games_(event)" class="mw-redirect" title="The Hunger Games (event)">Hunger Games</a> from <a href="/wiki/District_2" title="District 2">District 2</a> and a commander in the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a> against <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>.<sup id="cite_ref-MJ_14_1-1" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Second_Rebellion"><span class="tocnumber">1.1</span> <span class="toctext">Second Rebellion</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Death"><span class="tocnumber">1.1.1</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personality"><span class="tocnumber">3</span> <span class="toctext">Personality</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="47270" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What Hunger Games did Lyme win?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Lyme, a character from the Hunger Games, won an unspecified edition of the competition over a generation ago, roughly concurrent with Haymitch Abernathy's victory. Originating from District 2, she possibly volunteered and pursued a Career. Post-victory, she maintained a low profile, occasionally surfacing in Hunger Games broadcasts, possibly in a mentor's role. Lyme's transition to a commander role signifies her resistance against the Capitol.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47271" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Lyme play in the Second Rebellion in District 2?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Second Rebellion in District 2, Lyme, a former Hunger Games victor, served as a Commander. She collaborated with rebels and District 13 military forces to seize control of District 2 from Capitol loyalists. Despite deep-rooted support for the Capitol, Lyme and her rebel forces succeeded in taking over the outer villages, although the town center and the Nut remained under loyalist control.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47272" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How does Lyme's support for the Capitol affect her actions?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Lyme, a Hunger Games victor, becomes a Commander in the Second Rebellion against the Capitol, indicating her deep opposition despite her District 2 origin. She participates in strategizing and leading attacks, enduring significant losses at times. Her frankness is evident when she criticizes the use of Katniss as a tool to weaken Capitol support.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47273" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What is the relationship between Lyme and Katniss?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Lyme, a former Hunger Games victor, maintained a discreet presence, causing Katniss to question if she had been subjected to the Capitol's abuse. During the Second Rebellion, Lyme was stationed in District 2, collaborating with the rebels. Despite her origins in District 2, she was covertly opposed to the Capitol, and was among the rare victors to ascend to the rank of commander. Lyme was candid, expressing that Katniss' attempts to undermine support were unsuccessful.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47274" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who played the character of Lyme in the Hunger Games film series?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						British actress Gwendoline Christie portrayed the character Lyme in The Hunger Games: Mockingjay - Part 2. Christie is also well-known for her work on HBO TV series.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Lyme","mainEntity":[{"@type":"Question","name":"What Hunger Games did Lyme win?","acceptedAnswer":{"@type":"Answer","text":"Lyme, a character from the Hunger Games, won an unspecified edition of the competition over a generation ago, roughly concurrent with Haymitch Abernathy's victory. Originating from District 2, she possibly volunteered and pursued a Career. Post-victory, she maintained a low profile, occasionally surfacing in Hunger Games broadcasts, possibly in a mentor's role. Lyme's transition to a commander role signifies her resistance against the Capitol."}},{"@type":"Question","name":"What role did Lyme play in the Second Rebellion in District 2?","acceptedAnswer":{"@type":"Answer","text":"In the Second Rebellion in District 2, Lyme, a former Hunger Games victor, served as a Commander. She collaborated with rebels and District 13 military forces to seize control of District 2 from Capitol loyalists. Despite deep-rooted support for the Capitol, Lyme and her rebel forces succeeded in taking over the outer villages, although the town center and the Nut remained under loyalist control."}},{"@type":"Question","name":"How does Lyme's support for the Capitol affect her actions?","acceptedAnswer":{"@type":"Answer","text":"Lyme, a Hunger Games victor, becomes a Commander in the Second Rebellion against the Capitol, indicating her deep opposition despite her District 2 origin. She participates in strategizing and leading attacks, enduring significant losses at times. Her frankness is evident when she criticizes the use of Katniss as a tool to weaken Capitol support."}},{"@type":"Question","name":"What is the relationship between Lyme and Katniss?","acceptedAnswer":{"@type":"Answer","text":"Lyme, a former Hunger Games victor, maintained a discreet presence, causing Katniss to question if she had been subjected to the Capitol's abuse. During the Second Rebellion, Lyme was stationed in District 2, collaborating with the rebels. Despite her origins in District 2, she was covertly opposed to the Capitol, and was among the rare victors to ascend to the rank of commander. Lyme was candid, expressing that Katniss' attempts to undermine support were unsuccessful."}},{"@type":"Question","name":"Who played the character of Lyme in the Hunger Games film series?","acceptedAnswer":{"@type":"Answer","text":"British actress Gwendoline Christie portrayed the character Lyme in The Hunger Games: Mockingjay - Part 2. Christie is also well-known for her work on HBO TV series."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLyme%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lyme was a past victor of an unspecified Hunger Games "over a generation ago", meaning she most likely won the Hunger Games around the same time <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> did.<sup id="cite_ref-MJ_14_1-2" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Due to the fact she came from District 2, she may have been a <a href="/wiki/Volunteer" title="Volunteer">volunteer</a> and a Career.<sup id="cite_ref-THG_7_2-0" class="reference"><a href="#cite_note-THG_7-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> mentioned that Lyme was memorable enough,<sup id="cite_ref-MJ_14_1-3" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> implying she may have been a popular victor.
+</p><p>Katniss also remembered seeing glimpses of her over the years in previous Hunger Games broadcasts, but that she kept a low profile. Because of this, Katniss wondered whether Lyme was a victim of sex trafficking or other mistreatment by the Capitol, since she had recently learned about the harm done to <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> and the deaths of Haymitch Abernathy's family.<sup id="cite_ref-MJ_14_1-4" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Second_Rebellion">Second Rebellion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLyme%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lyme was presumably in District 2 for the majority of the Second Rebellion working with the rebels to capture the district. At an unknown point before Lyme and the rebels forces met to discuss their invasion of the Nut and were given reinforcements, she commanded and oversaw a failed attempt of attack that led to heavy losses and casualties on the North Eastern Gate.<sup id="cite_ref-MJ_14_1-5" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> There, the Capitol attacked from up above, causing Lyme's forces to retreat.
+</p><p>Lyme was present at the meeting among rebel commanders and militants including <a href="/wiki/Commander_Paylor" title="Commander Paylor">Commander Paylor</a>, <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a>, <a href="/wiki/Boggs" title="Boggs">Boggs</a>, <a href="/wiki/Beetee" class="mw-redirect" title="Beetee">Beetee</a>, <a href="/wiki/Katniss" class="mw-redirect mw-disambig" title="Katniss">Katniss</a> and <a href="/wiki/Gale" class="mw-redirect" title="Gale">Gale</a>. There, they discussed and diverged plans of the invasion of the Nut to capture Capitol forces and arsenals. Coin proposes that they can use Katniss to erode support, which was rejected by Lyme, citing that the support for the Capitol runs deeply within the District and thus the presence of Katniss is ineffective, although she was later proven wrong. The idea of a mass genocide of the Nut was also rejected by Commander Paylor. When Gale proposed that the rebels can disable the Nut rather than take over, Lyme asked him to elaborate<sup id="cite_ref-MJ_14_1-6" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>. After Gale's proposal is approved, she shows discontent and anger toward Gale after he proposes that all workers should be killed in the attack<sup id="cite_ref-MJ_15_3-0" class="reference"><a href="#cite_note-MJ_15-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>. Afterwards, she presumably went on to command her forces to attack the Nut alongside other rebel forces with other Districts.
+</p><p>After they carry out <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale</a>'s combined plans, rebel forces succeeded to make the Nut collapse over itself through avalanches to block the exits and forced the workers out through the train station<sup id="cite_ref-MJ_15_3-1" class="reference"><a href="#cite_note-MJ_15-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>. After the capture of the nut, and the decisive winning victory for the rebels weakening Capitol forces greatly, Lyme presumably stayed in District 2.
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLyme%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Lyme was not present at the post-war meeting of the surviving victors to vote on the holding of a <a href="/wiki/76th_Hunger_Games" title="76th Hunger Games">76th Hunger Games</a>, it is assumed she had been killed sometime before then.<sup id="cite_ref-MJ_26_4-0" class="reference"><a href="#cite_note-MJ_26-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> It is unknown exactly when and how Lyme died, but it would have happened after the success of the invasion of the Nut.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLyme%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Katniss said that Lyme was middle-aged, over 6 feet tall, and very muscular. Her face was described as unforgettable, as it made Katniss remember her from a past Hunger Games. Katniss also mentioned that she could easily have the upper hand in hitting Gale from all her training, suggesting she is very powerful.<sup id="cite_ref-MJ_14_1-7" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality">Personality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLyme%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span>"<i>They should at least be given a chance to surrender</i>"</span></dd>
+<dd>—Lyme proposes that the District 2 workers could rather be left alive after the collapse of the Nut</dd></dl></div>
+<p>Lyme kept a low profile after the victory of her Hunger Games, as Katniss only remembered seeing glimpses of her during previous Hunger Games broadcasts most likely as a mentor<sup id="cite_ref-MJ_14_1-8" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>. She was also one of the only victors to become a commander, showing that despite coming from District 2, she was secretly always against the Capitol.
+</p><p>However, Lyme is very upfront and honest, stating that Katniss' presence to erode support was ineffective and stated that Coin was too long underground and therefore ignorant of District 2. Despite her incredible strength, she shows sympathy, believing that her fellow District 2 workers should have a chance to surrender after the collapse of the Nut. When Gale pushed toward simply killing all workers, Katniss noted that Lyme showed extreme anger on her face, so much so that Katniss believed that she was going to shoot or take a swing at Gale.<sup id="cite_ref-MJ_15_3-2" class="reference"><a href="#cite_note-MJ_15-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> She felt defensive of District 2, stating that she believed the rebels didn't know what her forces were up against, and had showed apparent struggle when revealing that her forces took heavy casualties from a failed invasion. She also showed frustration when plans to storm the entrances was proposed, due to the many soldiers she lost from similar failed attempts.<sup id="cite_ref-MJ_14_1-9" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLyme%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Lyme" is derived from <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://en.wikipedia.org/wiki/Lime_(material)">lime</a>, an inorganic material and product of limestone. Lime is a component in lime mortar, used in masonry.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLyme%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> sent Katniss and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> the tape of Lyme's Games to prepare for the 75th Hunger Games.<sup id="cite_ref-CF_14_5-0" class="reference"><a href="#cite_note-CF_14-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-MJ_14_1-10" class="reference"><a href="#cite_note-MJ_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li>
+<li>Lyme may be her surname, due to the nature of her Commander title.</li>
+<li><a href="https://en.wikipedia.org/wiki/Lily_Rabe" class="extiw" title="wikipedia:Lily Rabe">Lily Rabe</a> was originally set to play Lyme in <i>Mockingjay - Part 2</i>, but a scheduling conflict forced her to withdraw.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FLyme%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MJ_14-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_14_1-0">1.00</a></sup> <sup><a href="#cite_ref-MJ_14_1-1">1.01</a></sup> <sup><a href="#cite_ref-MJ_14_1-2">1.02</a></sup> <sup><a href="#cite_ref-MJ_14_1-3">1.03</a></sup> <sup><a href="#cite_ref-MJ_14_1-4">1.04</a></sup> <sup><a href="#cite_ref-MJ_14_1-5">1.05</a></sup> <sup><a href="#cite_ref-MJ_14_1-6">1.06</a></sup> <sup><a href="#cite_ref-MJ_14_1-7">1.07</a></sup> <sup><a href="#cite_ref-MJ_14_1-8">1.08</a></sup> <sup><a href="#cite_ref-MJ_14_1-9">1.09</a></sup> <sup><a href="#cite_ref-MJ_14_1-10">1.10</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-THG_7-2"><span class="mw-cite-backlink"><a href="#cite_ref-THG_7_2-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-MJ_15-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_15_3-0">3.0</a></sup> <sup><a href="#cite_ref-MJ_15_3-1">3.1</a></sup> <sup><a href="#cite_ref-MJ_15_3-2">3.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-MJ_26-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_26_4-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-CF_14-5"><span class="mw-cite-backlink"><a href="#cite_ref-CF_14_5-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://playbill.com/article/lily-rabe-withdraws-from-hunger-games-mockingjaypart-2-due-to-shakespeare-in-the-park-com-216932">https://playbill.com/article/lily-rabe-withdraws-from-hunger-games-mockingjaypart-2-due-to-shakespeare-in-the-park-com-216932</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <strong class="mw-selflink selflink">Lyme</strong> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20260104171823
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.080 seconds
+Real time usage: 0.137 seconds
+Preprocessor visited node count: 353/1000000
+Post‐expand include size: 3400/2097152 bytes
+Template argument size: 507/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5064/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   63.128      1 -total
+ 50.80%   32.070      1 Template:Character
+ 19.23%   12.137      1 Template:Reflist
+  2.53%    1.597      2 Template:Quote
+  2.44%    1.538      1 Template:SeriesTP
+  2.20%    1.389      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3292-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260104171823 and revision id 966557. Rendering was triggered because: page-view
+ -->
+</div>

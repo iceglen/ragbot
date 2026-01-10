@@ -1,0 +1,38 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div style="border:4px double #ffe600; border-radius:1em;">
+<center><b>This article is a disambiguation page for Training</b>
+<p>The following is a list of links to pages that might share the same title.<br />
+</p>
+Please follow one of the disambiguation links below or <a href="/wiki/Special:Search" title="Special:Search">search</a> to find the page you were looking for if it is not listed. If an <a href="/wiki/Special:WhatLinksHere/Training" title="Special:WhatLinksHere/Training">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</center></div>
+<p><br />
+<b>Training</b> may refer to:
+</p>
+<ul><li><a href="/wiki/Training_stations" title="Training stations">Training stations</a> - stations available to <a href="/wiki/Tribute" title="Tribute">tributes</a> during a three-day training period for the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, teaching them about survival skills and <a href="/wiki/Weapons" title="Weapons">weapons</a>.</li>
+<li><a href="/wiki/Training_Center" title="Training Center">Training Center</a> - the building where tributes, <a href="/wiki/Mentor" title="Mentor">mentors</a>, <a href="/wiki/Escort" title="Escort">escorts</a>, and <a href="/wiki/Stylist" title="Stylist">stylists</a> stayed in the week leading up to the Games. Also known as the <b>Tribute Center</b>.</li>
+<li><a href="/wiki/Training_score" title="Training score">Training score</a> - a numerical score rating a tribute's performance during training.</li>
+<li><a href="/wiki/Training_outfits" title="Training outfits">Training outfits</a> - clothing worn by tributes during training.</li>
+<li><a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a> - tributes who illegally trained for the Games ahead of time.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20260103233050
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.006 seconds
+Real time usage: 0.013 seconds
+Preprocessor visited node count: 6/1000000
+Post‐expand include size: 541/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    1.621      1 Template:Disambig
+100.00%    1.621      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542980-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260103233050 and revision id 953937. Rendering was triggered because: page-view
+ -->
+</div>

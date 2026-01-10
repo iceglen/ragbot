@@ -1,0 +1,292 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Buttercup</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c6/Buttercup.png/revision/latest?cb=20150104015613" class="image image-thumbnail" title="Buttercup">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/c/c6/Buttercup.png/revision/latest/scale-to-width-down/268?cb=20150104015613" srcset="https://static.wikia.nocookie.net/thehungergames/images/c/c6/Buttercup.png/revision/latest/scale-to-width-down/268?cb=20150104015613 1x, https://static.wikia.nocookie.net/thehungergames/images/c/c6/Buttercup.png/revision/latest/scale-to-width-down/536?cb=20150104015613 2x" class="pi-image-thumbnail" data-relevant="1" alt="Buttercup" width="270" height="270" data-image-key="Buttercup.png" data-image-name="Buttercup.png">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">3-4 (<i>The Hunger Games</i>)<br>4-5 (<i>Catching Fire</i> and <i>Mockingjay</i>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Seam" title="The Seam">The Seam</a> (formerly)<br><a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> in <a href="/wiki/District_12" title="District 12">District 12</a><br><a href="/wiki/District_13" title="District 13">District 13</a> (briefly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i><br><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i><br><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games (film)</a></i><br><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i><br><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a></i><br><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Buttercup</b> was a "hideous-looking cat" that belonged to <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a>.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> He later came into the ownership of Prim's older sister, <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>.<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Origins"><span class="tocnumber">1.1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#The_Hunger_Games"><span class="tocnumber">1.2</span> <span class="toctext"><i>The Hunger Games</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Catching_Fire"><span class="tocnumber">1.3</span> <span class="toctext"><i>Catching Fire</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Mockingjay"><span class="tocnumber">1.4</span> <span class="toctext"><i>Mockingjay</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Relationships"><span class="tocnumber">3</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Primrose_Everdeen"><span class="tocnumber">3.1</span> <span class="toctext">Primrose Everdeen</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Katniss_Everdeen"><span class="tocnumber">3.2</span> <span class="toctext">Katniss Everdeen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="47221" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who originally owned Buttercup in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Primrose Everdeen was the original owner of Buttercup in the Hunger Games. Following Prim's demise, Katniss Everdeen, her elder sister, took ownership of Buttercup. They formed a close bond, with Buttercup providing companionship to Katniss, similar to his relationship with Prim.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47222" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Katniss Everdeen come to own Buttercup?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Buttercup, the cat from the Hunger Games, was initially Primrose Everdeen's pet. Prim found him as a scrawny, sickly kitten and pleaded for his adoption into the Everdeen family. Despite initial resistance due to the additional burden, Katniss Everdeen allowed him to stay. Following Prim's demise, Buttercup became Katniss's cat, and they formed a bond over their mutual loss.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47223" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Katniss's initial reaction to Buttercup?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Katniss Everdeen's initial reaction to Buttercup, the cat from Hunger Games, was negative. She viewed him as an extra burden and attempted to drown him, but Prim's plea for his life changed her mind. Buttercup's hostility towards Katniss, shown through hissing, ceased when she began feeding him game entrails. Following Prim's death, Buttercup became a source of solace for Katniss.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47224" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How was Buttercup's physical condition when Prim first found him?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Upon discovery by Prim, Buttercup, the cat from Hunger Games, was in a dire state. He was scrawny, worm-infested, and flea-ridden. Despite Katniss's initial reluctance to keep another mouth to feed, Prim's pleas led to Buttercup's adoption and Mrs. Everdeen nursed him back to health.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47225" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Why was Katniss reluctant to adopt Buttercup?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Katniss Everdeen, in the Hunger Games, was hesitant to adopt Buttercup due to the added responsibility of feeding him. Buttercup, Prim's cat, was initially in poor health, being scrawny and infested with worms and fleas. Despite Katniss's initial plan to drown him, Prim's emotional pleas led to Buttercup's stay and eventual recovery under Mrs. Everdeen's care.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Buttercup","mainEntity":[{"@type":"Question","name":"Who originally owned Buttercup in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Primrose Everdeen was the original owner of Buttercup in the Hunger Games. Following Prim's demise, Katniss Everdeen, her elder sister, took ownership of Buttercup. They formed a close bond, with Buttercup providing companionship to Katniss, similar to his relationship with Prim."}},{"@type":"Question","name":"How did Katniss Everdeen come to own Buttercup?","acceptedAnswer":{"@type":"Answer","text":"Buttercup, the cat from the Hunger Games, was initially Primrose Everdeen's pet. Prim found him as a scrawny, sickly kitten and pleaded for his adoption into the Everdeen family. Despite initial resistance due to the additional burden, Katniss Everdeen allowed him to stay. Following Prim's demise, Buttercup became Katniss's cat, and they formed a bond over their mutual loss."}},{"@type":"Question","name":"What was Katniss's initial reaction to Buttercup?","acceptedAnswer":{"@type":"Answer","text":"Katniss Everdeen's initial reaction to Buttercup, the cat from Hunger Games, was negative. She viewed him as an extra burden and attempted to drown him, but Prim's plea for his life changed her mind. Buttercup's hostility towards Katniss, shown through hissing, ceased when she began feeding him game entrails. Following Prim's death, Buttercup became a source of solace for Katniss."}},{"@type":"Question","name":"How was Buttercup's physical condition when Prim first found him?","acceptedAnswer":{"@type":"Answer","text":"Upon discovery by Prim, Buttercup, the cat from Hunger Games, was in a dire state. He was scrawny, worm-infested, and flea-ridden. Despite Katniss's initial reluctance to keep another mouth to feed, Prim's pleas led to Buttercup's adoption and Mrs. Everdeen nursed him back to health."}},{"@type":"Question","name":"Why was Katniss reluctant to adopt Buttercup?","acceptedAnswer":{"@type":"Answer","text":"Katniss Everdeen, in the Hunger Games, was hesitant to adopt Buttercup due to the added responsibility of feeding him. Buttercup, Prim's cat, was initially in poor health, being scrawny and infested with worms and fleas. Despite Katniss's initial plan to drown him, Prim's emotional pleas led to Buttercup's stay and eventual recovery under Mrs. Everdeen's care."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Years before the <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy">trilogy</a>, Buttercup was found by Prim as a kitten. Katniss described him as "scrawny... [his] belly swollen with worms, [and] crawling with fleas." Katniss was averse to adopting him because it was another mouth to feed. She tried to drown Buttercup in a bucket, but Prim "begged so hard, cried even", that Katniss reluctantly allowed him to stay. <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> "got rid of the vermin", nursing him back to health.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>He was presumably adopted by the Everdeens sometime after the death of <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a>, since Katniss was running the household, but it had to have been sometime after Mrs. Everdeen overcame from her depression, since she was able to heal him. As a result, Buttercup is probably about 3-4 years old at the start of the trilogy.
+</p><p>Once healed, Buttercup grew to be a "born mouser", even catching rats occasionally. He used to hiss at Katniss, but she built trust by feeding him entrails, so the hissing stopped.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Hunger_Games"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5c/Buttercup_in_the_first_films.png/revision/latest?cb=20241230223959" class="mw-file-description image"><img alt="Buttercup hissing at Katniss" src="https://static.wikia.nocookie.net/thehungergames/images/5/5c/Buttercup_in_the_first_films.png/revision/latest/scale-to-width-down/180?cb=20241230223959" decoding="async" loading="lazy" width="180" height="89" class="thumbimage" data-image-name="Buttercup in the first films.png" data-image-key="Buttercup_in_the_first_films.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Buttercup_in_the_first_films.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Buttercup hissing at Katniss</p> 		 	</figcaption> </figure>
+<p>On the morning of <a href="/wiki/The_Reaping" class="mw-redirect" title="The Reaping">the reaping</a>, Buttercup sat at Prim's knees and guarded her while she slept, as he often did.<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>In the <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">film adaptation</a>, he appeared momentarily to hiss at Katniss on her way out of the house. She replied that she would "still cook [him]."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Catching_Fire"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Buttercup_CF.png/revision/latest?cb=20140516205113" class="mw-file-description image"><img alt="Buttercup glaring at Katniss." src="https://static.wikia.nocookie.net/thehungergames/images/3/3b/Buttercup_CF.png/revision/latest/scale-to-width-down/180?cb=20140516205113" decoding="async" loading="lazy" width="180" height="128" class="thumbimage" data-image-name="Buttercup CF.png" data-image-key="Buttercup_CF.png" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Buttercup_CF.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Buttercup glaring at Katniss.</p> 		 	</figcaption> </figure>
+<p>Buttercup moved to the <a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> with his family after Katniss won the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>, but he disliked their new house, often returning to their <a href="/wiki/Katniss_Everdeen%27s_house" title="Katniss Everdeen's house">old home</a> in <a href="/wiki/The_Seam" title="The Seam">the Seam</a> while Prim was at <a href="/wiki/School" title="School">school</a>. On the morning the <a href="/wiki/Victory_Tour_(74th_HG)" title="Victory Tour (74th HG)">Victory Tour</a> began, Katniss found Buttercup wailing at the back door of their old home and let him in. She fed him some beaver fat and rubbed between his ears, then told him he was "hideous". When he nudged her for more petting, she scooped him up into her arms and left, but Buttercup sprang away to disappear under a bush.<sup id="cite_ref-:2_4-0" class="reference"><a href="#cite_note-:2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> In <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, Buttercup sat in Prim's lap as she and her family watched the reading of the card for the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">third Quarter Quell</a>.<sup id="cite_ref-:3_5-0" class="reference"><a href="#cite_note-:3-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Mockingjay"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When Katniss returned to District 12 after the <a href="/wiki/Bombing_of_District_12" class="mw-redirect" title="Bombing of District 12">bombing</a>, she found Buttercup in her house in the Victors' Village. Katniss lamented that she had found him and not <a href="/wiki/Lady" title="Lady">Lady</a>, Prim's goat, "an animal of actual value". Katniss mentioned that the cat looked fat and healthy, supposing that he fed on field mice because she "[refused] to consider the alternative"— hinting he might have been feeding on the corpses of victims from the bombing. Katniss asked Buttercup if he wanted to see Prim, to which he meowed at her; then she stuffed him into her game bag, as she doubted he would be allowed on the <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a>.<sup id="cite_ref-:4_6-0" class="reference"><a href="#cite_note-:4-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>Buttercup growled at Katniss for the mistreatment, but he was freed in their compartment in <a href="/wiki/District_13" title="District 13">District 13</a>. Prim rocked him in her arms and wept as he purred. Katniss nicknamed their hour of reunification as "1800—Cat Adoration." He occasionally paused to hiss at Katniss, and evidently gave her a "particularly smug look" as Prim tied a blue ribbon around his neck.<sup id="cite_ref-:5_7-0" class="reference"><a href="#cite_note-:5-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Reunited, he went back to guarding Prim as she slept.<sup id="cite_ref-:6_8-0" class="reference"><a href="#cite_note-:6-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> 
+</p><p>Once Katniss agreed to work with the rebels, the first stipulation of the <a href="/wiki/Mockingjay_Deal" title="Mockingjay Deal">Mockingjay Deal</a> was that her family would be able to keep Buttercup. This started an argument between <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> rebels, who thought this was reasonable, and rebels from 13, who pointed out difficulties this would pose. Eventually the request was accepted, and Katniss and her family moved to a compartment with an "eight-inch window aboveground" that Buttercup could use to come and go, feeding himself. He would be locked out if he missed curfew, and if he posed any security issues, he would be shot.<sup id="cite_ref-:6_8-1" class="reference"><a href="#cite_note-:6-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>Later, the citizens of District 13 evacuated to a subterranean bunker during <a href="/wiki/Bombings#Second_Bombing_of_District_13" title="Bombings">a bombing</a>, and Prim went back to their compartment to retrieve Buttercup. They barely avoided getting locked out. Once inside, Prim placed Buttercup on the lower bunk, nestled under a blanket, and she pet him.<sup id="cite_ref-:7_9-0" class="reference"><a href="#cite_note-:7-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> During brief periods of socialization amid the bombing, Buttercup kept the people of District 13 entertained with evening games of Crazy Cat: Katniss wiggled a flashlight around and he would try to catch it. It drove him crazy if she left the light shining in a place where he couldn't reach it, and when the light was turned off, he would be confused and upset for a while, but eventually got over it. On the third night, Katniss compared this to the way the Capitol was using <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> against her.<sup id="cite_ref-:8_10-0" class="reference"><a href="#cite_note-:8-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/24/Katniss_and_Buttercup_THGMJ2.jpg/revision/latest?cb=20230627224128" class="mw-file-description image"><img alt="Katniss hugging Buttercup to her in Mockingjay - Part 2." src="https://static.wikia.nocookie.net/thehungergames/images/2/24/Katniss_and_Buttercup_THGMJ2.jpg/revision/latest/scale-to-width-down/180?cb=20230627224128" decoding="async" loading="lazy" width="180" height="101" class="thumbimage" data-image-name="Katniss and Buttercup THGMJ2.jpg" data-image-key="Katniss_and_Buttercup_THGMJ2.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Katniss_and_Buttercup_THGMJ2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Katniss hugging Buttercup to her in <i>Mockingjay - Part 2.</i></p> 		 	</figcaption> </figure>
+<p>After Prim's death and Katniss's trial for the assassination of <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a>, Katniss returned once more to District 12. Several weeks later, she came home one day only to hear Buttercup hissing at her. When she turned to look at him, she saw that he had been clawed by a wild animal, that he held his back paw above the ground, and that the bones in his face had become "prominent". She concluded that Buttercup had traveled all the way from District 13 on foot, searching for Prim. She threw a pillow at him and screamed that Prim was dead, but quickly broke down in tears. Buttercup wailed with her, staying nearby. When Katniss went to bed that night, she found Buttercup waiting there to guard her. The next morning, Katniss tended to his injuries and they cried together, and when <a href="/wiki/Greasy_Sae" title="Greasy Sae">Greasy Sae</a> came to make Katniss breakfast, she fed all her bacon to Buttercup.<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to Katniss, Buttercup had a mashed-in nose and half of one ear missing, with eyes the color of rotting squash and a muddy yellow coat. She even described him as the world's ugliest cat,<sup id="cite_ref-:0_1-4" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-:4_6-1" class="reference"><a href="#cite_note-:4-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> so some of her description may have been colored by her fraught relationship with him.
+</p><p>In <i>The Hunger Games</i> film, Buttercup appeared as a black and white cat with yellow eyes. However, in <i>Catching Fire,</i> he appeared as a ginger cat as described in the trilogy. This remained the case for both <i>Mockingjay - Part 1</i> and <i>Part 2</i>.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e0/Prim_and_Buttercup_THGCF.png/revision/latest?cb=20230627190923" class="mw-file-description image"><img alt="Buttercup sitting in Prim's lap in The Hunger Games: Catching Fire" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="193" class="thumbimage lazyload" data-image-name="Prim and Buttercup THGCF.png" data-image-key="Prim_and_Buttercup_THGCF.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/e0/Prim_and_Buttercup_THGCF.png/revision/latest/scale-to-width-down/180?cb=20230627190923"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/e/e0/Prim_and_Buttercup_THGCF.png/revision/latest?cb=20230627190923" class="mw-file-description image"><img alt="Buttercup sitting in Prim's lap in The Hunger Games: Catching Fire" src="https://static.wikia.nocookie.net/thehungergames/images/e/e0/Prim_and_Buttercup_THGCF.png/revision/latest/scale-to-width-down/180?cb=20230627190923" decoding="async" loading="lazy" width="180" height="193" class="thumbimage" data-image-name="Prim and Buttercup THGCF.png" data-image-key="Prim_and_Buttercup_THGCF.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/e0/Prim_and_Buttercup_THGCF.png/revision/latest/scale-to-width-down/180?cb=20230627190923"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Prim_and_Buttercup_THGCF.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Buttercup sitting in Prim's lap in <i>The Hunger Games: Catching Fire</i></p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Primrose_Everdeen">Primrose Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Prim was the one who found Buttercup, begged Katniss not to drown him, and later healed him, keeping him as a pet. Buttercup always slept with Prim, watching over her during the night.<sup id="cite_ref-:0_1-5" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> In <i>Catching Fire</i>, though he did not like the new house in the Victors' Village, he always came back for Prim,<sup id="cite_ref-:2_4-1" class="reference"><a href="#cite_note-:2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> and in <i>Mockingjay</i>, he even traveled all the way from District 13 to find her.<sup id="cite_ref-:1_2-2" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>Prim also went to great lengths for Buttercup; she nearly got locked out of the bunker during the bombing in order to rescue him.<sup id="cite_ref-:7_9-1" class="reference"><a href="#cite_note-:7-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup> She was moved to tears when Katniss brought him to District 13 from 12,<sup id="cite_ref-:5_7-1" class="reference"><a href="#cite_note-:5-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> and she turned to him for comfort in difficult times.<sup id="cite_ref-:3_5-1" class="reference"><a href="#cite_note-:3-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-:7_9-2" class="reference"><a href="#cite_note-:7-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Katniss_Everdeen">Katniss Everdeen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games (film)">"<i>I'm still going to cook you!</i>"</span></dd>
+<dd>—Katniss Everdeen to Buttercup<sup class="noprint"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">[src]</a></sup></dd></dl></div>
+<p>At first, Katniss and Buttercup did not like each other at all. Katniss saw Buttercup as another mouth to feed, so she tried to drown him in a bucket of water before Prim begged for his life. After that, Buttercup tended to hiss at her, though he stopped when she started to give him entrails from the game she hunted. Still, Katniss thought he was the ugliest cat in the world.<sup id="cite_ref-:0_1-6" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>In<i> Catching Fire</i>, Katniss and Buttercup both disliked the new house in the Victors Village and often visited the old place in the Seam. Katniss said they had formed a new bond over this.<sup id="cite_ref-:2_4-2" class="reference"><a href="#cite_note-:2-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>In <i>Mockingjay</i>, Katniss brought him with her to District 13 for Prim,<sup id="cite_ref-:4_6-2" class="reference"><a href="#cite_note-:4-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-:5_7-2" class="reference"><a href="#cite_note-:5-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> and she included him as the first item of the Mockingjay Deal.<sup id="cite_ref-:6_8-2" class="reference"><a href="#cite_note-:6-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> When she became Buttercup's owner after Prim's death, the two bonded over their loss, and Buttercup stayed by her side much like he had Prim.<sup id="cite_ref-:1_2-3" class="reference"><a href="#cite_note-:1-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> 
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Prim named him Buttercup because she insisted that his muddy yellow coat matched the bright yellow <a href="https://en.wikipedia.org/wiki/buttercup" class="extiw" title="wikipedia:buttercup">buttercup</a> flower.<sup id="cite_ref-:0_1-7" class="reference"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <i>The Hunger Games</i> film, Buttercup was a black and white cat. However, in <i>The Hunger Games: Catching Fire</i>, Buttercup was recast as a large, fluffy ginger tabby, portrayed by a seven-year-old <a href="https://en.wikipedia.org/wiki/Maine_Coon" class="extiw" title="wikipedia:Maine Coon">Maine Coon</a> named Orion.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup></li>
+<li>Buttercup was afraid of thunder, and liked to be hidden underneath a blanket during storms. Katniss said it was the one thing that frightened him.<sup id="cite_ref-:7_9-3" class="reference"><a href="#cite_note-:7-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup></li>
+<li>Katniss invented Crazy Cat by accident several years before <i>Mockingjay</i>, during a winter blackout.<sup id="cite_ref-:8_10-1" class="reference"><a href="#cite_note-:8-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup></li>
+<li>Buttercup appeared in all three books in the trilogy, and all four films.</li>
+<li>Buttercup is the only known cat in the trilogy. The only other cat, appearing in <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, is <a href="/wiki/Boa_Bell" title="Boa Bell">Boa Bell</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FButtercup%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_1-0">1.0</a></sup> <sup><a href="#cite_ref-:0_1-1">1.1</a></sup> <sup><a href="#cite_ref-:0_1-2">1.2</a></sup> <sup><a href="#cite_ref-:0_1-3">1.3</a></sup> <sup><a href="#cite_ref-:0_1-4">1.4</a></sup> <sup><a href="#cite_ref-:0_1-5">1.5</a></sup> <sup><a href="#cite_ref-:0_1-6">1.6</a></sup> <sup><a href="#cite_ref-:0_1-7">1.7</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-:1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:1_2-0">2.0</a></sup> <sup><a href="#cite_ref-:1_2-1">2.1</a></sup> <sup><a href="#cite_ref-:1_2-2">2.2</a></sup> <sup><a href="#cite_ref-:1_2-3">2.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-:2-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:2_4-0">4.0</a></sup> <sup><a href="#cite_ref-:2_4-1">4.1</a></sup> <sup><a href="#cite_ref-:2_4-2">4.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-:3-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:3_5-0">5.0</a></sup> <sup><a href="#cite_ref-:3_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-:4-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:4_6-0">6.0</a></sup> <sup><a href="#cite_ref-:4_6-1">6.1</a></sup> <sup><a href="#cite_ref-:4_6-2">6.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 1</span>
+</li>
+<li id="cite_note-:5-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:5_7-0">7.0</a></sup> <sup><a href="#cite_ref-:5_7-1">7.1</a></sup> <sup><a href="#cite_ref-:5_7-2">7.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 2</span>
+</li>
+<li id="cite_note-:6-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:6_8-0">8.0</a></sup> <sup><a href="#cite_ref-:6_8-1">8.1</a></sup> <sup><a href="#cite_ref-:6_8-2">8.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-:7-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:7_9-0">9.0</a></sup> <sup><a href="#cite_ref-:7_9-1">9.1</a></sup> <sup><a href="#cite_ref-:7_9-2">9.2</a></sup> <sup><a href="#cite_ref-:7_9-3">9.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-:8-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:8_10-0">10.0</a></sup> <sup><a href="#cite_ref-:8_10-1">10.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 11</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Ford, Rebecca (April 27, 2016). <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.hollywoodreporter.com/lists/keanu-kitten-7-more-scene-888137/buttercup/">Film Felines: ‘Keanu’ Kitten and 7 More Scene-Stealing Cats</a>. The Hollywood Reporter. Retrieved on May 7, 2023.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Haley, Cain (November 2014). <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.pandecats.com/tc-sco/PantherHillOrion.shtml">GP, SGCA, RW Panther Hill Orion</a>. ShowCatsOnline.com. Retrieved on May 7, 2023.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 4</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251227222755
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.136 seconds
+Real time usage: 0.205 seconds
+Preprocessor visited node count: 761/1000000
+Post‐expand include size: 1993/2097152 bytes
+Template argument size: 1214/2097152 bytes
+Highest expansion depth: 9/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9785/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  154.346      1 -total
+ 37.20%   57.413      1 Template:Reflist
+ 26.13%   40.335      1 Template:Character
+  2.43%    3.749      2 Template:Cite_web
+  1.34%    2.065      1 Template:Quote
+  1.08%    1.671      2 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:2410-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251227222755 and revision id 954447. Rendering was triggered because: page-view
+ -->
+</div>

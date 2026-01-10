@@ -1,0 +1,202 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">73rd Hunger Games</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/74/Tribute-Boy-2.jpeg/revision/latest?cb=20190804180455" class="image image-thumbnail" title="Tribute-Boy-2">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/7/74/Tribute-Boy-2.jpeg/revision/latest/scale-to-width-down/268?cb=20190804180455" srcset="https://static.wikia.nocookie.net/thehungergames/images/7/74/Tribute-Boy-2.jpeg/revision/latest/scale-to-width-down/268?cb=20190804180455 1x, https://static.wikia.nocookie.net/thehungergames/images/7/74/Tribute-Boy-2.jpeg/revision/latest/scale-to-width-down/536?cb=20190804180455 2x" class="pi-image-thumbnail" data-relevant="1" alt="Tribute-Boy-2" width="270" height="186" data-image-key="Tribute-Boy-2.jpeg" data-image-name="Tribute-Boy-2.jpeg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+	
+		<h3 class="pi-data-label pi-secondary-font">Type</h3>
+	
+	<div class="pi-data-value pi-font">Regular</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="victor">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_2_male_(73rd_HG)" title="District 2 male (73rd HG)">District 2 male (73rd HG)</a><sup id="cite_ref-THG_film_1-0" class="reference"><a href="#cite_note-THG_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="district">
+	
+		<h3 class="pi-data-label pi-secondary-font">Victor's home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_2" title="District 2">District 2</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arena">
+	
+		<h3 class="pi-data-label pi-secondary-font">Arena</h3>
+	
+	<div class="pi-data-value pi-font">Ruined city</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gamemaker">
+	
+		<h3 class="pi-data-label pi-secondary-font">Head Gamemaker</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a> (film)<sup id="cite_ref-THG_film_1-1" class="reference"><a href="#cite_note-THG_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">The Hunger Games (film)</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="previous">
+	
+		<h3 class="pi-data-label pi-secondary-font">Preceded by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/72nd_Hunger_Games" class="mw-redirect" title="72nd Hunger Games">72nd Hunger Games</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="next">
+	
+		<h3 class="pi-data-label pi-secondary-font">Followed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a></div>
+</div>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: The Hunger Games (film)">"<i>Remember this year? Oh, one of my favorite years and one of my favorite arenas. The use of the rubble, the ruined city, very exciting. And this moment here, this moment is a moment you'll never forget. The moment when a tribute becomes a victor.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> on the 73rd Hunger Games<sup class="noprint"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)">[src]</a></sup></dd></dl></div>
+<p>The <b>73rd Hunger Games</b> took place one year prior to the start of the <a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy">trilogy</a>. These Hunger Games were won by an <a href="/wiki/District_2_male_(73rd_HG)" title="District 2 male (73rd HG)">unnamed boy</a>, the male <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_2" title="District 2">District 2</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Known_tributes"><span class="tocnumber">1</span> <span class="toctext">Known tributes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Arena"><span class="tocnumber">2</span> <span class="toctext">Arena</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Arena_uniform"><span class="tocnumber">2.1</span> <span class="toctext">Arena uniform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Summary"><span class="tocnumber">3</span> <span class="toctext">Summary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Pre-Games"><span class="tocnumber">3.1</span> <span class="toctext">Pre-Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Interviews"><span class="tocnumber">3.1.1</span> <span class="toctext">Interviews</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#The_Games"><span class="tocnumber">3.2</span> <span class="toctext">The Games</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Aftermath"><span class="tocnumber">3.3</span> <span class="toctext">Aftermath</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Early_script"><span class="tocnumber">4</span> <span class="toctext">Early script</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Placing"><span class="tocnumber">5</span> <span class="toctext">Placing</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Known_tributes">Known tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/7/74/Tribute-Boy-2.jpeg/revision/latest?cb=20190804180455" class="mw-file-description image"><img alt="The District 2 male in ." src="https://static.wikia.nocookie.net/thehungergames/images/7/74/Tribute-Boy-2.jpeg/revision/latest/scale-to-width-down/180?cb=20190804180455" decoding="async" loading="lazy" width="180" height="124" class="thumbimage" data-image-name="Tribute-Boy-2.jpeg" data-image-key="Tribute-Boy-2.jpeg" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tribute-Boy-2.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The District 2 male in <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>.</p> 		 	</figcaption> </figure>
+<ul><li><a href="/wiki/District_2_male_(73rd_HG)" title="District 2 male (73rd HG)">District 2 male</a> - District 2 (<a href="/wiki/Victor" title="Victor">victor</a>) - mentored by unknown victors</li>
+<li><a href="/wiki/Prospero" title="Prospero">Prospero</a> - <a href="/wiki/District_3" title="District 3">District 3</a> - mentored by unknown victors</li>
+<li><a href="/wiki/District_10_male_(73rd_HG)" title="District 10 male (73rd HG)">District 10 male</a> - <a href="/wiki/District_10" title="District 10">District 10</a> - mentored by unknown victors</li>
+<li><a href="/wiki/District_12_female_(73rd_HG)" title="District 12 female (73rd HG)">District 12 female</a> and <a href="/wiki/District_12_male_(73rd_HG)" class="mw-redirect" title="District 12 male (73rd HG)">Sage Blanken</a> - <a href="/wiki/District_12" title="District 12">District 12</a> - <a href="/wiki/Mentor" title="Mentor">mentored</a> by <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a></li></ul>
+<p><b>Film only — *</b>
+</p><p><b>Mentioned in an early draft of the film script — **</b>
+</p>
+<h2><span class="mw-headline" id="Arena">Arena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/3/3e/News_reel_victor_and_tribute_costumes.png/revision/latest?cb=20230527204043" class="mw-file-description image"><img alt="Costumes used in the news reel footage" src="https://static.wikia.nocookie.net/thehungergames/images/3/3e/News_reel_victor_and_tribute_costumes.png/revision/latest/scale-to-width-down/180?cb=20230527204043" decoding="async" loading="lazy" width="180" height="201" class="thumbimage" data-image-name="News reel victor and tribute costumes.png" data-image-key="News_reel_victor_and_tribute_costumes.png" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:News_reel_victor_and_tribute_costumes.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Costumes used in the news reel footage</p> 		 	</figcaption> </figure>
+<p>The 73rd Hunger Games were set in the rubble of a ruined city. <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> said this <a href="/wiki/Arena" title="Arena">arena</a> was one of his favorites.<sup id="cite_ref-THG_film_1-2" class="reference"><a href="#cite_note-THG_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Arena_uniform"><a href="/wiki/Arena_wear#News_reel" title="Arena wear">Arena uniform</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the film, both tributes shown wore black shoes, black cargo pants, and black, cropped armored vests underneath their colorful jackets. These appeared to correspond with the district color coding also used for the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>: red with black stripes for District 2, and gray-brown with yellow stripes for District 10.<sup id="cite_ref-THG_film_1-3" class="reference"><a href="#cite_note-THG_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pre-Games">Pre-Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>, the District 12 <a href="/wiki/Escort" title="Escort">escort</a>, mentioned that the tributes from 12 had poor table manners that year, complaining that they ate like "a couple of savages". According to <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a>, both had been from <a href="/wiki/The_Seam" title="The Seam">the Seam</a>, so they'd had never had a decent meal in their lives.<sup id="cite_ref-THG_3_3-0" class="reference"><a href="#cite_note-THG_3-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In <a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> film</a>, this was <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>'s second year as Head <a href="/wiki/Gamemaker" title="Gamemaker">Gamemaker</a>, as the following year was his third and final.<sup id="cite_ref-THG_film_1-4" class="reference"><a href="#cite_note-THG_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Interviews"><a href="/wiki/Interviews" title="Interviews">Interviews</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Caesar Flickerman's hair and make-up color this year was crimson, making it appear as though he was bleeding.<sup id="cite_ref-THG_9_4-0" class="reference"><a href="#cite_note-THG_9-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 220px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c8/Giphy-0.gif/revision/latest?cb=20180517042047" class="mw-file-description image"><img alt="The boy from 2 killing the boy from 10, making him the victor." src="https://static.wikia.nocookie.net/thehungergames/images/c/c8/Giphy-0.gif/revision/latest/scale-to-width-down/220?cb=20180517042047" decoding="async" loading="lazy" width="220" height="124" class="thumbimage" data-image-name="Giphy-0.gif" data-image-key="Giphy-0.gif" data-relevant="1" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Giphy-0.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The boy from 2 killing the boy from 10, making him the victor.</p> 		 	</figcaption> </figure>
+<p>In the film, Katniss briefly watched news reel footage on the <a href="/wiki/Train" title="Train">train</a> to <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>. This footage portrayed the ending of the 73rd Hunger Games', commentated on by Caesar Flickerman and <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> looking back on the event as "the moment when a tribute becomes a victor." The victor was a <a href="/wiki/Career_Tribute" title="Career Tribute">Career Tribute</a>, an unnamed boy from District 2, who bludgeoned the boy from District 10 to death with a brick.<sup id="cite_ref-THG_film_1-5" class="reference"><a href="#cite_note-THG_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The victor of this Games would have been one of 32 unknown victors who were killed by either Capitol or <a href="/wiki/Rebel" class="mw-redirect" title="Rebel">rebel</a> forces during the <a href="/wiki/Victors%27_Purge" title="Victors&#39; Purge">Victors' Purge</a>, after the third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>.<sup id="cite_ref-MJ_26_5-0" class="reference"><a href="#cite_note-MJ_26-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Early_script">Early script</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In an early version of the script, the ruined city was said to be <a href="https://en.wikipedia.org/wiki/Aspen,_Colorado" class="extiw" title="wikipedia:Aspen, Colorado">Aspen, Colorado</a>, 300 years in the future. The boy from 12 was named Sage Blanken, and his parents, <a href="/wiki/Corrina_Blanken" title="Corrina Blanken">Corrina</a> and <a href="/wiki/Tygart_Blanken" title="Tygart Blanken">Tygart Blanken</a>, were vendors at <a href="/wiki/The_Hob" title="The Hob">the Hob</a>.<sup id="cite_ref-THG_script_draft_6-0" class="reference"><a href="#cite_note-THG_script_draft-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>The District 12 female was killed sometime on the first day. Unlike a typical Games where the <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a> would occur on the first day, a bloodbath had taken place on the second day, with at least 8 tributes in attendance: Sage, Prospero from District 3, an unknown girl, an semi-impaled tribute, and four more unknown tributes using a knife, spear, whip, and bow. Sage narrowly escaped the tributes pursuing him only to be killed with a mace by Prospero.<sup id="cite_ref-THG_script_draft_6-1" class="reference"><a href="#cite_note-THG_script_draft-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> 
+</p><p>While they were hunting in the <a href="/wiki/Woods" title="Woods">woods</a> outside <a href="/wiki/District_12" title="District 12">District 12</a>, <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> told Katniss who he thought would win, guessing correctly that it would be the boy from 2.<sup id="cite_ref-THG_script_draft_6-2" class="reference"><a href="#cite_note-THG_script_draft-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>In interviews for the <a href="/wiki/74th_Hunger_Games" title="74th Hunger Games">74th Hunger Games</a>, Caesar mentioned to <a href="/wiki/Cato" title="Cato">Cato</a> that the 72nd and 73rd Hunger Games were both won by <a href="/wiki/District_2" title="District 2">District 2</a> tributes.<sup id="cite_ref-THG_script_draft_6-3" class="reference"><a href="#cite_note-THG_script_draft-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Placing">Placing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>1st</b> - District 2 male (victor)<sup id="cite_ref-THG_film_1-6" class="reference"><a href="#cite_note-THG_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-THG_script_draft_6-4" class="reference"><a href="#cite_note-THG_script_draft-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><b>2nd</b> - District 10 male - bludgeoned to death with a brick<sup id="cite_ref-THG_film_1-7" class="reference"><a href="#cite_note-THG_film-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><b>3rd-24th</b> - Unknown
+<ul><li>Script: Prospero, Sage Blanken (Day 2), District 12 female (Day 1)</li></ul></li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This is the final Hunger Games which ended normally with a single victor. After an attempted double suicide, the 74th Hunger Games had two victors,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> and the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a> were interrupted by the destruction of the <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">arena</a>, so a victor was never crowned.<sup id="cite_ref-CF_27_8-0" class="reference"><a href="#cite_note-CF_27-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>This was the last victory of a Career Tribute, as the 74th Hunger Games were won by District 12, and the 75th had no victor.
+<ul><li>However, another District 2 victor, <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a>, would go on to survive both the 75th Hunger Games and the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.<sup id="cite_ref-MJ_26_5-1" class="reference"><a href="#cite_note-MJ_26-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2F73rd_Hunger_Games%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-THG_film-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_film_1-0">1.0</a></sup> <sup><a href="#cite_ref-THG_film_1-1">1.1</a></sup> <sup><a href="#cite_ref-THG_film_1-2">1.2</a></sup> <sup><a href="#cite_ref-THG_film_1-3">1.3</a></sup> <sup><a href="#cite_ref-THG_film_1-4">1.4</a></sup> <sup><a href="#cite_ref-THG_film_1-5">1.5</a></sup> <sup><a href="#cite_ref-THG_film_1-6">1.6</a></sup> <sup><a href="#cite_ref-THG_film_1-7">1.7</a></sup></span> <span class="reference-text"><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/File:Anatomy_of_an_arena_costume.jpg" title="File:Anatomy of an arena costume.jpg">File:Anatomy of an arena costume.jpg</a></span>
+</li>
+<li id="cite_note-THG_3-3"><span class="mw-cite-backlink"><a href="#cite_ref-THG_3_3-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i>, Chapter 3</span>
+</li>
+<li id="cite_note-THG_9-4"><span class="mw-cite-backlink"><a href="#cite_ref-THG_9_4-0">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 9</span>
+</li>
+<li id="cite_note-MJ_26-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_26_5-0">5.0</a></sup> <sup><a href="#cite_ref-MJ_26_5-1">5.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 26</span>
+</li>
+<li id="cite_note-THG_script_draft-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-THG_script_draft_6-0">6.0</a></sup> <sup><a href="#cite_ref-THG_script_draft_6-1">6.1</a></sup> <sup><a href="#cite_ref-THG_script_draft_6-2">6.2</a></sup> <sup><a href="#cite_ref-THG_script_draft_6-3">6.3</a></sup> <sup><a href="#cite_ref-THG_script_draft_6-4">6.4</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://assets.scriptslug.com/live/pdf/scripts/the-hunger-games-2012.pdf?v=1729115022">https://assets.scriptslug.com/live/pdf/scripts/the-hunger-games-2012.pdf?v=1729115022</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>The Hunger Games</i>, Chapter 25</span>
+</li>
+<li id="cite_note-CF_27-8"><span class="mw-cite-backlink"><a href="#cite_ref-CF_27_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251226001521
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.061 seconds
+Real time usage: 0.114 seconds
+Preprocessor visited node count: 369/1000000
+Post‐expand include size: 725/2097152 bytes
+Template argument size: 413/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5981/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   59.215      1 -total
+ 40.85%   24.187      1 Template:Games
+ 27.09%   16.044      1 Template:Reflist
+  2.96%    1.755      1 Template:Quote
+  2.27%    1.346      1 Template:W
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:536453-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251226001521 and revision id 964036. Rendering was triggered because: page-view
+ -->
+</div>

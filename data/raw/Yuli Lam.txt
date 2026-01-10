@@ -1,0 +1,66 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Yuli Lam</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e5/Yuli_Lam.jpg/revision/latest?cb=20231104234547" class="image image-thumbnail" title="Yuli Lam">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/e/e5/Yuli_Lam.jpg/revision/latest/scale-to-width-down/268?cb=20231104234547" srcset="https://static.wikia.nocookie.net/thehungergames/images/e/e5/Yuli_Lam.jpg/revision/latest/scale-to-width-down/268?cb=20231104234547 1x, https://static.wikia.nocookie.net/thehungergames/images/e/e5/Yuli_Lam.jpg/revision/latest/scale-to-width-down/536?cb=20231104234547 2x" class="pi-image-thumbnail" data-relevant="1" alt="Yuli Lam" width="270" height="305" data-image-key="Yuli_Lam.jpg" data-image-name="Yuli Lam.jpg" />
+		
+	</a>
+	
+</figure>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="character">
+	
+		<h3 class="pi-data-label pi-secondary-font">Character</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Sabyn" title="Sabyn">Sabyn</a><p><a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> (stunts)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appearance">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appearance</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
+	
+		<h3 class="pi-data-label pi-secondary-font">Years active</h3>
+	
+	<div class="pi-data-value pi-font">2021-present</div>
+</div>
+</aside>
+
+</p><p><b>Yuli Lam</b> is a martial artist and stuntwoman who portrayed <a href="/wiki/Sabyn" title="Sabyn">Sabyn</a> and did the stunts for <a href="/wiki/Clemensia_Dovecote" title="Clemensia Dovecote">Clemensia Dovecote</a> in <i><a href="/wiki/The_Hunger_Games:_The_Ballad_of_Songbirds_%26_Snakes" title="The Hunger Games: The Ballad of Songbirds &amp; Snakes">The Hunger Games: The Ballad of Songbirds &amp; Snakes</a></i>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FYuli_Lam%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinks"><span class="mw-default-size" typeof="mw:File"><a href="http://www.imdb.com/name/nm13445650" target="_blank" rel="nofollow noreferrer noopener"><img alt="IMDb favicon" src="https://static.wikia.nocookie.net/thehungergames/images/e/ef/IMDb_favicon.png/revision/latest?cb=20120402170407" decoding="async" loading="lazy" width="16" height="15" class="mw-file-element" data-image-name="IMDb favicon.png" data-image-key="IMDb_favicon.png" data-relevant="0" /></a></span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.imdb.com/name/nm13445650">Yuli Lam</a> at the Internet Movie Database</span></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.instagram.com/yulilam_/">Yuli Lam</a> on Instagram</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20251230015112
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.018 seconds
+Real time usage: 0.025 seconds
+Preprocessor visited node count: 51/1000000
+Post‐expand include size: 228/2097152 bytes
+Template argument size: 30/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   18.003      1 -total
+ 92.37%   16.629      1 Template:Actor
+  6.95%    1.252      1 Template:Imdb
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:542584-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251230015112 and revision id 957015. Rendering was triggered because: page-view
+ -->
+</div>

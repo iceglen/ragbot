@@ -1,0 +1,97 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Captain Burton</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Burton.jpg/revision/latest?cb=20240607160558" class="image image-thumbnail" title="Burton">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Burton.jpg/revision/latest/scale-to-width-down/268?cb=20240607160558" srcset="https://static.wikia.nocookie.net/thehungergames/images/e/eb/Burton.jpg/revision/latest/scale-to-width-down/268?cb=20240607160558 1x, https://static.wikia.nocookie.net/thehungergames/images/e/eb/Burton.jpg/revision/latest?cb=20240607160558 2x" class="pi-image-thumbnail" data-relevant="1" alt="Burton" width="270" height="380" data-image-key="Burton.jpg" data-image-name="Burton.jpg" />
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Military Captain</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_13" title="District 13">District 13</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Assault rifle</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></div>
+</div>
+
+</section>
+</aside>
+
+</p><p><b>Captain Burton</b> was a soldier from <a href="/wiki/District_13" title="District 13">District 13</a> who accompanied <a href="/wiki/Boggs" title="Boggs">Boggs</a> and <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> on the mission to <a href="/wiki/Infiltration_of_the_Capitol" title="Infiltration of the Capitol">infiltrate the Capitol</a> and rescue <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>, <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a>, and <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> from the <a href="/wiki/Training_Center" title="Training Center">Training Center</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurton%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Captain_Burton.jpg/revision/latest?cb=20240607160525" class="mw-file-description image"><img alt="Captain Burton" src="https://static.wikia.nocookie.net/thehungergames/images/0/0e/Captain_Burton.jpg/revision/latest/scale-to-width-down/180?cb=20240607160525" decoding="async" loading="lazy" width="180" height="76" class="thumbimage" data-image-name="Captain Burton.jpg" data-image-key="Captain_Burton.jpg" data-relevant="0" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Captain_Burton.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<ul><li>Burton's name and picture are briefly visible on a computer screen in <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i>, beneath that of Gale Hawthorne.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FBurton%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">The Hunger Games: Mockingjay - Part 1</a></i></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260102150658
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.027 seconds
+Real time usage: 0.038 seconds
+Preprocessor visited node count: 114/1000000
+Post‐expand include size: 118/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 402/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   25.291      1 -total
+ 86.00%   21.751      1 Template:Character
+  8.84%    2.235      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:543495-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260102150658 and revision id 947528. Rendering was triggered because: page-view
+ -->
+</div>

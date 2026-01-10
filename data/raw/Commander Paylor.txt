@@ -1,0 +1,309 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Commander Paylor</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Commander_Paylor.png/revision/latest?cb=20151222092633" class="image image-thumbnail" title="Commander Paylor">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Commander_Paylor.png/revision/latest/scale-to-width-down/268?cb=20151222092633" srcset="https://static.wikia.nocookie.net/thehungergames/images/5/5f/Commander_Paylor.png/revision/latest/scale-to-width-down/268?cb=20151222092633 1x, https://static.wikia.nocookie.net/thehungergames/images/5/5f/Commander_Paylor.png/revision/latest?cb=20151222092633 2x" class="pi-image-thumbnail" data-relevant="1" alt="Commander Paylor" width="270" height="343" data-image-key="Commander_Paylor.png" data-image-name="Commander Paylor.png">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">Early 30s<sup id="cite_ref-MJ_8_1-0" class="reference"><a href="#cite_note-MJ_8-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Commander (<a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>)<p><a href="/wiki/President" title="President">President</a> of <a href="/wiki/Panem" title="Panem">Panem</a></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/District_8" title="District 8">District 8</a> (originally)<p><a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> (after rebellion)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Machine gun</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Alive</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1">Mockingjay - Part 1</a></i><br><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Patina_Miller" title="Patina Miller">Patina Miller</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Mockingjay">"<i>She looks young to be a commander. Early thirties. But there is an authoritative tone to her voice that makes you feel that her appointment wasn't arbitrary.</i>"</span></dd>
+<dd>—<a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> about Commander Paylor<sup class="noprint"><a href="/wiki/Mockingjay" title="Mockingjay">[src]</a></sup></dd></dl></div>
+<p><b>Paylor</b> was a <a href="/wiki/Rebel" class="mw-redirect" title="Rebel">rebel</a> leader and commander from <a href="/wiki/District_8" title="District 8">District 8</a> during the <a href="/wiki/Second_Rebellion" title="Second Rebellion">Second Rebellion</a>.<sup id="cite_ref-MJ_8_1-1" class="reference"><a href="#cite_note-MJ_8-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Following the success of the rebellion, she was voted the first democratically elected <a href="/wiki/President" title="President">president</a> of <a href="/wiki/Panem" title="Panem">Panem</a>.<sup id="cite_ref-MJ_27_2-0" class="reference"><a href="#cite_note-MJ_27-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Film_adaptation"><span class="tocnumber">1.1</span> <span class="toctext">Film adaptation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Personality"><span class="tocnumber">3</span> <span class="toctext">Personality</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="37549" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did Commander Paylor play in the Second Rebellion of the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Second Rebellion of the Hunger Games, Commander Paylor was a key rebel leader in District 8. After the rebellion's success, she ascended to the presidency of Panem. Her role was further elaborated in the film adaptation, where she strategized with other rebels in District 2 to seize the Capitol's weaponry.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37550" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did Commander Paylor become the new president of Panem in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Following President Coin's assassination by Katniss Everdeen, an emergency election was held in the Hunger Games. Commander Paylor, the District 8 rebel leader, was elected as Panem's new president in the first democratic election for political representation. Known as 'the voice of reason', Paylor was anticipated to win by a significant margin. Her leadership saw the abolition of the Hunger Games and the establishment of a constitutional republic.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37551" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Commander Paylor's leadership style in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Commander Paylor, a key figure in the Hunger Games, demonstrated a leadership style marked by strength, respect, and a lack of vengefulness. Despite her contempt for President Snow and the Capitol due to their crimes, she advised the rebels to concentrate on capturing Snow, rather than attacking Capitol citizens. Her leadership was characterized by an authoritative tone, indicating her role was not arbitrary.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37552" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Commander Paylor's first interaction with Katniss Everdeen in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Katniss Everdeen's initial interaction with Commander Paylor occurred in District 8's hospital during the filming of a propo for the Airtime Assault on the Capitol. Paylor, accompanied by Gale Hawthorne, Boggs, and a TV crew, escorted Katniss into the hospital, scrutinizing her leadership potential for the rebellion. The group later confronted an assault from Capitol hovercrafts.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="37553" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What district was Commander Paylor a rebel leader in during the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						During the Second Rebellion in the Hunger Games, Commander Paylor emerged as a significant rebel leader in District 8. She spearheaded the Battle of District 8, marking the first of the earliest battles in the rebellion. Post-rebellion, she ascended to the role of President of Panem, demonstrating her effective leadership.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Commander Paylor","mainEntity":[{"@type":"Question","name":"What role did Commander Paylor play in the Second Rebellion of the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Second Rebellion of the Hunger Games, Commander Paylor was a key rebel leader in District 8. After the rebellion's success, she ascended to the presidency of Panem. Her role was further elaborated in the film adaptation, where she strategized with other rebels in District 2 to seize the Capitol's weaponry."}},{"@type":"Question","name":"How did Commander Paylor become the new president of Panem in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Following President Coin's assassination by Katniss Everdeen, an emergency election was held in the Hunger Games. Commander Paylor, the District 8 rebel leader, was elected as Panem's new president in the first democratic election for political representation. Known as 'the voice of reason', Paylor was anticipated to win by a significant margin. Her leadership saw the abolition of the Hunger Games and the establishment of a constitutional republic."}},{"@type":"Question","name":"What was Commander Paylor's leadership style in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Commander Paylor, a key figure in the Hunger Games, demonstrated a leadership style marked by strength, respect, and a lack of vengefulness. Despite her contempt for President Snow and the Capitol due to their crimes, she advised the rebels to concentrate on capturing Snow, rather than attacking Capitol citizens. Her leadership was characterized by an authoritative tone, indicating her role was not arbitrary."}},{"@type":"Question","name":"What was Commander Paylor's first interaction with Katniss Everdeen in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Katniss Everdeen's initial interaction with Commander Paylor occurred in District 8's hospital during the filming of a propo for the Airtime Assault on the Capitol. Paylor, accompanied by Gale Hawthorne, Boggs, and a TV crew, escorted Katniss into the hospital, scrutinizing her leadership potential for the rebellion. The group later confronted an assault from Capitol hovercrafts."}},{"@type":"Question","name":"What district was Commander Paylor a rebel leader in during the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"During the Second Rebellion in the Hunger Games, Commander Paylor emerged as a significant rebel leader in District 8. She spearheaded the Battle of District 8, marking the first of the earliest battles in the rebellion. Post-rebellion, she ascended to the role of President of Panem, demonstrating her effective leadership."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCommander_Paylor%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 270px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/f/f3/Commander-paylor-district-8.jpg/revision/latest?cb=20150110113111" class="mw-file-description image"><img alt="Paylor in District 8." src="https://static.wikia.nocookie.net/thehungergames/images/f/f3/Commander-paylor-district-8.jpg/revision/latest/scale-to-width-down/270?cb=20150110113111" decoding="async" loading="lazy" width="270" height="180" class="thumbimage" data-image-name="Commander-paylor-district-8.jpg" data-image-key="Commander-paylor-district-8.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Commander-paylor-district-8.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Paylor in District 8.</p> 		 	</figcaption> </figure>
+<p><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> first meets Paylor when she goes to the <a href="/wiki/District_8_hospital" title="District 8 hospital">District 8 hospital</a> in order to film a <a href="/wiki/Propo" title="Propo">propo</a> for the Airtime Assault on <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>. Paylor takes Katniss along with <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a>, <a href="/wiki/Boggs" title="Boggs">Boggs</a>, and the TV crew into the hospital. Paylor watches Katniss closely, to see what she is made of and if they have been right to count on her.<sup id="cite_ref-MJ_8_1-2" class="reference"><a href="#cite_note-MJ_8-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>After Katniss leaves the hospital, Capitol <a href="/wiki/Hovercraft" title="Hovercraft">hovercrafts</a> fly in and begin to bomb the hospital. In an effort to fight against the bombers, Katniss and Gale climb to the roof of a warehouse that has machine gun nests. This is where they run into Commander Paylor again. Together, they all work to destroy the other waves of hovercrafts that fly overhead.<sup id="cite_ref-MJ_8_1-3" class="reference"><a href="#cite_note-MJ_8-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>Commander Paylor later returns in the story when Katniss is living in the <a href="/wiki/President%27s_mansion" title="President's mansion">president's mansion</a>. Katniss follows the strong scent of <a href="/wiki/President_Snow" class="mw-redirect" title="President Snow">President Snow</a>'s roses until she finds a room that is being guarded by two soldiers. At first, they do not permit her entrance to the room because they are following <a href="/wiki/Alma_Coin" title="Alma Coin">Alma Coin</a>'s orders. However, when Paylor appears, she instructs the soldiers to let Katniss go in and they obey her authority. Katniss enters to find President Snow, awaiting his <a href="/wiki/Execution" title="Execution">execution</a>, and the two of them have a brief conversation. Snow informs Katniss that he was not responsible the <a href="/wiki/City_Circle_bombing" class="mw-redirect" title="City Circle bombing">City Circle bombing</a>, which killed many Capitol children and medics, including <a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a>; rather, President Coin was behind it.<sup id="cite_ref-MJ_25_3-0" class="reference"><a href="#cite_note-MJ_25-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> When Katniss emerges, Paylor asks her, "Did you find what you were looking for?", and Katniss holds up a rose, which Paylor takes as an affirmative response.<sup id="cite_ref-MJ_26_4-0" class="reference"><a href="#cite_note-MJ_26-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>After Katniss assassinates President Coin, an emergency election was thrown together and Paylor was voted in as president. Under her rule, <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">the Hunger Games</a> were abolished, the <a href="/wiki/Arena" title="Arena">arenas</a> were destroyed, and memorials were built. It can be assumed that Paylor successfully set up the republic that <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> announced that they would form after the Capitol's defeat. She also pardoned Katniss for the assassination of Coin and declared her mentally unstable and let her return to <a href="/wiki/District_12" title="District 12">District 12</a>. Plutarch became her Secretary of Communications.<sup id="cite_ref-MJ_27_2-1" class="reference"><a href="#cite_note-MJ_27-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Film_adaptation">Film adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCommander_Paylor%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Paylor's role is expanded upon in <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i>. She is seen in <a href="/wiki/District_2" title="District 2">District 2</a> alongside Commander <a href="/wiki/Lyme" title="Lyme">Lyme</a> and the other rebels. Interacting with President Coin via a live feed, the three discuss ways in which the rebels can capture the Capitol's arsenal of weaponry held inside the large mountain nicknamed "<a href="/wiki/The_Nut" title="The Nut">the Nut</a>". Given the suffering that the people of District 8 have already been through, Paylor refuses to commit her troops to an assault just to acquire weapons, as Coin suggests. Paylor and Lyme eventually persuade Coin to agree to <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a>'s plan: disabling the Nut by bombing avalanche paths, burying many of the people and assets inside. One exit was left open to give the Capitol loyalists a chance to surrender.<sup id="cite_ref-MJP2_5-0" class="reference"><a href="#cite_note-MJP2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c1/The-Hunger-Games-Mockingjay-Part-2-We-March-Together-2.jpg/revision/latest?cb=20150729152325" class="mw-file-description image"><img alt="Paylor gives a speech in front of a digital screen with information about pods." src="https://static.wikia.nocookie.net/thehungergames/images/c/c1/The-Hunger-Games-Mockingjay-Part-2-We-March-Together-2.jpg/revision/latest/scale-to-width-down/180?cb=20150729152325" decoding="async" loading="lazy" width="180" height="75" class="thumbimage" data-image-name="The-Hunger-Games-Mockingjay-Part-2-We-March-Together-2.jpg" data-image-key="The-Hunger-Games-Mockingjay-Part-2-We-March-Together-2.jpg" data-relevant="1"></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:The-Hunger-Games-Mockingjay-Part-2-We-March-Together-2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Paylor gives a speech in front of a digital screen with information about <a href="/wiki/Pod" title="Pod">pods</a>.</p> 		 	</figcaption> </figure>
+<p>After the success of this mission, Paylor is later seen giving a rousing speech to rebel forces assembled on the outskirts of the Capitol. She explains how they will capture President Snow and take control of the city.<sup id="cite_ref-MJP2_5-1" class="reference"><a href="#cite_note-MJP2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCommander_Paylor%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Paylor is in her early thirties, and she was mentioned to look too young for her occupation. She has dark brown eyes.<sup id="cite_ref-MJ_8_1-4" class="reference"><a href="#cite_note-MJ_8-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> 
+</p>
+<h2><span class="mw-headline" id="Personality">Personality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCommander_Paylor%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although a strong and respectable leader, Commander Paylor was one of the very few rebels who was not overly concerned with vengeance. Though holding President Snow and the Capitol in contempt for their crimes against the districts, Paylor urged the rebels not to attack Capitol citizens and to only focus on capturing Snow.<sup id="cite_ref-MJP2_5-2" class="reference"><a href="#cite_note-MJP2-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FCommander_Paylor%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MJ_8-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_8_1-0">1.0</a></sup> <sup><a href="#cite_ref-MJ_8_1-1">1.1</a></sup> <sup><a href="#cite_ref-MJ_8_1-2">1.2</a></sup> <sup><a href="#cite_ref-MJ_8_1-3">1.3</a></sup> <sup><a href="#cite_ref-MJ_8_1-4">1.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>, Chapter 8</span>
+</li>
+<li id="cite_note-MJ_27-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJ_27_2-0">2.0</a></sup> <sup><a href="#cite_ref-MJ_27_2-1">2.1</a></sup></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 27</span>
+</li>
+<li id="cite_note-MJ_25-3"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_25_3-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 25</span>
+</li>
+<li id="cite_note-MJ_26-4"><span class="mw-cite-backlink"><a href="#cite_ref-MJ_26_4-0">↑</a></span> <span class="reference-text"><i>Mockingjay</i>, Chapter 26</span>
+</li>
+<li id="cite_note-MJP2-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MJP2_5-0">5.0</a></sup> <sup><a href="#cite_ref-MJP2_5-1">5.1</a></sup> <sup><a href="#cite_ref-MJP2_5-2">5.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">The Hunger Games: Mockingjay - Part 2</a></i></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <a href="/wiki/Mags_Flanagan" title="Mags Flanagan">Mags Flanagan</a> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20251231185216
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.073 seconds
+Real time usage: 0.132 seconds
+Preprocessor visited node count: 278/1000000
+Post‐expand include size: 3070/2097152 bytes
+Template argument size: 245/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3314/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   56.512      1 -total
+ 55.51%   31.372      1 Template:Character
+ 18.39%   10.395      1 Template:Reflist
+  3.23%    1.824      1 Template:SeriesTP
+  2.66%    1.505      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:3460-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251231185216 and revision id 962794. Rendering was triggered because: page-view
+ -->
+</div>

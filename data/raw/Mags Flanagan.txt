@@ -1,0 +1,511 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Mags Flanagan</h2>
+
+	<div class="pi-image-collection wds-tabber" data-source="image">
+		<div class="wds-tabs__wrapper">
+			<ul class="wds-tabs">
+				
+					<li class="wds-tabs__tab wds-is-current">
+						<span class="wds-tabs__tab-label">
+							75th HG
+							
+						</span>
+					</li>
+				
+					<li class="wds-tabs__tab">
+						<span class="wds-tabs__tab-label">
+							11th HG
+							
+						</span>
+					</li>
+				
+			</ul>
+		</div>
+		
+			<div class="wds-tab__content wds-is-current">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/0/0b/Quarter_quell_mags.jpg/revision/latest?cb=20140218191426" class="image image-thumbnail" title="75th HG">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/0/0b/Quarter_quell_mags.jpg/revision/latest/scale-to-width-down/267?cb=20140218191426" srcset="https://static.wikia.nocookie.net/thehungergames/images/0/0b/Quarter_quell_mags.jpg/revision/latest/scale-to-width-down/267?cb=20140218191426 1x, https://static.wikia.nocookie.net/thehungergames/images/0/0b/Quarter_quell_mags.jpg/revision/latest/scale-to-width-down/535?cb=20140218191426 2x" data-relevant="1" class="pi-image-thumbnail" alt="75th HG" width="270" height="415" data-image-key="Quarter quell mags.jpg" data-image-name="Quarter quell mags.jpg">
+						
+					</a>
+				</figure>
+			</div>
+		
+			<div class="wds-tab__content">
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/thehungergames/images/9/90/Mags_Flanagan_Young.jpeg/revision/latest?cb=20200729102347" class="image image-thumbnail" title="11th HG">
+						<img src="https://static.wikia.nocookie.net/thehungergames/images/9/90/Mags_Flanagan_Young.jpeg/revision/latest/scale-to-width-down/268?cb=20200729102347" srcset="https://static.wikia.nocookie.net/thehungergames/images/9/90/Mags_Flanagan_Young.jpeg/revision/latest/scale-to-width-down/268?cb=20200729102347 1x, https://static.wikia.nocookie.net/thehungergames/images/9/90/Mags_Flanagan_Young.jpeg/revision/latest/scale-to-width-down/536?cb=20200729102347 2x" data-relevant="1" class="pi-image-thumbnail" alt="11th HG" width="270" height="270" data-image-key="Mags Flanagan Young.jpeg" data-image-name="Mags Flanagan Young.jpeg">
+						
+					</a>
+				</figure>
+			</div>
+		
+	</div>
+
+
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">16 <small>(<a href="/wiki/11th_Hunger_Games" title="11th Hunger Games">11th Hunger Games</a>)</small><br>55 <small>(<a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>)</small><br> 80 <small>(<a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>)</small><sup id="cite_ref-CF_14_1-0" class="reference"><a href="#cite_note-CF_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor" title="Victor">Victor</a> <small>(<a href="/wiki/11th_Hunger_Games" title="11th Hunger Games">11th Hunger Games</a>)</small><br><a href="/wiki/Mentor" title="Mentor">Mentor</a><br><a href="/wiki/Tribute" title="Tribute">Tribute</a> <small>(<a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>)</small><sup id="cite_ref-CF_14_1-1" class="reference"><a href="#cite_note-CF_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> in <a href="/wiki/District_4" title="District 4">District 4</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="relatives">
+	
+		<h3 class="pi-data-label pi-secondary-font">Relatives</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> <small>(adoptive family)</small> (deceased)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font">Fishhook<br>Awl</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye Color</h3>
+	
+	<div class="pi-data-value pi-font">Brown <small>(film)</small></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Grey <small>(elderly, book and film)</small></li><li>Bronze <small>(younger, film)</small></li></ul></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i><br><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i><br><p><a href="/wiki/Capitol_Couture" title="Capitol Couture">Capitol Couture</a> promo for <i><a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2">Mockingjay - Part 2</a></i> <small>(young)</small><br><i><a href="/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" title="The Hunger Games: Sunrise on the Reaping">The Hunger Games: Sunrise on the Reaping</a></i> <small>(upcoming)</small></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Lynn_Cohen" title="Lynn Cohen">Lynn Cohen</a> <small>(CF)</small></li><li><a href="/wiki/Lili_Taylor" title="Lili Taylor">Lili Taylor</a> <small>(SOTR)</small></li><li><a href="/wiki/Grace_Kull" title="Grace Kull">Grace Kull</a> <small>(Capitol Couture)</small></li></ul></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>It was obvious she didn't volunteer because she thought she could win, she did it to save Annie Cresta.</i>"</span></dd>
+<dd>—<a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss</a> talking about Mags volunteering<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p><b>Mags Flanagan</b> was the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_4" title="District 4">District 4</a> during the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>, for which she <a href="/wiki/Volunteer" title="Volunteer">volunteered</a> in place of <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a>.<sup id="cite_ref-CF_14_1-2" class="reference"><a href="#cite_note-CF_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> She was also the <a href="/wiki/Victor" title="Victor">victor</a> of the <a href="/wiki/11th_Hunger_Games" title="11th Hunger Games">11th Hunger Games</a><sup id="cite_ref-Capitol_Couture_2-0" class="reference"><a href="#cite_note-Capitol_Couture-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> and the mentor of <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> during the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a><sup id="cite_ref-SR6_3-0" class="reference"><a href="#cite_note-SR6-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> and <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> during the <a href="/wiki/65th_Hunger_Games" title="65th Hunger Games">65th Hunger Games</a>.<sup id="cite_ref-CF_22_4-0" class="reference"><a href="#cite_note-CF_22-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#11th_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">11th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Between_the_Games"><span class="tocnumber">1.2</span> <span class="toctext">Between the Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Second_Quarter_Quell"><span class="tocnumber">1.3</span> <span class="toctext">Second Quarter Quell</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#65th_Hunger_Games"><span class="tocnumber">1.4</span> <span class="toctext">65th Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#75th_Hunger_Games"><span class="tocnumber">1.5</span> <span class="toctext">75th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Interview"><span class="tocnumber">1.5.1</span> <span class="toctext">Interview</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Death"><span class="tocnumber">1.5.2</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Skills"><span class="tocnumber">4</span> <span class="toctext">Skills</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Catching_Fire:_Illustrated_Edition"><span class="tocnumber">7.1</span> <span class="toctext"><i>Catching Fire: Illustrated Edition</i></span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Movies"><span class="tocnumber">7.2</span> <span class="toctext">Movies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="12163" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What skills did Mags Flanagan use to win the 11th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mags Flanagan's victory in the 11th Hunger Games at 16 years old was due to her adeptness with fish hooks and other survival skills, which she likely developed from her upbringing in District 4.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12164" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who did Mags Flanagan volunteer for in the 75th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 75th Hunger Games, Mags Flanagan volunteered to take the place of Annie Cresta. She was the female representative from District 4 and had previously won the 11th Hunger Games. Her decision to volunteer was driven by her desire to protect Annie Cresta, not by a belief in her own victory.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12165" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">Who was Mags Flanagan's mentee in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mags Flanagan, a victor of the 11th Hunger Games, mentored Finnick Odair. She also volunteered to participate in the 75th Hunger Games, replacing Annie Cresta, suggesting she had a role in Annie's training for the games.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12166" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was Mags Flanagan's district in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the Hunger Games series, Mags Flanagan hailed from District 4. She emerged victorious in the 11th Hunger Games and later volunteered as a tribute for the 75th Hunger Games, substituting for Annie Cresta.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="12167" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What was the significance of Mags Flanagan's Victory Tour in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Mags Flanagan, victor of the 11th Hunger Games, was the first to undertake a Victory Tour, marking a significant milestone in the Hunger Games history. Her victory also introduced new rewards including a monetary prize, a house in the Victors' Village, and district-wide food parcels. Post-victory, Mags mentored numerous District 4 tributes, potentially initiating the district's Career Tributes training program.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"Mags Flanagan","mainEntity":[{"@type":"Question","name":"What skills did Mags Flanagan use to win the 11th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Mags Flanagan's victory in the 11th Hunger Games at 16 years old was due to her adeptness with fish hooks and other survival skills, which she likely developed from her upbringing in District 4."}},{"@type":"Question","name":"Who did Mags Flanagan volunteer for in the 75th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 75th Hunger Games, Mags Flanagan volunteered to take the place of Annie Cresta. She was the female representative from District 4 and had previously won the 11th Hunger Games. Her decision to volunteer was driven by her desire to protect Annie Cresta, not by a belief in her own victory."}},{"@type":"Question","name":"Who was Mags Flanagan's mentee in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Mags Flanagan, a victor of the 11th Hunger Games, mentored Finnick Odair. She also volunteered to participate in the 75th Hunger Games, replacing Annie Cresta, suggesting she had a role in Annie's training for the games."}},{"@type":"Question","name":"What was Mags Flanagan's district in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the Hunger Games series, Mags Flanagan hailed from District 4. She emerged victorious in the 11th Hunger Games and later volunteered as a tribute for the 75th Hunger Games, substituting for Annie Cresta."}},{"@type":"Question","name":"What was the significance of Mags Flanagan's Victory Tour in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Mags Flanagan, victor of the 11th Hunger Games, was the first to undertake a Victory Tour, marking a significant milestone in the Hunger Games history. Her victory also introduced new rewards including a monetary prize, a house in the Victors' Village, and district-wide food parcels. Post-victory, Mags mentored numerous District 4 tributes, potentially initiating the district's Career Tributes training program."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="11th_Hunger_Games">11th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the age of 16, Mags was reaped for the 11th Hunger Games, which she won.<sup id="cite_ref-Capitol_Couture_2-1" class="reference"><a href="#cite_note-Capitol_Couture-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> During the Games, Mags' main desire was to protect her district partner.<sup id="cite_ref-SR7_5-0" class="reference"><a href="#cite_note-SR7-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Her skill with fish hooks and other natural skills she likely acquired from living in District 4 probably played a role in her victory. She was the first victor to embark on a <a href="/wiki/Victory_Tour" title="Victory Tour">Victory Tour</a>,<sup id="cite_ref-Capitol_Couture_2-2" class="reference"><a href="#cite_note-Capitol_Couture-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> as the victors before her were simply transported home after their victories.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> She was also presumably the first victor to move to the <a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> directly after their Games, as well as the first to receive a token monetary prize for winning, as both ideas were first implemented in the 11th Hunger Games.<sup id="cite_ref-:1_7-0" class="reference"><a href="#cite_note-:1-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 142px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/4/44/Capitol_Couture_Mockingjay_Part_1_poster_01.jpg/revision/latest?cb=20151111235946" class="mw-file-description image"><img alt="An advertisement for the 11th Victory Tour, the Hunger Games Mags won." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="142" height="208" class="thumbimage lazyload" data-image-name="Capitol Couture Mockingjay Part 1 poster 01.jpg" data-image-key="Capitol_Couture_Mockingjay_Part_1_poster_01.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/44/Capitol_Couture_Mockingjay_Part_1_poster_01.jpg/revision/latest/scale-to-width-down/142?cb=20151111235946"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/4/44/Capitol_Couture_Mockingjay_Part_1_poster_01.jpg/revision/latest?cb=20151111235946" class="mw-file-description image"><img alt="An advertisement for the 11th Victory Tour, the Hunger Games Mags won." src="https://static.wikia.nocookie.net/thehungergames/images/4/44/Capitol_Couture_Mockingjay_Part_1_poster_01.jpg/revision/latest/scale-to-width-down/142?cb=20151111235946" decoding="async" loading="lazy" width="142" height="208" class="thumbimage" data-image-name="Capitol Couture Mockingjay Part 1 poster 01.jpg" data-image-key="Capitol_Couture_Mockingjay_Part_1_poster_01.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/4/44/Capitol_Couture_Mockingjay_Part_1_poster_01.jpg/revision/latest/scale-to-width-down/142?cb=20151111235946"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Capitol_Couture_Mockingjay_Part_1_poster_01.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">An advertisement for the 11th Victory Tour, the Hunger Games Mags won.</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Between_the_Games">Between the Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As a victor, Mags went on to serve as a mentor for scores of District 4 tributes in the years that followed her victory. At first, she didn't ask the tributes what their goal was, because it seemed obvious that the goal was to survive. Later on, however, she started asking her tributes about their desires, reflecting on how she was unable to protect her district partner.<sup id="cite_ref-SR7_5-1" class="reference"><a href="#cite_note-SR7-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> 
+</p><p>At some point after her Games, she got married as she was seen wearing a wedding ring on her left hand. It's unknown who her spouse is and whether or not she had children.
+</p>
+<h3><span class="mw-headline" id="Second_Quarter_Quell">Second Quarter Quell</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/50th_Hunger_Games" title="50th Hunger Games">50th Hunger Games</a>, she was made to mentor the <a href="/wiki/District_12" title="District 12">District 12</a> tributes with <a href="/wiki/49th_Hunger_Games" title="49th Hunger Games">49th Hunger Games</a> <a href="/wiki/Victor" title="Victor">victor</a> <a href="/wiki/Wiress" title="Wiress">Wiress</a> (<a href="/wiki/District_3" title="District 3">District 3</a>) since there were no District 12 victors available. She met the tributes following the <a href="/wiki/Chariot_rides" title="Chariot rides">chariot rides</a> and immediately hugged <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a>, knowing he had been deeply affected by <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a>'s death.<sup id="cite_ref-SR6_3-1" class="reference"><a href="#cite_note-SR6-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> Once Haymitch began to calm down, she had him take a bath and ordered bean and ham hock soup to comfort him. The next day, Mags asked the tributes what their goal in the Games was, saying that hers had been to protect her district partner. She advised them to look for clues about the arena in the <a href="/wiki/Training_stations" title="Training stations">training stations</a>.<sup id="cite_ref-SR7_5-2" class="reference"><a href="#cite_note-SR7-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>When <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a> was brought as a body double to replace Louella, Mags offered her stew. She immediately realized Lou Lou was from <a href="/wiki/District_11" title="District 11">District 11</a> based on her reaction to the district <a href="/wiki/Bread" title="Bread">bread</a>, then put her to bed. She encouraged the tributes to continue the <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomer</a> alliance.<sup id="cite_ref-SR10_8-0" class="reference"><a href="#cite_note-SR10-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>Mags helped the tributes prepare for their <a href="/wiki/Interviews" title="Interviews">interviews</a>. When <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> agitated Lou Lou, Mags took her into the bedroom and took care of her ear when the implant caused it to bleed. She gave strawberry ice cream to <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina</a>, <a href="/wiki/Vitus" title="Vitus">Vitus</a>, and the District 12 tributes.<sup id="cite_ref-SR12_9-0" class="reference"><a href="#cite_note-SR12-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>During the games, she would support Haymitch and <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> by using their <a href="/wiki/Sponsorship" title="Sponsorship">sponsorships</a> to send them meaningful gifts; a pot of bean and ham hock soup to let them know they're not alone, breakfast spread, and black coffee and ice cream after Maysilee died as a reminder of her sass.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p><p>Afterwards, she and Wiress were tortured for their role in the rebellion and information, leaving Mags wheelchair bound.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="65th_Hunger_Games">65th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/65th_Hunger_Games" title="65th Hunger Games">65th Hunger Games</a>, she served as mentor to <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a><sup id="cite_ref-CF_22_4-1" class="reference"><a href="#cite_note-CF_22-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>, who went on to become the youngest victor in the history of the Hunger Games at the age of 14<sup id="cite_ref-CF_15_12-0" class="reference"><a href="#cite_note-CF_15-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>. It is possible she also mentored <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> or at the very least played a role in her training/preparation as a possible career tribute for the <a href="/wiki/70th_Hunger_Games" title="70th Hunger Games">70th Hunger Games</a>. Annie, too, would go on to become victor of her respective Games, but at a great psychological cost due to the horrific nature of her district partner's death during the Games.
+</p>
+<h3><span class="mw-headline" id="75th_Hunger_Games">75th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Mags_volunteering_for_Annie.png/revision/latest?cb=20250513102634" class="mw-file-description image"><img alt="Mags volunteering for " src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="127" class="thumbimage lazyload" data-image-name="Mags volunteering for Annie.png" data-image-key="Mags_volunteering_for_Annie.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Mags_volunteering_for_Annie.png/revision/latest/scale-to-width-down/180?cb=20250513102634"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Mags_volunteering_for_Annie.png/revision/latest?cb=20250513102634" class="mw-file-description image"><img alt="Mags volunteering for " src="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Mags_volunteering_for_Annie.png/revision/latest/scale-to-width-down/180?cb=20250513102634" decoding="async" loading="lazy" width="180" height="127" class="thumbimage" data-image-name="Mags volunteering for Annie.png" data-image-key="Mags_volunteering_for_Annie.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/c1/Mags_volunteering_for_Annie.png/revision/latest/scale-to-width-down/180?cb=20250513102634"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mags_volunteering_for_Annie.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mags volunteering for <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a></p> 		 	</figcaption> </figure>
+<p>Mags, an eighty-year-old woman, volunteered for the 75th Hunger Games in the place of <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a>, becoming a tribute alongside <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a>,<sup id="cite_ref-CF_14_1-3" class="reference"><a href="#cite_note-CF_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> whom she mentored in the <a href="/wiki/65th_Hunger_Games" title="65th Hunger Games">65th Hunger Games</a> and (according to the book and film) practically raised<sup id="cite_ref-CF_22_4-2" class="reference"><a href="#cite_note-CF_22-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. She is reputed to be a lovely woman. She mumbled every time she spoke; <a href="/wiki/Katniss" class="mw-redirect mw-disambig" title="Katniss">Katniss</a> believes it is because of a possible stroke she may have had in the past<sup id="cite_ref-CF_16_13-0" class="reference"><a href="#cite_note-CF_16-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>. While in training for the third <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, Katniss watched as Mags displayed her skill of being able to make fishhooks out of nearly anything. This skill, plus the fact that she volunteered to take Annie Cresta's place, made Katniss want Mags to be one of her allies in the <a href="/wiki/Arena" title="Arena">arena</a><sup id="cite_ref-CF_16_13-1" class="reference"><a href="#cite_note-CF_16-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>. Described to be in her eighties, Mags was the oldest tribute in the 75th Hunger Games, while <a href="/wiki/Woof" title="Woof">Woof</a> was the second oldest.
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 220px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/a/a1/C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg/revision/latest?cb=20200831120303" class="mw-file-description image"><img alt="Mags meeting Katniss wearing her wedding ring during training." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="220" height="152" class="thumbimage lazyload" data-image-name="C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg" data-image-key="C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg/revision/latest/scale-to-width-down/220?cb=20200831120303"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/a/a1/C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg/revision/latest?cb=20200831120303" class="mw-file-description image"><img alt="Mags meeting Katniss wearing her wedding ring during training." src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg/revision/latest/scale-to-width-down/220?cb=20200831120303" decoding="async" loading="lazy" width="220" height="152" class="thumbimage" data-image-name="C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg" data-image-key="C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a1/C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg/revision/latest/scale-to-width-down/220?cb=20200831120303"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:C552A438-530C-4B54-AEFA-4E021CBEDF7D.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mags meeting Katniss wearing her wedding ring during training.</p> 		 	</figcaption> </figure>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Magsandfinn.jpg/revision/latest?cb=20131009233544" class="mw-file-description image"><img alt="Mags and Finnick." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="108" class="thumbimage lazyload" data-image-name="Magsandfinn.jpg" data-image-key="Magsandfinn.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Magsandfinn.jpg/revision/latest/scale-to-width-down/180?cb=20131009233544"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Magsandfinn.jpg/revision/latest?cb=20131009233544" class="mw-file-description image"><img alt="Mags and Finnick." src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Magsandfinn.jpg/revision/latest/scale-to-width-down/180?cb=20131009233544" decoding="async" loading="lazy" width="180" height="108" class="thumbimage" data-image-name="Magsandfinn.jpg" data-image-key="Magsandfinn.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/5/5a/Magsandfinn.jpg/revision/latest/scale-to-width-down/180?cb=20131009233544"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Magsandfinn.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mags and Finnick.</p> 		 	</figcaption> </figure>
+<p>While competing in the <a href="/wiki/Quarter_Quell" title="Quarter Quell">Quarter Quell</a>, Mags joined an alliance with Katniss and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta</a>. She was carried by Finnick most of the time as she wasn't able to walk very fast<sup id="cite_ref-CF_20_14-0" class="reference"><a href="#cite_note-CF_20-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>. Finnick and Mags are flung back when Peeta walks into the <a href="/wiki/Force_field" title="Force field">force field</a>, due to the force in which Peeta is thrust back in.<sup id="cite_ref-CF_19_15-0" class="reference"><a href="#cite_note-CF_19-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> When Katniss throws some nuts at the force field to determine where it is, Mags eats a mouthful of them. Katniss is alarmed as they don't know if the nuts are poisonous, but Finnick allows her to since he believes she knows what she's doing. She and Finnick begin to weave objects with big sharp blades of grass while Katniss hunts for water and food. When she returns, they have made a hut and bowls.<sup id="cite_ref-CF_20_14-1" class="reference"><a href="#cite_note-CF_20-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> Mags is deeply saddened when the first day of the games is over and the faces of tributes who have died are shown at night, suggesting she was close to some of the <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">bloodbath</a> fatalities. When the <a href="/wiki/Tools_and_gear#Spile" title="Tools and gear">spile</a> is sent from the sponsors, she wonders what its use could be. Katniss asks if she can fish with it, but she could not, and is enlightened when they discover it gets water from trees. She and Peeta are not alarmed by the twelve bells rung during the night as they were asleep when the event occurred.<sup id="cite_ref-CF_20_14-2" class="reference"><a href="#cite_note-CF_20-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 240px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/c/cf/Finnick_mags_hunger_games.png/revision/latest?cb=20140121162944" class="mw-file-description image"><img alt="Finnick carries Mags in the jungle." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="240" height="160" class="thumbimage lazyload" data-image-name="Finnick mags hunger games.png" data-image-key="Finnick_mags_hunger_games.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/cf/Finnick_mags_hunger_games.png/revision/latest/scale-to-width-down/240?cb=20140121162944"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/c/cf/Finnick_mags_hunger_games.png/revision/latest?cb=20140121162944" class="mw-file-description image"><img alt="Finnick carries Mags in the jungle." src="https://static.wikia.nocookie.net/thehungergames/images/c/cf/Finnick_mags_hunger_games.png/revision/latest/scale-to-width-down/240?cb=20140121162944" decoding="async" loading="lazy" width="240" height="160" class="thumbimage" data-image-name="Finnick mags hunger games.png" data-image-key="Finnick_mags_hunger_games.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/c/cf/Finnick_mags_hunger_games.png/revision/latest/scale-to-width-down/240?cb=20140121162944"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Finnick_mags_hunger_games.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Finnick carries Mags in the jungle.</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Interview">Interview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During the interviews in the film adaptation, she wore a sea blue dress which touched the floor. The top half of it was a lighter blue and had sparkles on it while the bottom half was a duller and darker blue, much like Finnick's. Mags joined hands with the other tributes after the final interview, displaying unity among the districts<sup id="cite_ref-CF_18_16-0" class="reference"><a href="#cite_note-CF_18-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Mags died on the second day of the Quarter Quell. When the acid fog was emitted, Finnick carried her while she was sleeping. When the fog damaged Peeta's legs and rendered him unable to walk, Katniss carried Mags as she was unable to help Peeta, but Katniss was also affected by the fog, and Finnick was unable to carry both Peeta and Mags. Realizing that they would be killed by the fog if they could not move faster, Mags kissed Finnick and courageously sacrificed herself by walking straight into the fog so Finnick, Katniss, and Peeta could live. Katniss described Mags as "falling to the ground in a horrible dance" when she was dying and Katniss honored Mags for her bravery. Finnick spent several hours of the night grieving for her. Finnick did not even talk about Mags' death for the whole night.<sup id="cite_ref-CF_21_17-0" class="reference"><a href="#cite_note-CF_21-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>
+</p>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 220px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/2/24/Bandicam_2016-04-19_23-01-52-831.jpg/revision/latest?cb=20160421214029" class="mw-file-description image"><img alt="Mags' portrait shown on the second night." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="220" height="140" class="thumbimage lazyload" data-image-name="Bandicam 2016-04-19 23-01-52-831.jpg" data-image-key="Bandicam_2016-04-19_23-01-52-831.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/24/Bandicam_2016-04-19_23-01-52-831.jpg/revision/latest/scale-to-width-down/220?cb=20160421214029"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/2/24/Bandicam_2016-04-19_23-01-52-831.jpg/revision/latest?cb=20160421214029" class="mw-file-description image"><img alt="Mags' portrait shown on the second night." src="https://static.wikia.nocookie.net/thehungergames/images/2/24/Bandicam_2016-04-19_23-01-52-831.jpg/revision/latest/scale-to-width-down/220?cb=20160421214029" decoding="async" loading="lazy" width="220" height="140" class="thumbimage" data-image-name="Bandicam 2016-04-19 23-01-52-831.jpg" data-image-key="Bandicam_2016-04-19_23-01-52-831.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/2/24/Bandicam_2016-04-19_23-01-52-831.jpg/revision/latest/scale-to-width-down/220?cb=20160421214029"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Bandicam_2016-04-19_23-01-52-831.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mags' portrait shown on the second night.</p> 		 	</figcaption> </figure>
+<p>When <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> states that Mags was half of Finnick's family because she was his mentor, Katniss feels great remorse<sup id="cite_ref-CF_22_4-3" class="reference"><a href="#cite_note-CF_22-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. Later, it is discovered that Mags was part of an even bigger alliance (including at least 12 tributes) that was set on keeping Peeta and Katniss alive<sup id="cite_ref-CF_27_18-0" class="reference"><a href="#cite_note-CF_27-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup>.
+</p><p>In the film, Mags dies in much the same manner, although Finnick at first doesn't realize what she's doing and tries frantically to call her back, staring after her in grief as her cannon sounds<sup id="cite_ref-CF_19-0" class="reference"><a href="#cite_note-CF-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup>. She placed 15th.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At eighty years old, Mags used a cane to walk<sup id="cite_ref-CF_14_1-4" class="reference"><a href="#cite_note-CF_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> and had few teeth. She had a District 4 accent and a garbled speech that Katniss found difficult to understand, which might have been the result of a previous stroke.<sup id="cite_ref-CF_16_13-2" class="reference"><a href="#cite_note-CF_16-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup> Mags also had gray hair<sup id="cite_ref-CF_19_15-1" class="reference"><a href="#cite_note-CF_19-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup> and weighed less than seventy pounds.<sup id="cite_ref-CF_21_17-1" class="reference"><a href="#cite_note-CF_21-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mags was noted by Haymitch to be a wonderful lady and showed herself to be kind, friendly, selfless, and very brave, as well as pragmatic. She volunteered to save Annie, clearly knowing she was not going to survive<sup id="cite_ref-CF_14_1-5" class="reference"><a href="#cite_note-CF_14-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>, and willingly walked to her death to allow Finnick, Katniss, and Peeta to escape the poison fog in the arena without being burdened by her, sacrificing herself without hesitation to protect them so that they would survive (and go on to help the rebellion)<sup id="cite_ref-CF_21_17-2" class="reference"><a href="#cite_note-CF_21-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>. She was impossible to dislike.
+</p><p>She clearly loved Finnick and Annie, as it was noted she basically raised Finnick, having mentored him and likely Annie as well<sup id="cite_ref-CF_22_4-4" class="reference"><a href="#cite_note-CF_22-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. She made easy friends with Katniss, who admired the old woman for her bravery and selflessness<sup id="cite_ref-CF_16_13-3" class="reference"><a href="#cite_note-CF_16-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Skills">Skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mags had the ability to make fishhooks out of anything<sup id="cite_ref-CF_16_13-4" class="reference"><a href="#cite_note-CF_16-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>, and weave baskets so well that they could float in water without any leaking in<sup id="cite_ref-CF_19_15-2" class="reference"><a href="#cite_note-CF_19-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mags is derived from the Greek name "Margaret" which means "pearl". Much like other District 4 characters' namesakes relating to fishing and the sea.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 190px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/6/64/Katniss-mags-hunger-games-catching-fire.jpg/revision/latest?cb=20130416035300" class="mw-file-description image"><img alt="Mags during the 75th Hunger Games." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="190" height="274" class="thumbimage lazyload" data-image-name="Katniss-mags-hunger-games-catching-fire.jpg" data-image-key="Katniss-mags-hunger-games-catching-fire.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/64/Katniss-mags-hunger-games-catching-fire.jpg/revision/latest/scale-to-width-down/190?cb=20130416035300"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/6/64/Katniss-mags-hunger-games-catching-fire.jpg/revision/latest?cb=20130416035300" class="mw-file-description image"><img alt="Mags during the 75th Hunger Games." src="https://static.wikia.nocookie.net/thehungergames/images/6/64/Katniss-mags-hunger-games-catching-fire.jpg/revision/latest/scale-to-width-down/190?cb=20130416035300" decoding="async" loading="lazy" width="190" height="274" class="thumbimage" data-image-name="Katniss-mags-hunger-games-catching-fire.jpg" data-image-key="Katniss-mags-hunger-games-catching-fire.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/6/64/Katniss-mags-hunger-games-catching-fire.jpg/revision/latest/scale-to-width-down/190?cb=20130416035300"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Katniss-mags-hunger-games-catching-fire.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mags during the 75th Hunger Games.</p> 		 	</figcaption> </figure>
+<ul><li>Mags is one of the four characters to appear in the main trilogy who have been alive before the Hunger Games started, being five years old when they began. The other characters are <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">Coriolanus Snow</a>, <a href="/wiki/Tigris" title="Tigris">Tigris</a>, and <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a>.</li>
+<li>Mags was so old when she volunteered that she "needed a cane to walk to the stage".<sup id="cite_ref-CF_20_14-3" class="reference"><a href="#cite_note-CF_20-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> However, in the film, she wasn't seen with any mobility aids.<sup id="cite_ref-CF_19-1" class="reference"><a href="#cite_note-CF-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup></li>
+<li>A young Mags was portrayed by Grace Kull in promotional posters.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup></li>
+<li>Mags is one year younger than <a href="/wiki/Lucy_Gray_Baird" title="Lucy Gray Baird">Lucy Gray Baird</a>, the deuteragonist of <i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>. She won the Hunger Games the year after Lucy Gray, and both were sixteen years old at the time of their respective victories.</li>
+<li>Mags is the oldest tribute to compete in the <a href="/wiki/Hunger_Games_(event)" title="Hunger Games (event)">Hunger Games</a>, with her being 80 during the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>.</li>
+<li>Mags is the last ever District 4 tribute to die in the Hunger Games.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Catching_Fire:_Illustrated_Edition"><i><a href="/wiki/Catching_Fire:_Illustrated_Edition" title="Catching Fire: Illustrated Edition">Catching Fire: Illustrated Edition</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div id="gallery-1" hash="9ebbbf70ca56b68d4aa719c737352ef7" data-seq-no="1" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CF_IE_lightning_tree-jpg" style="position: relative; height:185px; width:148px;"><a class="image lightbox" href="/wiki/File:CF_IE_lightning_tree.jpg" title="CF IE lightning tree.jpg (303 KB)" style="height:185px; width:148px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/d/d0/CF_IE_lightning_tree.jpg/revision/latest/scale-to-width-down/148?cb=20250913231517" title="CF IE lightning tree.jpg (303 KB)" class="thumbimage" alt="Sleeping during the 75th Hunger Games." height="185" width="185" data-image-name="CF IE lightning tree.jpg" data-image-key="CF_IE_lightning_tree.jpg" data-relevant="1" data-caption="Sleeping during the ."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="CF IE lightning tree.jpg (303 KB)" class="thumbimage lazyload" alt="Sleeping during the 75th Hunger Games." height="185" width="185" data-image-name="CF IE lightning tree.jpg" data-image-key="CF_IE_lightning_tree.jpg" data-relevant="1" data-caption="Sleeping during the ." data-src="https://static.wikia.nocookie.net/thehungergames/images/d/d0/CF_IE_lightning_tree.jpg/revision/latest/scale-to-width-down/148?cb=20250913231517"></a></div></div><div class="lightbox-caption" style="width:185px;">Sleeping during the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>.</div></div></div>
+<h3><span class="mw-headline" id="Movies">Movies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div id="gallery-2" hash="d137c555ff64f9b811ef370b01cdcca3" data-seq-no="2" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mags_reaping_costume-JPG" style="position: relative; height:185px; width:83px;"><a class="image lightbox" href="/wiki/File:Mags_reaping_costume.JPG" title="Mags reaping costume.JPG (31 KB)" style="height:185px; width:83px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/e/e7/Mags_reaping_costume.JPG/revision/latest/scale-to-width-down/83?cb=20230826001027" title="Mags reaping costume.JPG (31 KB)" class="thumbimage" alt="Mags' reaping clothes" height="185" width="185" data-image-name="Mags reaping costume.JPG" data-image-key="Mags_reaping_costume.JPG" data-relevant="1" data-caption="Mags' reaping clothes"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Mags reaping costume.JPG (31 KB)" class="thumbimage lazyload" alt="Mags' reaping clothes" height="185" width="185" data-image-name="Mags reaping costume.JPG" data-image-key="Mags_reaping_costume.JPG" data-relevant="1" data-caption="Mags' reaping clothes" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/e7/Mags_reaping_costume.JPG/revision/latest/scale-to-width-down/83?cb=20230826001027"></a></div></div><div class="lightbox-caption" style="width:185px;">Mags' reaping clothes</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mags_parade_costume-JPG" style="position: relative; height:184px; width:92px; top:0.5px;"><a class="image lightbox" href="/wiki/File:Mags_parade_costume.JPG" title="Mags parade costume.JPG (48 KB)" style="height:184px; width:92px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/a/af/Mags_parade_costume.JPG/revision/latest/scale-to-width-down/92?cb=20230825235159" title="Mags parade costume.JPG (48 KB)" class="thumbimage" alt="Chariot costume" height="185" width="185" data-image-name="Mags parade costume.JPG" data-image-key="Mags_parade_costume.JPG" data-relevant="1" data-caption="Chariot costume"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Mags parade costume.JPG (48 KB)" class="thumbimage lazyload" alt="Chariot costume" height="185" width="185" data-image-name="Mags parade costume.JPG" data-image-key="Mags_parade_costume.JPG" data-relevant="1" data-caption="Chariot costume" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/af/Mags_parade_costume.JPG/revision/latest/scale-to-width-down/92?cb=20230825235159"></a></div></div><div class="lightbox-caption" style="width:185px;">Chariot costume</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mags_interview_costume-JPG" style="position: relative; height:185px; width:80px;"><a class="image lightbox" href="/wiki/File:Mags_interview_costume.JPG" title="Mags interview costume.JPG (25 KB)" style="height:185px; width:80px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/a/ac/Mags_interview_costume.JPG/revision/latest/scale-to-width-down/80?cb=20230826002131" title="Mags interview costume.JPG (25 KB)" class="thumbimage" alt="Interview dress" height="185" width="185" data-image-name="Mags interview costume.JPG" data-image-key="Mags_interview_costume.JPG" data-relevant="1" data-caption="Interview dress"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Mags interview costume.JPG (25 KB)" class="thumbimage lazyload" alt="Interview dress" height="185" width="185" data-image-name="Mags interview costume.JPG" data-image-key="Mags_interview_costume.JPG" data-relevant="1" data-caption="Interview dress" data-src="https://static.wikia.nocookie.net/thehungergames/images/a/ac/Mags_interview_costume.JPG/revision/latest/scale-to-width-down/80?cb=20230826002131"></a></div></div><div class="lightbox-caption" style="width:185px;">Interview dress</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FMags_Flanagan%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-CF_14-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_14_1-0">1.0</a></sup> <sup><a href="#cite_ref-CF_14_1-1">1.1</a></sup> <sup><a href="#cite_ref-CF_14_1-2">1.2</a></sup> <sup><a href="#cite_ref-CF_14_1-3">1.3</a></sup> <sup><a href="#cite_ref-CF_14_1-4">1.4</a></sup> <sup><a href="#cite_ref-CF_14_1-5">1.5</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 14</span>
+</li>
+<li id="cite_note-Capitol_Couture-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Capitol_Couture_2-0">2.0</a></sup> <sup><a href="#cite_ref-Capitol_Couture_2-1">2.1</a></sup> <sup><a href="#cite_ref-Capitol_Couture_2-2">2.2</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://tumblr.com/capitolcouture/133013089492/">MAGS, THE 11TH VICTOR - Capitol Couture</a></span>
+</li>
+<li id="cite_note-SR6-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR6_3-0">3.0</a></sup> <sup><a href="#cite_ref-SR6_3-1">3.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 6</span>
+</li>
+<li id="cite_note-CF_22-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_22_4-0">4.0</a></sup> <sup><a href="#cite_ref-CF_22_4-1">4.1</a></sup> <sup><a href="#cite_ref-CF_22_4-2">4.2</a></sup> <sup><a href="#cite_ref-CF_22_4-3">4.3</a></sup> <sup><a href="#cite_ref-CF_22_4-4">4.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 22</span>
+</li>
+<li id="cite_note-SR7-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SR7_5-0">5.0</a></sup> <sup><a href="#cite_ref-SR7_5-1">5.1</a></sup> <sup><a href="#cite_ref-SR7_5-2">5.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 7</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Chapter 9</span>
+</li>
+<li id="cite_note-:1-7"><span class="mw-cite-backlink"><a href="#cite_ref-:1_7-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Ballad_of_Songbirds_and_Snakes" title="The Ballad of Songbirds and Snakes">The Ballad of Songbirds and Snakes</a></i>, Epilogue</span>
+</li>
+<li id="cite_note-SR10-8"><span class="mw-cite-backlink"><a href="#cite_ref-SR10_8-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 10</span>
+</li>
+<li id="cite_note-SR12-9"><span class="mw-cite-backlink"><a href="#cite_ref-SR12_9-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 12</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a>, Chapters 20-23</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping">Sunrise on the Reaping</a></i>, Chapter 25</span>
+</li>
+<li id="cite_note-CF_15-12"><span class="mw-cite-backlink"><a href="#cite_ref-CF_15_12-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-CF_16-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_16_13-0">13.0</a></sup> <sup><a href="#cite_ref-CF_16_13-1">13.1</a></sup> <sup><a href="#cite_ref-CF_16_13-2">13.2</a></sup> <sup><a href="#cite_ref-CF_16_13-3">13.3</a></sup> <sup><a href="#cite_ref-CF_16_13-4">13.4</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 16</span>
+</li>
+<li id="cite_note-CF_20-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_20_14-0">14.0</a></sup> <sup><a href="#cite_ref-CF_20_14-1">14.1</a></sup> <sup><a href="#cite_ref-CF_20_14-2">14.2</a></sup> <sup><a href="#cite_ref-CF_20_14-3">14.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 20</span>
+</li>
+<li id="cite_note-CF_19-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_19_15-0">15.0</a></sup> <sup><a href="#cite_ref-CF_19_15-1">15.1</a></sup> <sup><a href="#cite_ref-CF_19_15-2">15.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 19</span>
+</li>
+<li id="cite_note-CF_18-16"><span class="mw-cite-backlink"><a href="#cite_ref-CF_18_16-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 18</span>
+</li>
+<li id="cite_note-CF_21-17"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_21_17-0">17.0</a></sup> <sup><a href="#cite_ref-CF_21_17-1">17.1</a></sup> <sup><a href="#cite_ref-CF_21_17-2">17.2</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 21</span>
+</li>
+<li id="cite_note-CF_27-18"><span class="mw-cite-backlink"><a href="#cite_ref-CF_27_18-0">↑</a></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 27</span>
+</li>
+<li id="cite_note-CF-19"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_19-0">19.0</a></sup> <sup><a href="#cite_ref-CF_19-1">19.1</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://twitter.com/nousmodels/status/668935007990210562">https://twitter.com/nousmodels/status/668935007990210562</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+
+<tbody><tr>
+<td colspan="2" style="background:#FFCC33; text-align:center; width:100%;"><b><a href="/wiki/The_Hunger_Games_trilogy" title="The Hunger Games trilogy"><span style="color:black"><i>The Hunger Games</i> trilogy</span></a></b>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Novels</b>
+</td>
+<td><i><a href="/wiki/The_Hunger_Games" title="The Hunger Games">The Hunger Games</a></i> • <i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i> • <i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Main Characters</b>
+</td>
+<td><a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> • <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> • <a href="/wiki/Gale_Hawthorne" title="Gale Hawthorne">Gale Hawthorne</a> • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Supporting Characters</b>
+</td>
+<td><a href="/wiki/Primrose_Everdeen" title="Primrose Everdeen">Primrose Everdeen</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a> • <a href="/wiki/Cinna" title="Cinna">Cinna</a> • <a href="/wiki/Mrs._Everdeen" class="mw-redirect" title="Mrs. Everdeen">Mrs. Everdeen</a> • <a href="/wiki/Mr._Everdeen" class="mw-redirect" title="Mr. Everdeen">Mr. Everdeen</a> • <a href="/wiki/Alma_Coin" title="Alma Coin">President Coin</a> • <a href="/wiki/Claudius_Templesmith" title="Claudius Templesmith">Claudius Templesmith</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Madge_Undersee" title="Madge Undersee">Madge Undersee</a> • <a href="/wiki/Paylor" class="mw-redirect" title="Paylor">Paylor</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Seneca_Crane" title="Seneca Crane">Seneca Crane</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Tributes</b>
+</td>
+<td><a href="/wiki/Marvel" title="Marvel">Marvel</a> • <a href="/wiki/Glimmer" title="Glimmer">Glimmer</a> • <a href="/wiki/Cato" title="Cato">Cato</a> • <a href="/wiki/Clove" title="Clove">Clove</a> • <a href="/wiki/Foxface" class="mw-redirect" title="Foxface">Foxface</a> • <a href="/wiki/Thresh" title="Thresh">Thresh</a> • <a href="/wiki/Rue" title="Rue">Rue</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Titus" title="Titus">Titus</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Past Victors</b>
+</td>
+<td><a href="/wiki/Augustus_Braun" title="Augustus Braun">Augustus Braun</a> • <a href="/wiki/Annie_Cresta" title="Annie Cresta">Annie Cresta</a> • <a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee Latier</a> • <a href="/wiki/Blight" title="Blight">Blight</a> • <a href="/wiki/Brutus" title="Brutus">Brutus</a> • <a href="/wiki/Cashmere" title="Cashmere">Cashmere</a> • <a href="/wiki/Cecelia" title="Cecelia">Cecelia</a> • <a href="/wiki/Chaff" title="Chaff">Chaff</a> • <a href="/wiki/Enobaria" title="Enobaria">Enobaria</a> • <a href="/wiki/Finnick_Odair" title="Finnick Odair">Finnick Odair</a> • <a href="/wiki/Gloss" title="Gloss">Gloss</a> • <a href="/wiki/Johanna_Mason" title="Johanna Mason">Johanna Mason</a> • <a href="/wiki/Lyme" title="Lyme">Lyme</a> • <strong class="mw-selflink selflink">Mags Flanagan</strong> • <a href="/wiki/Morphlings" title="Morphlings">Morphlings</a> • <a href="/wiki/Porter_Millicent_Tripp" title="Porter Millicent Tripp">Porter Millicent Tripp</a> • <a href="/wiki/Seeder" title="Seeder">Seeder</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a> • <a href="/wiki/Woof" title="Woof">Woof</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Groups</b>
+</td>
+<td><a href="/wiki/Rebellion" title="Rebellion">Rebellion</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a> • <a href="/wiki/Prep_team" title="Prep team">Prep team</a> • <a href="/wiki/Tribute" title="Tribute">Tributes</a> • <a href="/wiki/Victor" title="Victor">Victors</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Locations</b>
+</td>
+<td><a href="/wiki/Panem" title="Panem">Panem</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/District_1" title="District 1">District 1</a> • <a href="/wiki/District_2" title="District 2">District 2</a> • <a href="/wiki/District_3" title="District 3">District 3</a> • <a href="/wiki/District_4" title="District 4">District 4</a> • <a href="/wiki/District_5" title="District 5">District 5</a> • <a href="/wiki/District_6" title="District 6">District 6</a> • <a href="/wiki/District_7" title="District 7">District 7</a> • <a href="/wiki/District_8" title="District 8">District 8</a> • <a href="/wiki/District_9" title="District 9">District 9</a> • <a href="/wiki/District_10" title="District 10">District 10</a> • <a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/District_13" title="District 13">District 13</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Behind the Scenes</b>
+</td>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Gary_Ross" title="Gary Ross">Gary Ross</a> • <a href="/wiki/Francis_Lawrence" title="Francis Lawrence">Francis Lawrence</a>
+</td></tr>
+<tr>
+<td style="background:#FFCC33; text-align:center;"><b>Films</b>
+</td>
+<td><a href="/wiki/The_Hunger_Games_(film)" title="The Hunger Games (film)"><i>The Hunger Games</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire"><i>Catching Fire</i> (film)</a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_1" title="The Hunger Games: Mockingjay - Part 1"><i>Mockingjay - Part 1</i></a> • <a href="/wiki/The_Hunger_Games:_Mockingjay_-_Part_2" title="The Hunger Games: Mockingjay - Part 2"><i>Mockingjay - Part 2</i></a>
+</td></tr></tbody></table>
+<table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
+<tbody><tr>
+<th colspan="2" style="background:#793f73; text-align:center; color:white; width:100%;"><i><a href="/wiki/Sunrise_on_the_Reaping" title="Sunrise on the Reaping"><span style="color:white">Sunrise on the Reaping</span></a></i>
+</th></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Main Characters
+</th>
+<td><a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Supporting Characters
+</th>
+<td><a href="/wiki/Lenore_Dove_Baird" title="Lenore Dove Baird">Lenore Dove Baird</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a> • <a href="/wiki/Plutarch_Heavensbee" title="Plutarch Heavensbee">Plutarch Heavensbee</a> • <a href="/wiki/Coriolanus_Snow" title="Coriolanus Snow">President Snow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Tributes
+</th>
+<td><a href="/wiki/Panache_Barker" title="Panache Barker">Panache Barker</a> • <a href="/wiki/Loupe" title="Loupe">Loupe</a> • <a href="/wiki/Silka_Sharp" title="Silka Sharp">Silka Sharp</a> • <a href="/wiki/Carat" title="Carat">Carat</a> • <a href="/wiki/Alpheus" title="Alpheus">Alpheus</a> • <a href="/wiki/Janus" title="Janus">Janus</a> • <a href="/wiki/Camilla" title="Camilla">Camilla</a> • <a href="/wiki/Nona" title="Nona">Nona</a> • <a href="/wiki/Ampert" class="mw-redirect" title="Ampert">Ampert</a> • <a href="/wiki/Lect" title="Lect">Lect</a> • <a href="/wiki/Dio" title="Dio">Dio</a> • <a href="/wiki/Coil" title="Coil">Coil</a> • <a href="/wiki/Urchin" title="Urchin">Urchin</a> • <a href="/wiki/Angler" title="Angler">Angler</a> • <a href="/wiki/Barba" title="Barba">Barba</a> • <a href="/wiki/Maritte" title="Maritte">Maritte</a>  •  <a href="/wiki/Hychel" title="Hychel">Hychel</a>  •  <a href="/wiki/Fisser" title="Fisser">Fisser</a>  • <a href="/wiki/Anion" title="Anion">Anion</a>  •  <a href="/wiki/Potena" title="Potena">Potena</a> • <a href="/wiki/Miles" title="Miles">Miles</a> • <a href="/wiki/Atread" title="Atread">Atread</a> • <a href="/wiki/Wellie" title="Wellie">Wellie</a> • <a href="/wiki/Velo" title="Velo">Velo</a> • <a href="/wiki/Bircher" title="Bircher">Bircher</a>  • <a href="/wiki/Heartwood" title="Heartwood">Heartwood</a> • <a href="/wiki/Autumn" title="Autumn">Autumn</a> • <a href="/wiki/Ringina" title="Ringina">Ringina</a> • <a href="/wiki/Wefton" title="Wefton">Wefton</a> • <a href="/wiki/Ripman" title="Ripman">Ripman</a> • <a href="/wiki/Notion" title="Notion">Notion</a> • <a href="/wiki/Alawna" title="Alawna">Alawna</a> • <a href="/wiki/Ryan" title="Ryan">Ryan</a> • <a href="/wiki/Clayton" title="Clayton">Clayton</a> • <a href="/wiki/Kerna" title="Kerna">Kerna</a> • <a href="/wiki/Midge" title="Midge">Midge</a> • <a href="/wiki/Buck" title="Buck">Buck</a> • <a href="/wiki/Stamp" title="Stamp">Stamp</a> • <a href="/wiki/Lannie" title="Lannie">Lannie</a> • <a href="/wiki/Peeler" title="Peeler">Peeler</a> • <a href="/wiki/Hull" title="Hull">Hull</a> • <a href="/wiki/Tile" title="Tile">Tile</a> • <a href="/wiki/Chicory" title="Chicory">Chicory</a> • <a href="/wiki/Blossom" title="Blossom">Blossom</a> • <a href="/wiki/Wyatt_Callow" title="Wyatt Callow">Wyatt Callow</a>  • <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> • <a href="/wiki/Maysilee_Donner" title="Maysilee Donner">Maysilee Donner</a> • <a href="/wiki/Louella_McCoy" title="Louella McCoy">Louella McCoy</a> • <a href="/wiki/Woodbine_Chance" title="Woodbine Chance">Woodbine Chance</a> • <a href="/wiki/Lou_Lou" title="Lou Lou">Lou Lou</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Mentors
+</th>
+<td><a href="/wiki/Beetee_Latier" title="Beetee Latier">Beetee</a> • <a href="/wiki/Wiress" title="Wiress">Wiress</a>  • <strong class="mw-selflink selflink">Mags</strong>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Minor Characters
+</th>
+<td><a href="/wiki/Willamae_Abernathy" title="Willamae Abernathy">Willamae Abernathy</a> • <a href="/wiki/Sid_Abernathy" title="Sid Abernathy">Sid Abernathy</a> • <a href="/wiki/Mayor_Allister" title="Mayor Allister">Mayor Allister</a> • <a href="/wiki/Tam_Amber" title="Tam Amber">Tam Amber</a> • <a href="/wiki/Blair" title="Blair">Blair</a> • <a href="/wiki/Jethro_Callow" title="Jethro Callow">Jethro Callow</a> • <a href="/wiki/Clerk_Carmine_Clade" title="Clerk Carmine Clade">Clerk Carmine Clade</a> • <a href="/wiki/Merrilee_Undersee" title="Merrilee Undersee">Merrilee Donner</a> • <a href="/wiki/Burdock_Everdeen" title="Burdock Everdeen">Burdock Everdeen</a> • <a href="/wiki/Asterid_Everdeen" title="Asterid Everdeen">Asterid March</a> • <a href="/wiki/Cayson_McCoy" title="Cayson McCoy">Cayson McCoy</a> • <a href="/wiki/Ima_McCoy" title="Ima McCoy">Ima McCoy</a> • <a href="/wiki/Otho_Mellark" title="Otho Mellark">Otho Mellark</a> • <a href="/wiki/Hattie_Meeney" title="Hattie Meeney">Hattie Meeney</a> • <a href="/wiki/Caesar_Flickerman" title="Caesar Flickerman">Caesar Flickerman</a> • <a href="/wiki/Faustina_Gripper" title="Faustina Gripper">Faustina Gripper</a> • <a href="/wiki/Incitatus_Loomy" title="Incitatus Loomy">Incitatus Loomy</a> • <a href="/wiki/Drusilla_Sickle" title="Drusilla Sickle">Drusilla Sickle</a> • <a href="/wiki/Magno_Stift" title="Magno Stift">Magno Stift</a> • <a href="/wiki/Effie_Trinket" title="Effie Trinket">Effie Trinket</a> • <a href="/wiki/Proserpina_Trinket" title="Proserpina Trinket">Proserpina Trinket</a> • <a href="/wiki/Vitus" title="Vitus">Vitus</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Groups
+</th>
+<td><a href="/wiki/Career_Tribute" title="Career Tribute">Careers</a> • <a href="/wiki/The_Newcomers" title="The Newcomers">Newcomers</a> • <a href="/wiki/Covey" title="Covey">Covey</a> • <a href="/wiki/The_Capitol" title="The Capitol">Capitol</a> • <a href="/wiki/Gamemaker" title="Gamemaker">Gamemakers</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Locations
+</th>
+<td><a href="/wiki/District_11" title="District 11">District 11</a> • <a href="/wiki/District_12" title="District 12">District 12</a> • <a href="/wiki/The_Capitol" title="The Capitol">The Capitol</a> • <a href="/wiki/Academy" title="Academy">The Academy</a> • <a href="/wiki/50th_Hunger_Games_arena" title="50th Hunger Games arena">The Arena</a> • <a href="/wiki/The_Meadow" title="The Meadow">The Meadow</a>
+</td></tr>
+<tr>
+<th style="background:#793f73; text-align:center; color:white;">Behind the Scenes
+</th>
+<td><a href="/wiki/Suzanne_Collins" title="Suzanne Collins">Suzanne Collins</a> • <a href="/wiki/Jefferson_White" title="Jefferson White">Jefferson White</a>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20251226015244
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.101 seconds
+Real time usage: 0.121 seconds
+Preprocessor visited node count: 887/1000000
+Post‐expand include size: 6445/2097152 bytes
+Template argument size: 243/2097152 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 19483/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   66.042      1 -total
+ 45.25%   29.884      1 Template:Character
+ 16.22%   10.710      1 Template:Reflist
+  2.59%    1.711      5 Template:SOTR
+  2.00%    1.318      1 Template:Quote
+  1.95%    1.291      1 Template:SOTRNav
+  1.92%    1.268      1 Template:SeriesTP
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:445951-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251226015244 and revision id 966878. Rendering was triggered because: page-view
+ -->
+</div>

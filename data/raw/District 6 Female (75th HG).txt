@@ -1,0 +1,304 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>
+<aside role="region" class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">District 6 female</h2>
+
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/thehungergames/images/8/88/FM.jpg/revision/latest?cb=20240627180624" class="image image-thumbnail" title="FM">
+		<img src="https://static.wikia.nocookie.net/thehungergames/images/8/88/FM.jpg/revision/latest/scale-to-width-down/268?cb=20240627180624" srcset="https://static.wikia.nocookie.net/thehungergames/images/8/88/FM.jpg/revision/latest/scale-to-width-down/268?cb=20240627180624 1x, https://static.wikia.nocookie.net/thehungergames/images/8/88/FM.jpg/revision/latest/scale-to-width-down/535?cb=20240627180624 2x" class="pi-image-thumbnail" data-relevant="1" alt="FM" width="270" height="242" data-image-key="FM.jpg" data-image-name="FM.jpg">
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="age">
+	
+		<h3 class="pi-data-label pi-secondary-font">Age</h3>
+	
+	<div class="pi-data-value pi-font">30's <small>(film)</small><sup id="cite_ref-exhibition_FM_1-0" class="reference"><a href="#cite_note-exhibition_FM-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victor" title="Victor">Victor</a><p><a href="/wiki/Tribute" title="Tribute">Tribute</a> (<a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>)</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="home">
+	
+		<h3 class="pi-data-label pi-secondary-font">Home</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Victors%27_Village" title="Victors' Village">Victors' Village</a> in <a href="/wiki/District_6" title="District 6">District 6</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weapon">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weapon</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Camouflage" title="Camouflage">Camouflage</a><sup id="cite_ref-CF_film_2-0" class="reference"><a href="#cite_note-CF_film-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fate">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fate</h3>
+	
+	<div class="pi-data-value pi-font"><div class="mw-collapsible mw-collapsed" data-expandtext="Reveal" data-collapsetext="Hide">Deceased</div></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical Information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Appearances</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bookmention">
+	
+		<h3 class="pi-data-label pi-secondary-font">Book Mentioned</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Mockingjay" title="Mockingjay">Mockingjay</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="movieappears">
+	
+		<h3 class="pi-data-label pi-secondary-font">Movie Appearances</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="portrayer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Portrayed by</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Megan_Hayes" title="Megan Hayes">Megan Hayes</a></div>
+</div>
+
+</section>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source: Catching Fire">"<i>She sacrificed herself to save me, and I didn't even know her name.</i>"</span></dd>
+<dd>—<a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a> on the female morphling's sacrifice.<sup class="noprint"><a href="/wiki/Catching_Fire" title="Catching Fire">[src]</a></sup></dd></dl></div>
+<p>The <b>District 6 female</b> was the female <a href="/wiki/Tribute" title="Tribute">tribute</a> from <a href="/wiki/District_6" title="District 6">District 6</a> in the <a href="/wiki/75th_Hunger_Games" title="75th Hunger Games">75th Hunger Games</a>. She was also the <a href="/wiki/Victor" title="Victor">victor</a> of an unspecified Hunger Games, between the 51st and 61st Hunger Games.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Unknown_Hunger_Games"><span class="tocnumber">1.1</span> <span class="toctext">Unknown Hunger Games</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Post_Games"><span class="tocnumber">1.2</span> <span class="toctext">Post Games</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#75th_Hunger_Games"><span class="tocnumber">1.3</span> <span class="toctext">75th Hunger Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Chariot_rides"><span class="tocnumber">1.3.1</span> <span class="toctext">Chariot rides</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Training"><span class="tocnumber">1.3.2</span> <span class="toctext">Training</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Interviews"><span class="tocnumber">1.3.3</span> <span class="toctext">Interviews</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Bloodbath"><span class="tocnumber">1.3.4</span> <span class="toctext">Bloodbath</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#The_Games"><span class="tocnumber">1.3.5</span> <span class="toctext">The Games</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Death"><span class="tocnumber">1.3.6</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Victory_Year"><span class="tocnumber">3.1</span> <span class="toctext">Victory Year</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<section class="trfc161">
+	<div class="trfc161__header">
+		<div class="trfc161__header-text-wrapper">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15 10.551 14.551 11 14 11H9C8.735 11 8.48 11.105 8.293 11.293L6 13.586V12C6 11.447 5.552 11 5 11H4C3.449 11 3 10.551 3 10V4C3 3.449 3.449 3 4 3H14C14.551 3 15 3.449 15 4V10ZM14 1H4C2.346 1 1 2.346 1 4V10C1 11.654 2.346 13 4 13V16C4 16.404 4.244 16.77 4.617 16.924C4.741 16.975 4.871 17 5 17C5.26 17 5.516 16.898 5.707 16.707L9.414 13H14C15.654 13 17 11.654 17 10V4C17 2.346 15.654 1 14 1Z" fill="white"></path>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M8.94618 4C8.45959 4 8.00719 4.1896 7.6706 4.53519C7.439 4.77219 7.4438 5.15199 7.6814 5.38359C7.91839 5.61458 8.29939 5.61038 8.52979 5.37279C8.63839 5.26119 8.78599 5.19999 8.94618 5.19999C9.27738 5.19999 9.54618 5.46939 9.54618 5.79998C9.54618 6.13058 9.27738 6.39998 8.94618 6.39998C8.61439 6.39998 8.34619 6.66817 8.34619 6.99997V7.59996C8.34619 7.93176 8.61439 8.19996 8.94618 8.19996C9.27798 8.19996 9.54618 7.93176 9.54618 7.59996V7.48897C10.2434 7.24057 10.7462 6.58117 10.7462 5.79998C10.7462 4.80759 9.93857 4 8.94618 4ZM9.49793 9.17138C9.48533 9.13598 9.46793 9.09998 9.44393 9.06338L9.37193 8.97398C9.34193 8.94998 9.31133 8.92598 9.27593 8.90198C9.24593 8.87798 9.20993 8.85938 9.17393 8.84798C9.13733 8.82998 9.10193 8.81738 9.05993 8.81138C8.86793 8.77598 8.65794 8.83598 8.51994 8.97398C8.41134 9.08798 8.34594 9.23798 8.34594 9.39998C8.34594 9.47798 8.36394 9.55598 8.39394 9.62797C8.42394 9.70597 8.46594 9.76537 8.51994 9.82597C8.57994 9.87997 8.63994 9.92137 8.71794 9.95197C8.78993 9.98197 8.86793 9.99997 8.94593 9.99997C8.98193 9.99997 9.02393 9.99397 9.05993 9.98797C9.10193 9.98197 9.13733 9.96937 9.17393 9.95197C9.20993 9.93997 9.24593 9.92137 9.27593 9.89797C9.31133 9.87997 9.34193 9.84997 9.37193 9.82597C9.47993 9.71137 9.54593 9.55598 9.54593 9.39998C9.54593 9.36338 9.53993 9.32138 9.53393 9.27998C9.52793 9.24398 9.51593 9.20798 9.49793 9.17138Z" fill="white"></path>
+				</svg>
+			<h3 class="trfc161__header-text">Quick Answers</h3>
+		</div>
+		<img class="trfc161-logo" src="https://static.wikia.nocookie.net/8941553e-df6a-4310-a080-b9da56fdcbdd" alt="fandom logo">
+	</div>
+	<div class="trfc161__groups">
+			<details class="trfc161__group dark-theme" data-question-id="47248" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What strategy did the District 6 female use to win her Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						Known as a morphling, the District 6 female victor utilized camouflage as her main tactic in the Hunger Games. This strategy enabled her to remain hidden, surviving as other tributes fell.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47249" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What addiction did the District 6 female and male tributes struggle with?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The District 6 tributes in the 75th Hunger Games, including the District 6 female, struggled with a severe addiction to morphling. This highly addictive substance was used as a means to cope with the trauma and memories of the Games. Chronic abuse led to significant weight loss, skin yellowing due to liver damage, and withdrawal symptoms like tremors and vomiting.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47250" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">How did the District 6 female use camouflage in the Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						The District 6 female, known as the female morphling, utilized camouflage extensively in the 75th Hunger Games. She and her partner dedicated significant time at the camouflage station, even camouflaging themselves as a flowering meadow. This tactic was employed during the monkey mutts attack in the games. Her successful use of camouflage was evident as both she and her partner emerged victorious in their respective games by remaining hidden until the elimination of other tributes.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+			<details class="trfc161__group dark-theme" data-question-id="47251" data-revision-id="2">
+				<summary class="trfc161__question-wrapper">
+					<b class="trfc161__question">What role did the District 6 female play in the 75th Hunger Games?</b>
+						<img class="trfc161__question-chevron" src="https://static.wikia.nocookie.net/36002e46-06fe-4633-9d99-27d96cf5bcdc" alt="toggle section">
+				</summary>
+				<div class="trfc161__answer">
+					<div class="quick-answers__answer-text">
+						In the 75th Hunger Games, the District 6 female, often referred to as the female morphling, was a tribute and a previous victor. She utilized camouflage as her weapon. Her notable act was her self-sacrifice to protect Peeta Mellark, a fellow tribute.
+					</div>
+					<div class="trfc161__answer-source">
+						Provided by: Fandom
+					</div>
+					<div class="quick_answers__report-module-root" data-reportable="1"></div>
+				</div>
+			</details>
+	</div>
+</section>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","name":"District 6 female (75th HG)","mainEntity":[{"@type":"Question","name":"What strategy did the District 6 female use to win her Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"Known as a morphling, the District 6 female victor utilized camouflage as her main tactic in the Hunger Games. This strategy enabled her to remain hidden, surviving as other tributes fell."}},{"@type":"Question","name":"What addiction did the District 6 female and male tributes struggle with?","acceptedAnswer":{"@type":"Answer","text":"The District 6 tributes in the 75th Hunger Games, including the District 6 female, struggled with a severe addiction to morphling. This highly addictive substance was used as a means to cope with the trauma and memories of the Games. Chronic abuse led to significant weight loss, skin yellowing due to liver damage, and withdrawal symptoms like tremors and vomiting."}},{"@type":"Question","name":"How did the District 6 female use camouflage in the Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"The District 6 female, known as the female morphling, utilized camouflage extensively in the 75th Hunger Games. She and her partner dedicated significant time at the camouflage station, even camouflaging themselves as a flowering meadow. This tactic was employed during the monkey mutts attack in the games. Her successful use of camouflage was evident as both she and her partner emerged victorious in their respective games by remaining hidden until the elimination of other tributes."}},{"@type":"Question","name":"What role did the District 6 female play in the 75th Hunger Games?","acceptedAnswer":{"@type":"Answer","text":"In the 75th Hunger Games, the District 6 female, often referred to as the female morphling, was a tribute and a previous victor. She utilized camouflage as her weapon. Her notable act was her self-sacrifice to protect Peeta Mellark, a fellow tribute."}}]}</script>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i>, <a href="/wiki/Haymitch_Abernathy" title="Haymitch Abernathy">Haymitch Abernathy</a> said that she and the <a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">District 6 male</a> both won their respective Games with the use of <a href="/wiki/Camouflage" title="Camouflage">camouflage</a>, hiding until the other tributes were dead.<sup id="cite_ref-CF_film_2-1" class="reference"><a href="#cite_note-CF_film-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> They were both heavily addicted to <a href="/wiki/Morphling_(drug)" title="Morphling (drug)">morphling</a>, which they used to cope with pain and trauma.<sup id="cite_ref-CF_15_3-0" class="reference"><a href="#cite_note-CF_15-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Unknown_Hunger_Games">Unknown Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>She won an unspecified Hunger Games. She did not wield any weapon<sup id="cite_ref-Next_Projection_Interview_4-0" class="reference"><a href="#cite_note-Next_Projection_Interview-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>, and won by hiding, camouflage<sup id="cite_ref-CF_15_3-1" class="reference"><a href="#cite_note-CF_15-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>, and outsmarting her opponents.<sup id="cite_ref-Next_Projection_Interview_4-1" class="reference"><a href="#cite_note-Next_Projection_Interview-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span class="mw-headline" id="Post_Games">Post Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>She had developed Post Traumatic Stress Disorder (PTSD) after winning the Hunger Games, and was prescribed morphling to help her cope with it, which she ended up addicted to.<sup id="cite_ref-Next_Projection_Interview_4-2" class="reference"><a href="#cite_note-Next_Projection_Interview-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>While it is unspecified whether she mentored any tributes or not, it is highly likely that she mentored the <a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">Male Morphling</a>, as he won in a very similar fashion to her, and ended up being addicted to morphling just like her.
+</p>
+<h3><span class="mw-headline" id="75th_Hunger_Games">75th Hunger Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Chariot_rides">Chariot rides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During the <a href="/wiki/Chariot_rides" title="Chariot rides">Tribute Parade</a>, she and her <a href="/wiki/District_partner" title="District partner">district partner</a> were transfixed by <a href="/wiki/Katniss_Everdeen" title="Katniss Everdeen">Katniss Everdeen</a> and <a href="/wiki/Peeta_Mellark" title="Peeta Mellark">Peeta Mellark</a>'s glowing costumes.<sup id="cite_ref-CF_15_3-2" class="reference"><a href="#cite_note-CF_15-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Training">Training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb  show-info-icon" typeof="mw:File/Thumb" style="width: 239px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/e/e2/Thg-cf_peeta-morphling.jpg/revision/latest?cb=20131105175447" class="mw-file-description image"><img alt="The District 6 female painting Peeta's arm in the Training Center." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="239" height="159" class="thumbimage lazyload" data-image-name="Thg-cf peeta-morphling.jpg" data-image-key="Thg-cf_peeta-morphling.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/e2/Thg-cf_peeta-morphling.jpg/revision/latest/scale-to-width-down/239?cb=20131105175447"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/e/e2/Thg-cf_peeta-morphling.jpg/revision/latest?cb=20131105175447" class="mw-file-description image"><img alt="The District 6 female painting Peeta's arm in the Training Center." src="https://static.wikia.nocookie.net/thehungergames/images/e/e2/Thg-cf_peeta-morphling.jpg/revision/latest/scale-to-width-down/239?cb=20131105175447" decoding="async" loading="lazy" width="239" height="159" class="thumbimage" data-image-name="Thg-cf peeta-morphling.jpg" data-image-key="Thg-cf_peeta-morphling.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/e/e2/Thg-cf_peeta-morphling.jpg/revision/latest/scale-to-width-down/239?cb=20131105175447"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Thg-cf_peeta-morphling.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The District 6 female painting Peeta's arm in the Training Center.</p> 		 	</figcaption> </figure>
+<figure class="thumb mw-halign-left show-info-icon" typeof="mw:File/Thumb" style="width: 180px"> 	<a href="https://static.wikia.nocookie.net/thehungergames/images/0/08/Morphlings2.png/revision/latest?cb=20140816194859" class="mw-file-description image"><img alt="The morphlings waiting to show the judges their skills." src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="180" height="79" class="thumbimage lazyload" data-image-name="Morphlings2.png" data-image-key="Morphlings2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/08/Morphlings2.png/revision/latest/scale-to-width-down/180?cb=20140816194859"></a> 	<noscript><a href="https://static.wikia.nocookie.net/thehungergames/images/0/08/Morphlings2.png/revision/latest?cb=20140816194859" class="mw-file-description image"><img alt="The morphlings waiting to show the judges their skills." src="https://static.wikia.nocookie.net/thehungergames/images/0/08/Morphlings2.png/revision/latest/scale-to-width-down/180?cb=20140816194859" decoding="async" loading="lazy" width="180" height="79" class="thumbimage" data-image-name="Morphlings2.png" data-image-key="Morphlings2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/thehungergames/images/0/08/Morphlings2.png/revision/latest/scale-to-width-down/180?cb=20140816194859"></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Morphlings2.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The morphlings waiting to show the judges their skills.</p> 		 	</figcaption> </figure>
+<p>In the <a href="/wiki/Training_Center" title="Training Center">Training Center</a>, the District 6 tributes were often seen painting at the camouflage station. In addition to painting each other, they also painted Katniss into a field of yellow flowers,<sup id="cite_ref-CF_16_5-0" class="reference"><a href="#cite_note-CF_16-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> and the female morphling painted Peeta's arm.<sup id="cite_ref-CF_film_2-2" class="reference"><a href="#cite_note-CF_film-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> They made a mess of the station all throughout training, and probably did so in their private sessions as well.<sup id="cite_ref-CF_16_5-1" class="reference"><a href="#cite_note-CF_16-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Interviews">Interviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During the <a href="/wiki/Interviews" title="Interviews">interviews</a>, she wore a black leather camo-print jacket and matching pants.<sup id="cite_ref-CF_film_2-3" class="reference"><a href="#cite_note-CF_film-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> She smiled when Katniss revealed the Mockingjay dress, and then later joined hands with her fellow victors in a display of <a href="/wiki/Rebellion" title="Rebellion">rebellion</a> against <a href="/wiki/The_Capitol" title="The Capitol">the Capitol</a>.<sup id="cite_ref-CF_18_6-0" class="reference"><a href="#cite_note-CF_18-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="Bloodbath">Bloodbath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The District 6 female survived the initial <a href="/wiki/Cornucopia_bloodbath" title="Cornucopia bloodbath">Cornucopia bloodbath</a>. At the <a href="/wiki/Cornucopia" title="Cornucopia">Cornucopia</a>, it is most likely that she did not participate and just ran away from the terror. In the film, while Katniss ran on one of the spokes, she looked to her left and saw the morphling running into the jungle along with the <a href="/wiki/District_5_female_(75th_HG)" title="District 5 female (75th HG)">District 5 female</a>.<sup id="cite_ref-CF_film_2-4" class="reference"><a href="#cite_note-CF_film-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> She managed to survive whilst her <a href="/wiki/District_6_male_(75th_HG)" title="District 6 male (75th HG)">district counterpart</a> did not.<sup id="cite_ref-CF_20_7-0" class="reference"><a href="#cite_note-CF_20-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h4><span class="mw-headline" id="The_Games">The Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Although not a lot of information is known about what happened to her before her death, in the film, she did not have a lot of supplies or weapons due to her running away from the Cornucopia.<sup id="cite_ref-CF_film_2-5" class="reference"><a href="#cite_note-CF_film-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> However, because she was camouflaged behind Peeta when he, Katniss, and Finnick were fighting off the <a href="/wiki/Monkey_mutt" title="Monkey mutt">monkey mutts</a>, she presumably remained camouflaged throughout the first night.
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During the mutts' attack, Peeta was distracted by Katniss, and a monkey was about to kill him when the morphling jumped in the way to protect Peeta.<sup id="cite_ref-CF_21_8-0" class="reference"><a href="#cite_note-CF_21-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> After Peeta had fought off the monkey, he took her body to the beach and held her. The morphling took some of her blood and drew a flower on Peeta's cheek, which he commented on, saying that it was lovely. The morphling smiled and soon after, bled to death. Peeta took her corpse to the water and let it drift off until a <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a> came to take it away.<sup id="cite_ref-CF_22_9-0" class="reference"><a href="#cite_note-CF_22-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p><p>In the film, she died a similar way, but Peeta told her to focus on the colors in the sky, giving her a sense of peace as she bled to death in his arms.<sup id="cite_ref-CF_film_2-6" class="reference"><a href="#cite_note-CF_film-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> She placed 14th out of 24th.
+</p><p>Later, when Katniss was on the <a href="/wiki/Hovercraft" title="Hovercraft">hovercraft</a> to <a href="/wiki/District_13" title="District 13">District 13</a> after being broken out of the <a href="/wiki/75th_Hunger_Games_arena" title="75th Hunger Games arena">75th Hunger Games arena</a>, Haymitch revealed that District 6's tributes, among others, had known of the rebellion and were a part of the <a href="/wiki/Alliance" title="Alliance">alliance</a> to save Katniss.<sup id="cite_ref-CF_27_10-0" class="reference"><a href="#cite_note-CF_27-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Due to her morphling addiction, she was bone-thin, with sagging yellowish skin and overlarge eyes.<sup id="cite_ref-CF_15_3-3" class="reference"><a href="#cite_note-CF_15-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> She also had prominent ribs.<sup id="cite_ref-CF_22_9-1" class="reference"><a href="#cite_note-CF_22-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>She was the last District 6 tribute to die in the Hunger Games.</li></ul>
+<h3><span class="mw-headline" id="Victory_Year">Victory Year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As we know she is in her 30s during the time of the 75th Hunger Games, her age is in the range 30-39
+</p>
+<ul><li>The first Hunger Games she could have won was if she was 39 years old at the time of the 75th, and 15 at the time of victory. 75-39+15=51; thus the first Hunger Games she could have won is the 51st Hunger Games</li>
+<li>The latest Hunger Games she could have won was if she was 30 years old at the time of the 75th, and 18 at the time of victory. 75-30+18=63; thus the latest Hunger Games she could have won is the 63rd Hunger Games.
+<ul><li>However we know that the 63rd Hunger Games was won by Gloss, and the 62nd Hunger Games were won by Enobaria. That leaves the 61st Hunger Games as the latest.</li></ul></li></ul>
+<p>Thus, she won one of the Hunger Games between the 51st and the 61st.
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="e11c683087ee777643beb079c3d23b0b" data-seq-no="0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:197px; "><div class="thumb" style="height:197px;"><div class="gallery-image-wrapper accent" id="D4-D5-D6-jpg" style="position: relative; height:146px; width:195px; top:24.5px;"><a class="image lightbox" href="/wiki/File:D4%2BD5%2BD6.jpg" title="D4+D5+D6.jpg (291 KB)" style="height:146px; width:195px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/1/1c/D4%2BD5%2BD6.jpg/revision/latest/scale-to-width-down/195?cb=20250424003934" title="D4+D5+D6.jpg (291 KB)" class="thumbimage" alt="Districts 4, 5 and 6 observe Beetee as he leaves." height="195" width="195" data-image-name="D4+D5+D6.jpg" data-image-key="D4%2BD5%2BD6.jpg" data-relevant="1" data-caption="Districts 4, 5 and 6 observe Beetee as he leaves."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="D4+D5+D6.jpg (291 KB)" class="thumbimage lazyload" alt="Districts 4, 5 and 6 observe Beetee as he leaves." height="195" width="195" data-image-name="D4+D5+D6.jpg" data-image-key="D4%2BD5%2BD6.jpg" data-relevant="1" data-caption="Districts 4, 5 and 6 observe Beetee as he leaves." data-src="https://static.wikia.nocookie.net/thehungergames/images/1/1c/D4%2BD5%2BD6.jpg/revision/latest/scale-to-width-down/195?cb=20250424003934"></a></div></div><div class="lightbox-caption" style="width:195px;">Districts 4, 5 and 6 observe Beetee as he leaves.</div></div><div class="wikia-gallery-item" style="width:197px; "><div class="thumb" style="height:197px;"><div class="gallery-image-wrapper accent" id="Katnissmockingjaydress-jpg" style="position: relative; height:81px; width:195px; top:57px;"><a class="image lightbox" href="/wiki/File:Katnissmockingjaydress.jpg" title="Katnissmockingjaydress.jpg (1,003 KB)" style="height:81px; width:195px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/3/36/Katnissmockingjaydress.jpg/revision/latest/scale-to-width-down/195?cb=20250424004223" title="Katnissmockingjaydress.jpg (1,003 KB)" class="thumbimage" alt="The female morphling smiling at Katniss during the interviews." height="195" width="195" data-image-name="Katnissmockingjaydress.jpg" data-image-key="Katnissmockingjaydress.jpg" data-relevant="1" data-caption="The female morphling smiling at Katniss during the interviews."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Katnissmockingjaydress.jpg (1,003 KB)" class="thumbimage lazyload" alt="The female morphling smiling at Katniss during the interviews." height="195" width="195" data-image-name="Katnissmockingjaydress.jpg" data-image-key="Katnissmockingjaydress.jpg" data-relevant="1" data-caption="The female morphling smiling at Katniss during the interviews." data-src="https://static.wikia.nocookie.net/thehungergames/images/3/36/Katnissmockingjaydress.jpg/revision/latest/scale-to-width-down/195?cb=20250424004223"></a></div></div><div class="lightbox-caption" style="width:195px;">The female morphling smiling at Katniss during the interviews.</div></div><div class="wikia-gallery-item" style="width:197px; "><div class="thumb" style="height:197px;"><div class="gallery-image-wrapper accent" id="DF61-jpg" style="position: relative; height:109px; width:195px; top:43px;"><a class="image lightbox" href="/wiki/File:DF61.jpg" title="DF61.jpg (382 KB)" style="height:109px; width:195px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/b/ba/DF61.jpg/revision/latest/scale-to-width-down/195?cb=20140125161041" title="DF61.jpg (382 KB)" class="thumbimage" alt="District 6 female morphling in camouflage mode hidden behind Peeta." height="195" width="195" data-image-name="DF61.jpg" data-image-key="DF61.jpg" data-relevant="1" data-caption="District 6 female morphling in camouflage mode hidden behind Peeta."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="DF61.jpg (382 KB)" class="thumbimage lazyload" alt="District 6 female morphling in camouflage mode hidden behind Peeta." height="195" width="195" data-image-name="DF61.jpg" data-image-key="DF61.jpg" data-relevant="1" data-caption="District 6 female morphling in camouflage mode hidden behind Peeta." data-src="https://static.wikia.nocookie.net/thehungergames/images/b/ba/DF61.jpg/revision/latest/scale-to-width-down/195?cb=20140125161041"></a></div></div><div class="lightbox-caption" style="width:195px;">District 6 female morphling in camouflage mode hidden behind Peeta.</div></div><div class="wikia-gallery-item" style="width:197px; "><div class="thumb" style="height:197px;"><div class="gallery-image-wrapper accent" id="DF63-jpg" style="position: relative; height:109px; width:195px; top:43px;"><a class="image lightbox" href="/wiki/File:DF63.jpg" title="DF63.jpg (431 KB)" style="height:109px; width:195px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/0/0c/DF63.jpg/revision/latest/scale-to-width-down/195?cb=20140125161317" title="DF63.jpg (431 KB)" class="thumbimage" alt="District 6 female sacrifices her life to protect Peeta." height="195" width="195" data-image-name="DF63.jpg" data-image-key="DF63.jpg" data-relevant="1" data-caption="District 6 female sacrifices her life to protect Peeta."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="DF63.jpg (431 KB)" class="thumbimage lazyload" alt="District 6 female sacrifices her life to protect Peeta." height="195" width="195" data-image-name="DF63.jpg" data-image-key="DF63.jpg" data-relevant="1" data-caption="District 6 female sacrifices her life to protect Peeta." data-src="https://static.wikia.nocookie.net/thehungergames/images/0/0c/DF63.jpg/revision/latest/scale-to-width-down/195?cb=20140125161317"></a></div></div><div class="lightbox-caption" style="width:195px;">District 6 female sacrifices her life to protect Peeta.</div></div><div class="wikia-gallery-item" style="width:197px; "><div class="thumb" style="height:197px;"><div class="gallery-image-wrapper accent" id="DF62-jpg" style="position: relative; height:109px; width:195px; top:43px;"><a class="image lightbox" href="/wiki/File:DF62.jpg" title="DF62.jpg (314 KB)" style="height:109px; width:195px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/a/a7/DF62.jpg/revision/latest/scale-to-width-down/195?cb=20140125161423" title="DF62.jpg (314 KB)" class="thumbimage" alt="District 6 female after having saved the life of Peeta." height="195" width="195" data-image-name="DF62.jpg" data-image-key="DF62.jpg" data-relevant="1" data-caption="District 6 female after having saved the life of Peeta."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="DF62.jpg (314 KB)" class="thumbimage lazyload" alt="District 6 female after having saved the life of Peeta." height="195" width="195" data-image-name="DF62.jpg" data-image-key="DF62.jpg" data-relevant="1" data-caption="District 6 female after having saved the life of Peeta." data-src="https://static.wikia.nocookie.net/thehungergames/images/a/a7/DF62.jpg/revision/latest/scale-to-width-down/195?cb=20140125161423"></a></div></div><div class="lightbox-caption" style="width:195px;">District 6 female after having saved the life of Peeta.</div></div><div class="wikia-gallery-item" style="width:197px; "><div class="thumb" style="height:197px;"><div class="gallery-image-wrapper accent" id="Female_morphling_hologram-jpg" style="position: relative; height:109px; width:195px; top:43px;"><a class="image lightbox" href="/wiki/File:Female_morphling_hologram.jpg" title="Female morphling hologram.jpg (55 KB)" style="height:109px; width:195px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/e/e2/Female_morphling_hologram.jpg/revision/latest/scale-to-width-down/195?cb=20140124060401" title="Female morphling hologram.jpg (55 KB)" class="thumbimage" alt="Female morphling's hologram." height="195" width="195" data-image-name="Female morphling hologram.jpg" data-image-key="Female_morphling_hologram.jpg" data-relevant="1" data-caption="Female morphling's hologram."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Female morphling hologram.jpg (55 KB)" class="thumbimage lazyload" alt="Female morphling's hologram." height="195" width="195" data-image-name="Female morphling hologram.jpg" data-image-key="Female_morphling_hologram.jpg" data-relevant="1" data-caption="Female morphling's hologram." data-src="https://static.wikia.nocookie.net/thehungergames/images/e/e2/Female_morphling_hologram.jpg/revision/latest/scale-to-width-down/195?cb=20140124060401"></a></div></div><div class="lightbox-caption" style="width:195px;">Female morphling's hologram.</div></div><div class="wikia-gallery-item" style="width:197px; "><div class="thumb" style="height:197px;"><div class="gallery-image-wrapper accent" id="Female_morphling_death-jpg" style="position: relative; height:108px; width:195px; top:43.5px;"><a class="image lightbox" href="/wiki/File:Female_morphling_death.jpg" title="Female morphling death.jpg (156 KB)" style="height:108px; width:195px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Female_morphling_death.jpg/revision/latest/scale-to-width-down/195?cb=20140313130908" title="Female morphling death.jpg (156 KB)" class="thumbimage" alt="Female morphling dies in Peeta's arms" height="195" width="195" data-image-name="Female morphling death.jpg" data-image-key="Female_morphling_death.jpg" data-relevant="1" data-caption="Female morphling dies in Peeta's arms"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Female morphling death.jpg (156 KB)" class="thumbimage lazyload" alt="Female morphling dies in Peeta's arms" height="195" width="195" data-image-name="Female morphling death.jpg" data-image-key="Female_morphling_death.jpg" data-relevant="1" data-caption="Female morphling dies in Peeta's arms" data-src="https://static.wikia.nocookie.net/thehungergames/images/f/f7/Female_morphling_death.jpg/revision/latest/scale-to-width-down/195?cb=20140313130908"></a></div></div><div class="lightbox-caption" style="width:195px;">Female morphling dies in Peeta's arms</div></div><div class="wikia-gallery-item" style="width:197px; "><div class="thumb" style="height:197px;"><div class="gallery-image-wrapper accent" id="CFI11-jpeg" style="position: relative; height:195px; width:149px;"><a class="image lightbox" href="/wiki/File:CFI11.jpeg" title="CFI11.jpeg (2.88 MB)" style="height:195px; width:149px;"><noscript><img style="" src="https://static.wikia.nocookie.net/thehungergames/images/3/38/CFI11.jpeg/revision/latest/scale-to-width-down/149?cb=20251118221823" title="CFI11.jpeg (2.88 MB)" class="thumbimage" alt="Katniss and Peeta watch the female morphling die from Catching Fire: Illustrated Edition." height="195" width="195" data-image-name="CFI11.jpeg" data-image-key="CFI11.jpeg" data-relevant="1" data-caption="Katniss and Peeta watch the female morphling die from &lt;i&gt;&lt;/i&gt;."></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="CFI11.jpeg (2.88 MB)" class="thumbimage lazyload" alt="Katniss and Peeta watch the female morphling die from Catching Fire: Illustrated Edition." height="195" width="195" data-image-name="CFI11.jpeg" data-image-key="CFI11.jpeg" data-relevant="1" data-caption="Katniss and Peeta watch the female morphling die from &lt;i&gt;&lt;/i&gt;." data-src="https://static.wikia.nocookie.net/thehungergames/images/3/38/CFI11.jpeg/revision/latest/scale-to-width-down/149?cb=20251118221823"></a></div></div><div class="lightbox-caption" style="width:195px;">Katniss and Peeta watch the female morphling die from <i><a href="/wiki/Catching_Fire:_Illustrated_Edition" title="Catching Fire: Illustrated Edition">Catching Fire: Illustrated Edition</a></i>.</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Sign in to edit" class="mw-editsection-visualeditor" data-tracking-label="log-in-edit-section" data-action="edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthehungergames.fandom.com%2Fwiki%2FDistrict_6_female_%2875th_HG%29%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" data-testid="log-in-edit-section"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-exhibition_FM-1"><span class="mw-cite-backlink"><a href="#cite_ref-exhibition_FM_1-0">↑</a></span> <span class="reference-text"><i>The Hunger Games: The Exhibition</i> - <a href="/wiki/File:FM_citizen_profile.jpg" title="File:FM citizen profile.jpg">see image</a></span>
+</li>
+<li id="cite_note-CF_film-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_film_2-0">2.0</a></sup> <sup><a href="#cite_ref-CF_film_2-1">2.1</a></sup> <sup><a href="#cite_ref-CF_film_2-2">2.2</a></sup> <sup><a href="#cite_ref-CF_film_2-3">2.3</a></sup> <sup><a href="#cite_ref-CF_film_2-4">2.4</a></sup> <sup><a href="#cite_ref-CF_film_2-5">2.5</a></sup> <sup><a href="#cite_ref-CF_film_2-6">2.6</a></sup></span> <span class="reference-text"><i><a href="/wiki/The_Hunger_Games:_Catching_Fire" title="The Hunger Games: Catching Fire">The Hunger Games: Catching Fire</a></i></span>
+</li>
+<li id="cite_note-CF_15-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_15_3-0">3.0</a></sup> <sup><a href="#cite_ref-CF_15_3-1">3.1</a></sup> <sup><a href="#cite_ref-CF_15_3-2">3.2</a></sup> <sup><a href="#cite_ref-CF_15_3-3">3.3</a></sup></span> <span class="reference-text"><i><a href="/wiki/Catching_Fire" title="Catching Fire">Catching Fire</a></i>, Chapter 15</span>
+</li>
+<li id="cite_note-Next_Projection_Interview-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Next_Projection_Interview_4-0">4.0</a></sup> <sup><a href="#cite_ref-Next_Projection_Interview_4-1">4.1</a></sup> <sup><a href="#cite_ref-Next_Projection_Interview_4-2">4.2</a></sup></span> <span class="reference-text"><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://nextprojection.com/2013/11/14/interview-megan-hayes-hunger-game-catching-fire/">https://nextprojection.com/2013/11/14/interview-megan-hayes-hunger-game-catching-fire/</a></span>
+</li>
+<li id="cite_note-CF_16-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_16_5-0">5.0</a></sup> <sup><a href="#cite_ref-CF_16_5-1">5.1</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 16</span>
+</li>
+<li id="cite_note-CF_18-6"><span class="mw-cite-backlink"><a href="#cite_ref-CF_18_6-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 18</span>
+</li>
+<li id="cite_note-CF_20-7"><span class="mw-cite-backlink"><a href="#cite_ref-CF_20_7-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 20</span>
+</li>
+<li id="cite_note-CF_21-8"><span class="mw-cite-backlink"><a href="#cite_ref-CF_21_8-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 21</span>
+</li>
+<li id="cite_note-CF_22-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CF_22_9-0">9.0</a></sup> <sup><a href="#cite_ref-CF_22_9-1">9.1</a></sup></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 22</span>
+</li>
+<li id="cite_note-CF_27-10"><span class="mw-cite-backlink"><a href="#cite_ref-CF_27_10-0">↑</a></span> <span class="reference-text"><i>Catching Fire</i>, Chapter 27</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20251223001842
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.079 seconds
+Real time usage: 0.119 seconds
+Preprocessor visited node count: 423/1000000
+Post‐expand include size: 453/2097152 bytes
+Template argument size: 181/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 19521/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   80.184      1 -total
+ 39.73%   31.859      1 Template:Character
+ 20.55%   16.475      1 Template:Reflist
+  1.65%    1.326      1 Template:Quote
+-->
+
+<!-- Saved in parser cache with key 1.43.1_prod_thehungergames:pcache:idhash:60108-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20251223001842 and revision id 967370. Rendering was triggered because: page-view
+ -->
+</div>
