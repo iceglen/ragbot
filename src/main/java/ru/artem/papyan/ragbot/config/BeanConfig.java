@@ -5,6 +5,7 @@ import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import okhttp3.OkHttpClient;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.model.ChatModel;
+import org.springframework.ai.transformer.splitter.TokenTextSplitter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -37,6 +38,14 @@ public class BeanConfig {
     @Bean
     public ChatClient chatClient(ChatModel chatModel) {
         return ChatClient.builder(chatModel)
+                .build();
+    }
+
+    @Bean
+    public TokenTextSplitter tokenTextSplitter() {
+        return TokenTextSplitter.builder()
+                .withMinChunkSizeChars(10)
+                .withKeepSeparator(true)
                 .build();
     }
 }

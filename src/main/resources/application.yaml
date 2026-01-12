@@ -1,7 +1,18 @@
 spring:
   application:
     name: ragbot
+  datasource:
+    url: ${RAG_PGVECTOR_JDBC_URL:jdbc:postgresql://localhost:5432/ragdb}
+    username: ${RAG_PGVECTOR_USER:user01}
+    password: ${RAG_PGVECTOR_PASSWORD:12345678}
   ai:
+    vectorstore:
+      pgvector:
+        index-type: HNSW
+        distance-type: COSINE_DISTANCE
+        dimensions: 1536
+        schema-validation: true
+        max-document-batch-size: 10000
     openai:
       api-key: ${RAG_OPENAI_API_KEY:ollama}
       base-url: ${RAG_OPENAI_BASE_URL:http://localhost:11434/}
@@ -12,6 +23,7 @@ spring:
       embedding:
         options:
           model: ${RAG_EMBEDDING_MODEL:qwen3-embedding:latest}
+          dimensions: 1536
 config:
   fandom-id: ${RAG_FANDOM_ID:thehungergames}
   exclusions: ${RAG_EXCLUSIONS:gallery,novel,film,quotes,book,reviews,soundtrack,wiki,audiobook,faq,sandbox,trilogy}
