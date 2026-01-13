@@ -1,0 +1,15 @@
+services:
+  db:
+    image: pgvector/pgvector:pg17
+    container_name: pgvector-db
+    environment:
+      POSTGRES_USER: user01
+      POSTGRES_PASSWORD: 12345678
+      POSTGRES_DB: ragdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init/pgvector-init.sql:/docker-entrypoint-initdb.d/pgvector-init.sql:ro
+volumes:
+  pgdata:

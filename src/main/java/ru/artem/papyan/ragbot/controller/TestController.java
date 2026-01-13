@@ -1,13 +1,14 @@
 package ru.artem.papyan.ragbot.controller;
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.*;
 import ru.artem.papyan.ragbot.domain.FandomPageParseResponse;
+import ru.artem.papyan.ragbot.domain.UserSearchRequest;
 import ru.artem.papyan.ragbot.domain.util.Pair;
 import ru.artem.papyan.ragbot.preprocessing.*;
+import ru.artem.papyan.ragbot.processing.DocumentProcessingService;
+import ru.artem.papyan.ragbot.processing.RequestProcessor;
 import ru.artem.papyan.ragbot.scraping.FandomScrapingService;
 
 import java.io.IOException;
@@ -26,6 +27,8 @@ public class TestController {
     private final CleanDataFictionalFilterer fictionalFilterer;
     private final FilteredDataMasker filteredDataMasker;
     private final CleanDataReplacer cleanDataReplacer;
+    private final DocumentProcessingService processingService;
+    private final RequestProcessor requestProcessor;
 
     @GetMapping("/fetch")
     public Map<String, Object> fetchPagesId() {
@@ -87,5 +90,21 @@ public class TestController {
         long result = cleanDataReplacer.transform();
 
         return Map.of("replaced", result);
+    }
+
+    @ResponseStatus(HttpStatus.OK)
+    @GetMapping("/process-documents")
+    public void processDocuments() {
+        processingService.processDocuments();
+    }
+
+    @PostMapping("/process-query")
+    public Map<String, String> processRequest(@RequestBody UserSearchRequest request) {
+        if (request == null || request.query() == null || request.query().isEmpty()) {
+            throw new IllegalArgumentException("Invalid query");
+        }
+
+        var response = requestProcessor.processRequest(request);
+        return Map.of("response", response);
     }
 }
