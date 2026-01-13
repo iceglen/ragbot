@@ -1,0 +1,7 @@
+A locator is a small piece of technology used by the Gamemakers to locate each tribute inside the Hunger Games arena.
+
+Trackers were introduced in later iterations of the Games to locate tributes and keep track of who was still alive. They are inserted into the inner arm of all tributes during their transport to the arena. A syringe gun injects the small metal locator deep under the skin. The injection is described as painful. There is no indication that the locator itself caused tributes any pain or discomfort once the pain of the initial injection faded.
+
+Trackers are reusable and are collected from the tributes, dead or alive, after the Games. A victor's locator is presumably removed after extraction from the arena, as a new one is injected for a subsequent Games.
+
+A locator can be cut out, which leaves a significant wound and results in a scar. Removing a locator prevents the individual from being traced.
