@@ -17,7 +17,10 @@ public class RequestProcessor {
     private final VectorStore vectorStore;
 
     private static final String SYSTEM_PROMPT = """
-            You're an assistant who thinks first and then answers. Always write down your steps.
+            You're an assistant who thinks first and then answers.
+            You provide full answer if you can fulfill user's request.
+            You should look only for exact user's match.
+            Otherwise you should say that you don't know the answer.
             """;
 
     public String processRequest(UserSearchRequest request) {

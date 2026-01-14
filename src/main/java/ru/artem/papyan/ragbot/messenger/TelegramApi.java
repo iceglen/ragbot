@@ -41,7 +41,7 @@ public final class TelegramApi {
     private final int updateLimit;
     private final int updateTimeout;
 
-    private Updates getUpdates(long offset) {
+    public Updates getUpdates(long offset) {
         var urlBuilder = new StringBuilder(baseUrl);
 
         urlBuilder.append("/getUpdates?");
@@ -68,7 +68,7 @@ public final class TelegramApi {
         }
     }
 
-    public void sendMessage(long userId, long chatId, String message) {
+    public void sendMessage(long chatId, String message) {
         String quotedMessage = message
                 .replace("&", "&amp;")
                 .replace("<", "&lt;")

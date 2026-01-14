@@ -42,4 +42,13 @@ public class EnvConfig {
 
     @Value("${config.replaced-data-dir}")
     private String replacedDataDir;
+
+    @Value("${config.telegram-access-token}")
+    private String telegramAccessToken;
+
+    @Value("${config.updates.limit}")
+    private int updatesLimit;
+
+    @Value("${config.updates.timeout}")
+    private int updatesTimeout;
 }

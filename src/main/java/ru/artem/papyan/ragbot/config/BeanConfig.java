@@ -6,14 +6,24 @@ import okhttp3.OkHttpClient;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.transformer.splitter.TokenTextSplitter;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler;
+import ru.artem.papyan.ragbot.messenger.TelegramApi;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 @Configuration
 public class BeanConfig {
+
+    private final EnvConfig envConfig;
+
+    @Autowired
+    public BeanConfig(EnvConfig envConfig) {
+        this.envConfig = envConfig;
+    }
 
     @Bean
     public ExecutorService executorService() {
@@ -47,5 +57,21 @@ public class BeanConfig {
                 .withMinChunkSizeChars(10)
                 .withKeepSeparator(true)
                 .build();
+    }
+
+    @Bean(name = "messengerTaskScheduler")
+    public ThreadPoolTaskScheduler messengerTaskScheduler() {
+        var scheduler = new ThreadPoolTaskScheduler();
+        scheduler.setThreadNamePrefix("messenger-");
+        return scheduler;
+    }
+
+    @Bean
+    public TelegramApi telegramApi() {
+        return TelegramApi.getInstance(
+                envConfig.getTelegramAccessToken(),
+                envConfig.getUpdatesLimit(),
+                envConfig.getUpdatesTimeout()
+        );
     }
 }
