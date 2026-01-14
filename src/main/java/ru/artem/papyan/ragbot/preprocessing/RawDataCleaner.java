@@ -6,6 +6,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.springframework.stereotype.Service;
 import ru.artem.papyan.ragbot.config.EnvConfig;
+import ru.artem.papyan.ragbot.util.DirectoryComparator;
 import ru.artem.papyan.ragbot.util.FileSystemUtils;
 
 import java.io.IOException;
@@ -23,6 +24,7 @@ public class RawDataCleaner {
     public long processRawDataFiles() throws IOException {
         Path rawDir = Path.of(envConfig.getRawDataDir());
         Path cleanDir = Path.of(envConfig.getCleanDataDir());
+        Path tmpDir = Path.of(envConfig.getCleanTmpDir());
         List<String> contentExclusions = envConfig.getContentExclusions();
 
         if (contentExclusions == null || contentExclusions.isEmpty()) {
@@ -37,9 +39,10 @@ public class RawDataCleaner {
 
         // Create clean directory if it doesn't exist
         Files.createDirectories(cleanDir);
+        Files.createDirectories(tmpDir);
 
         // Clean directory contents
-        FileSystemUtils.cleanDirectoryContents(cleanDir);
+        FileSystemUtils.cleanDirectoryContents(tmpDir);
 
         long processedCount = 0;
         try (var stream = Files.list(rawDir)) {
@@ -61,7 +64,7 @@ public class RawDataCleaner {
                     }
 
                     if (!isSkippingFile) {
-                        Path outputFile = cleanDir.resolve(rawFile.getFileName());
+                        Path outputFile = tmpDir.resolve(rawFile.getFileName());
                         Files.writeString(outputFile, cleanedText);
                         log.debug("Processed file: {} -> {}", rawFile.getFileName(), outputFile);
                         processedCount++;
@@ -71,7 +74,29 @@ public class RawDataCleaner {
                 }
             }
         }
+
+        if (isUpdateNeeded(cleanDir, tmpDir)) {
+            FileSystemUtils.cleanDirectoryContents(cleanDir);
+            FileSystemUtils.copyDirectoryContents(tmpDir, cleanDir);
+
+            FileSystemUtils.cleanDirectoryContents(tmpDir);
+            Files.delete(tmpDir);
+        } else {
+            FileSystemUtils.cleanDirectoryContents(tmpDir);
+            Files.delete(tmpDir);
+
+            return 0;
+        }
+
         log.info("Processed {} files out of total found", processedCount);
         return processedCount;
+    }
+
+    private boolean isUpdateNeeded(Path cleanDir, Path tmpDir) throws IOException {
+        if (FileSystemUtils.isEmpty(cleanDir)) {
+            return true;
+        }
+
+        return DirectoryComparator.needsUpdate(cleanDir, tmpDir);
     }
 }

@@ -25,10 +25,12 @@ spring:
           model: ${RAG_EMBEDDING_MODEL:qwen3-embedding:latest}
           dimensions: 1536
 config:
+  data-cron: ${RAG_DATA_CRON:0 0 0 15,28 * ?}
   fandom-id: ${RAG_FANDOM_ID:thehungergames}
   exclusions: ${RAG_EXCLUSIONS:gallery,novel,film,quotes,book,reviews,soundtrack,wiki,audiobook,faq,sandbox,trilogy}
   content-exclusions: ${RAG_CONTENT_EXCLUSIONS:redirect to}
   raw-data-dir: ${RAG_RAW_DATA_DIR:./data/raw}
+  clean-tmp-dir: ${RAG_CLEAN_TMP_DIR:./data/clean-tmp}
   clean-data-dir: ${RAG_CLEAN_DATA_DIR:./data/clean}
   dereferenced-data-dir: ${RAG_DEREFERENCED_DATA_DIR:./data/dereferenced}
   filtered-data-dir: ${RAG_FILTERED_DATA_DIR:./data/filtered}

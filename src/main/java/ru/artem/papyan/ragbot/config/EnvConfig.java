@@ -25,6 +25,9 @@ public class EnvConfig {
     @Value("${config.clean-data-dir}")
     private String cleanDataDir;
 
+    @Value("${config.clean-tmp-dir}")
+    private String cleanTmpDir;
+
     @Value("${config.dereferenced-data-dir}")
     private String dereferencedDataDir;
 
