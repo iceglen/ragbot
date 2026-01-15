@@ -11,5 +11,22 @@ services:
     volumes:
       - pgdata:/var/lib/postgresql/data
       - ./init/pgvector-init.sql:/docker-entrypoint-initdb.d/pgvector-init.sql:ro
+  rag-telegram:
+    container_name: rag-bot-tg
+    image: rag-bot-tg:latest
+    build: .
+    restart: on-failure
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      - TELEGRAM_ACCESS_TOKEN=${TELEGRAM_ACCESS_TOKEN}
+      - RAG_PGVECTOR_USER=user01
+      - RAG_PGVECTOR_PASSWORD=12345678
+      - RAG_PGVECTOR_JDBC_URL=jdbc:postgresql://pgvector-db:5432/ragdb
+      - RAG_OPENAI_BASE_URL=http://host.docker.internal:11434/
+      - RAG_OPENAI_API_KEY=${OPENAI_API_KEY}
+      - RAG_CHAT_MODEL=qwen3:1.7b
 volumes:
   pgdata:

@@ -18,9 +18,9 @@ spring:
       base-url: ${RAG_OPENAI_BASE_URL:http://localhost:11434/}
       chat:
         options:
-          model: ${RAG_CHAT_MODEL:gpt-oss:20b}
-          reasoning-effort: high
-#          model: ${RAG_CHAT_MODEL:qwen3:1.7b}
+#          model: ${RAG_CHAT_MODEL:gpt-oss:20b}
+#          reasoning-effort: high
+          model: ${RAG_CHAT_MODEL:qwen3:1.7b}
       embedding:
         options:
           model: ${RAG_EMBEDDING_MODEL:qwen3-embedding:latest}
@@ -29,7 +29,7 @@ config:
   updates:
     limit: 5
     timeout: 5
-  telegram-access-token: ${TELEGRAM_ACCESS_TOKEN}
+  telegram-access-token: ${TELEGRAM_ACCESS_TOKEN:dummy_token}
   data-cron: ${RAG_DATA_CRON:0 0 0 15,28 * ?}
   fandom-id: ${RAG_FANDOM_ID:thehungergames}
   exclusions: ${RAG_EXCLUSIONS:gallery,novel,film,quotes,book,reviews,soundtrack,wiki,audiobook,faq,sandbox,trilogy}
