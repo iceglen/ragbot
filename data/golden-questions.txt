@@ -1,0 +1,15 @@
+Вопросы, на которые RAG даст ответ:
+
+- Who is Daniel Thompson?
+- Who is Zoe?
+- Who is Sly Vixen?
+- Who is Luna?
+- Who or what is Morphling?
+- Who is Étienne Lefèvre?
+
+Вопросы, на которые RAG не даст ответ:
+
+- Who is Ripper?
+- Who is Joseph Zada?
+- Who is Vaughan Reilly?
+- What is Mockingjay Deal?

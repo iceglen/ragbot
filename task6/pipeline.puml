@@ -1,0 +1,5 @@
+@startuml
+FandomAPI -> RAGpipeline : fetching data
+RAGpipeline -> LLM : preprocessing data
+LLM -> VectorStore : embedding storage
+@enduml

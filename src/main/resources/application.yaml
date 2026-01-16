@@ -18,9 +18,8 @@ spring:
       base-url: ${RAG_OPENAI_BASE_URL:http://localhost:11434/}
       chat:
         options:
-#          model: ${RAG_CHAT_MODEL:gpt-oss:20b}
-#          reasoning-effort: high
-          model: ${RAG_CHAT_MODEL:qwen3:1.7b}
+          model: ${RAG_CHAT_MODEL:gpt-oss:20b}
+          reasoning-effort: high
       embedding:
         options:
           model: ${RAG_EMBEDDING_MODEL:qwen3-embedding:latest}

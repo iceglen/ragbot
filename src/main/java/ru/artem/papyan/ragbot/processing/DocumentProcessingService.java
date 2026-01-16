@@ -41,24 +41,34 @@ public class DocumentProcessingService {
 
         for (String path : paths) {
             log.info("Processing document file: {}", path);
-
-            List<Document> documents;
             try {
-                documents = this.readFile(path);
+                processSingleFile(path);
             } catch (MalformedURLException e) {
                 log.warn("error while reading file {}: {}", path, e.getMessage());
-                continue;
             }
+        }
+    }
 
-            List<Document> chunks = splitter.split(documents);
+    private void processSingleFile(String filePath) throws MalformedURLException {
+        List<Document> documents = this.readFile(filePath);
+        List<Document> chunks = splitter.split(documents);
+        this.composeFileMetadata(filePath, chunks);
+        log.info("Saving document to vector store");
+        vectorStore.add(chunks);
+        log.info("File saved to vector store");
+    }
 
-            this.composeFileMetadata(path, chunks);
+    public void processDocument(String filePath) {
+        Path path = Path.of(filePath);
+        if (!Files.exists(path) || !Files.isReadable(path)) {
+            throw new IllegalArgumentException("File does not exist or is not readable: " + filePath);
+        }
 
-            log.info("Saving document to vector store");
-
-            vectorStore.add(chunks);
-
-            log.info("File saved to vector store");
+        log.info("Starting single file processing: {}", filePath);
+        try {
+            processSingleFile(filePath);
+        } catch (MalformedURLException e) {
+            throw new IllegalArgumentException("Invalid file path: " + filePath, e);
         }
     }
 

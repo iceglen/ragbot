@@ -27,6 +27,7 @@ services:
       - RAG_PGVECTOR_JDBC_URL=jdbc:postgresql://pgvector-db:5432/ragdb
       - RAG_OPENAI_BASE_URL=http://host.docker.internal:11434/
       - RAG_OPENAI_API_KEY=${OPENAI_API_KEY}
-      - RAG_CHAT_MODEL=qwen3:1.7b
+      - RAG_CHAT_MODEL=gpt-oss:20b
+      - RAG_EMBEDDING_MODEL=qwen3-embedding:latest
 volumes:
   pgdata:

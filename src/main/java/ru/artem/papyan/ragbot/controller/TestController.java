@@ -1,8 +1,10 @@
 package ru.artem.papyan.ragbot.controller;
 
 import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.server.ResponseStatusException;
 import ru.artem.papyan.ragbot.domain.FandomPageParseResponse;
 import ru.artem.papyan.ragbot.domain.UserSearchRequest;
 import ru.artem.papyan.ragbot.domain.util.Pair;
@@ -15,6 +17,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
+@Slf4j
 @RestController
 @RequestMapping("/test")
 @RequiredArgsConstructor
@@ -96,6 +99,22 @@ public class TestController {
     @GetMapping("/process-documents")
     public void processDocuments() {
         processingService.processDocuments();
+    }
+
+    @ResponseStatus(HttpStatus.OK)
+    @GetMapping("/process-document")
+    public void processDocument(@RequestParam("filePath") String filePath) {
+        log.info("Processing single document: {}", filePath);
+
+        try {
+            processingService.processDocument(filePath);
+        } catch (IllegalArgumentException e) {
+            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, e.getMessage(), e);
+        } catch (Exception e) {
+            log.error("Error processing document: {}", filePath, e);
+            throw new ResponseStatusException(HttpStatus.INTERNAL_SERVER_ERROR,
+                    "Failed to process document", e);
+        }
     }
 
     @PostMapping("/process-query")
